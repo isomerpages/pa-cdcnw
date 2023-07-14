@@ -6,38 +6,38 @@ third_nav_title: Uplifting The Community
 ---
 ![](/images/Programmes/Uplifting%20The%20Community/82336782_2967592686598499_8963898592758595584_n.jpg)
 
-**SkillsFuture Advice @ North West** was launched to help the residents to identify their skills and strengths, equip them with the right knowledge in career planning, and to encourage lifelong learning. This is part of the SkillsFuture initiative in collaboration with SkillsFuture Singapore (SSG), the Employment and Employability Institute (e2i) and the five Community Development Councils (CDC).
+Welcome to SkillsFuture Advice @ North West, where your journey to lifelong learning begins. In collaboration with SkillsFuture Singapore (SSG) and North West Community Development Councils (CDC), we want to empower residents to unlock their potential through career planning and skills identification.
 
-***For Skills Upgrading***        
+**Skills Upgrading**
 
-Join our webinars/ workshops to learn more about the importance of lifelong learning, emerging skill sets and SkillsFuture resources to better prepare for the future of work. Guest speakers are also invited periodically to share on various in-demand skills.
+Dedicated to fostering a culture of lifelong learning, we provide resources on emerging skill sets and organise learning journey events, webinars, and workshops.
 
-[View](https://go.gov.sg/sfanorthwest) and register for the latest complimentary webinars.
+Stay one step ahead of the future economy! Check out the [Skills Demand for the Future Economy](https://www.skillsfuture.gov.sg/skillsreport) report to equip yourself with the knowledge to thrive in the evolving world of work.  
 
-***For Job Seekers*** 
- 
-Check out the&nbsp;[My CareersFuture Portal](https://www.mycareersfuture.gov.sg/)&nbsp;to find relevant jobs based on your skills and competencies.
+Join us in making lifelong learning our way of life! [Subscribe](https://go.gov.sg/connectsfa) to our electronic mailers to receive updates on the latest upskilling resources.
 
-The portal was developed by Workforce Singapore, in partnership with Government Technology Agency. The portal enables jobseekers to be more aware of the skills they possess and connects them to relevant jobs based on their current skills and competencies.
+**Job Seekers**
 
-It also highlights jobs which are eligible for Government support through WSG’s Adapt and Grow Initiative. Jobseekers can also find career-related content on MyCareersFuture through the Career Toolkit, including career insights and career guidance to help facilitate their career planning process.
+Your next career move is just a few clicks away. Check out the [My CareersFuture Portal](https://www.mycareersfuture.gov.sg/), specifically designed to connect you to relevant job opportunities based on your unique skills and competencies.
 
-***For physical job recruitment events in North West district, check out the upcoming events below:***
+This is a platform developed in partnership with Workforce Singapore (WSG) and the Government Technology Agency.
 
-1)&nbsp;&nbsp;&nbsp; 28 April 2023, Nee Soon Central Community Club
+The portal also highlights job positions eligible for Government support via WSG's Adapt and Grow Initiative. Access our Career Toolkit for career-related contents such as insights and guidance, supporting you every step of the way in your career planning process.
 
-2)&nbsp;&nbsp;&nbsp; 26 May 2023, Kampung Admiralty Community Plaza
+**Upcoming Job Recruitment Events**
 
-3)&nbsp;&nbsp;&nbsp; 30 June 2023, Bukit Timah Community Club
+For job seekers who prefer face-to-face interactions, we regularly host physical recruitment events throughout the North West district. Be sure to mark your calendar for the following dates:
 
-4)&nbsp;&nbsp;&nbsp; 25 August 2023, Kampung Admiralty Community Plaza
+1)    28 July 2023, Bukit Timah Community Club
 
-5)&nbsp;&nbsp;&nbsp; 29 September 2023, Marsiling
+2)    25 August 2023, Kampung Admiralty Community Plaza
 
-6)&nbsp;&nbsp;&nbsp; 27 October 2023, Bukit Panjang Community Club
+3)    27 September 2023, Marsiling
 
-7)&nbsp;&nbsp;&nbsp; 24 Nov 2023, Kampung Admiralty Community Plaza
+4)    27 October 2023, Bukit Panjang Community Club
 
-8)&nbsp;&nbsp;&nbsp; 1 Dec 2023, Nee Soon East Community Club
+5)    24 Nov 2023, Kampung Admiralty Community Plaza
 
-For more information and register for the respective events, please visit this [link](https://e2i.com.sg/events/). Please note that the above dates and venues are subject to changes and registration will only open nearer to the event date.
+6)    1 Dec 2023, Nee Soon GRC
+
+For more information and to register for the respective events, please visit this [link](https://content.mycareersfuture.gov.sg/career-events/). Please note that the above dates and venues are subject to changes and registration will only open nearer to the event date.
