@@ -8,7 +8,7 @@ third_nav_title: Advocating Green Living
 
 **Green Homes @ North West** encourages households in the North West District to adopt eco-friendly practices and make use of energy and water efficient appliances to attain Green Living at home. 
 
-Residents living in HDB units above 4-room or private properties may apply through this [link](https://go.gov.sg/greenhomes-nw) with the necessary documents.
+Residents living in HDB units above 4-room or private properties may apply through this [link](https://go.gov.sg/greenhomesnw) with the necessary documents.
 
 To qualify as a Green Home, the following criteria must be fulfilled:
 ![](/images/Programmes/Green%20Living/green%20homes%20@%20north%20west.png)
