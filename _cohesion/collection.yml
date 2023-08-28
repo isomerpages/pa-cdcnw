@@ -2,6 +2,7 @@ collections:
   cohesion:
     output: true
     order:
+      - September 2023/North West Health Qigong.md
       - September 2023/North West WeCare Fund.md
       - September 2023/.keep
       - July 2023/.keep
