@@ -51,7 +51,7 @@ Ever wonder what CDC does, and how different are we from Town Councils and CCs? 
 </p>
 
 <p style="font-size: 16px; line-height: 26px; margin: 0px auto; text-align: center;">
-  <a href="https://northwest.cdc.gov.sg/cohesion/March-2023/cdcs-decoded/">
+  <a href="https://northwest.cdc.gov.sg/cohesion/march-2023/cdcs-decoded/">
     <img src="/images/Cohesion/March%202023/NWC303-eDM_05.jpg" style="max-width: 100%; max-height: 73px;">
   </a>
 </p>
