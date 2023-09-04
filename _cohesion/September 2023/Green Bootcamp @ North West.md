@@ -419,9 +419,9 @@ object-fit: cover;
 </div>
 
 <div style="padding: 0px 0px 0px;">
-<p style="font-size: 16px; line-height: 26px; margin: 15px 0px;">Part of our efforts in encouraging residents to go green, the Green Bootcamp @ North West hopes to inspire youths to think out of the box and become eco-innovators to support green living.</p>
+<p style="font-size: 16px; line-height: 26px; margin: 15px 0px;">Part of our efforts in encouraging residents to go green, the Green Bootcamp @ North West was launched to inspire youths to think out of the box and become eco-innovators to support green living.</p>
 
-<p style="font-size: 16px; line-height: 26px; margin: 15px 0px;">The secondary school edition of the bootcamp was held over 3 days in July. Four teams engaged in a series of workshops and activities to better understand today’s environmental issues, inspiring them to ideate solutions to solve these problems. They wrapped up the bootcamp with a pitch presentation to showcase their solutions and a chance to win cash prizes! </p>
+<p style="font-size: 16px; line-height: 26px; margin: 15px 0px;">The secondary school edition of the bootcamp was held over 3 days in July. Four teams were engaged in a series of workshops and activities to better understand today’s environmental issues, inspiring them to ideate solutions to solve these problems. They wrapped up the bootcamp with a pitch presentation to showcase their solutions! </p>
 </div>
 
 <div style="max-width: 100%; padding: 30px 0px 20px;" class="rounded20">
