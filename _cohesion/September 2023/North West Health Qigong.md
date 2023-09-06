@@ -4,7 +4,6 @@ permalink: /cohesion/september-2023/nw-healthqigong/
 description: ""
 third_nav_title: September 2023
 ---
-
 <style>
 
 p {
@@ -462,7 +461,7 @@ object-fit: cover;
 <div class="rounded25" style="padding: 30px 35px; background: #FFFAED;">
 
   <div class="w-100" style="padding: 5px 0px; display: inherit; margin: auto;">
-  <img src="/images/Cohesion/Sep%202023/aisah%20q.png" style="max-width: 100%; padding: 10px 0px 15px; width: 100%;">
+  <img src="/images/Cohesion/Sep%202023/aisah20.png" style="max-width: 100%; padding: 10px 0px 15px; width: 100%;">
   <img src="/images/Cohesion/Sep%202023/kopi2%20pic.png" style="max-width: 100px; float: left; padding: 10px 10px 5px 0px; width: 100%;">
   <img src="/images/Cohesion/Sep%202023/aisah1.png" style="max-width: 200px; float: right; padding: 5px 0px 5px 20px; width: 100%;">
   <p style="font-size: 16px; line-height: 26px; padding-top: 10px; margin: 0px 0px;"><span style="font-weight: bold; color: #B25694;">Jenis kopi yang saya paling suka ialah … </span>  Old Town Hazelnut Flavoured White Coffee!</p>
@@ -485,6 +484,8 @@ object-fit: cover;
 </div>
 
 </div>
+	
+Read Aisah's kopi talk in English [here.](/files/Cohesion/north%20west%20health%20qigong%20club_english.pdf)
 
 
 <!--CTA-->
