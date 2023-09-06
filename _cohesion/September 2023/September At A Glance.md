@@ -467,7 +467,7 @@ object-fit: cover;
       <strong style="color: #CE8EBE;">Mindful Moving with 
 Qigong  </strong>
     </h2>
-    <p style="font-size: 16px; line-height: 26px;">Qigong is a low impact exercise that’s great for both your mind and body and mind. In this #kopitalk session, we speak to North West Health Qigong Club member, Ruziah and instructor, Aisah on how their regular Qigong practice has not only improved their health and well-being, but also build friendships that&nbsp;last!</p>
+    <p style="font-size: 16px; line-height: 26px;">Qigong is a low impact exercise that’s great for both your mind and body and mind. In this #kopitalk session, we speak to North West Health Qigong Club member, Ruziah and instructor, Aisah on how their regular Qigong practice has not only improved their health and well-being, but also built lasting friendships!</p>
     <div style="max-width: 100%; text-align: center; padding: 30px 15px 15px;"><a style="background: #CE8EBE; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-weight: bold;" href="https://northwest.cdc.gov.sg/cohesion/september-2023/nw-healthqigong/"><strong style="font-weight: bold;
     color: #FFFFFF;
     font-style: italic;">Read On</strong></a></div>
@@ -670,5 +670,3 @@ Report&nbsp;2022</strong></h2>
 </div>
 
 </div>
-
-
