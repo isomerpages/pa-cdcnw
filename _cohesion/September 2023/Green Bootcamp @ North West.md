@@ -419,9 +419,9 @@ object-fit: cover;
 </div>
 
 <div style="padding: 0px 0px 0px;">
-<p style="font-size: 16px; line-height: 26px; margin: 15px 0px;">Part of our efforts in encouraging residents to go green, the Green Bootcamp @ North West was launched to inspire youths to think out of the box and become eco-innovators to support green living.</p>
+<p style="font-size: 16px; line-height: 26px; margin: 15px 0px;">Part of our efforts in encouraging residents to go green, the Green Bootcamp @ North West hopes to inspire youths to think out of the box and become eco-innovators to support green living.</p>
 
-<p style="font-size: 16px; line-height: 26px; margin: 15px 0px;">The secondary school edition of the bootcamp was held over 3 days in July. Four teams were engaged in a series of workshops and activities to better understand today’s environmental issues, inspiring them to ideate solutions to solve these problems. They wrapped up the bootcamp with a pitch presentation to showcase their solutions! </p>
+<p style="font-size: 16px; line-height: 26px; margin: 15px 0px;">The secondary school edition of the bootcamp was held over 3 days in July. Four teams engaged in a series of workshops and activities to better understand today’s environmental issues, inspiring them to ideate solutions to solve these problems. They wrapped up the bootcamp with a pitch presentation to showcase their solutions and a chance to win cash prizes! </p>
 </div>
 
 <div style="max-width: 100%; padding: 30px 0px 20px;" class="rounded20">
@@ -465,12 +465,12 @@ border-bottom-left-radius: 20px;" class="w-100">
 
       <p style="font-size: 16px; line-height: 26px; margin: 15px 0px;">During the tour of the Tzu Chi Foundation, we had a glimpse of its efforts to raise awareness on environmental protection.</p> 
 
-<p style="font-size: 16px; line-height: 26px; margin: 15px 0px;">A memorable moment that stood out for me on during the tour was the presence of the climate clock because it was a visual reminder that we are racing against time to tackle 
+<p style="font-size: 16px; line-height: 26px; margin: 15px 0px;">A memorable moment that stood out for me during the tour was the presence of the climate clock because it was a visual reminder that we are racing against time to tackle 
 global warming.</p> 
 
 <p style="font-size: 16px; line-height: 26px; margin: 15px 0px;">When I saw the time left on the clock (6 years and 16 days), I felt really sad because it meant that once the climate clock counts down to zero, the Earth's carbon budget would be used up. As humans, we have very little time left to take decisive action to keep global warming under the 1.5°C threshold. </p>
 
-<p style="font-size: 16px; line-height: 26px; margin: 15px 0px;">In 6 years, many people would still be children, teens and young adults and to live in a world in constant threat of climate change is not a pleasant thought. It made me feel very strongly about how each of us can do our part to extend the date in which Earth would run of the carbon budget. 
+<p style="font-size: 16px; line-height: 26px; margin: 15px 0px;">In 6 years, many people would still be children, teens and young adults and to live in a world in constant threat of climate change is not a pleasant thought. It made me feel very strongly about how each of us can do our part to extend the date in which Earth would run out of the carbon budget. 
 </p>
     </div>
 
@@ -513,13 +513,13 @@ of a zero waste nation.</p>
       <img src="/images/Cohesion/Sep%202023/what-about.png" style="width: 100%;">
     </div>
 
-    <div style="display: inline-block; margin: 0px 7% 15px;" class="w-100">
+    <div style="display: inline-block; margin: 15px 7% 15px;" class="w-100">
       <img alt="Charlotte Kok" src="/images/Cohesion/Sep%202023/kok%20jpg.png" style="width: 100%;">
       <p style="font-size: 16px; line-height: 26px; margin: 15px 0px;">From the Green Bootcamp, I have a greater understanding about the impact of human activities such as agriculture and construction on the environment. These activities release greenhouse gases which harm the environment. I also now realise that Singapore produces a huge amount of waste. </p>
       <p style="font-size: 16px; line-height: 26px;">I'm now more aware of the environmental issues we are facing and what needs to be fixed. </p>  
     </div>
 
-    <div style="display: inline-block; margin: 0px 7% 15px;" class="w-100">
+    <div style="display: inline-block; margin: 15px 7% 15px;" class="w-100">
       <img alt="Charlotte Ong" src="/images/Cohesion/Sep%202023/ong%20pic.png" style="width: 82%;">
       <p style="font-size: 16px; line-height: 26px; margin: 15px 0px;">Overall, I think the Green Bootcamp is a very good idea to inspire the next generation of eco champions to advocate sustainability in Singapore. We learnt many new things about climate change and also had the chance to listen to other students' ideas.</p> 
 
@@ -540,7 +540,7 @@ of a zero waste nation.</p>
     <div style="padding: 20px 40px;">
       <div style="background-image: url('/images/Cohesion/Sep%202023/froggie-logo.png'); background-color: #DCEAE3; background-blend-mode: darken; min-height: 100px; background-repeat: no-repeat; background-size: contain; margin-left: 0px;">
       </div>
-        <p style="font-size: 16px; text-align: left; line-height: 24px; color: #000; margin: 10px 0px;">Would you like to make an impact on the environment? Discover how you can be part of the solution by learning about sustainable practices, connecting with likely-minded individuals in the community and turning your green ideas into a reality.</p>
+        <p style="font-size: 16px; text-align: left; line-height: 24px; color: #000; margin: 10px 0px;">Would you like to make an impact on the environment? Discover how you can be part of the solution by learning about sustainable practices, connecting with like-minded individuals in the community and turning your green ideas into a reality.</p>
         <p style="font-size: 16px; text-align: left; line-height: 24px; color: #000; margin: 10px 0px;">Stay tuned for the next edition of Green Bootcamp @ North West. Find out more <a href="https://northwest.cdc.gov.sg/programmes/advocating-green-living/greenbootcamp-nw/" target="_new" style="font-weight: bold; color: #0C6C37;">here</a>.</p>  
       </div>
     </div>  
