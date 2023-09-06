@@ -2,6 +2,12 @@ collections:
   cohesion:
     output: true
     order:
+      - September 2023/September At A Glance.md
+      - September 2023/.keep
+      - September 2023/North West WeCare Fund.md
+      - September 2023/North West Health Qigong.md
+      - September 2023/Green Bootcamp @ North West.md
+      - September 2023/SkillsFuture Advice @ North West.md
       - July 2023/.keep
       - July 2023/July At A Glance.md
       - July 2023/Kopi Talk with Health Champions.md
@@ -15,7 +21,7 @@ collections:
       - May 2023/North West Sustainability Forum.md
       - "May 2023/SkillsFuture Advice: Ace Your Job Search.md"
       - March 2023/.keep
-      - March 2023/March In A Glance.md
+      - March 2023/March At A Glance.md
       - March 2023/CDCs Decoded.md
       - March 2023/Your Green Weekend Guide.md
       - March 2023/Mental Wellness @ North West.md

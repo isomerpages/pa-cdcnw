@@ -1,5 +1,5 @@
 ---
-title: March In A Glance
+title: March At A Glance
 permalink: /cohesion/march-2023/in-a-glance/
 description: ""
 third_nav_title: March 2023
@@ -51,21 +51,21 @@ Ever wonder what CDC does, and how different are we from Town Councils and CCs? 
 </p>
 
 <p style="font-size: 16px; line-height: 26px; margin: 0px auto; text-align: center;">
-  <a href="https://northwest.cdc.gov.sg/cohesion/March-2023/cdcs-decoded/">
-    <img src="/images/Cohesion/March%202023/NWC303-eDM_05.jpg" style="max-width: 100%; max-height: 73px;" />
+  <a href="https://northwest.cdc.gov.sg/cohesion/march-2023/cdcs-decoded/">
+    <img src="/images/Cohesion/March%202023/NWC303-eDM_05.jpg" style="max-width: 100%; max-height: 73px;">
   </a>
 </p>
 
 <div style="width: 100%; max-width: 800px; margin: 20px auto 0px;">
   <img src="/images/Cohesion/March%202023/NWC303-eDM_06.jpg" style="max-width: 100%;">
 </div>
-<p style=" font-size: 16px; line-height: 26px; margin-top: 0px; padding: 0px 30px; text-align: justify;">
+<p style="font-size: 16px; line-height: 26px; margin-top: 0px; padding: 0px 30px; text-align: justify;">
 Make the most of your weekends while unleashing the eco warrior in you! We’ve rounded up the best eco-friendly activities to try in your own neighbourhood. 
 </p>
 
 <p style="font-size: 16px; line-height: 26px; margin: 0px auto; text-align: center;">
   <a href="https://northwest.cdc.gov.sg/cohesion/March-2023/green-weekend-guide/">
-    <img src="/images/Cohesion/March%202023/NWC303-eDM_07.jpg" style="max-width: 100%; max-height: 63px;" />
+    <img src="/images/Cohesion/March%202023/NWC303-eDM_07.jpg" style="max-width: 100%; max-height: 63px;">
   </a>
 </p>
 
@@ -80,7 +80,7 @@ Make the most of your weekends while unleashing the eco warrior in you! We’ve 
 
 <p style="font-size: 16px; line-height: 26px; margin: 0px auto; text-align: center;">
   <a href="https://northwest.cdc.gov.sg/cohesion/March-2023/mental-wellness-nw/">
-    <img src="/images/Cohesion/March%202023/NWC303-eDM_09.jpg" style="max-width: 100%; max-height: 63px;" />
+    <img src="/images/Cohesion/March%202023/NWC303-eDM_09.jpg" style="max-width: 100%; max-height: 63px;">
   </a>
 </p>
 
@@ -98,7 +98,7 @@ More frequent, more beneficiaries, more choices and more flexibility – Service
 
 <p style="font-size: 16px; line-height: 26px; margin: 0px auto; text-align: center;">
   <a href="https://northwest.cdc.gov.sg/cohesion/March-2023/nw-serviceweeks/">
-    <img src="/images/Cohesion/March%202023/NWC303-eDM_13.jpg" style="max-width: 100%; max-height: 50px;" />
+    <img src="/images/Cohesion/March%202023/NWC303-eDM_13.jpg" style="max-width: 100%; max-height: 50px;">
   </a>
 </p>
 
@@ -116,7 +116,7 @@ Not every child starts on the same footing, Little Steps @ North West supports t
 
 <p style="font-size: 16px; line-height: 26px; margin: 0px auto; text-align: center;">
   <a href="https://northwest.cdc.gov.sg/cohesion/March-2023/little-steps-nw/">
-    <img src="/images/Cohesion/March%202023/NWC303-eDM_17.jpg" style="max-width: 100%; max-height: 63px;" />
+    <img src="/images/Cohesion/March%202023/NWC303-eDM_17.jpg" style="max-width: 100%; max-height: 63px;">
   </a>
 </p>
 
@@ -145,7 +145,7 @@ Not every child starts on the same footing, Little Steps @ North West supports t
   <div style="padding: 5px 25px; text-align: center; max-width: 550px; margin: auto;">
     <p style="line-height: 24px;">Be inspired by stories of remarkable women from all walks of life! In&nbsp;honour of International's Women's Day, here are some incredible women volunteers who have stepped forward to make a positive impact in the North West community.</p>
   </div>
-  <a href="https://www.facebook.com/nwcdc/posts/pfbid0Hnq85MKZMujR4FCTUQ1QGTXGL9bkpvigwejj9rpiYgMmHX3r6HKT5LLTxXy8mdazl?__cft__[0]=AZWPfKNb3lo_oD1C1GMX-83q9arKflcjk9twnq_JkUeKnB6hL7o8nHrn4D1DmNM9AyR5VgGsO8dl6I7aRJJ4wQNC2z_KILCdj9H0CBXqc-7HGqco5dJJSR3IW26drZPLCQEgRc5FjbYFIQUPMf9bVcjqCrEOULYzA1MqtNhPv-ADbxQl2_eMyTsINDQuwZW9orE&__tn__=%2CO%2CP-R" target="_new">
+  <a href="https://www.facebook.com/nwcdc/posts/pfbid0Hnq85MKZMujR4FCTUQ1QGTXGL9bkpvigwejj9rpiYgMmHX3r6HKT5LLTxXy8mdazl?__cft__[0]=AZWPfKNb3lo_oD1C1GMX-83q9arKflcjk9twnq_JkUeKnB6hL7o8nHrn4D1DmNM9AyR5VgGsO8dl6I7aRJJ4wQNC2z_KILCdj9H0CBXqc-7HGqco5dJJSR3IW26drZPLCQEgRc5FjbYFIQUPMf9bVcjqCrEOULYzA1MqtNhPv-ADbxQl2_eMyTsINDQuwZW9orE&amp;__tn__=%2CO%2CP-R" target="_new">
     <img src="/images/Cohesion/March%202023/stay-posted-5.jpg" style="max-width: 600px;">
   </a>
 
@@ -194,6 +194,6 @@ Not every child starts on the same footing, Little Steps @ North West supports t
 </div>
 
 
-<br/>
-<br/>
+<br>
+<br>
 </article>

@@ -32,7 +32,7 @@ For job seekers who prefer face-to-face interactions, we regularly host physical
 
 2)    25 August 2023, Kampung Admiralty Community Plaza
 
-3)    27 September 2023, Marsiling
+3)    13 September 2023, Yew Tee Community Club
 
 4)    27 October 2023, Bukit Panjang Community Club
 
