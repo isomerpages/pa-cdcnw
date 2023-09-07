@@ -4,6 +4,7 @@ permalink: /cohesion/september-2023/nw-healthqigong/
 description: ""
 third_nav_title: September 2023
 ---
+
 <style>
 
 p {
@@ -461,27 +462,31 @@ object-fit: cover;
 <div class="rounded25" style="padding: 30px 35px; background: #FFFAED;">
 
   <div class="w-100" style="padding: 5px 0px; display: inherit; margin: auto;">
-  <img src="/images/Cohesion/Sep%202023/aisah%20q.png" style="max-width: 100%; padding: 10px 0px 15px; width: 100%;">
-  <img src="/images/Cohesion/Sep%202023/kopi2%20pic.png" style="max-width: 100px; float: left; padding: 10px 10px 5px 0px; width: 100%;">
-  <img src="/images/Cohesion/Sep%202023/aisah1.png" style="max-width: 200px; float: right; padding: 5px 0px 5px 20px; width: 100%;">
+  <img src="https://staging.d2pf4p43lgd5yo.amplifyapp.com/images/Cohesion/Sep%202023/aisah_revised.png" style="max-width: 100%; padding: 10px 0px 15px; width: 100%;">
+  <img src="https://staging.d2pf4p43lgd5yo.amplifyapp.com/images/Cohesion/Sep%202023/kopi2%20pic.png" style="max-width: 100px; float: left; padding: 30px 10px 15px 0px; width: 100%;">
+  <img src="https://staging.d2pf4p43lgd5yo.amplifyapp.com/images/Cohesion/Sep%202023/aisah1.png" style="max-width: 200px; float: right; padding: 5px 0px 5px 20px; width: 100%;">
   <p style="font-size: 16px; line-height: 26px; padding-top: 10px; margin: 0px 0px;"><span style="font-weight: bold; color: #B25694;">Jenis kopi yang saya paling suka ialah … </span>  Kopi putih perisa Hazelnut Old Town!</p>
     <p style="font-size: 16px; line-height: 26px; margin: 0px 0px;"><span style="font-weight: bold; color: #B25694;">Semasa saya tidak bekerja, saya suka … </span> memasak, membuat kraftangan, berjalan pantas dan merentas hutan pada hujung minggu.</p>
   </div>
 
   <div class="w-100" style="padding: 15px 0px; display: inherit; margin: auto;">
-  <img src="/images/Cohesion/Sep%202023/aisah2.png" style="max-width: 220px; float: left; padding: 0px 20px 0px 0px; width: 100%;"><p style="font-size: 16px; line-height: 26px; margin: 0px; margin: 0px 0px;"><span style="font-weight: bold; color: #B25694;">Kali yang terakhir saya menggunakan Baucar CDC ialah …</span> untuk membeli barangan runcit seperti ikan bilis, tepung, udang, nasi dan lain-lain lagi. </p>
+  <img src="https://staging.d2pf4p43lgd5yo.amplifyapp.com/images/Cohesion/Sep%202023/aisah2.png" style="max-width: 220px; float: left; padding: 0px 20px 0px 0px; width: 100%;"><p style="font-size: 16px; line-height: 26px; margin: 0px; margin: 0px 0px;"><span style="font-weight: bold; color: #B25694;">Kali yang terakhir saya menggunakan Baucar CDC ialah …</span> untuk membeli barangan runcit seperti ikan bilis, tepung, udang, nasi dan lain-lain lagi. </p>
   <p style="font-size: 16px; line-height: 26px; margin: 0px 0px;"><span style="font-weight: bold; color: #B25694;">Saya mula meminati Qigong … </span> lebih 20 tahun lalu apabila saya memerhatikan manfaat senaman ini untuk kesihatan keseluruhan. </p>
   </div>
 
   <div class="w-100" style="padding: 15px 0px; display: inherit; margin: auto;">
-  <img src="/images/Cohesion/Sep%202023/aisah3.png" style="max-width: 320px; float: right; padding: 5px 0px 5px 20px; width: 100%;"><p style="font-size: 16px; line-height: 26px; margin: 0px 0px;"><span style="font-weight: bold; color: #B25694;">Kenangan saya yang terindah dalam kelas ialah …</span> semasa saya memerhatikan ahli Qigong begitu bersungguh melakukan pergerakan seperti burung terbang, menembak anak panah, kaup angin dan lain-lain lagi.</p>
+  <img src="https://staging.d2pf4p43lgd5yo.amplifyapp.com/images/Cohesion/Sep%202023/aisah3.png" style="max-width: 320px; float: right; padding: 5px 0px 5px 20px; width: 100%;">
+  <br>
+  <p style="font-size: 16px; line-height: 26px; margin: 10px 0px 0px;"><span style="font-weight: bold; color: #B25694;">Kenangan saya yang terindah dalam kelas ialah …</span> semasa saya memerhatikan ahli Qigong begitu bersungguh melakukan pergerakan seperti burung terbang, menembak anak panah, kaup angin dan lain-lain lagi.</p>
   </div>
 
 <div class="w-100" style="padding: 15px 0px; display: inline-table; margin: auto;">
   <div class="w-100" style="display: inherit; margin: auto;">
-  <img src="/images/Cohesion/Sep%202023/aisah4.png" style="max-width: 220px; float: left; padding: 0px 20px 0px 0px; width: 100%;"><p style="font-size: 16px; line-height: 26px; margin: 0px; margin: 0px 0px;"><span style="font-weight: bold; color: #B25694;">Saya bermotivasi untuk mengajar kelas Qigong di Barat Laut kerana …</span> saya dapat mengenali lebih ramai sahabat sambil mengongsikan manfaat Qigong. Lebih pentingnya, saya boleh membantu warga emas mengekalkan kesihatan mereka melalui Qigong.  </p>
+  <img src="https://staging.d2pf4p43lgd5yo.amplifyapp.com/images/Cohesion/Sep%202023/aisah4.png" style="max-width: 220px; float: left; padding: 0px 20px 0px 0px; width: 100%;"><p style="font-size: 16px; line-height: 26px; margin: 10px 0px 0px;"><span style="font-weight: bold; color: #B25694;">Saya bermotivasi untuk mengajar kelas Qigong di Barat Laut kerana …</span> saya dapat mengenali lebih ramai sahabat sambil mengongsikan manfaat Qigong. Lebih pentingnya, saya boleh membantu warga emas mengekalkan kesihatan mereka melalui Qigong.  </p>
   </div>
 </div>
+
+  <p style="font-size: 16px; line-height: 26px; margin: 15px 0px; font-style: italic; font-weight: bold;">Read Aisah's interview in English <a style="font-weight: bold; color: #B25694;" target="_new" href="https://go.gov.sg/aisah-english">here</a>.</p>
 
 </div>
 
