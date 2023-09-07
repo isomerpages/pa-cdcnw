@@ -4,6 +4,7 @@ permalink: /cohesion/september-2023/nw-healthqigong/
 description: ""
 third_nav_title: September 2023
 ---
+
 <style>
 
 p {
@@ -461,10 +462,10 @@ object-fit: cover;
 <div class="rounded25" style="padding: 30px 35px; background: #FFFAED;">
 
   <div class="w-100" style="padding: 5px 0px; display: inherit; margin: auto;">
-  <img src="/images/Cohesion/Sep%202023/aisah20.png" style="max-width: 100%; padding: 10px 0px 15px; width: 100%;">
+  <img src="/images/Cohesion/Sep%202023/aisah%20q.png" style="max-width: 100%; padding: 10px 0px 15px; width: 100%;">
   <img src="/images/Cohesion/Sep%202023/kopi2%20pic.png" style="max-width: 100px; float: left; padding: 10px 10px 5px 0px; width: 100%;">
   <img src="/images/Cohesion/Sep%202023/aisah1.png" style="max-width: 200px; float: right; padding: 5px 0px 5px 20px; width: 100%;">
-  <p style="font-size: 16px; line-height: 26px; padding-top: 10px; margin: 0px 0px;"><span style="font-weight: bold; color: #B25694;">Jenis kopi yang saya paling suka ialah … </span>  Old Town Hazelnut Flavoured White Coffee!</p>
+  <p style="font-size: 16px; line-height: 26px; padding-top: 10px; margin: 0px 0px;"><span style="font-weight: bold; color: #B25694;">Jenis kopi yang saya paling suka ialah … </span>  Kopi putih perisa Hazelnut Old Town!</p>
     <p style="font-size: 16px; line-height: 26px; margin: 0px 0px;"><span style="font-weight: bold; color: #B25694;">Semasa saya tidak bekerja, saya suka … </span> memasak, membuat kraftangan, berjalan pantas dan merentas hutan pada hujung minggu.</p>
   </div>
 
@@ -479,13 +480,11 @@ object-fit: cover;
 
 <div class="w-100" style="padding: 15px 0px; display: inline-table; margin: auto;">
   <div class="w-100" style="display: inherit; margin: auto;">
-  <img src="/images/Cohesion/Sep%202023/aisah4.png" style="max-width: 220px; float: left; padding: 0px 20px 0px 0px; width: 100%;"><p style="font-size: 16px; line-height: 26px; margin: 0px; margin: 0px 0px;"><span style="font-weight: bold; color: #B25694;">Saya bermotivasi untuk mengajar kelas Qigong di Barat Laut kerana …</span> saya dapat mengenali lebih ramai sahabat sambil mengongsikan manfaat Qigong. Lebin pentingnya, saya boleh membantu warga emas mengekalkan kesihatan mereka melalui Qigong.  </p>
+  <img src="/images/Cohesion/Sep%202023/aisah4.png" style="max-width: 220px; float: left; padding: 0px 20px 0px 0px; width: 100%;"><p style="font-size: 16px; line-height: 26px; margin: 0px; margin: 0px 0px;"><span style="font-weight: bold; color: #B25694;">Saya bermotivasi untuk mengajar kelas Qigong di Barat Laut kerana …</span> saya dapat mengenali lebih ramai sahabat sambil mengongsikan manfaat Qigong. Lebih pentingnya, saya boleh membantu warga emas mengekalkan kesihatan mereka melalui Qigong.  </p>
   </div>
 </div>
 
 </div>
-	
-Read Aisah's kopi talk in English [here.](/files/Cohesion/north%20west%20health%20qigong%20club_english.pdf)
 
 
 <!--CTA-->
