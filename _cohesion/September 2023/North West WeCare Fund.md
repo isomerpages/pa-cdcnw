@@ -441,17 +441,19 @@ object-fit: cover;
 
 <div style="padding: 0px 0px 0px;">
 <h2 style="color: #D5262B; font-weight: bold !important; font-size: x-large; margin: 0px 0px;">
-  <strong>Promoting intergenerational bonding and enriching the lives of our seniors through community activities! </strong>
+  <strong>Enriching the lives of the silver generation through community activities for social engagement and intergenerational bonding.</strong>
 </h2>
 </div>
 
 <div style="padding: 0px 0px 30px;">
-<p style="font-size: 16px; line-height: 26px; margin: 15px 0px;">At the third run of the FAM K @ North West, a community initiative supported by the North West WeCare Fund, elderly residents from Sembawang Central Zone ‘K’ had a fun day out celebrating National Day through fitness, arts and music. We speak to a resident to find out her experience at the event.</p>
+<p style="font-size: 16px; line-height: 26px; margin: 15px 0px;">At the third run of the FAM K @ North West, a community initiative supported by the North West WeCare Fund, elderly residents from Sembawang Central Zone ‘K’ had a fun day out celebrating National Day through fitness, arts and music.</p>
+
+<p style="font-size: 16px; line-height: 26px; margin: 15px 0px;">We speak to a resident to find out her experience at the event.</p>
 </div>
 
 <div style="padding: 0px 0px 0px;">
 <h2 style="color: #D5262B; font-weight: bold !important; font-size: x-large; margin: 0px 0px;">
-  <strong>Healthy Body, Healthy Minds</strong>
+  <strong>Healthy Body, Healthy Mindset at  FAM K @ North West</strong>
 </h2>
 </div>
 
@@ -460,7 +462,7 @@ object-fit: cover;
 </div>
 
 <div style="max-width: 100%; padding: 20px 0px;" class="rounded20">
-  <img src="/images/Cohesion/Sep%202023/famk-timeline.png" class="rounded20" style="width: 100%; margin-top: 0px;">
+  <img src="/images/Cohesion/Sep%202023/famk-timeline2.jpg" class="rounded20" style="width: 100%; margin-top: 0px;">
 </div>
 
 <div style="max-width: 100%; padding: 20px 0px;" class="rounded20">
