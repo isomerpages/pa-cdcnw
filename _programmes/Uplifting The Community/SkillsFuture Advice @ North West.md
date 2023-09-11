@@ -46,5 +46,3 @@ Visit NTUC’s e2i website for more details on the job positions available: [_ht
 4)    1 Dec 2023, Nee Soon GRC (venue TBA)
 
 For more information and to register for the respective events, please visit this [link](https://content.mycareersfuture.gov.sg/career-events/). Please note that the above dates and venues are subject to changes and registration will only open nearer to the event date.
-
-
