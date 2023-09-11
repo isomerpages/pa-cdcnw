@@ -26,6 +26,13 @@ This is a platform developed in partnership with Workforce Singapore (WSG) and t
 
 The portal also highlights job positions eligible for Government support via WSG’s Adapt and Grow Initiative. Access our Career Toolkit for career-related contents such as insights and guidance, supporting you every step of the way in your career planning process.
 
+
+  **Jobs @ Heartland**
+
+Looking to explore over 1000 job vacancies from multiple employers in various industries? Full-Time and Part-Time job opportunities!
+
+Visit NTUC’s e2i website for more details on the job positions available: [_https://www.e2i.com.sg/events/jobs-heartland-job-portal/_](https://www.e2i.com.sg/events/jobs-heartland-job-portal/)
+
 **Upcoming Job Recruitment Events**
 
 For job seekers who prefer face-to-face interactions, we regularly host physical recruitment events throughout the North West district. Be sure to mark your calendar for the following dates:
