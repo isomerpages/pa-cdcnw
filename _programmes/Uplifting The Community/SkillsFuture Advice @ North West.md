@@ -18,11 +18,13 @@ Join us in making lifelong learning our way of life! [Subscribe](https://go.gov.
 
 **Job Seekers**
 
-Your next career move is just a few clicks away. Check out the [My CareersFuture Portal](https://www.mycareersfuture.gov.sg/), specifically designed to connect you to relevant job opportunities based on your unique skills and competencies.
+**My CareersFuture Portal**
+
+Your next career move is just a few clicks away. Check out the [My CareersFuture Portal](https://www.mycareersfuture.gov.sg/), specifically designed to connect you to relevant job opportunities based on your unique skills and competencies.
 
 This is a platform developed in partnership with Workforce Singapore (WSG) and the Government Technology Agency.
 
-The portal also highlights job positions eligible for Government support via WSG's Adapt and Grow Initiative. Access our Career Toolkit for career-related contents such as insights and guidance, supporting you every step of the way in your career planning process.
+The portal also highlights job positions eligible for Government support via WSG’s Adapt and Grow Initiative. Access our Career Toolkit for career-related contents such as insights and guidance, supporting you every step of the way in your career planning process.
 
 **Upcoming Job Recruitment Events**
 
