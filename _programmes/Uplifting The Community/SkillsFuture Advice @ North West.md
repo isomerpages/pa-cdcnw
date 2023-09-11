@@ -35,18 +35,16 @@ Visit NTUC’s e2i website for more details on the job positions available: [_ht
 
 **Upcoming Job Recruitment Events**
 
-For job seekers who prefer face-to-face interactions, we regularly host physical recruitment events throughout the North West district. Be sure to mark your calendar for the following dates:
+  For job seekers who prefer face-to-face interactions, we regularly host physical recruitment events throughout the North West district. Be sure to mark your calendar for the following dates:
 
-1)    28 July 2023, Bukit Timah Community Club
+1)    14 September 2023, Yew Tee Community Club
 
-2)    25 August 2023, Kampung Admiralty Community Plaza
+2)    20 October 2023, Bangkit Court MPH (Blk 234A Bukit Panjang Ring Road)
 
-3)    13 September 2023, Yew Tee Community Club
+3)    24 Nov 2023, Kampung Admiralty Community Plaza
 
-4)    27 October 2023, Bukit Panjang Community Club
+4)    1 Dec 2023, Nee Soon GRC (venue TBA)
 
-5)    24 Nov 2023, Kampung Admiralty Community Plaza
+For more information and to register for the respective events, please visit this [link](https://content.mycareersfuture.gov.sg/career-events/). Please note that the above dates and venues are subject to changes and registration will only open nearer to the event date.
 
-6)    1 Dec 2023, Nee Soon GRC
 
-For more information and to register for the respective events, please visit this [link](https://content.mycareersfuture.gov.sg/career-events/). Please note that the above dates and venues are subject to changes and registration will only open nearer to the event date.
