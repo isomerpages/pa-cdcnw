@@ -429,12 +429,9 @@ object-fit: cover;
 <div style="max-width: 100%; padding: 30px 0px 30px;" class="rounded20">
 
       <div style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;" class="videoframe">
-        <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" class="rounded20" src="https://www.youtube.com/embed/IcuL91-tAY4?autoplay=1&amp;mute=1&amp;loop=1&amp;rel=0"></iframe>
+        <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" class="rounded20" src="https://www.youtube.com/embed/gpKagvpXYTk?autoplay=1&amp;mute=1&amp;loop=1&amp;rel=0"></iframe>
       </div>
 
-  <!--<div class="video-container rounded20">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/IcuL91-tAY4?autoplay=1&mute=1&loop=1&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  </div>-->
 </div>
 
 
