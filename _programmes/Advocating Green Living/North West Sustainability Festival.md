@@ -14,6 +14,8 @@ There are so many ways you can practice green living at home. **[Register NOW](h
 
 Learn how you can turn trash into treasure by upcycling materials into products you can use, charge your mobile phone through cycling, and we shouldn’t judge the food by its looks - ugly food can also be turned into delicious dishes. Get into the latest trend without breaking your bank by participating in our clothes swap and be sustainable at the same time!
 
+**Find out more on the workshops and activities that are available below!**
+
 <table style="width:467.6pt;mso-cellspacing:.5pt;mso-yfti-tbllook:1184;mso-padding-alt:
  .5pt .5pt .5pt .5pt" width="623" cellpadding="0" cellspacing="1" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:120.35pt;padding:.5pt .5pt .5pt .5pt" width="160"><p style="mso-margin-top-alt:auto;margin-bottom:
   0in;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
