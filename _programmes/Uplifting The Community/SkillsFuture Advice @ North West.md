@@ -4,7 +4,7 @@ permalink: /programmes/uplifting-the-community/sfa-northwest/
 description: ""
 third_nav_title: Uplifting The Community
 ---
-![](/images/Programmes/Uplifting%20The%20Community/82336782_2967592686598499_8963898592758595584_n.jpg)
+![](/images/Programmes/Uplifting%20The%20Community/workshop%20photo.jpg)
 
 Welcome to SkillsFuture Advice @ North West, where your journey to lifelong learning begins. In collaboration with SkillsFuture Singapore (SSG) and North West Community Development Councils (CDC), we want to empower residents to unlock their potential through career planning and skills identification.
 
@@ -29,12 +29,15 @@ The portal also highlights job positions eligible for Government support via WSG
 
   **Jobs @ Heartland**
 	
+![](/images/Programmes/Uplifting%20The%20Community/jobs@heartland.png)
+	
 	
 
 Looking to explore over 1000 job vacancies from multiple employers in various industries? Full-Time and Part-Time job opportunities!
 
 Visit NTUC’s e2i website for more details on the job positions available: [_https://www.e2i.com.sg/events/jobs-heartland-job-portal/_](https://www.e2i.com.sg/events/jobs-heartland-job-portal/)
 
+![](/images/Programmes/Uplifting%20The%20Community/jobs@heartland%20qr%20code.png)
 **Upcoming Job Recruitment Events**
 
   For job seekers who prefer face-to-face interactions, we regularly host physical recruitment events throughout the North West district. Be sure to mark your calendar for the following dates:
