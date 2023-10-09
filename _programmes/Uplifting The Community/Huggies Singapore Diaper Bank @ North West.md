@@ -16,4 +16,4 @@ third_nav_title: Uplifting The Community
 
 **Check your eligibility [here](https://go.gov.sg/checkfirst-nwdiaper).**
 
-Applications will open on 9 to 22 October 2023. Eligible residents may apply at: **go.gov.sg/nwdiapers**.
+Applications will open on 9 to 29 October 2023. Eligible residents may apply at: **go.gov.sg/nwdiapers**.
