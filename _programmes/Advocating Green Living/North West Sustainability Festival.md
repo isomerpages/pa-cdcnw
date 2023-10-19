@@ -16,6 +16,6 @@ Learn how you can turn trash into treasure by upcycling materials into products 
 
 **Find out more on the workshops and activities that are available below!**
 
-![](/images/picture2.png)
+![](/images/sf%20workshops%20v5.png)
 
 **For any enquiries, please contact us at 6248 5556 or 6248 5583**.
