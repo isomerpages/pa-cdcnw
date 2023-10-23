@@ -12,7 +12,7 @@ The first-ever North West Sustainability Festival is a dynamic showcase of green
 
 You can practise green living at home in so many ways! **[Register](https://go.gov.sg/nwsfreg)** and be inspired by what our specially curated workshops and activities have to offer!
 
-Learn how you can turn trash into treasure by upcycling materials into products you can use, generate electricity charge your mobile phone through cycling, and understand ! 
+Learn how you can turn trash into treasure by upcycling materials into products you can use, generate electricity to charge your mobile phone through cycling, and understand how you can reduce food wastage by rescuing ugly food! 
 
 **Find out more on the workshops and activities that are available below!**
 
