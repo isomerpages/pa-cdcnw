@@ -8,11 +8,11 @@ The first-ever North West Sustainability Festival is a dynamic showcase of green
 
 **There's so much to learn at the North West Sustainability Festival. Come join us from 31 October to 5 November 2023, explore the interactive exhibitions and find out what are some simple yet eco-friendly practices you can adopt at home to protect our environment!**
 
-![](/images/festival%20poster2.PNG)
+![](/images/img_2652.jpg)
 
 You can practise green living at home in so many ways! **[Register](https://go.gov.sg/nwsfreg)** and be inspired by what our specially curated workshops and activities have to offer!
 
-Learn how you can turn trash into treasure by upcycling materials into products you can use, charge your mobile phone through cycling, and we shouldn’t judge the food by its looks, ugly foods can be edible too! 
+Learn how you can turn trash into treasure by upcycling materials into products you can use, generate electricity to charge your mobile phone through cycling, and understand how you can reduce food wastage by rescuing ugly food! 
 
 **Find out more on the workshops and activities that are available below!**
 
