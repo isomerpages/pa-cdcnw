@@ -4,3 +4,4 @@ permalink: /programmes/uplifting-the-community/learning-neighbourhood/
 description: ""
 third_nav_title: Uplifting The Community
 ---
+![](/images/ln-web-banner.jpg)
