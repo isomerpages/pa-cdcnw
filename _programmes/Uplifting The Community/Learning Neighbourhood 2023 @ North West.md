@@ -10,7 +10,7 @@ This November, Learning Neighborhood returns with more skills and jobs opportuni
 
 **Admission is FREE!**  Register your interest [here](https://go.gov.sg/ln-nwcdc).
 
-##### Learning Neighbourhood 2023 @ North West Roadshow
+#### **Learning Neighbourhood 2023 @ North West Roadshow**
 
 [Register](https://go.gov.sg/ln-nwcdc) and discover various learning opportunities at the Learning Neighbourhood Roadshow, a three-day learning marketplace at Canberra Plaza. Gear up with various hands-on activities and workshops, receive a personalised skills consultation to identify your skills gap and be connected to various Training Partners for upskilling opportunities.
 
