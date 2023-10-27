@@ -20,8 +20,8 @@ Date: 17 – 19 Nov 2023 (Fri – Sun)
 Time: 11am – 9pm  
 Venue: Canberra Plaza
 
-##### **Upskilling Roadshows**
-###### North West Sustainability Festival
+#### **Upskilling Roadshows**
+##### North West Sustainability Festival
 The inaugural North West Sustainability Festival is a dynamic showcase of green efforts to promote green living among North West residents in alignment with the SG Green Plan. Organised by North West CDC, the festival showcase various ways for residents to embrace a green lifestyle within their homes.
 
 Date: 31 Oct – 5 Nov 2023 (Tue – Sun)  
@@ -30,19 +30,19 @@ Venue: Causeway Point, Main Atrium Level 1
 
 [Find out more here!](https://northwest.cdc.gov.sg/programmes/advocating-green-living/north-west-sustainability-festival/)
 
-##### **Career Fairs**
+#### **Career Fairs**
 Organised by the Employment and Employability Institute (e2i), residents of the North West region can expect to be connected to over 400 job vacancies at two Career Fairs happening at Chong Pang and Kampung Admiralty on 10 Nov and 24 Nov respectively. Find out the full list of hiring employers and job listings below.
 
 Registration is required.  
 
-###### e2i Career Fair @ Chong Pang
+##### e2i Career Fair @ Chong Pang
 Date: 10 Nov 2023 (Fri)  
 Time: 10am – 4pm  
 Venue: Chong Pang Amphitheatre
 
 [Register here](https://www.e2i.com.sg/events/e2i-career-fair-chong-pang)
 
-###### e2i Career Fair @ Kampung Admiralty
+##### e2i Career Fair @ Kampung Admiralty
 Date: 24 Nov 2023 (Fri)  
 Time: 10am – 2pm  
 Venue: Kampung Admiralty
