@@ -2,8 +2,6 @@ collections:
   cohesion:
     output: true
     order:
-      - November/Images.md
-      - November/.keep
       - September 2023/September At A Glance.md
       - September 2023/.keep
       - September 2023/North West WeCare Fund.md
