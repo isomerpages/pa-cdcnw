@@ -40,14 +40,9 @@ Visit NTUC’s e2i website for more details on the job positions available: [_ht
 ![](/images/Programmes/Uplifting%20The%20Community/jobs@heartland%20qr%20code.png)
 **Upcoming Job Recruitment Events**
 
-  For job seekers who prefer face-to-face interactions, we regularly host physical recruitment events throughout the North West district. Be sure to mark your calendar for the following dates:
+For job seekers who prefer face-to-face interactions, we regularly host physical recruitment events throughout the North West district. Be sure to mark your calendar for the following dates:
 
-1)    14 September 2023, Yew Tee Community Club
-
-2)    20 October 2023, Bangkit Court MPH (Blk 234A Bukit Panjang Ring Road)
-
-3)    24 Nov 2023, Kampung Admiralty Community Plaza
-
-4)    1 Dec 2023, Nee Soon GRC (venue TBA)
+* 10 November 2023, Chong Pang Amphitheatre (Beside Chong Pang Market & Food Centre)
+* 24 November 2023, Kampung Admiralty Community Plaza
 
 For more information and to register for the respective events, please visit this [link](https://content.mycareersfuture.gov.sg/career-events/). Please note that the above dates and venues are subject to changes and registration will only open nearer to the event date.
