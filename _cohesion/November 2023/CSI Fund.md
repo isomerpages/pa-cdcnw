@@ -4,9 +4,6 @@ permalink: /cohesion/november-2023/csi-fund/
 description: ""
 third_nav_title: November 2023
 ---
-
-
-
 <style>
 
 p {
@@ -513,6 +510,3 @@ an inclusive and cohesive community. While the CSI Fund helps companies to integ
 
 
 </article>
-
-
-
