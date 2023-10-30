@@ -4,9 +4,6 @@ permalink: /cohesion/november-2023/c100-golf/
 description: ""
 third_nav_title: November 2023
 ---
-
-
-
 <style>
 
 p {
@@ -533,6 +530,3 @@ Our golfers have participated for many years and we look forward to playing golf
 
 
 </article>
-
-
-
