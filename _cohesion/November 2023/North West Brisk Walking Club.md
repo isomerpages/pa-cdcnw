@@ -4,6 +4,9 @@ permalink: /cohesion/november-2023/bwc-article/
 description: ""
 third_nav_title: November 2023
 ---
+
+
+
 <style>
 
 p {
@@ -387,6 +390,22 @@ h1, h2, h3, h4, h5, h6, li {
   -moz-border-radius: 25px;
   border-radius: 25px;
 }
+
+.facebook-responsive {
+overflow:hidden;
+padding-bottom:56.25%;
+position:relative;
+height:0;
+}
+.facebook-responsive iframe {
+left:0;
+top:0;
+height:100%;
+width:100%;
+position:absolute;
+}
+
+
   </style>
 
 
@@ -394,7 +413,7 @@ h1, h2, h3, h4, h5, h6, li {
 <article style="max-width: 800px; width: 100%; margin: auto;">
 
 <div style="width: 100%;">
-  <img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-cohesion-logo-2023%201.gif" alt="North West Cohesion" style="width: 100%; max-width: 100px; position: relative;">
+  <img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-cohesion-logo-2023%201.gif" alt="North West Cohesion" style="width: 100%; max-width: 100px; position: relative; padding-left: 10px; float:left !important; padding-bottom: 20px;">
 </div>
 
 <div style="width: 100%;">
@@ -412,7 +431,7 @@ h1, h2, h3, h4, h5, h6, li {
 <p style="font-size: 16px; line-height: 26px;">Let’s find out more!</p>
 </div>
 
-<h2 style="color: #B25694; font-weight: bold; font-size: x-large; padding: 15px 0px;">
+<h2 style="color: #B25694; font-weight: bold; font-size: x-large; padding: 15px 0px; margin: 20px 0px 15px !important;">
   <strong>#KopiTalk with North West Brisk Walking Club Members</strong>
 </h2>
 
@@ -438,7 +457,7 @@ h1, h2, h3, h4, h5, h6, li {
 
   <div class="w-100" style="padding: 20px 0px 0px; display: inline-table;">
   <img src="/images/Cohesion/November%202023/pat3%20group.png" style="max-width: 280px; float: left; padding: 0px 20px 5px 0px;">
-  <p style="font-size: 16px; line-height: 26px; padding-top: 0px;"><span style="font-weight: bold; color: #B25694;">As a regular Brisk Walking Club member, my top tips are …   </span> to make it a point to go for your daily or weekly walks. When you walk in big group, you’re less likely to skip a walk. Group walks also give you a chance to socialise and make new friends. Don’t forget to take more photos to capture these fun memories!</p>
+  <p style="font-size: 16px; line-height: 26px; padding-top: 0px; margin-top: 0px;"><span style="font-weight: bold; color: #B25694;">As a regular Brisk Walking Club member, my top tips are …   </span> to make it a point to go for your daily or weekly walks. When you walk in big group, you’re less likely to skip a walk. Group walks also give you a chance to socialise and make new friends. Don’t forget to take more photos to capture these fun memories!</p>
   </div>
 
 </div>
@@ -468,7 +487,7 @@ h1, h2, h3, h4, h5, h6, li {
 
   <div class="w-100" style="padding: 20px 0px 0px; display: inline-table;">
   <img src="/images/Cohesion/November%202023/bas3%20group.png" style="max-width: 280px; float: left; padding: 0px 20px 5px 0px;">
-  <p style="font-size: 16px; line-height: 26px; padding-top: 0px;"><span style="font-weight: bold; color: #B25694;">விறுவிறுப்பான நடைப்பயணத்தின் போது எனக்கு மிகவும் சுவாரஸ்யமான தருணங்கள்…</span> சக குடியிருப்பாளர்களுடன் நான் ஏற்படுத்தும் தொடர்புகள். நடைப்பயணத்தின் போது, பழைய நண்பர்களை சந்திக்கும் வாய்ப்பு, மற்றும் புதிய நண்பர்களின் அறிமுகம். புதிய நடைபாதைகளைக் கண்டுபிடிப்பதில் மகிழ்ச்சி அடைகிறேன், நடைப்பயணத்தின் போது பாதையில் உள்ள பசுமையான சூழலை ரசிக்கிறேன்.</p>
+  <p style="font-size: 16px; line-height: 26px; padding-top: 0px; margin-top: 0px;"><span style="font-weight: bold; color: #B25694;">விறுவிறுப்பான நடைப்பயணத்தின் போது எனக்கு மிகவும் சுவாரஸ்யமான தருணங்கள்…</span> சக குடியிருப்பாளர்களுடன் நான் ஏற்படுத்தும் தொடர்புகள். நடைப்பயணத்தின் போது, பழைய நண்பர்களை சந்திக்கும் வாய்ப்பு, மற்றும் புதிய நண்பர்களின் அறிமுகம். புதிய நடைபாதைகளைக் கண்டுபிடிப்பதில் மகிழ்ச்சி அடைகிறேன், நடைப்பயணத்தின் போது பாதையில் உள்ள பசுமையான சூழலை ரசிக்கிறேன்.</p>
   </div>
 
   <div class="w-100" style="padding: 20px 0px 0px; display: inline-table;">
@@ -483,21 +502,22 @@ h1, h2, h3, h4, h5, h6, li {
   <strong>Benefits of regular brisk walking</strong>
 </h2>
 
-<div style="max-width: 100%; padding: 0px 0px 0px;" class="rounded20">
+<div style="max-width: 100%; padding: 0px 0px 20px;" class="rounded20">
   <img src="/images/Cohesion/November%202023/bwc-infographics.png" class="rounded20" style="width: 100%; margin-top: 0px;">
 </div>
 
 </div>
 
-
-
+<div class="facebook-responsive rounded20" style="text-align: center; background: #FFFFFF;">
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2F8worldnews%2Fvideos%2F2022466048091373%2F&amp;show_text=false&amp;width=560&amp;t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
 
 <!--CTA-->
 <div style="padding: 20px 0px;">
 <div class="rounded20" style="width: 100%; background: #EBDFEC; padding: 0px 0px 0px;">
   <div style="padding: 30px 40px;">
     <div style="padding: 0px 10px;">
-        <img src="/images/Cohesion/November%202023/bwc-logo.png" style="max-width: 150px;">
+        <img src="/images/Cohesion/November%202023/bwc-logo.png" style="max-width: 150px; margin: 0px 0px !important;">
         <p style="font-size: 16px; text-align: left; line-height: 24px; color: #000; margin: 10px 0px;">Make brisk walking a part of your fitness journey and expand your social circle along the way. All you need is comfortable attire and a pair of sturdy shoes to get started. Join the North West Brisk Walking Club today! Register your interest <a href="https://go.gov.sg/hlclub-interestform" target="_new" style="font-weight: bold; color: #B25694;">here</a>.</p>  
   </div>
 </div>
@@ -517,35 +537,34 @@ h1, h2, h3, h4, h5, h6, li {
 <!--Footer-->
 <div class="col-" style="padding: 20px 0px 0px; display: flex;">&nbsp;</div>
 
+<!--Latest Stores Card-->
 <div style="width: 100%; background: #FB5C1F; border-radius: 30px; padding: 0px 0px; display: flex;">
-  <div style="width: 100%; padding: 10px 10px; text-align: center; margin: auto;">
-    <h1 style="font-family:  Arial; font-size: xx-large; font-weight: bold; color: #FFFFFF;"><em>Keep updated with our latest stories!</em></h1>
+  <div style="width: 100%; padding: 30px 10px 8px; text-align: center; margin: auto;">
+    <h1 style="font-family:  Arial; font-size: xx-large; font-weight: bold; color: #FFFFFF; letter-spacing: normal !important;"><em>Keep updated with our latest stories!</em></h1>
     <a href="https://go.gov.sg/subscribe-cohesion" target="_new" style="text-decoration: none;">
       <div style="font-family:  Arial; font-size: large; font-weight: bold; background: #FFFFFF; color: #FB5C1F; padding: 10px 15px; max-width: 320px; margin: auto; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; text-decoration: none;"><em>Subscribe to Cohesion Magazine</em>
       </div>
     </a>
 
     <div style="width: 100%;">
-    <div style="width: 100%; padding: 15px 10px; text-align: center;   display: flex;
-  justify-content: center;
-  align-items: center;">
-      <span style="font-family: Arial; font-weight: bold; font-size: large; color: #FFFFFF;">Follow us on</span> <a href="https://www.facebook.com/nwcdc/" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-facebook.png" style="padding: 5px 7px;"></a>
-      <a href="https://www.instagram.com/northwestcdc" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-instagram.png" style="padding: 5px 7px;"></a>
-      <a href="https://t.me/northwestcdc" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/telegram.png" style="padding: 5px 7px;"></a>
-      <a href="https://www.youtube.com/northwestcdc" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-youtube.png" style="padding: 5px 7px;"></a>
+    <div style="width: 100%; padding: 15px 10px; text-align: center;   display: flex; justify-content: center; align-items: center;">
+      <span style="font-family: Arial; font-weight: bold; font-size: large; color: #FFFFFF;">Follow us on</span>
+      <a style="line-height: normal !important; margin-bottom: 0px !important;" href="https://www.facebook.com/nwcdc/" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-facebook.png" style="padding: 5px 7px;"></a>
+      <a style="line-height: normal !important; margin-bottom: 0px !important;" href="https://www.instagram.com/northwestcdc" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-instagram.png" style="padding: 5px 7px;"></a>
+      <a style="line-height: normal !important; margin-bottom: 0px !important;" href="https://t.me/northwestcdc" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/telegram.png" style="padding: 5px 7px;"></a>
+      <a style="line-height: normal !important; margin-bottom: 0px !important;" href="https://www.youtube.com/northwestcdc" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-youtube.png" style="padding: 5px 7px;"></a>
     </div>
     </div>
 
-    <div style="width: 100%; text-align: right;"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-arrow.png" style="width: 25px;"></div>
-
+    <div style="width: 100%; text-align: right;"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-arrow.png" style="width: 25px; display: inline-block !important;"></div>
   </div>
-
 </div>
+<!--Latest Stores Card-->
 
 <div style="padding: 40px 20px; text-align: center;">
   <h2 style="font-size: xx-large; font-weight: bold;"><em>Our Team</em></h2>
   <p style="font-size: 14px; line-height: 24px; margin-top: 0px;">Adviser: Mayor Alex Yam</p>
-  <p style="font-size: 14px; line-height: 24px; margin-top: 0px;">Editorial Team: Michael Lau, Sim Chuan San, Steve Luo, Eric Liu, Melvin Tai, Charlene Koh</p>
+  <p style="font-size: 14px; line-height: 24px; margin-top: 0px;">Editorial Team: Garick Kea, Sim Chuan San, Steve Luo, Eric Liu, Melvin Tai, Charlene Koh</p>
   <p style="font-size: 14px; line-height: 24px; margin-top: 0px;">Please send feedback, suggestions and comments to <a href="mailto:northwest_cdc@pa.gov.sg" target="_new" style="color: #000000; text-decoration: underline;">northwest_cdc@pa.gov.sg</a></p>
   <p style="font-size: 14px; line-height: 24px; margin-top: 0px;">Some articles in Cohesion are contributed by volunteers and are not necessarily opinions/comments by North&nbsp;West&nbsp;CDC.</p>
   <p style="font-size: 14px; line-height: 24px; margin-top: 0px;">Reproduction in whole or in part is prohibited without prior permission from North West CDC.</p>
@@ -553,3 +572,6 @@ h1, h2, h3, h4, h5, h6, li {
 <!--Footer End-->
 
 </article>
+
+
+
