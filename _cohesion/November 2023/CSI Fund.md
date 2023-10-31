@@ -4,6 +4,9 @@ permalink: /cohesion/november-2023/csi-fund/
 description: ""
 third_nav_title: November 2023
 ---
+
+
+
 <style>
 
 p {
@@ -390,6 +393,10 @@ object-fit: cover;
   -moz-border-radius: 20px;
   border-radius: 20px;
 }
+
+a[href$=".pdf"]:before {display: none !important;}
+a[href$=".pdf"] {margin-left: 0px !important;}
+
   </style>
 
 
@@ -397,7 +404,7 @@ object-fit: cover;
 <article style="max-width: 800px; width: 100%; margin: auto;">
 
 <div style="width: 100%;">
-  <img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-cohesion-logo-2023%201.gif" alt="North West Cohesion" style="width: 100%; max-width: 100px; position: relative;">
+  <img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-cohesion-logo-2023%201.gif" alt="North West Cohesion" style="width: 100%; max-width: 100px; position: relative; padding-left: 10px; float:left !important; padding-bottom: 20px;">
 </div>
 
 <div style="width: 100%;">
@@ -410,7 +417,7 @@ object-fit: cover;
 </div>
 
 <div style="padding: 20px 0px 0px;">
-<p style="font-size: 16px; line-height: 26px;">Workplaces can play a big part in strengthening ties with the community through volunteering activities, while reinforcing bonds between employees. With a diverse workforce comprising employees from different nationalities, US-based materials science company, Dow organised a day out for its employees as part of its #PullingOurWeight clean up programme.  </p>
+<p style="font-size: 16px; line-height: 26px;">Workplaces can play a big part in strengthening ties with the community through volunteering activities, while reinforcing bonds between employees. With a diverse workforce comprising employees from different nationalities, US-based materials science company, Dow organised a day out for its employees as part of its #PullingOurWeight clean up program.  </p>
 </div>
 
 <div style="max-width: 100%; padding: 30px 0px 0px;" class="rounded20">
@@ -438,7 +445,7 @@ object-fit: cover;
 </div>
 
 <div style="max-width: 100%; padding: 30px 0px 0px;" class="rounded20">
-  <img src="/images/Cohesion/November%202023/csi-guide2.jpg" class="rounded20" style="width: 100%; margin-top: 0px;">
+  <img src="/images/Cohesion/November%202023/csi-guide3.jpg" class="rounded20" style="width: 100%; margin-top: 0px;">
 </div>
 
 <div style="padding: 20px 0px 0px;">
@@ -469,39 +476,37 @@ an inclusive and cohesive community. While the CSI Fund helps companies to integ
 
 
 
-
 <!--Footer-->
 <div class="col-" style="padding: 20px 0px 0px; display: flex;">&nbsp;</div>
 
+<!--Latest Stores Card-->
 <div style="width: 100%; background: #FB5C1F; border-radius: 30px; padding: 0px 0px; display: flex;">
-  <div style="width: 100%; padding: 10px 10px; text-align: center; margin: auto;">
-    <h1 style="font-family:  Arial; font-size: xx-large; font-weight: bold; color: #FFFFFF;"><em>Keep updated with our latest stories!</em></h1>
+  <div style="width: 100%; padding: 30px 10px 8px; text-align: center; margin: auto;">
+    <h1 style="font-family:  Arial; font-size: xx-large; font-weight: bold; color: #FFFFFF; letter-spacing: normal !important;"><em>Keep updated with our latest stories!</em></h1>
     <a href="https://go.gov.sg/subscribe-cohesion" target="_new" style="text-decoration: none;">
       <div style="font-family:  Arial; font-size: large; font-weight: bold; background: #FFFFFF; color: #FB5C1F; padding: 10px 15px; max-width: 320px; margin: auto; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; text-decoration: none;"><em>Subscribe to Cohesion Magazine</em>
       </div>
     </a>
 
     <div style="width: 100%;">
-    <div style="width: 100%; padding: 15px 10px; text-align: center;   display: flex;
-  justify-content: center;
-  align-items: center;">
-      <span style="font-family: Arial; font-weight: bold; font-size: large; color: #FFFFFF;">Follow us on</span> <a href="https://www.facebook.com/nwcdc/" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-facebook.png" style="padding: 5px 7px;"></a>
-      <a href="https://www.instagram.com/northwestcdc" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-instagram.png" style="padding: 5px 7px;"></a>
-      <a href="https://t.me/northwestcdc" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/telegram.png" style="padding: 5px 7px;"></a>
-      <a href="https://www.youtube.com/northwestcdc" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-youtube.png" style="padding: 5px 7px;"></a>
+    <div style="width: 100%; padding: 15px 10px; text-align: center;   display: flex; justify-content: center; align-items: center;">
+      <span style="font-family: Arial; font-weight: bold; font-size: large; color: #FFFFFF;">Follow us on</span>
+      <a style="line-height: normal !important; margin-bottom: 0px !important;" href="https://www.facebook.com/nwcdc/" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-facebook.png" style="padding: 5px 7px;"></a>
+      <a style="line-height: normal !important; margin-bottom: 0px !important;" href="https://www.instagram.com/northwestcdc" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-instagram.png" style="padding: 5px 7px;"></a>
+      <a style="line-height: normal !important; margin-bottom: 0px !important;" href="https://t.me/northwestcdc" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/telegram.png" style="padding: 5px 7px;"></a>
+      <a style="line-height: normal !important; margin-bottom: 0px !important;" href="https://www.youtube.com/northwestcdc" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-youtube.png" style="padding: 5px 7px;"></a>
     </div>
     </div>
 
-    <div style="width: 100%; text-align: right;"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-arrow.png" style="width: 25px;"></div>
-
+    <div style="width: 100%; text-align: right;"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-arrow.png" style="width: 25px; display: inline-block !important;"></div>
   </div>
-
 </div>
+<!--Latest Stores Card-->
 
 <div style="padding: 40px 20px; text-align: center;">
   <h2 style="font-size: xx-large; font-weight: bold;"><em>Our Team</em></h2>
   <p style="font-size: 14px; line-height: 24px; margin-top: 0px;">Adviser: Mayor Alex Yam</p>
-  <p style="font-size: 14px; line-height: 24px; margin-top: 0px;">Editorial Team: Michael Lau, Sim Chuan San, Steve Luo, Eric Liu, Melvin Tai, Charlene Koh</p>
+  <p style="font-size: 14px; line-height: 24px; margin-top: 0px;">Editorial Team: Garick Kea, Sim Chuan San, Steve Luo, Eric Liu, Melvin Tai, Charlene Koh</p>
   <p style="font-size: 14px; line-height: 24px; margin-top: 0px;">Please send feedback, suggestions and comments to <a href="mailto:northwest_cdc@pa.gov.sg" target="_new" style="color: #000000; text-decoration: underline;">northwest_cdc@pa.gov.sg</a></p>
   <p style="font-size: 14px; line-height: 24px; margin-top: 0px;">Some articles in Cohesion are contributed by volunteers and are not necessarily opinions/comments by North&nbsp;West&nbsp;CDC.</p>
   <p style="font-size: 14px; line-height: 24px; margin-top: 0px;">Reproduction in whole or in part is prohibited without prior permission from North West CDC.</p>
@@ -510,3 +515,6 @@ an inclusive and cohesive community. While the CSI Fund helps companies to integ
 
 
 </article>
+
+
+
