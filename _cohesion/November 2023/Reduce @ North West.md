@@ -4,9 +4,6 @@ permalink: /cohesion/november-2023/reduce-article/
 description: ""
 third_nav_title: November 2023
 ---
-
-
-
 <style>
 
 p {
@@ -706,6 +703,3 @@ Check out the programme line-up <a href="https://www.go.gov.sg/nwsf2023" target=
 <script async="" src="https://www.instagram.com/embed.js"></script>
 
 </article>
-
-
-
