@@ -4,9 +4,6 @@ permalink: /cohesion/november-2023/csi-fund/
 description: ""
 third_nav_title: November 2023
 ---
-
-
-
 <style>
 
 p {
@@ -417,7 +414,7 @@ a[href$=".pdf"] {margin-left: 0px !important;}
 </div>
 
 <div style="padding: 20px 0px 0px;">
-<p style="font-size: 16px; line-height: 26px;">Workplaces can play a big part in strengthening ties with the community through volunteering activities, while reinforcing bonds between employees. With a diverse workforce comprising employees from different nationalities, US-based materials science company, Dow organised a day out for its employees as part of its #PullingOurWeight clean up program.  </p>
+<p style="font-size: 16px; line-height: 26px;">Workplaces can play a big part in strengthening ties with the community through volunteering activities, while reinforcing bonds between employees. With a diverse workforce comprising employees from different nationalities, US-based materials science company, Dow organised a day out for its employees as part of its #PullingOurWeight clean up programme.  </p>
 </div>
 
 <div style="max-width: 100%; padding: 30px 0px 0px;" class="rounded20">
@@ -515,6 +512,3 @@ an inclusive and cohesive community. While the CSI Fund helps companies to integ
 
 
 </article>
-
-
-
