@@ -435,7 +435,7 @@ h1, h2, h3, h4, h5, h6, li {
     <h2 style="color: #BB1415; font-weight: bold; font-size: x-large;">
       <strong><em>Golfing with a Heart</em></strong>
     </h2>
-    <p style="font-size: 16px; line-height: 26px;">It was another successful Club-100 @ North West Charity Golf, where we witnessed the power of like-minded individuals coming together to make a positive difference in the lives of less-privileged North West residents. Follow Mr Ong, member of the organising committee, golfer and Gold Sponsor for a day of exciting fun!</p>
+    <p style="font-size: 16px; line-height: 26px; padding-bottom: 28px;">It was another successful Club-100 @ North West Charity Golf, where we witnessed the power of like-minded individuals coming together to make a positive difference in the lives of less-privileged North West residents. Follow Mr Ong, member of the organising committee, golfer and Gold Sponsor for a day of exciting fun!</p>
     <div style="max-width: 100%; text-align: center; padding: 30px 15px 15px;"><a style="background: #BB1415; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px;" href="https://northwest.cdc.gov.sg/cohesion/november-2023/c100-golf"><em>Read More</em></a></div>
   </div>
   </div>
@@ -492,7 +492,9 @@ h1, h2, h3, h4, h5, h6, li {
   <div style="background: #FFFFFF; margin: 30px 10px 0px; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px;">
     <div style="width: 100%;">
       <div style="background: #FE5D1F; margin: 30px 0px 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px; -moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;">
-        <div style="text-align: center; display: flex; justify-content: center; align-items: center; margin: 0px auto; padding: 15px 15px; color: #FFFFFF; text-transform: uppercase; font-size:  x-large; font-family: Arial, 'sans-serif';"><em>What's Up</em> <img style="padding: 0px 10px; max-width: 30px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-arrow.png"></div>
+        <div style="text-align: center; display: flex; justify-content: center; align-items: center; margin: 0px auto; padding: 15px 15px; color: #FFFFFF; text-transform: uppercase; font-size:  x-large; font-weight: bold; font-family: Arial, 'sans-serif;';"><strong style="font-weight: bold;
+    color: #FFFFFF;
+    font-style: italic;">What's Up</strong> <img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-arrow.png" style="padding: 0px 10px; max-width: 40px; width: 40px; margin: 0px 0px;"></div>
       </div>
     </div>
 
@@ -505,13 +507,13 @@ h1, h2, h3, h4, h5, h6, li {
         </div>
       </div>
       <div class="col-8">
-        <div style="padding: 10px 2rem;">
-          <h2 style="color: #FE5D1F; font-family: Arial, 'sans-serif'; margin-bottom: 0px;"><em>North West Sustainability Festival 2023</em></h2>
-          <h4 style="color: #FE5D1F; font-family: Arial, 'sans-serif'; margin-top: 10px;">31 Oct - 5 Nov 2023 | 11am - 9pm
+        <div style="padding: 40px 2rem 20px;">
+          <h2 style="color: #FE5D1F; margin-bottom: 0px; letter-spacing: 0px; font-size: x-large; line-height: 26px; font-weight: bold; font-family: Arial, 'sans-serif;';"><i>North West Sustainability Festival 2023</i></h2>
+          <h4 style="color: #FE5D1F; margin: 10px 0px; font-size: medium; font-weight: bold; font-family: Arial, 'sans-serif;'; font-style: italic;">31 Oct - 5 Nov 2023 | 11am - 9pm
           <br>Causeway Point, Main Atrium Level 1</h4>
           <p style="font-size: 16px; line-height: 26px;">Join us at the first-ever Sustainability Festival where you’ll find a fun line-up of eco-related activities. Discover tips on how to embrace green living at home, attend food composting and upcycling workshops, and bring your kids for a captivating story-telling session on how to turn trash to treasure. Plus, stand a chance to win exciting prizes!</p>
           <div style="max-width: 100%; text-align: left; padding: 30px 0px;">
-            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px;" href="https://go.gov.sg/nwsfreg">
+            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold;" href="https://go.gov.sg/nwsfreg">
               <em>Register Now</em>
             </a>
           </div>
@@ -527,11 +529,11 @@ h1, h2, h3, h4, h5, h6, li {
         </div>
       </div>
       <div class="col-8">
-        <div style="padding: 10px 2rem;">
-          <h2 style="color: #FE5D1F; font-family: Arial, 'sans-serif';"><em>Instant Win Alert at our Instagram-Worthy Mirror!  </em></h2>
+        <div style="padding: 40px 2rem 20px;">
+          <h2 style="color: #FE5D1F; margin-bottom: 0px; letter-spacing: 0px; font-size: x-large; line-height: 26px; font-weight: bold; font-family: Arial, 'sans-serif;';"><i>Instant Win Alert at our Instagram-Worthy Mirror!  </i></h2>
           <p style="font-size: 16px; line-height: 26px;">Discover our Instagram-worthy Mirror at the North West Sustainability Festival. Snap a selfie with eco-friendly message, post it in the comments on our contest post, and follow North West CDC on Facebook and Instagram. You could win amazing prizes, presented in person at the road show! </p>
           <div style="max-width: 100%; text-align: left; padding: 30px 0px;">
-            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px;" target="_new" href="https://www.facebook.com/watch/?v=1786836095100175">
+            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold;" target="_new" href="https://www.facebook.com/watch/?v=1786836095100175">
               <em>Join Now</em>
             </a>
           </div>
@@ -547,14 +549,14 @@ h1, h2, h3, h4, h5, h6, li {
         </div>
       </div>
       <div class="col-8">
-        <div style="padding: 10px 2rem;">
-          <h2 style="color: #FE5D1F; font-family: Arial, 'sans-serif'; margin-bottom: 0px;"><em>Learning Neigbourhood 2023 
-@&nbsp;North@&nbsp;West</em></h2>
-          <h4 style="color: #FE5D1F; font-family: Arial, 'sans-serif'; margin-top: 10px;">17 - 19 Nov 2023 | 11am - 9pm
+        <div style="padding: 40px 2rem 20px;">
+          <h2 style="color: #FE5D1F; margin-bottom: 0px; letter-spacing: 0px; font-size: x-large; line-height: 26px; font-weight: bold; font-family: Arial, 'sans-serif;';"><i>Learning Neigbourhood 2023 
+@&nbsp;North@&nbsp;West</i></h2>
+          <h4 style="color: #FE5D1F; margin: 10px 0px; font-size: medium; font-weight: bold; font-family: Arial, 'sans-serif;'; font-style: italic;">17 - 19 Nov 2023 | 11am - 9pm
           <br>Canberra Plaza Community Plaza</h4>
           <p style="font-size: 16px; line-height: 26px;">Learning knows no age limits! Join us for a series of community learning events and hands-on activities to acquire new skills for a sustainable and digital future! Explore new experiences in the skills walking trails, collect achievement pins and redeem a reward for completing activities.</p>
           <div style="max-width: 100%; text-align: left; padding: 30px 0px;">
-            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px;" href="https://go.gov.sg/nw-ln">
+            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold;" href="https://go.gov.sg/nw-ln">
               <em>Sign Up Now</em>
             </a>
           </div>
@@ -570,13 +572,13 @@ h1, h2, h3, h4, h5, h6, li {
         </div>
       </div>
       <div class="col-8">
-        <div style="padding: 10px 2rem;">
-          <h2 style="color: #FE5D1F; font-family: Arial, 'sans-serif'; margin-bottom: 0px;"><em>FitnessX @ Sembawang Sports Fiesta</em></h2>
-          <h4 style="color: #FE5D1F; font-family: Arial, 'sans-serif'; margin-top: 10px;">2 Dec 2023 | 9am - 2pm
+        <div style="padding: 40px 2rem 20px;">
+          <h2 style="color: #FE5D1F; margin-bottom: 0px; letter-spacing: 0px; font-size: x-large; line-height: 26px; font-weight: bold; font-family: Arial, 'sans-serif;';"><i>FitnessX @ Sembawang Sports Fiesta</i></h2>
+          <h4 style="color: #FE5D1F; margin: 10px 0px; font-size: medium; font-weight: bold; font-family: Arial, 'sans-serif;'; font-style: italic;">2 Dec 2023 | 9am - 2pm
           <br>Bukit Canberra Indoor Hall</h4>
           <p style="font-size: 16px; line-height: 26px;">Get your heart pumping and spirits soaring at this sports fiesta! If you’re ready to elevate your fitness, this is your chance to try out high-intensity workouts for free. From CrossFit and Fight Do to Zumba and K-pop Fitness, you’ll find a great way to burn calories, increase your stamina and have fun at the same time!</p>
           <div style="max-width: 100%; text-align: left; padding: 30px 0px;">
-            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px;" href="https://go.gov.sg/2decsportsfiesta">
+            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold;" href="https://go.gov.sg/2decsportsfiesta">
               <em>Save Your Spot Now</em>
             </a>
           </div>
@@ -595,12 +597,12 @@ h1, h2, h3, h4, h5, h6, li {
         </div>
       </div>
       <div class="col-8">
-        <div style="padding: 10px 2rem;">
-          <h2 style="color: #FE5D1F; font-family: Arial, 'sans-serif'; margin-bottom: 0px;"><em>Share and Win!</em></h2>
+        <div style="padding: 40px 2rem 20px;">
+          <h2 style="color: #FE5D1F; margin-bottom: 0px; letter-spacing: 0px; font-size: x-large; line-height: 26px; font-weight: bold; font-family: Arial, 'sans-serif;';"><i>Share and Win!</i></h2>
 
           <p style="font-size: 16px; line-height: 26px;">Do you have an inspiring volunteer story to share? Whether it’s heartwarming moments, meaningful projects or visionary ideas to help the community, we want to hear from you! Submit your story and stand a chance to win $40 in e-vouchers! </p>
           <div style="max-width: 100%; text-align: left; padding: 30px 0px;">
-            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px;" target="_new" href="https://www.facebook.com/nwcdc/posts/pfbid0mxrUnz9ReKTb23F2ipL6qSCiY7CgdjkEHj2nWN4J6e3V9exq7jg1LpPNt9rz4ptfl">
+            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold;" target="_new" href="https://www.facebook.com/nwcdc/posts/pfbid0mxrUnz9ReKTb23F2ipL6qSCiY7CgdjkEHj2nWN4J6e3V9exq7jg1LpPNt9rz4ptfl">
               <em>Share Now</em>
             </a>
           </div>
@@ -614,14 +616,15 @@ h1, h2, h3, h4, h5, h6, li {
 </div>
 
 
-<div style="max-width: 100%; padding: 30px 0px 40px; display: block;" class="col-12">
+<div class="col-12" style="max-width: 100%; padding: 30px 0px 40px; display: block;">
   <div class="col-12">
     <div style="padding: 0px 10px;">
-      <div style="width: 100%; background: #FB5C1F; border-radius: 30px; padding: 0px 0px 20px; display: flex;">
-        <div style="width: 100%; padding: 10px 10px; text-align: center; margin: auto;">
-          <h1 style="font-family:  Arial; font-size: xx-large; font-weight: bold; color: #FFFFFF;"><em>Know an interesting or inspiring story?</em></h1>
-          <a style="text-decoration: none;" target="_new" href="https://go.gov.sg/subscribe-cohesion">
-            <div style="font-family:  Arial; font-size: large; font-weight: bold; background: #FFFFFF; color: #FB5C1F; padding: 15px 15px; max-width: 200px; margin: auto; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; text-decoration: none; text-transform: uppercase;"><em>Tell Us More</em>
+<div style="width: 100%; background: #FB5C1F; border-radius: 30px; padding: 0px 0px 20px; display: flex;">
+        <div style="width: 100%; padding: 30px 10px 10px; text-align: center; margin: auto;">
+          <h1 style="font-family:  Arial; font-size: xx-large; font-weight: bold; color: #FFFFFF; letter-spacing: normal;"><strong style="font-weight: bold; color: #FFFFFF; font-style: italic;">Know an interesting or inspiring story?</strong></h1>
+          <a href="mailto:northwest_cdc@pa.gov.sg" target="_new" style="text-decoration: none;">
+            <div style="font-family:  Arial; font-size: large; font-weight: bold; background: #FFFFFF; color: #FB5C1F; padding: 15px 15px; max-width: 200px; margin: auto; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; text-decoration: none; text-transform: uppercase; font-style: italic;
+    font-weight: bold;">Tell Us More
             </div>
           </a>
         </div>
@@ -635,14 +638,27 @@ h1, h2, h3, h4, h5, h6, li {
 
 <div style="display: inline-block; width: 100%;">
 
-    <div style="max-width: 800px; width: 100%; margin: auto;">
+<div style="max-width: 800px; width: 100%; margin: auto;">
 
-    <div style="width: 100%; padding: 15px 0px; text-align: center;">
-      <div><em><h2 style="color: #331E16; font-family: Arial, 'sans-serif';">For the latest events and happenings,<br><span style="text-transform: uppercase;">Follow Us On</span></h2></em></div>
-      <a target="_new" href="https://www.facebook.com/nwcdc/"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-facebook-orange.png"></a>
-      <a target="_new" href="https://www.instagram.com/northwestcdc"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-instagram-orange.png"></a>
-      <a target="_new" href="https://t.me/northwestcdc"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/telegram-orange.png"></a>
-      <a target="_new" href="https://www.youtube.com/northwestcdc"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-youtube-orange.png"></a>
+<div style="width: 100%;">
+
+    <div style="width: 100%; padding: 15px 10px; text-align: center;">
+      <div class="w-100">
+
+          <h2 style="color: #331E16; font-family: Arial, 'sans-serif'; line-height: 30px;">
+            <em style="font-family: Arial, 'sans-serif'; font-size: 22px;">For the latest events and happenings,</em><br>
+            <em style="font-family: Arial, 'sans-serif'; text-transform: uppercase; font-weight: bold; font-size: 20px;">Follow Us On</em>
+          </h2>
+        
+      </div>
+      <div class="w-100">
+        <a href="https://www.facebook.com/nwcdc/" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-facebook-orange.png" style="padding: 5px 7px; max-width: 40px; display: inline-block;"></a>
+        <a href="https://www.instagram.com/northwestcdc" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-instagram-orange.png" style="padding: 5px 7px; max-width: 40px; display: inline-block;"></a>
+        <a href="https://t.me/northwestcdc" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/telegram-orange.png" style="padding: 5px 7px; max-width: 40px; display: inline-block;"></a>
+        <a href="https://www.youtube.com/northwestcdc" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-youtube-orange.png" style="padding: 5px 7px; max-width: 40px; display: inline-block;"></a>
+      </div>
+    </div>
+
     </div>
 
     </div>
@@ -652,12 +668,14 @@ h1, h2, h3, h4, h5, h6, li {
   <h2 style="font-size: xx-large; font-weight: bold;"><em>Our Team</em></h2>
   <p style="font-size: 14px; line-height: 24px; margin-top: 0px;">Adviser: Mayor Alex Yam</p>
   <p style="font-size: 14px; line-height: 24px; margin-top: 0px; padding: 0px 20px;">Editorial Team: Garick Kea, Sim Chuan San, Steve Luo, Eric Liu, Melvin&nbsp;Tai, Charlene&nbsp;Koh</p>
-  <p style="font-size: 14px; line-height: 24px; margin-top: 0px; padding: 0px 20px;">Please send feedback, suggestions and comments to <a style="color: #000000; text-decoration: underline;" target="_new" href="mailto:northwest_cdc@pa.gov.sg">northwest_cdc@pa.gov.sg</a></p>
+  <p style="font-size: 14px; line-height: 24px; margin-top: 0px; padding: 0px 20px;">Please send feedback, suggestions and comments to <a href="mailto:northwest_cdc@pa.gov.sg" target="_new" style="color: #000000; text-decoration: underline;">northwest_cdc@pa.gov.sg</a></p>
   <p style="font-size: 14px; line-height: 24px; margin-top: 0px; padding: 0px 20px;">Some articles in Cohesion are contributed by volunteers and are not necessarily opinions/comments by North&nbsp;West&nbsp;CDC.</p>
   <p style="font-size: 14px; line-height: 24px; margin-top: 0px; padding: 0px 20px;">Reproduction in whole or in part is prohibited without prior permission from North&nbsp;West&nbsp;CDC.</p>
   </div>
 </div>
 
 </div>
+
+
 
 
