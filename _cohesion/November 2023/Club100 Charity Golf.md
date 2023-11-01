@@ -4,9 +4,6 @@ permalink: /cohesion/november-2023/c100-golf/
 description: ""
 third_nav_title: November 2023
 ---
-
-
-
 <style>
 
 p {
@@ -450,8 +447,6 @@ We caught up with participant, Mr Ong Han Cheong, to hear about his day at the e
   <img src="/images/Cohesion/November%202023/green1.jpg" class="rounded20" style="width: 100%; margin-top: 0px;">
   <p style="font-size: 16px; line-height: 26px; margin: 0px; padding: 15px 0px;">I've always enjoyed golf as a sport and being a part of the organising committee for 15 years, makes it more meaningful. It is not everyday that you get to combine your love for golf with the opportunity to make a positive impact to the lives of residents in need.<br><br>
 
-This is the first time we played at Laguna Classic Course and I believe many golfers had fun. I certainly did!<br><br>
-
 Our golfers have participated for many years and we look forward to playing golf together each year. This event is like a mini reunion for us!</p>
 
   <img src="/images/Cohesion/November%202023/green2.jpg" class="rounded20" style="width: 100%; margin-top: 0px;">
@@ -536,6 +531,3 @@ Our golfers have participated for many years and we look forward to playing golf
 <!--Footer End-->
 
 </article>
-
-
-
