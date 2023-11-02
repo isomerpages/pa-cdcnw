@@ -12,10 +12,12 @@ The first-ever North West Sustainability Festival is a dynamic showcase of green
 
 You can practise green living at home in so many ways! **[Register](https://go.gov.sg/nwsfreg)** and be inspired by what our specially curated workshops and activities have to offer!
 
-Learn how you can turn trash into treasure by upcycling materials into products you can use, generate electricity to charge your mobile phone through cycling, and understand how you can reduce food wastage by rescuing ugly food! 
+Residents will be brought on a green journey through interactive exhibitions and games, and be educated on green tips to practise at home!
 
-**Find out more on the workshops and activities that are available below!**
+There are also novel activities for friends and families to have fun while learning about going green, such as charging up mobile phones by cycling, and marking the occasion by taking pictures at an Instagrammable green mirror.
 
-![](/images/sf%20workshops%20v5.png)
+##### **Check out our workshops and activities!**
+
+![](/images/Programmes/Green%20Living/workshops3.jpg)
 
 **For any enquiries, please contact us at 6248 5556 or 6248 5583**.
