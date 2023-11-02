@@ -7,11 +7,12 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Artboard 1.png
+      background: /images/website banner 2.png
       key_highlights:
-        - title: Corporate Video
-          description: Watch to find out what we do!
-          url: https://northwest.cdc.gov.sg/about-us/vision-and-mission/
+        - title: Find out more about North West sustainability Festival!
+          description: ""
+          url: https://northwest.cdc.gov.sg/programmes/advocating-green-living/north-west-sustainability-festival/
+      variant: image
   - infopic:
       title: Uplifting The Community
       description: We aim to provide short-term support for residents through local
@@ -23,8 +24,8 @@ sections:
       button: Get Empowered
   - infopic:
       title: Promoting Health and Wellness
-      description: "Through a range of healthy living programmes, we hope for our
-        North West residents to maintain an active and healthy lifestyle. "
+      description: Through a range of healthy living programmes, we hope for our North
+        West residents to maintain an active and healthy lifestyle.
       alt: Image alt text
       image: /images/Launch 2 (2).jpg
       button: Get Active
