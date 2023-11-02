@@ -10,11 +10,11 @@ The first-ever North West Sustainability Festival is a dynamic showcase of green
 
 ![](/images/img_2652.jpg)
 
-You can practise green living at home in so many ways! **[Register](https://go.gov.sg/nwsfreg)** and be inspired by what our specially curated workshops and activities have to offer!
-
 Residents will be brought on a green journey through interactive exhibitions and games, and be educated on green tips to practise at home!
 
 There are also novel activities for friends and families to have fun while learning about going green, such as charging up mobile phones by cycling, and marking the occasion by taking pictures at an Instagrammable green mirror.
+
+**[Sign Up](https://go.gov.sg/nwsfreg) and be inspired by our specially curated green workshops and talks!**
 
 ##### **Check out our workshops and activities!**
 
