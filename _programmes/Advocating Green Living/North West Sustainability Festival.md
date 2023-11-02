@@ -16,8 +16,6 @@ There are also novel activities for friends and families to have fun while learn
 
 **[Sign up](https://go.gov.sg/nwsfreg) and be inspired by our specially curated green workshops and talks!**
 
-*NOTE: We are having some technical issues with the registration site. Please bear with us as we try our best to fix the problem as soon as possible. (Update as of 2 Nov 2023, 12.30pm)
-
 ##### **Check out our workshops and activities!**
 
 ![](/images/Programmes/Green%20Living/workshops3.jpg)
