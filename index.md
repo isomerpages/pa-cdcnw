@@ -8,6 +8,10 @@ notification: ""
 sections:
   - hero:
       background: /images/website banner 2.png
+      key_highlights:
+        - title: Find out more about North West sustainability Festival!
+          description: ""
+          url: https://northwest.cdc.gov.sg/programmes/advocating-green-living/north-west-sustainability-festival/
       variant: image
   - infopic:
       title: Uplifting The Community
