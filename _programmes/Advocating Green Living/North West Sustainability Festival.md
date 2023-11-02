@@ -14,7 +14,9 @@ Residents will be brought on a green journey through interactive exhibitions and
 
 There are also novel activities for friends and families to have fun while learning about going green, such as charging up mobile phones by cycling, and marking the occasion by taking pictures at an Instagrammable green mirror.
 
-**[Sign Up](https://go.gov.sg/nwsfreg) and be inspired by our specially curated green workshops and talks!**
+**[Sign up](https://go.gov.sg/nwsfreg) and be inspired by our specially curated green workshops and talks!**
+
+*NOTE: We are having some technical issues with the registration site. Please bear with us as we try our best to fix the problem as soon as possible. (Update as of 2 Nov 2023, 12.30pm)
 
 ##### **Check out our workshops and activities!**
 
