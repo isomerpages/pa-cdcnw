@@ -3,8 +3,9 @@ title: SkillsFuture Advice @ North West
 permalink: /programmes/uplifting-the-community/sfa-northwest/
 description: ""
 third_nav_title: Uplifting The Community
+variant: markdown
 ---
-![](/images/Programmes/Uplifting%20The%20Community/workshop%20photo.jpg)
+![](/images/learning%20neighbourhood%20header.jpg)
 
 Welcome to SkillsFuture Advice @ North West, where your journey to lifelong learning begins. In collaboration with SkillsFuture Singapore (SSG) and North West Community Development Councils (CDC), we want to empower residents to unlock their potential through career planning and skills identification.
 
