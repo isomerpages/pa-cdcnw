@@ -18,7 +18,7 @@ This November, Learning Neighborhood returns with more skills and jobs opportuni
 Organised by Lifelong Learning Institute, the Learning Neighbourhood 2023 @ North West Roadshow aims to support individuals in their upskilling and career transition.
 
 Date: 17 – 19 Nov 2023 (Fri – Sun)  
-Time: 11am – 9pm  
+Time: 11am – 8pm  
 Venue: Canberra Plaza
 
 #### **Upskilling Roadshows**
