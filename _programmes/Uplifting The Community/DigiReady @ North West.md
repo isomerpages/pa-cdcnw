@@ -13,7 +13,7 @@ variant: markdown
   
 The scheme supports beneficiaries under the IMDA’s DigitalAccess @ Home Scheme, who are residing in the North West, providing additional subsidies of up to $250, for a period of three years contract.
 
-To apply for the scheme, please complete this [form](go.gov.sg/nwdigiready) and submit all supporting documents. Our officer will get in touch with you upon successful application.
+To apply for the scheme, please complete this [form](https://go.gov.sg/digiready) and submit all supporting documents. Our officer will get in touch with you upon successful application.
 
 ##### **Support on Digital Devices**
 
