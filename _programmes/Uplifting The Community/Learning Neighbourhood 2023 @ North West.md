@@ -11,6 +11,8 @@ This November, Learning Neighborhood returns with more skills and jobs opportuni
 
 **Admission is FREE!**  Register your interest [here](https://go.gov.sg/ln-nwcdc).
 
+Check out the Learning Neighbourhood Roadshow's Workshop - LIVE on [18 Nov](/files/18%20nov.pdf) and [19 Nov](/files/19%20nov.pdf)!
+
 #### **Learning Neighbourhood 2023 @ North West Roadshow**
 
 [Register](https://go.gov.sg/ln-nwcdc) and discover various learning opportunities at the Learning Neighbourhood Roadshow, a three-day learning marketplace at Canberra Plaza. Gear up with various hands-on activities and workshops, receive a personalised skills consultation to identify your skills gap and be connected to various Training Partners for upskilling opportunities.
@@ -49,3 +51,6 @@ Time: 10am – 2pm
 Venue: Kampung Admiralty
 
 Watch this space for more details!
+
+#### **Continuous Learning**
+The learning continues with our partner's online workshops throughout November! Find out more [here](https://safe.menlosecurity.com/https://www.lli.sg/events/learning-neighbourhood-2023-@-north-west).
