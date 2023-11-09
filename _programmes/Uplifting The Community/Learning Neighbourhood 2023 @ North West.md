@@ -9,9 +9,9 @@ variant: markdown
      
 This November, Learning Neighborhood returns with more skills and jobs opportunities exclusively to the North West District! Residents can participate in a month-long jobs and skills trail that supports their pursuit of a fulfilling career in the digital and sustainability sectors. From free skills consultation to job fairs, there is something for everyone every weekend in the North West District.
 
-**Admission is FREE!**  Register your interest [here](https://go.gov.sg/ln-nwcdc).
-
 Check out the Learning Neighbourhood Roadshow's Workshop - LIVE on [18 Nov](/files/18%20nov.pdf) and [19 Nov](/files/19%20nov.pdf)!
+
+**Admission is FREE!** Secure your spot in the workshops - [register](https://lli-ln2023workshops.online-registration.sg/) now!
 
 #### **Learning Neighbourhood 2023 @ North West Roadshow**
 
