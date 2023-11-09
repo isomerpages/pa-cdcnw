@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ln web banner-01.jpg
+      background: /images/ln web banner 03.jpg
       key_highlights:
         - title: Learn more about Learning Neighbourhood 2023 @ North West!
           description: ""
