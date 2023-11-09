@@ -5,15 +5,17 @@ description: ""
 third_nav_title: Uplifting The Community
 variant: markdown
 ---
-![](/images/learning%20neighbourhood%20image.jpg)
+![](/images/learning%20neighbourhood-02.jpg)
      
-This November, Learning Neighborhood returns with more skills and jobs opportunities exclusively to the North West District! Residents can participate in a month-long jobs and skills trail that supports their pursuit of a fulfilling career in the digital and sustainability sectors. From free skills consultation to job fairs, there is something for everyone every weekend in the North West District.
+This November, Learning Neighborhood brings to you more skills and jobs opportunities exclusively to the North West District! Residents can participate in a month-long jobs and skills trail that supports their pursuit of a fulfilling career in the digital and sustainability sectors. From free skills consultation to job fairs, there is something for everyone every weekend in the North West District.
 
-**Admission is FREE!**  Register your interest [here](https://go.gov.sg/ln-nwcdc).
+Check out the Learning Neighbourhood Roadshow's Workshop - LIVE on [18 Nov](/files/18%20nov.pdf) and [19 Nov](/files/19%20nov.pdf)!
+
+**Admission is FREE!** Secure your spot in the workshops - [register](https://lli-ln2023workshops.online-registration.sg/) now!
 
 #### **Learning Neighbourhood 2023 @ North West Roadshow**
 
-[Register](https://go.gov.sg/ln-nwcdc) and discover various learning opportunities at the Learning Neighbourhood Roadshow, a three-day learning marketplace at Canberra Plaza. Gear up with various hands-on activities and workshops, receive a personalised skills consultation to identify your skills gap and be connected to various Training Partners for upskilling opportunities.
+[Register](https://lli-ln2023workshops.online-registration.sg/) and discover various learning opportunities at the Learning Neighbourhood Roadshow, a three-day learning marketplace at Canberra Plaza. Gear up with various hands-on activities and workshops, receive a personalised skills consultation to identify your skills gap and be connected to various Training Partners for upskilling opportunities.
 
 Organised by Lifelong Learning Institute, the Learning Neighbourhood 2023 @ North West Roadshow aims to support individuals in their upskilling and career transition.
 
@@ -49,3 +51,6 @@ Time: 10am – 2pm
 Venue: Kampung Admiralty
 
 Watch this space for more details!
+
+#### **Continuous Learning**
+The learning continues with our partner's online workshops throughout November! Find out more [here](https://safe.menlosecurity.com/https://www.lli.sg/events/learning-neighbourhood-2023-@-north-west).
