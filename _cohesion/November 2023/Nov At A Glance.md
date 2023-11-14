@@ -3,8 +3,8 @@ title: Nov At A Glance
 permalink: /cohesion/november-2023/at-a-glance/
 description: ""
 third_nav_title: November 2023
+variant: markdown
 ---
-
 <style>
 
 p {
@@ -550,9 +550,9 @@ h1, h2, h3, h4, h5, h6, li {
       </div>
       <div class="col-8">
         <div style="padding: 40px 2rem 20px;">
-          <h2 style="color: #FE5D1F; margin-bottom: 0px; letter-spacing: 0px; font-size: x-large; line-height: 26px; font-weight: bold; font-family: Arial, 'sans-serif;';"><i>Learning Neigbourhood 2023 
-@&nbsp;North@&nbsp;West</i></h2>
-          <h4 style="color: #FE5D1F; margin: 10px 0px; font-size: medium; font-weight: bold; font-family: Arial, 'sans-serif;'; font-style: italic;">17 - 19 Nov 2023 | 11am - 9pm
+          <h2 style="color: #FE5D1F; margin-bottom: 0px; letter-spacing: 0px; font-size: x-large; line-height: 26px; font-weight: bold; font-family: Arial, 'sans-serif;';"><i>Learning Neighbourhood 2023 
+@&nbsp;North&nbsp;West</i></h2>
+          <h4 style="color: #FE5D1F; margin: 10px 0px; font-size: medium; font-weight: bold; font-family: Arial, 'sans-serif;'; font-style: italic;">17 - 19 Nov 2023 | 11am - 8pm
           <br>Canberra Plaza Community Plaza</h4>
           <p style="font-size: 16px; line-height: 26px;">Learning knows no age limits! Join us for a series of community learning events and hands-on activities to acquire new skills for a sustainable and digital future! Explore new experiences in the skills walking trails, collect achievement pins and redeem a reward for completing activities.</p>
           <div style="max-width: 100%; text-align: left; padding: 30px 0px;">
@@ -675,7 +675,3 @@ h1, h2, h3, h4, h5, h6, li {
 </div>
 
 </div>
-
-
-
-
