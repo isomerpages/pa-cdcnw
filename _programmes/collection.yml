@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Inclusive Communities/.keep
       - Uplifting The Community/.keep
       - Uplifting The Community/Learning Neighbourhood 2023 @ North West.md
       - Uplifting The Community/SkillsFuture Advice @ North West.md
