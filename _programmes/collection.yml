@@ -2,6 +2,8 @@ collections:
   programmes:
     output: true
     order:
+      - Inclusive Communities/Temasek Trust CDC Lifelong Learning Enabling
+        Fund.md
       - Inclusive Communities/Interfaith @ North West.md
       - Inclusive Communities/Corporate Social Integration Fund.md
       - Inclusive Communities/.keep
