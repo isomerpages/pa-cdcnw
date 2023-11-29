@@ -2,8 +2,9 @@
 title: Vision And Mission
 permalink: /about-us/vision-and-mission/
 description: ""
+variant: markdown
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME1m9REoi54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME1m9REoi54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 The Community Development Councils (CDCs) were established to build a tightly-knit, compassionate and self-reliant community. 
 
@@ -16,8 +17,3 @@ A Caring and Healthy North West Community
 A\. Aggregator of Needs and Resources  
 B\. Builder of Capability/Capacity in Partners  
 C\. Connector of Communities
-
-**Strategic Directions**  
-1\. Strengthen Social Infrastructure  
-2\. Build Social Resilience and Social Capital  
-3\. Promote a Culture of Giving Back
