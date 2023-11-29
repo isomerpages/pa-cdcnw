@@ -2,16 +2,11 @@ collections:
   programmes:
     output: true
     order:
-      - Inclusive Communities/.keep
-      - Inclusive Communities/Corporate Social Integration Fund.md
-      - Inclusive Communities/Interfaith @ North West.md
-      - Inclusive Communities/Temasek Trust CDC Lifelong Learning Enabling
-        Fund.md
+      - Caring Communities/.keep
       - Caring Communities/North West Service Weeks.md
       - Caring Communities/North West WeCare Fund.md
       - Caring Communities/Club 100 @ North West Charity Golf.md
       - Caring Communities/Club 100 @ North West.md
-      - Caring Communities/.keep
       - Caring Communities/CDC Vouchers Scheme.md
       - Caring Communities/DigiReady @ North West.md
       - Caring Communities/Huggies Singapore Diaper Bank @ North West.md
@@ -23,8 +18,8 @@ collections:
       - Caring Communities/North West Student Support Fund.md
       - Caring Communities/North West Utilities Assistance Scheme.md
       - Caring Communities/WeCare Arts @ North West.md
-      - Healthy Communities/HealthierSG Fest @ North West.md
       - Healthy Communities/.keep
+      - Healthy Communities/HealthierSG Fest @ North West.md
       - Healthy Communities/Mental Wellness @ North West.md
       - Healthy Communities/North West Brisk Walking Club.md
       - Healthy Communities/North West Dance Fit Club.md
@@ -32,6 +27,16 @@ collections:
       - Healthy Communities/North West Health Qigong Club.md
       - Healthy Communities/North West Running Club.md
       - Healthy Communities/North West Tai Chi Club.md
+      - Inclusive Communities/.keep
+      - Inclusive Communities/Corporate Social Integration Fund.md
+      - Inclusive Communities/Interfaith @ North West.md
+      - Inclusive Communities/Temasek Trust CDC Lifelong Learning Enabling
+        Fund.md
+      - Learning Communities/.keep
+      - Learning Communities/SkillsFuture Advice @ North West.md
+      - Learning Communities/Learning Neighbourhood 2023 @ North West.md
+      - Learning Communities/North West Youth Assembly.md
+      - Learning Communities/SME Centre @ North West.md
       - Sustainable Communities/.keep
       - Sustainable Communities/Budding Greenies @ North West.md
       - Sustainable Communities/Green Bootcamp @ North West.md
@@ -43,8 +48,3 @@ collections:
       - Sustainable Communities/Recycle @ North West.md
       - Sustainable Communities/Reduce @ North West.md
       - Sustainable Communities/Waterways Clean Up @ North West.md
-      - Learning Communities/SkillsFuture Advice @ North West.md
-      - Learning Communities/Learning Neighbourhood 2023 @ North West.md
-      - Learning Communities/.keep
-      - Learning Communities/North West Youth Assembly.md
-      - Learning Communities/SME Centre @ North West.md
