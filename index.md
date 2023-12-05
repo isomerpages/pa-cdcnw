@@ -44,7 +44,7 @@ sections:
         development.
       image: /images/Nurturing Youths.jpg
       button: Find out more
-      url: https://northwest.cdc.gov.sg/programmes/connecting-the-community/club100-northwest
+      url: https://northwest.cdc.gov.sg/programmes/partnerships-and-volunteerism/northwest-ya/
   - infopic:
       title: Inclusive Communities
       id: infopic
