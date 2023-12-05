@@ -55,7 +55,7 @@ sections:
       alt: Image alt text
       image: /images/IMG__57_.jpg
   - infobar:
-      title: Subscribe to Cohesion e-newsletter
+      title: Subscribe to Cohesion Newsletter
       description: Be updated with the latest North West happenings!
       button: Subscribe now
       url: https://form.gov.sg/630866290405b700128d6e53
