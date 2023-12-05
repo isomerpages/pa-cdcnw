@@ -19,7 +19,7 @@ sections:
         through social support programmes and network.
       alt: Image alt text
       image: /images/5M4_8955e.jpg
-      url: https://northwest.cdc.gov.sg/programmes/uplifting-the-community/sfa-northwest
+      url: https://northwest.cdc.gov.sg/programmes/connecting-the-community/club100-northwest/
       button: Find out more
   - infopic:
       title: Healthy Communities
@@ -50,7 +50,7 @@ sections:
       id: infopic
       description: Strengthen social fabric by embracing and involving different
         segments of society .
-      button: Button Text
+      button: Find out more
       url: https://northwest.cdc.gov.sg/programmes/partnerships-and-volunteerism/interfaith-northwest/
       alt: Image alt text
       image: /images/IMG__57_.jpg
