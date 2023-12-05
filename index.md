@@ -14,41 +14,48 @@ sections:
           url: https://northwest.cdc.gov.sg/programmes/uplifting-the-community/learning-neighbourhood/
       variant: image
   - infopic:
-      title: Uplifting The Community
-      description: We aim to provide short-term support for residents through local
-        assistance schemes, and empower residents to improve their lives and
-        employability.
+      title: Caring Communities
+      description: Encourage a giving culture and uplift the lives of residents
+        through social support programmes and network.
       alt: Image alt text
-      image: /images/Nurturing Youths.jpg
-      url: https://northwest.cdc.gov.sg/programmes/uplifting-the-community/sfa-northwest
-      button: Get Empowered
+      image: /images/5M4_8955e.jpg
+      url: https://northwest.cdc.gov.sg/programmes/connecting-the-community/club100-northwest/
+      button: Find out more
   - infopic:
-      title: Promoting Health and Wellness
-      description: Through a range of healthy living programmes, we hope for our North
-        West residents to maintain an active and healthy lifestyle.
+      title: Healthy Communities
+      description: Promote healthy lifestyle, encourage residents to bond and take
+        charge of their own health.
       alt: Image alt text
       image: /images/Launch 2 (2).jpg
-      button: Get Active
+      button: Find out more
       url: https://northwest.cdc.gov.sg/programmes/promoting-health-and-wellness/mental-wellness
   - infopic:
-      title: Advocating Green Living
-      description: Working towards a sustainable future, we aim to imbue a green
-        mindset and spark behavioral change among residents through various
-        green initiatives.
+      title: Sustainable Communities
+      description: Cultivate an eco-friendly lifestyle and building a green
+        environment for our future generations .
       alt: Image alt text
       image: /images/Programmes/Green Living/Kayak 1.jpg
-      button: Get Green
+      button: find out more
       url: https://northwest.cdc.gov.sg/programmes/bonding-the-people/greenhomes-at-northwest
   - infopic:
       alt: Image alt text
-      title: Enabling Partnerships and Volunteerism
-      description: We play an enabler role in connecting our corporate partners'
-        resources to serve the various needs in the community.
-      image: /images/DCIM_0184.jpg
-      button: Get Connected
-      url: https://northwest.cdc.gov.sg/programmes/connecting-the-community/club100-northwest
+      title: Learning Communities
+      description: Promote lifelong learning mindset for personal and professional
+        development.
+      image: /images/Nurturing Youths.jpg
+      button: Find out more
+      url: https://northwest.cdc.gov.sg/programmes/partnerships-and-volunteerism/northwest-ya/
+  - infopic:
+      title: Inclusive Communities
+      id: infopic
+      description: Strengthen social fabric by embracing and involving different
+        segments of society .
+      button: Find out more
+      url: https://northwest.cdc.gov.sg/programmes/partnerships-and-volunteerism/interfaith-northwest/
+      alt: Image alt text
+      image: /images/IMG__57_.jpg
   - infobar:
-      title: Subscribe to Cohesion e-newsletter
+      title: Subscribe to Cohesion Newsletter
       description: Be updated with the latest North West happenings!
       button: Subscribe now
       url: https://form.gov.sg/630866290405b700128d6e53
