@@ -18,7 +18,7 @@ sections:
       description: Encourage a giving culture and uplift the lives of residents
         through social support programmes and network.
       alt: Image alt text
-      image: /images/Nurturing Youths.jpg
+      image: /images/5M4_8955e.jpg
       url: https://northwest.cdc.gov.sg/programmes/uplifting-the-community/sfa-northwest
       button: Find out more
   - infopic:
