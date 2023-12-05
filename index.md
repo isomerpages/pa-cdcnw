@@ -42,7 +42,7 @@ sections:
       title: Learning Communities
       description: Promote lifelong learning mindset for personal and professional
         development.
-      image: /images/DCIM_0184.jpg
+      image: /images/Nurturing Youths.jpg
       button: Find out more
       url: https://northwest.cdc.gov.sg/programmes/connecting-the-community/club100-northwest
   - infopic:
