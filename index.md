@@ -15,9 +15,8 @@ sections:
       variant: image
   - infopic:
       title: Caring Communities
-      description: >
-        Encourage a giving culture and uplift the lives of residents through
-        social support programmes and network.
+      description: Encourage a giving culture and uplift the lives of residents
+        through social support programmes and network.
       alt: Image alt text
       image: /images/Nurturing Youths.jpg
       url: https://northwest.cdc.gov.sg/programmes/uplifting-the-community/sfa-northwest
@@ -46,6 +45,14 @@ sections:
       image: /images/DCIM_0184.jpg
       button: Find out more
       url: https://northwest.cdc.gov.sg/programmes/connecting-the-community/club100-northwest
+  - infopic:
+      title: Inclusive Communities
+      id: infopic
+      description: Strengthen social fabric by embracing and involving different
+        segments of society .
+      button: Button Text
+      url: https://northwest.cdc.gov.sg/programmes/partnerships-and-volunteerism/interfaith-northwest/
+      alt: Image alt text
   - infobar:
       title: Subscribe to Cohesion e-newsletter
       description: Be updated with the latest North West happenings!
