@@ -53,6 +53,7 @@ sections:
       button: Button Text
       url: https://northwest.cdc.gov.sg/programmes/partnerships-and-volunteerism/interfaith-northwest/
       alt: Image alt text
+      image: /images/IMG__57_.jpg
   - infobar:
       title: Subscribe to Cohesion e-newsletter
       description: Be updated with the latest North West happenings!
