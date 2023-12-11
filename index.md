@@ -7,11 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ln web banner 03.jpg
-      key_highlights:
-        - title: Learn more about Learning Neighbourhood 2023 @ North West!
-          description: ""
-          url: https://northwest.cdc.gov.sg/programmes/uplifting-the-community/learning-neighbourhood/
+      background: /images/Artboard 1.png
       variant: image
   - infopic:
       title: Caring Communities
