@@ -51,14 +51,12 @@ sections:
       alt: Image alt text
       image: /images/IMG__57_.jpg
   - infobar:
-      title: Subscribe to Cohesion Newsletter
-      description: Be updated with the latest North West happenings!
+      title: Cohesion Newsletter
+      description: Stay updated on the latest happenings in the North West!
       button: Subscribe now
       url: https://form.gov.sg/630866290405b700128d6e53
   - infobar:
       subtitle: Locate your district
       button: Find now
       url: https://www.gowhere.gov.sg/cdc
-  - resources:
-      title: Resources
 ---
