@@ -17,4 +17,4 @@ variant: markdown
 
 **Check your eligibility [here](https://go.gov.sg/checkfirst-nwdiaper).**
 
-Applications will open on 9 to 29 October 2023. Eligible residents may apply at: **go.gov.sg/nwdiapers**.
+Please note that the application period will open in April and October.
