@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Caring
 variant: markdown
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gbKC8nvxS2w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/tC43PoH6-ZY?si=FLd2EFase4BRqF7O" height="315" width="560"></iframe>
 
 Founded in 2008, **Club-100 @ North West** is championed by a compassionate network of donors who simply want to do good and do more for the less-privileged, the philanthropic club has forged a strong culture of giving back. Each donor contributes a minimum of $100 monthly in an individual or corporate capacity or donates a lump sum amount to provide sustained and timely assistance to the North West community.
 
