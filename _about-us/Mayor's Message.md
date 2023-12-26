@@ -2,6 +2,7 @@
 title: Mayor's Message
 permalink: /about-us/mayors-message/
 description: ""
+variant: markdown
 ---
 ![](/images/About%20Us/Image-220.jpg)
 
@@ -11,7 +12,7 @@ At North West CDC, we are constantly exploring new and innovative ways to addres
 
 Whether it is to promote health and wellness through our Healthy Living clubs, advocate green living by bringing sustainability closer to our community, or uplifting the community through assistance schemes, the CDC hopes to increase our engagements on ground to garner more participation and promote volunteerism to support our residents.
 
-So join us on this meaningful journey as we build a caring and healthy North West community together.
+So join us on this meaningful journey as we build a **Caring and Healthy North West Community** together.
 
 **Alex Yam**<br>
 Mayor of North West District
