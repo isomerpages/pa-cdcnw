@@ -11,4 +11,4 @@ The inaugural North West Sustainability Festival is a dynamic showcase of green 
 
 With different themes and activities each year, the festival aims to cultivate a green mindset within the North West community, educating residents ways to go green and how to practice at home. 
 
-Corporates or groups who are interested to partner us for this festival, please email northwest_cdc@pa.gov.sg for more information.
+Corporates or community organisations who are interested to partner us for this festival, please email northwest_cdc@pa.gov.sg for more information.s
