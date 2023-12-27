@@ -2,6 +2,7 @@ collections:
   cohesion:
     output: true
     order:
+      - January 2024/Photo.md
       - January 2024/Jan At A Glance.md
       - January 2024/.keep
       - January 2024/North West SWEP.md
