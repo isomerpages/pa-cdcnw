@@ -1,0 +1,12 @@
+logo: /images/nwcdclogo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Programmes
+    collection: programmes
+  - title: Cohesion
+    collection: cohesion
+  - title: NEWSROOM
+    collection: newsroom
+  - title: Giving Back
+    collection: giving-back

@@ -1,0 +1,12 @@
+collections:
+  newsroom:
+    output: true
+    order:
+      - Media Releases/2023.md
+      - Media Releases/.keep
+      - Media Releases/2022.md
+      - Speeches/.keep
+      - Speeches/2023.md
+      - Speeches/2022.md
+      - Sustainability Reports/North West Sustainability Reports.md
+      - Sustainability Reports/.keep
