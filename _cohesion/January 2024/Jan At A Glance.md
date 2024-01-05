@@ -530,7 +530,7 @@ Tzu Chi Humanistic Youth Centre</h4>
         <div style="padding: 40px 2rem 20px;">
           <h2 style="color: #FE5D1F; margin-bottom: 0px; letter-spacing: 0px; font-size: x-large; line-height: 26px; font-weight: bold; font-family: Arial, 'sans-serif;'; margin: 0px;"><i>#NorthWestCohesionTrivia: 
 Read&nbsp;and&nbsp;win! </i></h2>
-          <p style="font-size: 16px; line-height: 26px;">Stand a chance to win shopping vouchers by joining our #NorthWestCohesionTriva contest! All you need to do is answer some simple questions about initiatives in the North&nbsp;West. <br><br>
+          <p style="font-size: 16px; line-height: 26px;">Stand a chance to win shopping vouchers by joining our #NorthWestCohesionTrivia contest! All you need to do is answer some simple questions about initiatives in the North&nbsp;West. <br><br>
 
 Hint: Find the answers in past issues of our 
 Cohesion e-newsletters</p>
