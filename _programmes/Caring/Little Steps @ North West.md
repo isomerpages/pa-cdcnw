@@ -3,10 +3,11 @@ title: Little Steps @ North West
 permalink: /programmes/uplifting-the-community/little-steps/
 description: ""
 third_nav_title: Caring
+variant: markdown
 ---
 ![](/images/IMG197.jpg)
 
-**Little Steps @ North West** provides cash assistance to children aged up to six years old, in the North West district, who are supported by KidSTART Singapore (SG). Each eligible child will receive $500 per financial year disbursed to the parents’ and caregivers’ bank accounts. The additional cash assistance will help to relieve families’ stress from upkeeping daily expenses, thus enabling them to focus on the children’s development.
+**Little Steps @ North West** provides cash assistance to children aged up to six years old in the North West district, who are supported by KidSTART Singapore (SG), to help relieve their families' financial stress from upkeeping daily expenses. Each eligible child will receive $500 per financial year disbursed to the parents’ or caregivers’ bank accounts.
 
 Important to note:
 

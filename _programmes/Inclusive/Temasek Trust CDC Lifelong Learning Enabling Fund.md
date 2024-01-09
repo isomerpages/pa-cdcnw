@@ -3,15 +3,12 @@ title: Temasek Trust CDC Lifelong Learning Enabling Fund
 permalink: /programmes/partnerships-and-volunteerism/lifelong-learning-enabling-fund/
 description: ""
 third_nav_title: Inclusive
+variant: markdown
 ---
 ![](/images/Programmes/Partnership%20&amp;%20Volunteerism/Temasek%20Trust%20CDC%20Lifelong%20Learning.jpg)
 
-Adults with disabilities looking to upskill, or go for training, can now tap on the new ‘Temasek Trust-CDC Lifelong Learning Enabling Fund’ and submit their applications at [go.gov.sg/temasektrust-cdc-fund](go.gov.sg/temasektrust-cdc-fund).  
+Adults with disabilities looking to upskill can tap on the **Temasek Trust-CDC Lifelong Learning Enabling Fund**. Interested applicants may visit [go.gov.sg/temasektrust-cdc-fund](go.gov.sg/temasektrust-cdc-fund) to check out their suite of available courses and submit their applications. 
  
-This Fund is set up by Temasek Trust's&nbsp;Oscar@sg Fund, North West CDC, together with the other Community Development Councils (CDCs), and is administered by SG Enable. It was launched in September 2021 amidst COVID-19, where home-based learning, working from home and widespread use of technology are now part of the new normal.  
+Set up by Temasek Trust's Oscar@SG Fund and the five Community Development Councils (CDCs), the fund was launched in September 2021 amidst the COVID-19 pandemic to enable adults with disabilities to acquire the relevant vocational and independent living skills to emerge stronger.
   
-This fund aims to enable adults with disabilities to acquire the relevant vocational and independent living skills to emerge stronger!  
-  
-Interested applicants may visit go.gov.sg/temasektrust-cdc-fund to find out more and check out the suite of courses available!  
-  
-For more enquiries, please email to: learningfund@sgenable.sg
+For more enquiries, please email learningfund@sgenable.sg.

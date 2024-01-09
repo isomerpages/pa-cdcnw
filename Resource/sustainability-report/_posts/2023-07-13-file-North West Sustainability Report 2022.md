@@ -5,4 +5,5 @@ layout: file
 description: ""
 image: ""
 file_url: /files/north west sustainability report fy2022.pdf
+variant: tiptap
 ---
