@@ -500,6 +500,28 @@ h1, h2, h3, h4, h5, h6, li {
     <div class="col-12 w-100">
       <div class="col-4 text-center">
         <div style="padding: 30px 20px 0px;">
+          <img style="max-width: 120px;" src="/images/Cohesion/January%202024/survey.png">
+        </div>
+      </div>
+      <div class="col-8">
+        <div style="padding: 40px 2rem 20px;">
+          <h2 style="color: #FE5D1F; margin-bottom: 0px; letter-spacing: 0px; font-size: x-large; line-height: 26px; font-weight: bold; font-family: Arial, 'sans-serif;';"><i>North West CDC Health and Fitness Habits Survey</i></h2>
+
+          <p style="font-size: 16px; line-height: 26px;">Complete a quick survey and stand a chance to be one of 30 lucky winners to receive a $30 shopping e-voucher! </p>
+
+          <div style="max-width: 100%; text-align: left; padding: 30px 0px;">
+            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold;" target="_new" href="https://go.gov.sg/nwcdchlsurvey24">
+              <em>Complete The Survey Now</em>
+            </a>
+          </div>
+        </div>
+      </div>
+      <hr style="margin: 0px 30px; border: thin solid #ebebeb;">
+    </div>
+
+    <div class="col-12 w-100">
+      <div class="col-4 text-center">
+        <div style="padding: 30px 20px 0px;">
           <img style="max-width: 120px;" src="/images/Cohesion/January%202024/running_clinic.png">
         </div>
       </div>
@@ -535,7 +557,7 @@ Read&nbsp;and&nbsp;win! </i></h2>
 Hint: Find the answers in past issues of our 
 Cohesion e-newsletters</p>
           <div style="max-width: 100%; text-align: left; padding: 30px 0px;">
-            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold;" target="_new" href="#">
+            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold;" target="_new" href="https://www.facebook.com/nwcdc/posts/pfbid0zgVztrK88SxVzgzr5dc9NWSrTuoAFScet5uqdyZsWhq1TmB3JeiQp4Evo4KwXoxhl">
               <em>Join Now</em>
             </a>
           </div>
@@ -563,30 +585,10 @@ Cohesion e-newsletters</p>
           </div>
         </div>
       </div>
-      <hr style="margin: 0px 30px; border: thin solid #ebebeb;">
+      
     </div>
 
-    <div class="col-12 w-100">
-      <div class="col-4 text-center">
-        <div style="padding: 30px 20px 0px;">
-          <img style="max-width: 120px;" src="/images/Cohesion/January%202024/survey.png">
-        </div>
-      </div>
-      <div class="col-8">
-        <div style="padding: 40px 2rem 20px;">
-          <h2 style="color: #FE5D1F; margin-bottom: 0px; letter-spacing: 0px; font-size: x-large; line-height: 26px; font-weight: bold; font-family: Arial, 'sans-serif;';"><i>North West CDC Health and Fitness Habits Survey</i></h2>
 
-          <p style="font-size: 16px; line-height: 26px;">Complete a quick survey and stand a chance to be one of 30 lucky winners to receive a $30 shopping e-voucher! </p>
-
-          <div style="max-width: 100%; text-align: left; padding: 30px 0px;">
-            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold;" target="_new" href="https://go.gov.sg/nwcdchlsurvey24">
-              <em>Complete The Survey Now</em>
-            </a>
-          </div>
-        </div>
-      </div>
-
-    </div>
 
     </div>
 
