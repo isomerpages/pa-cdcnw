@@ -535,7 +535,7 @@ Read&nbsp;and&nbsp;win! </i></h2>
 Hint: Find the answers in past issues of our 
 Cohesion e-newsletters</p>
           <div style="max-width: 100%; text-align: left; padding: 30px 0px;">
-            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold;" target="_new" href="#">
+            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold;" target="_new" href="https://www.facebook.com/nwcdc/posts/pfbid0zgVztrK88SxVzgzr5dc9NWSrTuoAFScet5uqdyZsWhq1TmB3JeiQp4Evo4KwXoxhl">
               <em>Join Now</em>
             </a>
           </div>
