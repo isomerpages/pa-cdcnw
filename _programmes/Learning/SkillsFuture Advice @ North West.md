@@ -41,7 +41,18 @@ Visit NTUC’s e2i website for more details on the job positions available: [_ht
 
 For job seekers who prefer face-to-face interactions, we regularly host physical recruitment events throughout the North West district. Be sure to mark your calendar for the following dates:
 
-* 10 November 2023, Chong Pang Amphitheatre (Beside Chong Pang Market & Food Centre)
-* 24 November 2023, Kampung Admiralty Community Plaza
+| Job Fairs 2024  | |  |
+| -------- | -------- | -------- |
+| March     | Marsiling-Yew Tee     |   |
+| March     | Holland-Bukit Timah     |   |
+| April     | Sembawang     |   |
+| May     | Nee Soon     |   |
+| June     | Bukit Panjang SMC     |   |
+| July     | Sembawang     |   |
+| July     | Holland-Bukit Timah     |   |
+| September     | Marsiling-Yew Tee     |   
+| September     | Nee Soon     | 
+| October     | Bukit Panjang     | 
+| November     | Sembawang     | 
 
 For more information and to register for the respective events, please visit this [link](https://content.mycareersfuture.gov.sg/career-events/). Please note that the above dates and venues are subject to changes and registration will only open nearer to the event date.
