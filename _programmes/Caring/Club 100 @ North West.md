@@ -7,7 +7,7 @@ variant: markdown
 ---
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/tC43PoH6-ZY?si=FLd2EFase4BRqF7O" height="315" width="560"></iframe>
 
-Founded in 2008, **Club-100 @ North West** is championed by a compassionate network of donors who simply want to do good and do more for the less-privileged, the philanthropic club has forged a strong culture of giving back. Each donor contributes a minimum of $100 monthly in an individual or corporate capacity or donates a lump sum amount to provide sustained and timely assistance to the North West community.
+Founded in 2008, **Club-100 @ North West** is championed by a network of compassionate donors who simply want to do good and do more for the less-privileged, the philanthropic club has forged a strong culture of giving back. Each donor contributes a minimum of $100 monthly in an individual or corporate capacity or donates a lump sum amount to provide sustained and timely assistance to the North West community.
 
 Since 2024, the programme has been expanded to cover more areas of support and to assist more needy residents. Additional support will be given to residents struggling with making ends meet due to the rising cost of living, the financial strain of raising children, unforeseen yet essential expenses for the household, or emergency situations at home. The unwavering contributions from our donors through Club-100 @ North West will create a profound and lasting impact to the lives of less-privileged families. 
 
