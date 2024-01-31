@@ -15,7 +15,7 @@ Stay one step ahead of the future economy! Check out the [Skills Demand for the 
 
 Join us in making lifelong learning our way of life! [Subscribe](https://go.gov.sg/connectsfa) to our electronic mailers to receive updates on the latest upskilling resources.
 
-**Skills Frameworks**
+**Skills Framework**
 
 Find out more about the [Skills Framework](https://www.skillsfuture.gov.sg/skills-framework), which is an integral component of the Industry Transformation Maps. It is co-created by Employers, Industry Associations, Education Institutions, Unions and Government for the Singapore workforce. Skills Framework provides key sector information, occupations/job roles, and the required existing and emerging skills.
 
