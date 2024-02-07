@@ -15,6 +15,12 @@ Stay one step ahead of the future economy! Check out the [Skills Demand for the 
 
 Join us in making lifelong learning our way of life! [Subscribe](https://go.gov.sg/connectsfa) to our electronic mailers to receive updates on the latest upskilling resources.
 
+**Skills Framework**
+
+Find out more about the [Skills Framework](https://www.skillsfuture.gov.sg/skills-framework), which is an integral component of the Industry Transformation Maps. It is co-created by Employers, Industry Associations, Education Institutions, Unions and Government for the Singapore workforce. Skills Framework provides key sector information, occupations/job roles, and the required existing and emerging skills.
+
+Skills Framework is also developed with the objectives to build deep skills for a lean workforce, enhance business competitiveness and support employment and employability.
+
 **Job Seekers**
 
 **My CareersFuture Portal**
@@ -30,8 +36,6 @@ The portal also highlights job positions eligible for Government support via WSG
 	
 ![](/images/Programmes/Uplifting%20The%20Community/jobs@heartland.png)
 	
-	
-
 Looking to explore over 1000 job vacancies from multiple employers in various industries? Full-Time and Part-Time job opportunities!
 
 Visit NTUC’s e2i website for more details on the job positions available: [_https://www.e2i.com.sg/events/jobs-heartland-job-portal/_](https://www.e2i.com.sg/events/jobs-heartland-job-portal/)
