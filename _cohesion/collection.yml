@@ -2,6 +2,7 @@ collections:
   cohesion:
     output: true
     order:
+      - March 2024/North West Running Club.md
       - March 2024/North West Giraffe Fund.md
       - March 2024/Club 100 @ North West.md
       - March 2024/.keep
