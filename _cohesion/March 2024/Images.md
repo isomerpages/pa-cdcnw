@@ -117,3 +117,7 @@ third_nav_title: March 2024
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cohesion/March 2024/fiona_quote_2.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cohesion/March 2024/planting_seeds.png">
+</div>
+<p></p>
