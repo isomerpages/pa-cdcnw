@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Caring/Project Sama Sama.md
       - Caring/.keep
       - Caring/CDC Vouchers Scheme.md
       - Caring/Club 100 @ North West.md
