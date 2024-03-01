@@ -6,6 +6,15 @@ description: ""
 third_nav_title: March 2024
 ---
 
+
+
+
+
+
+
+
+
+
 <style>
 
 p {
@@ -411,6 +420,7 @@ object-fit: cover;
   </style>
 
 
+
 <article style="max-width: 800px; width: 100%; margin: auto;">
 
 <div style="width: 100%;">
@@ -425,10 +435,7 @@ object-fit: cover;
 </div>
 
 <div style="max-width: 100%; padding: 30px 0px 10px;" class="rounded20">
-  
-      <div style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;" class="videoframe">
-        <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" class="rounded20" src="https://www.youtube.com/embed/BBakYvMjsXU?si=eq_4LdILFt-zTRjE?version=3&amp;autoplay=1&amp;mute=1&amp;rel=0&amp;&amp;showinfo=0&amp;loop=1"></iframe>
-      </div>
+  <img style="width: 100%; max-width:" class="rounded20" src="/images/kv_club100_collage.gif">
 </div>
 
 <div style="padding: 20px 0px 0px;">
@@ -463,7 +470,7 @@ Fiona has always been passionate about supporting the community. Learning about 
 
       <p style="font-size: 16px; text-align: left; line-height: 24px; color: #000; margin: 10px 0px 0px;">You too can make a difference! Join Club-100 @ North West and become a part of A Giving Community to uplift the lives of less-privileged residents among us.<br><br>
 
-To become a Club-100 @ North West member, email us a <a style="font-weight: bold; color: #D5262B;" target="_new" href="mailto:northwestcdc_partnerships@pa.gov.sg">northwestcdc_partnerships@pa.gov.sg</a> or <a style="font-weight: bold; color: #D5262B;" target="_new" href="https://northwest.cdc.gov.sg/files/club-100_donation_form_may21.pdf">download the form</a>.<br><br>
+To become a Club-100 @ North West member, email us a <a style="font-weight: bold; color: #D5262B;" target="_new" href="mailto:northwestcdc_partnerships@pa.gov.sg">northwestcdc_partnerships@pa.gov.sg</a> or <a style="font-weight: bold; color: #D5262B;" target="_new" href="https://go.gov.sg/c100-giroform">download the form</a>.<br><br>
 
 Find out more about Club-100 <a style="font-weight: bold; color: #D5262B;" target="_new" href="https://go.gov.sg/c100nw">here</a>.
       </p> 
@@ -516,5 +523,6 @@ Find out more about Club-100 <a style="font-weight: bold; color: #D5262B;" targe
 
 
 </article>
+
 
 
