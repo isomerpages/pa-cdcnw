@@ -6,6 +6,15 @@ description: ""
 third_nav_title: March 2024
 ---
 
+
+
+
+
+
+
+
+
+
 <style>
 
 p {
@@ -414,6 +423,7 @@ object-fit: cover;
 </style>
 
 
+
 <article style="max-width: 800px; width: 100%; margin: auto;">
 
 <div style="width: 100%;">
@@ -443,10 +453,7 @@ Discover how the journey began, and how the community farm has rekindled the kam
 </div>
 <div style="background: #F2FDFD; width: 100%; -webkit-border-bottom-right-radius: 25px; -webkit-border-bottom-left-radius: 25px; -moz-border-radius-bottomright: 25px; -moz-border-radius-bottomleft: 25px; border-bottom-right-radius: 25px; border-bottom-left-radius: 25px;">
   <div style="padding: 20px 25px 40px;">
-    <div class="video-container rounded20">
-      <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/BT3TSai4vCM?si=bCdYjVf0m-uCty3_" height="315" width="560"></iframe>
-    </div>
-    
+    <img style="width: 100%;" class="rounded20" src="/images/harvest_montage.gif">
   </div>
 </div>
 
@@ -537,7 +544,7 @@ Here are some of things you can do to help us out:<br>
   <div style="padding: 30px 40px;">
     <div style="padding: 0px 0px;">
 
-      <p style="font-size: 20px; font-weight: bold; text-align: left; color: #086B37; margin: 0px 0px;">North West Giraffe Fund
+      <p style="font-size: 20px; font-weight: bold; text-align: left; color: #086B37; margin: 0px 0px;"><strong>North West Giraffe Fund</strong>
       </p> 
 
       <p style="font-size: 16px; text-align: left; line-height: 24px; color: #000; margin: 10px 0px 0px;">Feel inspired by our stories and have ideas to champion sustainable living? Bring your green idea to life with the help of the North West Giraffe Fund. Find out more <a style="font-weight: bold; color: #086B37;" target="_new" href="https://northwest.cdc.gov.sg/programmes/bonding-the-people/northwest-giraffe-fund/">here</a>.
@@ -590,5 +597,6 @@ Here are some of things you can do to help us out:<br>
 
 
 </article>
+
 
 
