@@ -2,7 +2,6 @@ collections:
   cohesion:
     output: true
     order:
-      - March 2024/Images.md
       - March 2024/March At A Glance.md
       - March 2024/.keep
       - March 2024/North West Giraffe Fund.md
