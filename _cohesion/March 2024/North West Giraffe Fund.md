@@ -555,6 +555,11 @@ Here are some of things you can do to help us out:<br>
 </div>
 
 
+<div style="padding: 20px 0px;">
+      <a target="_new" href="https://northwest.cdc.gov.sg/cohesion/march-2023/green-weekend-guide/">
+        <img class="w-100 rounded20" src="https://northwest.cdc.gov.sg/images/Cohesion/March%202023/green-living_kv.jpg">
+      </a>
+</div>
 
 
 
