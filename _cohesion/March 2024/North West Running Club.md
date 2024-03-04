@@ -5,6 +5,16 @@ variant: markdown
 description: ""
 third_nav_title: March 2024
 ---
+
+
+
+
+
+
+
+
+
+
 <style>
 
 p {
@@ -468,7 +478,7 @@ Let’s find out more!
       <p style="font-size: 20px; font-weight: bold; text-align: left; color: #F96B8D; margin: 0px 0px;"><strong>North West Running Club</strong>
       </p> 
 
-      <p style="font-size: 16px; text-align: left; line-height: 24px; color: #000; margin: 10px 0px 0px;">Lace up your running shoes and be a part of a supportive community! Join us for regular runs around the North West District. Meet new running “kakis” and build up your fitness at the same time! All runners are welcome. Register your interest <a style="font-weight: bold; color: #F96B8D;" target="_new" href="https://go.gov.sg/hlclub-interestform">here</a>.
+      <p style="font-size: 16px; text-align: left; line-height: 24px; color: #000; margin: 10px 0px 0px;">Lace up your running shoes and be a part of this #runfam! Join us for regular runs around the North West, meet new running "kakis" and build up your fitness at the same time! What's more? The North West Running Club organises running clinics with expert speakers to share running and health tips every now and then! Register your interest <a style="font-weight: bold; color: #F96B8D;" target="_new" href="https://go.gov.sg/hlclub-interestform">here</a>.
       </p> 
 
       <p style="font-size: 20px; font-weight: bold; text-align: left; color: #F96B8D; margin: 30px 0px 0px;"><strong>North West Running Club Running Sessions</strong>
@@ -532,3 +542,6 @@ Let’s find out more!
 
 
 </article>
+
+
+
