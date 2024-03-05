@@ -5,6 +5,16 @@ variant: markdown
 description: ""
 third_nav_title: March 2024
 ---
+
+
+
+
+
+
+
+
+
+
 <style>
 
 p {
@@ -409,7 +419,7 @@ h1, h2, h3, h4, h5, h6, li {
       <em>Let’s Build A Community Farm Together  </em>
     </h2>
     <p style="font-size: 16px; line-height: 26px;">Residents revived the kampung spirit by building their very own community farm in Nee Soon East. Funded by the North West GIRAFFE Fund, this initiative has brought residents closer to nature and inspired sustainable&nbsp;living. </p>
-    <div style="max-width: 100%; text-align: center; padding: 30px 15px 15px;"><a style="background: #086B37; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px;" href="https://northwest.cdc.gov.sg/cohesion/january-2024/nw-swep/"><em>Discover The Farm</em></a></div>
+    <div style="max-width: 100%; text-align: center; padding: 30px 15px 15px;"><a style="background: #086B37; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px;" href="https://northwest.cdc.gov.sg/cohesion/march-2024/nw-giraffe"><em>Discover The Farm</em></a></div>
   </div>
   </div>
 
@@ -431,7 +441,7 @@ h1, h2, h3, h4, h5, h6, li {
     </p> 
 
     <div style="width: 100%; text-align: center; display: inline-flex; margin: 0px auto;">
-    <div style="max-width: 100%; text-align: center; padding: 15px 15px; margin: 0px auto;"><a style="background: #DA312C; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px;" href="https://northwest.cdc.gov.sg/cohesion/january-2024/nw-fitnessx/"><em>Read Fiona's Story</em></a>
+    <div style="max-width: 100%; text-align: center; padding: 15px 15px; margin: 0px auto;"><a style="background: #DA312C; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px;" href="https://northwest.cdc.gov.sg/cohesion/march-2024/c100"><em>Read Fiona's Story</em></a>
     </div>
     </div>
   </div>
@@ -455,7 +465,7 @@ h1, h2, h3, h4, h5, h6, li {
     </p> 
 
     <div style="width: 100%; text-align: center; display: inline-flex; margin: 0px auto;">
-    <div style="max-width: 100%; text-align: center; padding: 65px 15px 15px; margin: 0px auto;"><a style="background: #F96B8D; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px;" href="https://northwest.cdc.gov.sg/cohesion/january-2024/nw-ya/"><em>Join The #RunFam</em></a>
+    <div style="max-width: 100%; text-align: center; padding: 65px 15px 15px; margin: 0px auto;"><a style="background: #F96B8D; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px;" href="https://northwest.cdc.gov.sg/cohesion/march-2024/nw-running"><em>Join The #RunFam</em></a>
     </div>
     </div>
   </div>
@@ -479,7 +489,7 @@ and Care&nbsp;Industries  </strong>
     </h2>
     <p style="font-size: 16px; line-height: 26px;">Looking for a job? Explore careers in the fast-growing digital, green and care industries. Gain practical tips on how to level up your skills so you can future-proof your careers.</p>
     <div style="max-width: 100%; text-align: center; padding: 30px 15px 15px;">
-      <a style="background: #1F4D7F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px;" href="https://northwest.cdc.gov.sg/cohesion/january-2024/nw-sustfest/">
+      <a style="background: #1F4D7F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px;" href="https://northwest.cdc.gov.sg/cohesion/march-2024/nw-sfa">
         <em>Explore New Careers</em>
       </a>
     </div>
@@ -514,7 +524,7 @@ and Care&nbsp;Industries  </strong>
           <p style="font-size: 16px; line-height: 26px;">Let's see how well you know the different landmarks in the North West. Match them to the correct emojis and stand a chance to win $20 shopping vouchers!</p>
 
           <div style="max-width: 100%; text-align: left; padding: 30px 0px;">
-            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold;" target="_new" href="https://go.gov.sg/nwcdchlsurvey24">
+            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold;" target="_new" href="https://www.instagram.com/p/C4FwtTmSN_k/">
               <em>Crack The Code</em>
             </a>
           </div>
@@ -538,7 +548,7 @@ and Care&nbsp;Industries  </strong>
 Follow us on Facebook and Instagram to catch more exciting events coming up in your neighbourhood.  
 </p>
           <div style="max-width: 100%; text-align: left; padding: 30px 0px;">
-            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold;" href="https://go.gov.sg/nwrunningclinic2024">
+            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold;" target="_new" href="https://www.facebook.com/share/p/QtMjWxDtEQozuAnh/?mibextid=oFDknk">
               <em>Stay Updated</em>
             </a>
           </div>
@@ -637,3 +647,8 @@ Building on these conversations, PA and its grassroots organisations will be org
 </div>
 
 </div>
+
+
+
+
+
