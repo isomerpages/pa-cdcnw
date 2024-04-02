@@ -19,4 +19,4 @@ Eligible applicants may apply during the two application windows each year, and 
 
 **Check your eligibility [here](https://go.gov.sg/checkfirst-nwdiaper).**
 
-Please note that the applications will open in April and October 2024 via this [link](https://form.gov.sg/650902912ccd0f00129a9040)
+Please note that the applications will open in April and October 2024 .
