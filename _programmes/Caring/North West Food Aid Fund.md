@@ -21,6 +21,6 @@ North West CDC identifies the beneficiaries jointly with the Grassroots Organisa
 
 *	Resident of the North West District
 
-*	Monthly household income of ≤$3,400 or Monthly Per Capita Income of ≤$850
+*	Monthly household income of ≤$3,500 or Monthly Per Capita Income of ≤$1,000
 
-Find out more about the quarterly care pack distributions [here](https://northwest.cdc.gov.sg/programmes/connecting-the-community/nw-serviceweeks/). 
+Find out more about the quarterly care pack distributions [here](https://northwest.cdc.gov.sg/programmes/connecting-the-community/nw-serviceweeks/).

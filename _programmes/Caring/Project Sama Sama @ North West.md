@@ -1,5 +1,5 @@
 ---
-title: Project Sama @ North West
+title: Project Sama Sama @ North West
 permalink: /programmes/caring/project-sama/
 variant: tiptap
 description: ""
