@@ -14,4 +14,3 @@ Residents living in HDB units above 4-room or private properties may apply throu
 To qualify as a Green Home, the following criteria must be fulfilled:
 ![](/images/Programmes/Green%20Living/green%20homes%20@%20north%20west.png)
 
-**Green Homes @ North West - Support for 1 to 3 rooms** provides additional support for residents living in smaller HDB units, to offset the cost of purchasing energy and water-efficient appli
