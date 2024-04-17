@@ -16,7 +16,7 @@ West District.</p>
 with a variety of family-friendly activities and free sports try-outs by
 North West Healthy Living Clubs such as FitnessX (Zumba, Kpop, Fight-Do,
 HIIT), Dance-Fit, Qigong and more!</p>
-<p><a href="https://go.gov.sg/hlf-northwest" rel="noopener noreferrer nofollow" target="_blank">Register now </a>to
+<p><a href="https://go.gov.sg/hlf-northwest" rel="noopener noreferrer nofollow" target="_blank">Register now</a> to
 secure your spot! At the information counter in the stadium, each participant
 will receive a game card to complete and redeem free snacks. Plus, don’t
 miss out the chance to win prizes by showcasing your skills and teamwork
@@ -97,8 +97,8 @@ and other exciting prizes!</p>
 </ul>
 <h4><strong>★ Win Prizes in our social Media Giveaway ★</strong></h4>
 <p>Participate in our social media giveaway and redeem prizes at the Healthy
-Living Festival @ North West event! Follow us and stay tuned to our <a href="https://www.facebook.com/nwcdc/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> and
-<a href="instagram.com/northwestcdc/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>for more information.</p>
+Living Festival @ North West event! Follow us on our <a href="https://www.facebook.com/nwcdc/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> and
+<a href="instagram.com/northwestcdc/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>and stay tuned for more information.</p>
 <h4><strong>★ Competitions ★</strong></h4>
 <p>We have various competitions happening across the two-day festival for
 you, your friends, and families to take part in! Enjoy your favourite sports
