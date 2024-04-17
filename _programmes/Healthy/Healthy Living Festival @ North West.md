@@ -41,3 +41,65 @@ family telematch, and leaderboard challenges!</p>
 </table>
 <p>Check out the activities and the key highlights not to be missed at the
 weekend festival!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HLF_Key_Highlights.jpg">
+</div>
+<p>View the full programme line-up:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Day_1__1_June_2024____Full_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">Day 1 (1 June 2024)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Day_2__2_June_2024____Full_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">Day 2 (2 June 2024)</a>
+</p>
+</li>
+</ul>
+<h4><strong>★ Free Sports Try-Out ★</strong></h4>
+<p>Take part in free sports try-outs by North West Healthy Living Clubs:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>North West Brisk Walking Club</p>
+</li>
+<li>
+<p>North West Dance-Fit Club</p>
+</li>
+<li>
+<p>North West FitnessX (HIIT, Fight-Do, Kpop Fitness, Zumba)</p>
+</li>
+<li>
+<p>North West Health Qigong Club</p>
+</li>
+<li>
+<p>North West Running Club</p>
+</li>
+</ul>
+<h4><strong>★ Leaderboard Challenges ★</strong></h4>
+<p>Look out for these exciting leaderboard challenges where you, your friends,
+and families can participate, and stand a chance to win up to $50 vouchers
+and other exciting prizes!</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapteh</p>
+</li>
+<li>
+<p>E-Virtual Cycling</p>
+</li>
+<li>
+<p>Lift-It-Up</p>
+</li>
+<li>
+<p>Longest Jump</p>
+</li>
+<li>
+<p>Planking</p>
+</li>
+<li>
+<p>Skipping</p>
+</li>
+<li>
+<p>Squats</p>
+</li>
+</ul>
+<h4><strong>★ Win Prizes in our social Media Giveaway ★</strong></h4>
+<p></p>
