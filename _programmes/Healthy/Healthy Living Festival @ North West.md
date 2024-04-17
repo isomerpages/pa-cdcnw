@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Healthy
 variant: tiptap
 ---
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/nw-hlf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/HLF_Poster.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/hlf-northwest"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/HLF_Poster.jpg"></a>
 <p></p>
 <p><strong>Healthy Living Festival @ North West </strong>is a flagship event
 to promote healthy living in the North West District. The sports festival
@@ -16,7 +16,7 @@ District.</p>
 with a variety of family-friendly activities and free sports try-outs by
 North West Healthy Living Clubs such as FitnessX (Zumba, Kpop, Fight-Do,
 HIIT), Dance-Fit, Qigong and more!</p>
-<p><a href="https://go.gov.sg/nw-hlf" rel="noopener noreferrer nofollow" target="_blank">Register now</a> to
+<p><a href="https://go.gov.sg/hlf-northwest" rel="noopener noreferrer nofollow" target="_blank">Register now </a>to
 secure your spot! At the entry, each participant will receive a game card
 to complete and redeem free snacks. Plus, don’t miss out the chance to
 win prizes by showcasing your skills and teamwork in various competitions,
