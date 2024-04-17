@@ -42,7 +42,7 @@ family telematch, and leaderboard challenges!</p>
 <p>Check out the activities and the key highlights not to be missed at the
 weekend festival!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HLF_Key_Highlights.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HLF_Key_Highlights_2.jpg">
 </div>
 <p>View the full programme line-up:</p>
 <ul data-tight="true" class="tight">
@@ -102,4 +102,25 @@ and other exciting prizes!</p>
 </li>
 </ul>
 <h4><strong>★ Win Prizes in our social Media Giveaway ★</strong></h4>
+<p>Participate in our social media giveaway and redeem prizes at the Healthy
+Living Festival @ North West event! Follow us and stay tuned to our <a href="https://www.facebook.com/nwcdc/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> and
+<a href="instagram.com/northwestcdc/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>for more information.</p>
+<h4><strong>★ Competitions ★</strong></h4>
+<p>We have various competitions happening across the two-day festival for
+you, your friends, and families to take part in! Enjoy your favourite sports
+through some friendly competition!</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Badminton Competition</p>
+</li>
+<li>
+<p>Basketball Competition</p>
+</li>
+<li>
+<p>Kids Futsal Competition</p>
+</li>
+<li>
+<p>Family Telematch</p>
+</li>
+</ul>
 <p></p>
