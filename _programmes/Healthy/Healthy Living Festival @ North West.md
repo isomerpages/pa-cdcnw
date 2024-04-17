@@ -83,22 +83,16 @@ and other exciting prizes!</p>
 <p>Chapteh</p>
 </li>
 <li>
-<p>E-Virtual Cycling</p>
+<p>E-Virtual Cycling (3km)</p>
 </li>
 <li>
 <p>Lift-It-Up</p>
 </li>
 <li>
-<p>Longest Jump</p>
+<p>Vertical Jump</p>
 </li>
 <li>
-<p>Planking</p>
-</li>
-<li>
-<p>Skipping</p>
-</li>
-<li>
-<p>Squats</p>
+<p>Grip Strength</p>
 </li>
 </ul>
 <h4><strong>★ Win Prizes in our social Media Giveaway ★</strong></h4>
