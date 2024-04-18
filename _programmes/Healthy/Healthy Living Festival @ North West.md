@@ -41,8 +41,9 @@ in various competitions, family telematch, and leaderboard challenges!</p>
 </table>
 <p>Check out the activities and the key highlights not to be missed at the
 weekend festival!</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HLF_Key_Highlights_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HLF_Key_Highlights__3_.jpg">
 </div>
 <p>View the full programme line-up:</p>
 <ul data-tight="true" class="tight">
@@ -117,4 +118,9 @@ through some friendly competition!</p>
 <p>Family Telematch</p>
 </li>
 </ul>
+<h4><strong>★ Workshops and Talks ★</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Workshops.jpg">
+</div>
 <p></p>
