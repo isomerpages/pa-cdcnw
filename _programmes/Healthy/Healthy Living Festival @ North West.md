@@ -111,7 +111,7 @@ through some friendly competition!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For enquiries, please contact North West CDC at <a href="mailto:northwest_cdc@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>northwest_cdc@pa.gov.sg</u></a>.</p>
+<p>For enquiries, please contact <a href="mailto:northwest_cdc@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>northwest_cdc@pa.gov.sg</u></a>.</p>
 </td>
 </tr>
 <tr>
