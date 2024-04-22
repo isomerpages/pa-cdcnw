@@ -119,7 +119,8 @@ through some friendly competition!</p>
 <p>Badminton Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click here to register</p>
+<p>Click <a href="https://go.gov.sg/hlfbadminton" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register</p>
 </td>
 </tr>
 <tr>
@@ -127,7 +128,8 @@ through some friendly competition!</p>
 <p>Kids Futsal Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click here to register</p>
+<p>Click <a href="https://go.gov.sg/hlfkidsfutsal" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register</p>
 </td>
 </tr>
 <tr>
@@ -135,7 +137,8 @@ through some friendly competition!</p>
 <p>Family Telematch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click here to register</p>
+<p>Click <a href="https://go.gov.sg/hlffamilytelematch" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register</p>
 </td>
 </tr>
 </tbody>
