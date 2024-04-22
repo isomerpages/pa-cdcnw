@@ -41,7 +41,6 @@ in various competitions, family telematch, and leaderboard challenges!</p>
 </table>
 <p>Check out the activities and the key highlights not to be missed at the
 weekend festival!</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HLF_Key_Highlights__3_.jpg">
 </div>
@@ -108,7 +107,8 @@ through some friendly competition!</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Basketball Competition</p>
+<p><a href="/files/HLF_Basketball_Poster.pdf" rel="noopener noreferrer nofollow" target="_blank">Basketball Competition</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For enquiries, please contact North West CDC at <a href="mailto:northwest_cdc@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>northwest_cdc@pa.gov.sg</u></a>.</p>
@@ -116,7 +116,8 @@ through some friendly competition!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Badminton Competition</p>
+<p><a href="/files/HLF_Badminton_Poster.pdf" rel="noopener noreferrer nofollow" target="_blank">Badminton Competition</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click <a href="https://go.gov.sg/hlfbadminton" rel="noopener noreferrer nofollow" target="_blank">here</a> to
@@ -125,7 +126,8 @@ register</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kids Futsal Competition</p>
+<p><a href="/files/HLF_Futsal_Poster.pdf" rel="noopener noreferrer nofollow" target="_blank">Kids Futsal Competition</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click <a href="https://go.gov.sg/hlfkidsfutsal" rel="noopener noreferrer nofollow" target="_blank">here</a> to
@@ -134,7 +136,8 @@ register</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Family Telematch</p>
+<p><a href="/files/HLF_Family_Telematch_Poster.pdf" rel="noopener noreferrer nofollow" target="_blank">Family Telematch</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click <a href="https://go.gov.sg/hlffamilytelematch" rel="noopener noreferrer nofollow" target="_blank">here</a> to
