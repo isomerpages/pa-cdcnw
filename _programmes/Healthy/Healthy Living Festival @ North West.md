@@ -41,7 +41,6 @@ in various competitions, family telematch, and leaderboard challenges!</p>
 </table>
 <p>Check out the activities and the key highlights not to be missed at the
 weekend festival!</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HLF_Key_Highlights__3_.jpg">
 </div>
@@ -104,22 +103,50 @@ Living Festival @ North West event! Follow us on our <a href="https://www.facebo
 <p>We have various competitions happening across the two-day festival for
 you, your friends, and families to take part in! Enjoy your favourite sports
 through some friendly competition!</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Badminton Competition</p>
-</li>
-<li>
-<p>Basketball Competition</p>
-</li>
-<li>
-<p>Kids Futsal Competition</p>
-</li>
-<li>
-<p>Family Telematch</p>
-</li>
-</ul>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HLF_Basketball_Poster.pdf" rel="noopener noreferrer nofollow" target="_blank">Basketball Competition</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For enquiries, please contact <a href="mailto:northwest_cdc@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>northwest_cdc@pa.gov.sg</u></a>.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HLF_Badminton_Poster.pdf" rel="noopener noreferrer nofollow" target="_blank">Badminton Competition</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://go.gov.sg/hlfbadminton" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HLF_Futsal_Poster.pdf" rel="noopener noreferrer nofollow" target="_blank">Kids Futsal Competition</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://go.gov.sg/hlfkidsfutsal" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HLF_Family_Telematch_Poster.pdf" rel="noopener noreferrer nofollow" target="_blank">Family Telematch</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://go.gov.sg/hlffamilytelematch" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>★ Workshops and Talks ★</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Workshops.jpg">
 </div>
