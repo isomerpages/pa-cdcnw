@@ -104,22 +104,43 @@ Living Festival @ North West event! Follow us on our <a href="https://www.facebo
 <p>We have various competitions happening across the two-day festival for
 you, your friends, and families to take part in! Enjoy your favourite sports
 through some friendly competition!</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Badminton Competition</p>
-</li>
-<li>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Basketball Competition</p>
-</li>
-<li>
+</td>
+<td rowspan="1" colspan="1">
+<p>For enquiries, please contact North West CDC at <a href="mailto:northwest_cdc@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>northwest_cdc@pa.gov.sg</u></a>.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Badminton Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click here to register</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Kids Futsal Competition</p>
-</li>
-<li>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click here to register</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Family Telematch</p>
-</li>
-</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click here to register</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>★ Workshops and Talks ★</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Workshops.jpg">
 </div>
