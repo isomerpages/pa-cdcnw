@@ -148,6 +148,6 @@ register</p>
 </table>
 <h4><strong>★ Workshops and Talks ★</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Workshops.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Workshops_01.jpg">
 </div>
 <p></p>
