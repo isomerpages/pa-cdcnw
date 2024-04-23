@@ -111,7 +111,8 @@ through some friendly competition!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For enquiries, please contact <a href="mailto:northwest_cdc@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>northwest_cdc@pa.gov.sg</u></a>.</p>
+<p>Click <a href="https://go.gov.sg/hlfbasketball" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register</p>
 </td>
 </tr>
 <tr>
@@ -147,7 +148,8 @@ register</p>
 </tbody>
 </table>
 <h4><strong>★ Workshops and Talks ★</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Workshops.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Workshopv2.jpg">
 </div>
 <p></p>
