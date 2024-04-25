@@ -12,8 +12,8 @@ North West CDC identifies the beneficiaries jointly with the Grassroots Organisa
          
 **Eligibility Criteria**
 
-*       Singapore Citizen, or Permanent Resident (at least one immediate family member in the same household must be a Singapore Citizen)
-*       Resident of the North West District 
-*       Monthly household income of ≤ $3,500 or monthly per capita Income of ≤ $1,000
+*     Singapore Citizen, or Permanent Resident (at least one immediate family member in the same household must be a Singapore Citizen)
+*     Resident of the North West District 
+*     Monthly household income of ≤ $3,500 or monthly per capita Income of ≤ $1,000
   
 For enquiries, please contact the North West CDC at northwest_cdc@pa.gov.sg.
