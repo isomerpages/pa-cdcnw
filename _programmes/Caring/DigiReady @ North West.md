@@ -11,7 +11,7 @@ variant: markdown
 
 ##### **Subsidised broadband**
   
-The scheme supports beneficiaries under the IMDA’s DigitalAccess @ Home Scheme, who are residing in the North West, providing additional subsidies of up to $250, for a period of three years contract.
+The scheme supports beneficiaries under the IMDA’s DigitalAccess @ Home Scheme, who are residing in the North West, providing additional subsidies of up to $250, the duration of the subsidised broadband contract under the abovementioned scheme.
 
 To apply for the scheme, please complete this [form](https://go.gov.sg/nwdigiready) and submit all supporting documents. Our officer will get in touch with you upon successful application.
 
