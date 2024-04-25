@@ -9,7 +9,7 @@ variant: markdown
 
 **Huggies Singapore Diaper Bank @ North West** provides children diapers to low-income young families to help defray some household expenses and ease their financial stress on raising children. 
 
-Eligible applicants may apply during the two application windows each year, and receive six packets of diapers for children from newborn up to four years old.
+Eligible applicants may apply during the two application windows each year, and receive six packets of diapers for children from newborn up to four years old for each successful application.
   
 **Eligibility Criteria**
 
