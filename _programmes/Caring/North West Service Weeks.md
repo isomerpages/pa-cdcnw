@@ -11,6 +11,9 @@ variant: markdown
 
 Corporate and community volunteers work together to run a Pop-Up Market and assist residents in customising their food packs. Some corporate partners even go the extra mile to provide home improvement services, while others may top up with additional items or vouchers for residents.
 
+ 
+In 2024, household items such as cleaning and hygiene products will be added to the list of items for selection, to provide a wider range of selection to cater to residents’ needs.
+
 Corporates or community organisations who are keen to participate in the programme, please email northwestcdc_partnerships@pa.gov.sg.
 
 Residents requiring more information, please email northwest_cdc@pa.gov.sg or call our hotline at **6248 5566**.
