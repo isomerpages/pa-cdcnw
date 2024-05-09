@@ -5,9 +5,10 @@ description: ""
 third_nav_title: Caring
 variant: markdown
 ---
-The **North West Emergency Relief Fund** was set up in January 2014 to provide immediate temporary relief to tide them through their financial difficulties due to unforeseen circumstances or disaster. 
+The **North West Emergency Relief Fund** provides immediate temporary relief to tide residents through their financial difficulties due to unforeseen circumstances such as death of sole breadwinner, fire, emergency household situations or disaster.
 
-North West CDC identifies the beneficiaries jointly with the Grassroots Organisations in the North West District.
+  
+Eligible residents may apply at the local Community Clubs, and North West CDC will work closely with the Grassroots Organisations to identify the beneficiaries.
 
          
 **Eligibility Criteria**
