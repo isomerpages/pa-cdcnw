@@ -38,3 +38,19 @@ third_nav_title: May 2024
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cohesion/May 2024/peter_quote.gif">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cohesion/May 2024/wu_4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cohesion/May 2024/3quote.gif">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cohesion/May 2024/asm.gif">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cohesion/May 2024/cc_masthead.gif">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cohesion/May 2024/era.gif">
+</div>
+<p></p>
