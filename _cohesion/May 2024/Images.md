@@ -22,3 +22,19 @@ third_nav_title: May 2024
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cohesion/May 2024/school2_05.gif">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cohesion/May 2024/hl_quote.gif">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cohesion/May 2024/kv_green_young.gif">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cohesion/May 2024/micron.gif">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cohesion/May 2024/peter.gif">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cohesion/May 2024/peter_quote.gif">
+</div>
+<p></p>
