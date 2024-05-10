@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Caring
 variant: markdown
 ---
-The **North West Home Fix Scheme**  supports low-income residents who may not be able to afford basic repairs to fix faulty household items that are essential to basic living and safety of the home environment.
+ **North West Home Fix Scheme**  supports low-income residents who may not be able to afford basic repairs to fix faulty household items that are essential to basic living and safety of the home environment.
 
          
 
@@ -22,6 +22,3 @@ Eligible residents may apply at the local Community Clubs, and North West CDC wi
 
     
 Community organisations may also apply on behalf of their clients and email the application form to [northwest\_cdc@pa.gov.sg](mailto:northwest_cdc@pa.gov.sg).
-         
-	
-
