@@ -50,7 +50,4 @@ third_nav_title: May 2024
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cohesion/May 2024/cc_masthead.gif">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cohesion/May 2024/era.gif">
-</div>
 <p></p>
