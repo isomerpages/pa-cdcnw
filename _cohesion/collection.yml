@@ -2,7 +2,6 @@ collections:
   cohesion:
     output: true
     order:
-      - Images/May 2024.md
       - Images/.keep
       - March 2024/.keep
       - March 2024/March At A Glance.md
