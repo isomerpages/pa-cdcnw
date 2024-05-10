@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Caring
 variant: markdown
 ---
-The **North West Interim Financial Assistance Scheme (IFAS)** was set up in April 2022 to provide temporary assistance to vulnerable residents in the North West District to tide them through their financial difficulties. Each approved household will receive up to $500 monetary assistance per financial year.   
+ **North West Interim Financial Assistance Scheme (IFAS)**  provides temporary assistance to low-income residents in the North West District to tide them through their financial difficulties. Eligible households may receive up to $500 monetary assistance per financial year.
   
 **Eligibility Criteria**  
 
@@ -13,4 +13,4 @@ The **North West Interim Financial Assistance Scheme (IFAS)** was set up in Apri
 *   Resident of the North West District 
 *   Monthly household income of ≤ $3,500 or monthly per capita Income of ≤ $1,000
 
-North West CDC identifies the beneficiaries jointly with the Grassroots Organisations in the North West District.
+   Eligible residents may apply at the local Community Clubs, and North West CDC will work closely with Grassroots Organisations to identify the beneficiaries. For enquiries, please contact the North West CDC at [northwest\_cdc@pa.gov.sg](mailto:northwest_cdc@pa.gov.sg).
