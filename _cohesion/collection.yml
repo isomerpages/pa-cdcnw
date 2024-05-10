@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Images/.keep
-      - May 2024.md
       - March 2024/.keep
       - March 2024/March At A Glance.md
       - March 2024/North West Giraffe Fund.md
