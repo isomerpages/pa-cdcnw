@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: May 2024
 ---
-![](/images/Cohesion/May%202024/wu_5_1.png)![](/images/Cohesion/May%202024/interfaith2_1.png)![](/images/Cohesion/May%202024/interfaith1_1.png)<p></p>
+![](/images/Cohesion/May%202024/inc_caring.png)![](/images/Cohesion/May%202024/wu_5_1.png)![](/images/Cohesion/May%202024/interfaith2_1.png)![](/images/Cohesion/May%202024/interfaith1_1.png)<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cohesion/May 2024/school1_02.gif">
 </div>
