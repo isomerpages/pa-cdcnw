@@ -21,7 +21,10 @@ secure your spot! At the information counter in the stadium, each participant
 will receive a game card to complete and redeem free snacks. Plus, don’t
 miss out the chance to win prizes by showcasing your skills and teamwork
 in various competitions, family telematch, and leaderboard challenges!</p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -103,7 +106,11 @@ Living Festival @ North West event! Follow us on our <a href="https://www.facebo
 <p>We have various competitions happening across the two-day festival for
 you, your friends, and families to take part in! Enjoy your favourite sports
 through some friendly competition!</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
