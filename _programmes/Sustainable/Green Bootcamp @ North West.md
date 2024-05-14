@@ -11,8 +11,6 @@ variant: markdown
 
 Through a series of insightful talks and workshops by subject matter experts, participants are expected to learn and incorporate the knowledge into their proposed solutions. Shortlisted teams will also be given funding grants to turn their ideas into life.
 
-**Green Bootcamp @ North West is back for its 3rd edition!** 
+**The 3rd edition of Green Bootcamp @ North West is back! Calling all IHL students who are interested to make an impact to protect our environment. **
 
-**Scan QR code or visit go.gov.sg/gbcnw2024 to register and bring your green ideas to life!**
-
-![](/images/Programmes/Green%20Living/image.png)
+![](/images/Programmes/Green%20Living/Green_Bootcamp_Poster__1080_x_400_px___60_x_140_cm___1_.jpg)
