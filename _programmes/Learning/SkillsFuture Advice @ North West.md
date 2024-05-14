@@ -7,7 +7,7 @@ variant: markdown
 ---
 Welcome to SkillsFuture Advice @ North West, where your journey to lifelong learning begins. In collaboration with SkillsFuture Singapore (SSG) and North West Community Development Councils (CDC), we want to empower residents to unlock their potential through career planning and skills identification.
 
-**Skills Upgrading**
+##### **Skills Upgrading**
 
 Dedicated to fostering a culture of lifelong learning, we provide resources on emerging skill sets and organise learning journey events, webinars, and workshops.
 
@@ -21,7 +21,7 @@ Find out more about the [Skills Framework](https://www.skillsfuture.gov.sg/skill
 
 Skills Framework is also developed with the objectives to build deep skills for a lean workforce, enhance business competitiveness and support employment and employability.
 
-**Job Seekers**
+##### **Job Seekers**
 
 **My CareersFuture Portal**
 
@@ -41,6 +41,7 @@ Looking to explore over 1000 job vacancies from multiple employers in various in
 Visit NTUC’s e2i website for more details on the job positions available: [_https://www.e2i.com.sg/events/jobs-heartland-job-portal/_](https://www.e2i.com.sg/events/jobs-heartland-job-portal/)
 
 ![](/images/Programmes/Uplifting%20The%20Community/jobs@heartland%20qr%20code.png)
+
 **Upcoming Job Recruitment Events**
 
 For job seekers who prefer face-to-face interactions, we regularly host physical recruitment events throughout the North West district. Be sure to mark your calendar for the following dates:
