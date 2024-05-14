@@ -5,12 +5,12 @@ description: ""
 third_nav_title: Caring
 variant: markdown
 ---
- **North West Utilities Assistance Scheme** supports needy families facing imminent disconnection with their utility expenses to offset water-related utilities arrears or avoid having their power supply disconnected.
+**North West Utilities Assistance Scheme** supports needy families facing imminent disconnection with their utility expenses to offset water-related utilities arrears or avoid having their power supply disconnected.
  
         
 **Eligibility Criteria**
 
-*     Singapore Citizen, or Permanent Resident (at least one immediate family member in the same household must be a Singapore Citizen)
+*    Singapore Citizen, or Permanent Resident (at least one immediate family member in the same household must be a Singapore Citizen)
 
 *    Resident of the North West District 
 
@@ -18,4 +18,3 @@ variant: markdown
 
     
 Eligible residents may apply at the local Community Clubs, and North West CDC will work closely with Grassroots Organisations to identify the beneficiaries. For enquiries, please contact the North West CDC at [northwest\_cdc@pa.gov.sg](mailto:northwest_cdc@pa.gov.sg).
-
