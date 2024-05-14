@@ -5,11 +5,11 @@ description: ""
 third_nav_title: Caring
 variant: markdown
 ---
- **North West Student Support Fund (SSF)**  supports students from less privileged backgrounds with financial assistance to defray educational expenses, and the opportunity to attend development programmes to help them grow to their full potential.
+**North West Student Support Fund (SSF)**  supports students from less privileged backgrounds with financial assistance to defray educational expenses, and the opportunity to attend development programmes to help them grow to their full potential.
 
 Through its two social mobility pillars – **Student Assist** and **Student Wise** programmes, the SSF has benefitted over 130,000 needy students since 2011. 
 
-**Student Assist Programme**
+##### **Student Assist Programme**
 
 **(a) North West Heart for Students Programme**  
   
@@ -19,7 +19,7 @@ North West CDC works closely with Ministry of Education and the schools within t
 
    The programme provides kindergarten students from less privileged backgrounds who are entering primary school with vouchers to purchase school essentials for their formal education. North West CDC works closely with the Early Childhood Development Agency (ECDA) and Grassroots Organisations to identify eligible students and disburse the vouchers.
 
- **Student Wise Programme**
+#####  **Student Wise Programme**
 
 **(a) North West Student Wise Enrichment Programme**
 
