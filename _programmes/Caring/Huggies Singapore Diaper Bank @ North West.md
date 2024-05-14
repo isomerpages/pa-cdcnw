@@ -17,6 +17,4 @@ Eligible applicants may apply during the two application windows each year, and 
 *   Resident of the North West District;
 *   Monthly household income of&nbsp;≤ $3,500 or monthly Per Capita Income of ≤ $1,000
 
-**Check your eligibility [here](https://go.gov.sg/checkfirst-nwdiaper).**
-
 Please note that the applications will open in April and October 2024 .
