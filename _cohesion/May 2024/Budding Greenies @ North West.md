@@ -435,7 +435,7 @@ object-fit: cover;
 <br><br>
 At the recent Mayor’s Network @ North West with preschools, educators from 89 preschools in the North West exchanged ideas and showcased their efforts in teaching young children to respect and care for the environment.
 <br><br>
-Let’s take a look at how Between Two Trees Preschool and PCF Sparkletots @ Woodgrove Blk 339 (CC) have tapped on the Budding Greenies @ North West programme to inspire children to adopt green habits from a young age.
+Let’s take a look at how Between Two Trees Preschool and PCF Sparkletots @ Woodgrove Blk 339 (CC) have tapped on Budding Greenies @ North West to inspire children to adopt green habits from a young age.
 </p>
 </div>
 
