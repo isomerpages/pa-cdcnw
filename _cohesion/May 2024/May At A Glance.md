@@ -633,29 +633,7 @@ border-bottom-left-radius: 20px;" class="col-12 w-100">
 
     </div>
 
-    <div class="col-12 w-100">
-      <div class="col-4 text-center">
-        <div style="padding: 30px 20px 0px;">
-          <img style="max-width: 120px;" src="https://staging-lite.d2zr4mfri8ph9q.amplifyapp.com/images/Cohesion/May%202024/wu_5_1.png">
-        </div>
-      </div>
-      <div class="col-8">
-        <div style="padding: 40px 2rem 20px;">
-          <h2 style="color: #FE5D1F; margin-bottom: 0px; letter-spacing: 0px; font-size: x-large; line-height: 26px; font-weight: bold; font-family: Arial, 'sans-serif;'; margin: 0px;"><i>CLUB-100 @ North West Charity Golf 2024</i></h2>
-          <h4 style="color: #FE5D1F; margin: 10px 0px; font-size: medium; font-weight: bold; font-family: Arial, 'sans-serif;'; font-style: italic;">Wednesday, 24 July 2024, Laguna National Golf Course<br>Tee off: 1.15pm | Dinner: 7pm</h4>
 
-          
-          <p style="font-size: 16px; line-height: 26px;">Join us for a fun-filled of golf and/or purchase a dinner table to lend a helping hand for needy residents in the North West. 
-</p>
-          <div style="max-width: 100%; text-align: left; padding: 30px 0px;">
-            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold;" href="https://go.gov.sg/nwc100golf">
-              <em>Make A Difference Today</em>
-            </a>
-          </div>
-        </div>
-      </div>
-      
-    </div>
 
 
 
