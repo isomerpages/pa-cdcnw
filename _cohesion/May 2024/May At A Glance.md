@@ -453,7 +453,7 @@ Recognising Our Volunteers</em>
       <em>Healthy Living x Volunteerism: 
 The Ultimate Duo </em>
     </h2>
-    <p style="font-size: 16px; line-height: 26px;">Meet husband-and-wife duo, Mr Leng and Mdm Ong, the driving force behind the North West Brisk Walking Club at Marsiling zone 4. Committed to leading their members on weekly fitness adventures, the duo continues to inspire more to join them on this fitness journey.</p> 
+    <p style="font-size: 16px; line-height: 26px;">Meet husband-and-wife duo, Mr Leng and Mdm Ong, the driving force behind the North West Brisk Walking Club at Marsiling Zone 4. Committed to leading their members on weekly fitness adventures, the duo continues to inspire more to join them on this fitness journey.</p> 
 
 
     <div style="width: 100%; text-align: center; display: inline-flex; margin: 0px auto;">
