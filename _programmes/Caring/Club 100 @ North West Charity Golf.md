@@ -9,4 +9,4 @@ variant: markdown
 
 **Club-100 @ North West Charity Golf** is an annual fundraiser to support [Club-100 @ North West's](https://northwest.cdc.gov.sg/programmes/connecting-the-community/club100-northwest/) mission in providing timely assistance to residents in need. Since 2009, the donations have supported over 100,000 needy residents in the North West to defray household expenses. 
 
-Corporates or individuals who are interested to donate for a meaningful cause, please email nwcdc_partnerships@pa.gov.sg. 
+Corporates or individuals who are interested to donate for a meaningful cause, please email northwestcdc_partnerships@pa.gov.sg.
