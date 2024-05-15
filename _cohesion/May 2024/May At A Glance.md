@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: May 2024
 ---
-
 <style>
 
 p {
@@ -702,7 +701,3 @@ border-bottom-left-radius: 20px;" class="col-12 w-100">
 </div>
 
 </div>
-
-
-
-
