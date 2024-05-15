@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Caring/WeCare Arts Experience @ North West.md
       - Caring/.keep
       - Caring/CDC Vouchers Scheme.md
       - Caring/Club 100 @ North West.md
@@ -20,6 +19,7 @@ collections:
       - Caring/North West WeCare Fund.md
       - Caring/Project Sama Sama @ North West.md
       - Caring/WeCare Arts @ North West.md
+      - Caring/WeCare Arts Experience @ North West.md
       - Healthy/.keep
       - Healthy/Healthy Living Festival @ North West.md
       - Healthy/Mental Wellness @ North West.md
