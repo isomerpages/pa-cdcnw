@@ -591,7 +591,7 @@ Interfaith Dialogue  </em>
           </ol>
 
           <div style="max-width: 100%; text-align: left; padding: 30px 0px;">
-            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold;" target="_new" href="https://fb.watch/rVHMoln2xM/">
+            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold;" target="_new" href="https://www.facebook.com/nwcdc/videos/818215667029902">
               <em>Join Now</em>
             </a>
           </div>
@@ -618,7 +618,7 @@ border-bottom-left-radius: 20px;" class="col-12 w-100">
           <p style="font-size: 16px; line-height: 26px;">Visit Woodlands Regional Library and Sembawang Public Library to discover more about the North West Running Club and North West FitnessX Club. Then, put your knowledge to the test by participating in our Healthy Living Quiz.</p>
 
           <div style="max-width: 100%; text-align: left; padding: 30px 0px;">
-            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold;" target="_new" href="https://form.gov.sg/661cc7ddc4e9a0f2055fb6ec">
+            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold;" target="_new" href="https://go.gov.sg/nlb-nwya-contest">
               <em>Take The Quiz</em>
             </a>
           </div>
