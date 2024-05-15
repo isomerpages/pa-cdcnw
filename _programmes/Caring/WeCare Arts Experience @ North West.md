@@ -14,4 +14,5 @@ cultural institutions for free. Beneficiaries are also encouraged to attend
 with immediate family members, caregivers or befrienders, for the opportunity
 to bond over a shared arts experience and strengthen social ties.</p>
 <p>&nbsp;Social Service Agencies (SSAs), and community partners such as Grassroots
-Organisations (GROs) and Self-Help Group (SHGs) can apply for this scheme.</p>
+Organisations (GROs) and Self-Help Group (SHGs) can email <a href="mailto:northwest_cdc@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">northwest_cdc@pa.gov.sg</a> to
+apply for this scheme.</p>
