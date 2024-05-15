@@ -9,14 +9,12 @@ variant: markdown
 
 **Huggies Singapore Diaper Bank @ North West** provides children diapers to low-income young families to help defray some household expenses and ease their financial stress on raising children. 
 
-Eligible applicants may apply during the two application windows each year, and receive six packets of diapers for children from newborn up to four years old.
+Eligible applicants may apply during the two application windows each year, and receive six packets of diapers for children from newborn up to four years old for each successful application.
   
 **Eligibility Criteria**
 
 *   Singapore Citizen, or Permanent Resident (at least one immediate family member in the same household must be a Singapore Citizen)
 *   Resident of the North West District;
 *   Monthly household income of&nbsp;≤ $3,500 or monthly Per Capita Income of ≤ $1,000
-
-**Check your eligibility [here](https://go.gov.sg/checkfirst-nwdiaper).**
 
 Please note that the applications will open in April and October 2024 .

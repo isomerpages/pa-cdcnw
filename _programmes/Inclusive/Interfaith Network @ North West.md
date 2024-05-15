@@ -1,5 +1,5 @@
 ---
-title: Interfaith @ North West
+title: Interfaith Network @ North West
 permalink: /programmes/partnerships-and-volunteerism/interfaith-northwest/
 description: ""
 third_nav_title: Inclusive
