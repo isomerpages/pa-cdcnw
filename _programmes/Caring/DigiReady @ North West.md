@@ -25,10 +25,10 @@ Donate your preloved IT equipment! It will be refurbished with a new form of lif
 
 What items can you contribute?  
 
-*   Laptops
+
 *   Mobile phones and tablets
 *   Keyboard and mouse
 *   Headset
-*   Laptop bag
+
 
 Complete this [form](https://go.gov.sg/digiready) to schedule for drop-off or home collection.
