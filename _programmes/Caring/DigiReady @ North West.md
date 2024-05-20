@@ -15,20 +15,3 @@ The scheme supports beneficiaries under the IMDA’s DigitalAccess @ Home Scheme
 
 To apply for the scheme, please complete this [form](https://go.gov.sg/nwdigiready) and submit all supporting documents. Our officer will get in touch with you upon successful application.
 
-##### **Support on Digital Devices**
-
-Students, seniors and families from low-income backgrounds may request for free refurbished devices through our community partners (e.g. Community Clubs and Social Service Agencies).
-
-**Contribute to the programme**
-
-Donate your preloved IT equipment! It will be refurbished with a new form of life for under-privileged students, seniors or families. 
-
-What items can you contribute?  
-
-
-*   Mobile phones and tablets
-*   Keyboard and mouse
-*   Headset
-
-
-Complete this [form](https://go.gov.sg/digiready) to schedule for drop-off or home collection.
