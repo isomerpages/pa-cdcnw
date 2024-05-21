@@ -5,9 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: May 2024
 ---
-
-
-
 <style>
 
 p {
@@ -512,7 +509,7 @@ Duration: 16 hours
 Trainer: Institute of Technical Education <br>
 Duration: 21 hours
 <br><br>
-<a style="color: #000000;" href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2021008182">Learn more</a>
+<a style="color: #000000;" href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2022014716">Learn more</a>
 </p>
 </div>
 
@@ -746,6 +743,3 @@ Duration: 7 hours
 
 
 </article>
-
-
-
