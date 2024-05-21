@@ -428,11 +428,9 @@ object-fit: cover;
 </div>
 
 
-<div style="padding: 20px 0px;">
-<p style="font-size: 16px; line-height: 26px; text-align: justify;">In January 2024, Zhenghua CC organised a Skills in Demand webinar in conjunction with SkillsFuture Singapore (SSG) and the Lifelong Learning Institute. It was aimed at addressing residents’ concerns on how to upskill for better jobs and salaries in the midst of rising inflation.<br><br> 
-The webinar highlighted in-demand skills for the fast-growing digital, care and green economies, as well as actionable strategies for career success. Let’s take a look at what the residents learnt about the future economic landscape and how they can improve their skills for better job opportunities. 
-</p>
-</div>
+
+<p></p>
+
 
 <div class="" style="max-width: 100%; padding: 15px 0px 0px;">
   <img style="width: 100%;" class="rounded20" src="https://staging-lite.d2zr4mfri8ph9q.amplifyapp.com/images/Cohesion/May%202024/inc_caring.png">
