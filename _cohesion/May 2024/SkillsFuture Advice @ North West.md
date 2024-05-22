@@ -5,9 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: May 2024
 ---
-
-
-
 <style>
 
 p {
@@ -431,11 +428,9 @@ object-fit: cover;
 </div>
 
 
-<div style="padding: 20px 0px;">
-<p style="font-size: 16px; line-height: 26px; text-align: justify;">In January 2024, Zhenghua CC organised a Skills in Demand webinar in conjunction with SkillsFuture Singapore (SSG) and the Lifelong Learning Institute. It was aimed at addressing residents’ concerns on how to upskill for better jobs and salaries in the midst of rising inflation.<br><br> 
-The webinar highlighted in-demand skills for the fast-growing digital, care and green economies, as well as actionable strategies for career success. Let’s take a look at what the residents learnt about the future economic landscape and how they can improve their skills for better job opportunities. 
-</p>
-</div>
+
+<p></p>
+
 
 <div class="" style="max-width: 100%; padding: 15px 0px 0px;">
   <img style="width: 100%;" class="rounded20" src="https://staging-lite.d2zr4mfri8ph9q.amplifyapp.com/images/Cohesion/May%202024/inc_caring.png">
@@ -512,7 +507,7 @@ Duration: 16 hours
 Trainer: Institute of Technical Education <br>
 Duration: 21 hours
 <br><br>
-<a style="color: #000000;" href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2021008182">Learn more</a>
+<a style="color: #000000;" href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2022014716">Learn more</a>
 </p>
 </div>
 
@@ -746,6 +741,3 @@ Duration: 7 hours
 
 
 </article>
-
-
-
