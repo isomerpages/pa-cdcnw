@@ -17,10 +17,10 @@ North West CDC works closely with Ministry of Education and the schools within t
 
 **(b) WeCare @ North West - Ready for School**
 
-   The programme provides kindergarten students from less privileged backgrounds who are entering primary school with vouchers to purchase school essentials for their formal education. North West CDC works closely with the Early Childhood Development Agency (ECDA) and Grassroots Organisations to identify eligible students and disburse the vouchers.
+The programme provides kindergarten students from less privileged backgrounds who are entering primary school with vouchers to purchase school essentials for their formal education. North West CDC works closely with the Early Childhood Development Agency (ECDA) and Grassroots Organisations to identify eligible students and disburse the vouchers.
 
 #####  **Student Wise Programme**
 
-**(a) North West Student Wise Enrichment Programme**
+**North West Student Wise Enrichment Programme**
 
 North West CDC works closely with schools located within the North West District to identify students from less privileged backgrounds. Students will attend a series of workshops which complement the school curriculum, and allows them to develop skills in financial literacy, social etiquette, and public speaking. They also attend motivational workshops to build confidence and improve their interpersonal skills in social settings.
