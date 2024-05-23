@@ -118,8 +118,8 @@ through some friendly competition!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="https://go.gov.sg/hlfbasketball" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-register</p>
+<p>Click <a href="/files/GAME_DAY_3_SCHEDULE.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+view Game Day Schedule</p>
 </td>
 </tr>
 <tr>
