@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Healthy
 variant: tiptap
 ---
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/hlf-northwest"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/HLF_Poster.jpg"></a>
 <p></p>
 <p><strong>Healthy Living Festival @ North West </strong>is a flagship event
 to promote healthy living and bonding in the North West District. The sports
@@ -118,7 +117,7 @@ through some friendly competition!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="/files/GAME_DAY_3_SCHEDULE.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Click <a href="/files/GAME_DAY_3_SCHEDULE2.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view Game Day Schedule</p>
 </td>
 </tr>
