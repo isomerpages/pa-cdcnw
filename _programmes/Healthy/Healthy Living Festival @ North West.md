@@ -56,9 +56,7 @@ weekend festival!View the full programme line-up:</p>
 </p>
 </li>
 </ul>
-<p>View event map here:</p>
-<p><a href="/files/HLF_2024_Map_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Event Map</a>
-</p>
+<p>View <a href="/files/HLF_2024_Map_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Event Map </a>here.</p>
 <h4><strong>★ Free Sports Try-Out ★</strong></h4>
 <p>Take part in free sports try-outs by North West Healthy Living Clubs:</p>
 <ul data-tight="true" class="tight">
