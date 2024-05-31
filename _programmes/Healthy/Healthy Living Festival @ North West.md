@@ -6,6 +6,9 @@ third_nav_title: Healthy
 variant: tiptap
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HLF_Poster.jpg">
+</div>
 <p><strong>Healthy Living Festival @ North West </strong>is a flagship event
 to promote healthy living and bonding in the North West District. The sports
 festival encourages the community to adopt a healthier lifestyle and embrace
@@ -42,21 +45,20 @@ in various competitions, family telematch, and leaderboard challenges!</p>
 </tbody>
 </table>
 <p>Check out the activities and the key highlights not to be missed at the
-weekend festival!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HLF_Key_Highlights__3_.jpg">
-</div>
-<p>View the full programme line-up:</p>
+weekend festival!View the full programme line-up:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Day_1__1_June_2024____Full_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">Day 1 (1 June 2024)</a>
+<p><a href="/files/Day_1_Prog.pdf" rel="noopener noreferrer nofollow" target="_blank">Day 1 (1 June 2024)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Day_2__2_June_2024____Full_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">Day 2 (2 June 2024)</a>
+<p><a href="/files/Day_2_Prog.pdf" rel="noopener noreferrer nofollow" target="_blank">Day 2 (2 June 2024)</a>
 </p>
 </li>
 </ul>
+<p>View event map here:</p>
+<p><a href="/files/HLF_2024_Map_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Event Map</a>
+</p>
 <h4><strong>★ Free Sports Try-Out ★</strong></h4>
 <p>Take part in free sports try-outs by North West Healthy Living Clubs:</p>
 <ul data-tight="true" class="tight">
