@@ -10,7 +10,7 @@ variant: tiptap
 </div>
 <p>Started in 2023, <strong>Healthy Living Festival @ North West</strong> is
 a flagship event to promote healthy living and bonding among residents,
-in line with North West CDC’s efforts to build a cohesive and resilient
+in-line with North West CDC’s efforts to build a cohesive and resilient
 community. The annual mega sports event is curated with sports and wellness
 activities catered for all ages, from families to seniors to youths, promoting
 an active and well-balanced lifestyle for everyone, regardless of age or
