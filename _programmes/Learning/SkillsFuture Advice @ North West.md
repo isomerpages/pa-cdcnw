@@ -13,7 +13,7 @@ Dedicated to fostering a culture of lifelong learning, we provide resources on e
 
 Stay one step ahead of the future economy! Check out the [Skills Demand for the Future Economy](https://www.skillsfuture.gov.sg/skillsreport) report to equip yourself with the knowledge to thrive in the evolving world of work.  
 
-Join us in making lifelong learning our way of life! [Subscribe](https://go.gov.sg/connectsfa) to our electronic mailers to receive updates on the latest upskilling resources.
+Join us in making lifelong learning our way of life! [Register](https://go.gov.sg/connectsfa) your interest for upcoming workshops and events.
 
 **Skills Framework**
 
