@@ -3,8 +3,8 @@ title: Little Steps @ North West
 permalink: /cohesion/march-2023/little-steps-nw/
 description: ""
 third_nav_title: March 2023
+variant: markdown
 ---
-
 <style>
 
 p {
@@ -420,7 +420,7 @@ object-fit: cover;
   <img src="/images/Cohesion/March%202023/about-little-steps.jpg" style="width: 100%; margin-top: 0px;">
 </div>
 
-<!--Box-->
+
 <div style="padding: 0px 0px 0px;">
 <div style="width: 100%; background: #F2F8F6; padding: 20px 0px 0px; -webkit-border-bottom-right-radius: 20px;
 -webkit-border-bottom-left-radius: 20px;
@@ -432,25 +432,25 @@ border-bottom-left-radius: 20px;">
 
 
   <p style="font-size: 16px; line-height: 26px;">
-    <ul style="padding: 0px 15px; line-height: 28px;">
+    </p><ul style="padding: 0px 15px; line-height: 28px;">
       <li style="line-height: 30px; padding-bottom: 15px; list-style: none;">
-        <strong style="color: #0C6C37; ">Who is eligible to receive the cash benefit?</strong><br/> 
+        <strong style="color: #0C6C37;">Who is eligible to receive the cash benefit?</strong><br> 
         <p>The grant is available to families with young children up to 6 years old who are living in the North West District and who are enrolled in the KidSTART Singapore programme.</p>
       </li>
       <li style="line-height: 30px; padding-bottom: 15px; list-style: none;">
-        <strong style="color: #0C6C37; ">How much is the cash support? </strong><br/> 
+        <strong style="color: #0C6C37;">How much is the cash support? </strong><br> 
         <p>Each child will receive $500 each year disbursed to the parents' or caregivers' bank accounts.</p> 
       </li>
       <li style="line-height: 30px; padding-bottom: 15px; list-style: none;">
-        <strong style="color: #0C6C37; ">What is the purpose of the cash relief? </strong><br/> 
+        <strong style="color: #0C6C37;">What is the purpose of the cash relief? </strong><br> 
         <p>From baby necessities to essential school supplies, every bit of help comes goes a long way for these families. And when their material needs are met, they can then give their children the right environment to develop and flourish.</p>
       </li>
     </ul>
-  </p> 
+  <p></p> 
   </div>
 </div>
 </div>
-<!--Box End-->
+
 
 
 <div style="padding: 30px 0px 10px;">
@@ -495,7 +495,7 @@ border-bottom-left-radius: 20px;">
       </p> 
         <p style="font-size: 16px; text-align: left; line-height: 26px; color: #000; margin: 10px 0px;">Families on the KidSTART SG programme will be enrolled onto the Little Steps @ North West programme. Eligible families will be notified by an email.</p>
 
-<p style="font-size: 16px; text-align: left; line-height: 26px; color: #000; margin: 10px 0px;">For more information, visit <a href="https://go.gov.sg/nw-little-step" target="_new" style="color: #0C6C37; text-decoration: underline; font-weight: bold;">go.gov.sg/nw-little-step</a>. </p>  
+<p style="font-size: 16px; text-align: left; line-height: 26px; color: #000; margin: 10px 0px;">For more information, visit <a href="https://go.gov.sg/nw-little-step" target="_new" style="color: #0C6C37; text-decoration: underline; font-weight: bold;">go.gov.sg/nw-little-steps</a>. </p>  
     </div>
   </div>
 </div>
@@ -550,8 +550,6 @@ border-bottom-left-radius: 20px;">
 </div>
 
 
-<br/>
-<br/>
+<br>
+<br>
 </article>
-
-
