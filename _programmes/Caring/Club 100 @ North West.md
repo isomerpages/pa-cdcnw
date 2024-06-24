@@ -24,5 +24,5 @@ lasting impact to the lives of less-privileged families.</p>
 <p>By joining Club-100 @ North West, you become part of <strong>A Giving Community</strong> to
 uplift the lives of less-privileged residents among us. Individuals or
 corporate organisations who are keen to join Club-100 @ North West may
-email at northwestcdc_partnerships@pa.gov.sg or <a href="/files/NWCDC_C_100_Donation_Form__new_.pdf" rel="noopener noreferrer nofollow" target="_blank">download the form</a> to
+email at northwestcdc_partnerships@pa.gov.sg or <a href="/files/NWCDC_C_100_Donation_Form__new_.pdf" rel="noopener noreferrer nofollow" target="_blank">download the form </a>to
 become a Club-100 @ North West member today.</p>
