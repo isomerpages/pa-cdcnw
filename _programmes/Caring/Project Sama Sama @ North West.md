@@ -30,9 +30,8 @@ continues to pose challenges to less-privileged residents. Hence, North
 West CDC, SPH Media and Auresys continue to appeal to sponsors to open
 their hearts and contribute to the meaningful cause. With sponsorship support,
 more residents can receive timely assistance through the project.&nbsp;&nbsp;</p>
-<p>To explore sponsorship opportunities, download the Project Sama Sama @
-North West Marketing Kit <a href="/files/Project_Sama_Sama___North_West_Marketing_Kit_2.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>,
-and contact our partner SPH Media for more information.</p>
+<p>To explore sponsorship opportunities, contact our partner SPH Media for
+more information.</p>
 <p><strong><em>Regardless of where we start or where we are today, we are in this together, and could all lend a helping hand to uplift someone in need.</em></strong>
 </p>
 <p></p>
