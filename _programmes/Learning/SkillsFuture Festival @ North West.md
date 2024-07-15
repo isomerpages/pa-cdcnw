@@ -89,7 +89,7 @@ to support your career transition or progression.</p>
 </li>
 <li>
 <p><strong>Exclusive Talks: </strong>Attend our talks on in-demand topics
-to stay ahead of industry trends. Register <a href="go.gov.sg/sfanorthwest" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
+to stay ahead of industry trends. Register <a href="https://go.gov.sg/sfanorthwest" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 </li>
 </ul>
 <table style="minWidth: 75px">
@@ -161,7 +161,7 @@ Care Economy</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Job Interviews: </strong>Don't miss out on on-site job interview
-opportunities! Register <a href="go.gov.sg/sff-nwcdc" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
+opportunities! Register <a href="https://go.gov.sg/sff-nwcdc" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 </li>
 </ul>
 <p></p>
