@@ -5,7 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Learning
 ---
-<p>[Insert Event Poster]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SkillsFuture_Festival___North_West_2024.jpg">
+</div>
 <p>The highly anticipated SkillsFuture Festival @ North West has returned,
 offering an expanded range of opportunities to empower individuals’ skills
 upgrading and reskilling, to make lifelong learning our way of life. Look
