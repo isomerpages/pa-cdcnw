@@ -15,3 +15,5 @@ community. The annual mega sports event is curated with sports and wellness
 activities catered for all ages, from families to seniors to youths, promoting
 an active and well-balanced lifestyle for everyone, regardless of age or
 fitness level.&nbsp;</p>
+<p></p>
+<p>Interested in our Healthy Living Clubs? Register your interest <a href="https://go.gov.sg/hlclub-interestform" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>!</p>
