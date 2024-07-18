@@ -171,5 +171,9 @@ of webinar sessions in the month of August! Stay tuned for more updates!</p>
 <h4>Career Fairs</h4>
 <p>Explore opportunities to shape your professional journey at our two upcoming
 career fairs happening on 17 and 18 August.</p>
+<h4>Win Prizes in our Social Media Giveaway!</h4>
+<p>Stand a chance to win prizes at the event by participating in our Social
+Media Giveaway! Stay tuned to our <a href="https://www.facebook.com/nwcdc" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> and <a href="https://www.instagram.com/northwestcdc/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> for
+more information.</p>
 <p></p>
 <p></p>
