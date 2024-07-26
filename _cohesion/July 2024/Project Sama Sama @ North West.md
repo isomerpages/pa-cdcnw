@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: July 2024
 ---
-
 <style>
 
 p {
@@ -551,5 +550,3 @@ Read more about Project Sama Sama @ North West <a style="font-weight: bold; colo
 
 
 </article>
-
-
