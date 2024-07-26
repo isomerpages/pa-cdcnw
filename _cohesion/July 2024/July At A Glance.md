@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: July 2024
 ---
-
 <style>
 
 p {
@@ -407,7 +406,7 @@ h1, h2, h3, h4, h5, h6, li {
     <h2 style="color: #DA312C; font-weight: bold; font-size: x-large; text-align: center;">
       <em>Project Sama Sama: Helping Residents Cope with Cost of Living</em>
     </h2>
-    <p style="font-size: 16px;line-height: normal;margin: 20px 0px 10px;">Project Sama Sama @ North West launched to help less-privileged residents living under the Public Rental Scheme, giving them monthly credits to redeem free essentials from vending machines.</p>
+    <p style="font-size: 16px;line-height: normal;margin: 20px 0px 10px;">Project Sama Sama @ North West was launched to help less-privileged residents living under the Public Rental Scheme; giving them monthly credits to redeem free essentials from vending machines.</p>
     <div style="max-width: 100%; text-align: center; padding: 15px 15px;"><a style="background: #DA312C;color: #FFFFFF;padding: 15px 25px;-webkit-border-radius: 50rem;-moz-border-radius: 50rem;border-radius: 50rem;font-size: medium;font-family: Arial, 'sans-serif;';text-decoration: none;text-transform: uppercase;min-width: 150px;display: inline-block;text-align: center;margin: 0px;" href="https://northwest.cdc.gov.sg/cohesion/jul-2024/nw-pss/"><i style="font-weight: bolder;">Support The Cause</i></a></div>
   </div>
   </div>
@@ -748,8 +747,3 @@ Tag @NorthWestCDC using the hashtag #NorthWestNDPSnapnWin, and include the locat
 </div>
 
 </div>
-
-
-
-
-    
