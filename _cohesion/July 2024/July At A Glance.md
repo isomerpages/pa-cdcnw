@@ -5,6 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: July 2024
 ---
+
 <style>
 
 p {
@@ -394,20 +395,20 @@ h1, h2, h3, h4, h5, h6, li {
   <div style="margin: 30px 10px 0px; -webkit-border-radius: 35px; -moz-border-radius: 35px; border-radius: 35px;">
 
     <div style="width: 100%; margin: 0px 0px 30px;" class="">
-      <img style="width: 100%; margin-top: 0px;" class="" src="/images/Cohesion/July%202024/edm_header_59.gif">
+      <img style="width: 100%; margin-top: 0px;" class="" src="https://staging-lite.d2zr4mfri8ph9q.amplifyapp.com/images/Cohesion/July%202024/edm_header_59.gif">
     </div>
 
 
     <div style="width: 100%;">
-      <img style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;" class="" src="/images/Cohesion/July%202024/edm_kv_sama2.png">
+      <img style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;" class="" src="https://staging-lite.d2zr4mfri8ph9q.amplifyapp.com/images/Cohesion/July%202024/edm_kv_sama2.png">
     </div>
 
   <div style="background: #F8F8F8; padding: 30px 30px; -webkit-border-bottom-right-radius: 25px; -webkit-border-bottom-left-radius: 25px; -moz-border-radius-bottomright: 25px; -moz-border-radius-bottomleft: 25px; border-bottom-right-radius: 25px; border-bottom-left-radius: 25px;">
     <h2 style="color: #DA312C; font-weight: bold; font-size: x-large; text-align: center;">
-      <em>Project Sama Sama: Helping Residents Cope with Cost of Living</em>
+      <em>Project Sama Sama @ North West:<br>Helping Residents Cope with Cost of Living</em>
     </h2>
-    <p style="font-size: 16px;line-height: normal;margin: 20px 0px 10px;">Project Sama Sama @ North West was launched to help less-privileged residents living under the Public Rental Scheme; giving them monthly credits to redeem free essentials from vending machines.</p>
-    <div style="max-width: 100%; text-align: center; padding: 15px 15px;"><a style="background: #DA312C;color: #FFFFFF;padding: 15px 25px;-webkit-border-radius: 50rem;-moz-border-radius: 50rem;border-radius: 50rem;font-size: medium;font-family: Arial, 'sans-serif;';text-decoration: none;text-transform: uppercase;min-width: 150px;display: inline-block;text-align: center;margin: 0px;" href="https://northwest.cdc.gov.sg/cohesion/jul-2024/nw-pss/"><i style="font-weight: bolder;">Support The Cause</i></a></div>
+    <p style="font-size: 16px; line-height: 26px; text-align: justify;">Project Sama Sama @ North West launched to help less-privileged residents living under the Public Rental Scheme, giving them monthly credits to redeem free essentials from vending machines.</p>
+    <div style="max-width: 100%; text-align: center; padding: 30px 15px 15px;"><a style="background: #DA312C; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center;" href="https://northwest.cdc.gov.sg/cohesion/jul-2024/nw-pss/"><em>Support The Cause</em></a></div>
   </div>
   </div>
 
@@ -419,18 +420,18 @@ h1, h2, h3, h4, h5, h6, li {
   <div style="max-width: 100%; padding: 10px 10px;">
     <div style="max-width: 100%; padding: 0px 0px 0px; background: #FFFFFF; margin: 30px 0px 0px; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px;">
   <div style="width: 100%;">
-    <img style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;" class="" src="/images/Cohesion/July%202024/edm_kv_healthy.png">
+    <img style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;" class="" src="https://staging-lite.d2zr4mfri8ph9q.amplifyapp.com/images/Cohesion/July%202024/edm_kv_healthy.png">
   </div>
   <div style="background: #F8F8F8; padding: 30px 20px; -webkit-border-bottom-right-radius: 25px; -webkit-border-bottom-left-radius: 25px; -moz-border-radius-bottomright: 25px; -moz-border-radius-bottomleft: 25px; border-bottom-right-radius: 25px; border-bottom-left-radius: 25px; min-height: 340px; position: relative;">
     <h2 style="color: #F96B8D; font-weight: bold; font-size: x-large;">
-      <em style="line-height: normal;">Reliving Fun Moments at the 
+      <em>Reliving Fun Moments at the 
 Healthy Living Festival</em>
     </h2>
-    <p style="font-size: 16px;line-height: normal;margin: 20px 0px 15px;">With its exciting line-up of sports and wellness activities for all ages, the annual Healthy Living Festival continues to inspire residents to embrace an active lifestyle.</p> 
+    <p style="font-size: 16px; line-height: 26px;">With its exciting line-up of sports and wellness activities for all ages, the annual Healthy Living Festival continues to inspire residents to embrace an active lifestyle.</p> 
 
 
     <div style="width: 100%; text-align: center; display: inline-flex; margin: 0px auto;">
-    <div style="max-width: 100%;text-align: center;padding: 15px 15px;margin: 0px auto;"><a style="background: #F96B8D;color: #FFFFFF;padding: 15px 25px;-webkit-border-radius: 50rem;-moz-border-radius: 50rem;border-radius: 50rem;font-size: medium;font-family: Arial, 'sans-serif;';text-decoration: none;text-transform: uppercase;min-width: 150px;display: inline-block;text-align: center;margin: 0px;font-weight: bold;" href="https://northwest.cdc.gov.sg/cohesion/jul-2024/nw-hlf/"><em>Catch Up On The Fun</em></a>
+    <div style="max-width: 100%; text-align: center; padding: 35px 15px 15px; margin: 0px auto;"><a style="background: #F96B8D; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center;" href="https://northwest.cdc.gov.sg/cohesion/jul-2024/nw-hlf/"><em>Catch Up On The Fun</em></a>
     </div>
     </div>
   </div>
@@ -442,18 +443,18 @@ Healthy Living Festival</em>
   <div style="max-width: 100%; padding: 10px 10px;">
     <div style="max-width: 100%; padding: 0px 0px 0px; background: #FFFFFF; margin: 30px 0px 0px; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px;">
   <div style="width: 100%;">
-    <img style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;" class="" src="/images/Cohesion/July%202024/edm_kv_preschoolers.png">
+    <img style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;" class="" src="https://staging-lite.d2zr4mfri8ph9q.amplifyapp.com/images/Cohesion/July%202024/edm_kv_preschoolers.png">
   </div>
   <div style="background: #F8F8F8; padding: 30px 20px; -webkit-border-bottom-right-radius: 25px; -webkit-border-bottom-left-radius: 25px; -moz-border-radius-bottomright: 25px; -moz-border-radius-bottomleft: 25px; border-bottom-right-radius: 25px; border-bottom-left-radius: 25px; min-height: 340px; position: relative;">
     <h2 style="color: #086B37; font-weight: bold; font-size: x-large;">
       <em>Preschoolers Take On Dengue 
 With This Adorable Video</em>
     </h2>
-    <p style="font-size: 16px;line-height: normal;margin: 20px 0px 15px;">Discover how preschoolers are spreading the message on beating dengue through their creative and fun video. Thanks to the Budding Greenies programme, our tiny heroes are learning how to adopt good eco habits in school and at home.</p> 
+    <p style="font-size: 16px; line-height: 26px;">Discover how preschoolers are spreading the message on beating dengue through their creative and fun video. Thanks to the Budding Greenies programme, our tiny heroes are learning how to adopt good eco habits in school and at home.</p> 
 
 
     <div style="width: 100%; text-align: center; display: inline-flex; margin: 0px auto;">
-    <div style="max-width: 100%;text-align: center;padding: 15px 15px;margin: 0px auto;"><a style="background: #086B37;color: #FFFFFF;padding: 15px 25px;-webkit-border-radius: 50rem;-moz-border-radius: 50rem;border-radius: 50rem;font-size: medium;font-family: Arial, 'sans-serif;';text-decoration: none;text-transform: uppercase;min-width: 150px;display: inline-block;text-align: center;margin: 0px;" href="https://northwest.cdc.gov.sg/cohesion/jul-2024/nw-bg/"><em>Watch The Video</em></a>
+    <div style="max-width: 100%; text-align: center; padding: 9px 15px 15px; margin: 0px auto;"><a style="background: #086B37; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center;" href="https://northwest.cdc.gov.sg/cohesion/jul-2024/nw-bg/"><em>Watch The Video</em></a>
     </div>
     </div>
 
@@ -471,7 +472,7 @@ With This Adorable Video</em>
   <div style="max-width: 100%; padding: 10px 10px;">
     <div style="max-width: 100%; padding: 0px 0px 0px; background: #FFFFFF; margin: 30px 0px 0px; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px;">
   <div style="width: 100%;">
-    <img style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;" class="" src="/images/Cohesion/July%202024/edm_kv_skillsfuture.png">
+    <img style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;" class="" src="https://staging-lite.d2zr4mfri8ph9q.amplifyapp.com/images/Cohesion/July%202024/edm_kv_skillsfuture.png">
   </div>
   <div style="background: #F8F8F8; padding: 30px 20px; -webkit-border-bottom-right-radius: 25px; -webkit-border-bottom-left-radius: 25px; -moz-border-radius-bottomright: 25px; -moz-border-radius-bottomleft: 25px; border-bottom-right-radius: 25px; border-bottom-left-radius: 25px; min-height: 300px; position: relative;">
     <h2 style="color: #1F4D7F; font-weight: bold; font-size: x-large;">
@@ -480,11 +481,11 @@ Resources You Shouldn’t Miss,
 From Workshops to Career 
 Coaching and More</em>
     </h2>
-    <p style="font-size: 16px;line-height: normal;margin: 20px 0px 15px;">Do you want to be more resilient in your career? Check out this list
+    <p style="font-size: 16px; line-height: 26px;">Do you want to be more resilient in your career? Check out this list
 of free resources to advance your skills and elevate your career!</p> 
 
     <div style="width: 100%; text-align: center; display: inline-flex; margin: 0px auto;">
-    <div style="max-width: 100%; text-align: center; padding: 2px 15px 0px; margin: 0px auto;"><a style="background: #1F4D7F;color: #FFFFFF;padding: 15px 25px;-webkit-border-radius: 50rem;-moz-border-radius: 50rem;border-radius: 50rem;font-size: medium;font-family: Arial, 'sans-serif;';text-decoration: none;text-transform: uppercase;min-width: 150px;display: inline-block;text-align: center;margin: 0px;" href="https://northwest.cdc.gov.sg/cohesion/jul-2024/nw-sfa/"><em>Explore Free Career Resources</em></a>
+    <div style="max-width: 100%; text-align: center; padding: 2px 15px 0px; margin: 0px auto;"><a style="background: #1F4D7F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center;" href="https://northwest.cdc.gov.sg/cohesion/jul-2024/nw-sfa/"><em>Explore Free Career Resources</em></a>
     </div>
     </div>
   </div>
@@ -496,17 +497,17 @@ of free resources to advance your skills and elevate your career!</p>
   <div style="max-width: 100%; padding: 10px 10px;">
     <div style="max-width: 100%; padding: 0px 0px 0px; background: #FFFFFF; margin: 30px 0px 0px; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px;">
   <div style="width: 100%;">
-    <img style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;" class="" src="/images/Cohesion/July%202024/edm_kv_ability.png">
+    <img style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;" class="" src="https://staging-lite.d2zr4mfri8ph9q.amplifyapp.com/images/Cohesion/July%202024/edm_kv_ability.png">
   </div>
   <div style="background: #F8F8F8; padding: 30px 20px; -webkit-border-bottom-right-radius: 25px; -webkit-border-bottom-left-radius: 25px; -moz-border-radius-bottomright: 25px; -moz-border-radius-bottomleft: 25px; border-bottom-right-radius: 25px; border-bottom-left-radius: 25px; min-height: 300px; position: relative;">
     <h2 style="color:#DA312C; font-weight: bold; font-size: x-large;">
       <em>Supporting Children With 
 Special Needs and Their Families</em>
     </h2>
-    <p style="font-size: 16px;line-height: normal;margin: 20px 0px 15px;20pxCONTAIN-INTRINSIC-BLOCK-SIZE: AUTO 100PX;20pxCONTAIN-INTRINSIC-BLOCK-SIZE: AUTO 100PX;20pxcontain-intrinsic-block-size: auto 100px;20pxcontain-intrinsic-block-size: auto 100px;20pxcontain-intrinsic-block-size: auto 100px;20pxcontain-intrinsic-block-size: auto 100px;20px 0pxCONTAIN-INTRINSIC-BLOCK-SIZE: AUTO 100PX;20px 0pxCONTAIN-INTRINSIC-BLOCK-SIZE: AUTO 100PX;20px 0pxCONTAIN-INTRINSIC-BLOCK-SIZE: AUTO 100PX;20px 0pxCONTAIN-INTRINSIC-BLOCK-SIZE: AUTO 100PX;">Supported by the North West WeCare Fund, the Ability Bridge @ North West event was organised to engage children with special needs and provide respite care to their caregivers.</p> 
+    <p style="font-size: 16px; line-height: 26px;">Supported by the North West WeCare Fund, the Ability Bridge @ North West event was organised to engage children with special needs and provide respite care to their caregivers.</p> 
 
     <div style="width: 100%; text-align: center; display: inline-flex; margin: 0px auto;">
-    <div style="max-width: 100%;text-align: center;padding: 15px 15px;margin: 0px auto;"><a style="background: #DA312C;color: #FFFFFF;padding: 15px 25px;-webkit-border-radius: 50rem;-moz-border-radius: 50rem;border-radius: 50rem;font-size: medium;font-family: Arial, 'sans-serif;';text-decoration: none;text-transform: uppercase;min-width: 150px;display: inline-block;text-align: center;margin: 0px;" href="https://northwest.cdc.gov.sg/cohesion/jul-2024/nw-ab/"><em>Read Their Story</em></a>
+    <div style="max-width: 100%; text-align: center; padding: 35px 15px 15px; margin: 0px auto;"><a style="background: #DA312C; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center;" href="https://northwest.cdc.gov.sg/cohesion/jul-2024/nw-ab/"><em>Read Their Story</em></a>
     </div>
     </div>
 
@@ -539,67 +540,11 @@ Special Needs and Their Families</em>
 
     <div style="padding: 10px 20px 20px;">
 
-      <div style="background: #FFFFFF; padding: 20px 0px; margin-bottom: 10px; display: inline-block;" class="w-100 rounded20">
-
-      <div style="padding: 20px 0px 5px;" class="col-12 w-100">
-      <div class="col-3 text-center">
-        <div style="padding: 20px 20px 0px;">
-          <img style="max-width: 120px;" src="/images/Cohesion/July%202024/wu1.png">
-        </div>
-      </div>
-      <div class="col-9">
-        <div style="padding: 20px 2rem 10px;">
-          <h2 style="color: #FE5D1F; margin: 0px; letter-spacing: 0px; font-size: x-large; line-height: 26px; font-weight: bold; font-family: Arial, 'sans-serif;';"><i>Celebrate Racial Harmony Day</i></h2>
-
-          <p style="font-size: 16px; line-height: 26px;">Bring your family and friends to celebrate the unity and diversity in our community as we mark Racial Harmony Day with an exciting line-up of activities. Mark your calendar for these events in the North West. </p>
-
-        </div>
-      </div>
-      </div>
-      <hr style="margin: 0px 30px; border: thin solid #ebebeb;">
-
-      <div style="padding: 20px 0px 5px;" class="col-12 w-100">
-      <div class="col-3 text-center">
-        <div style="padding: 20px 20px 0px;">
-          <img style="max-width: 120px;" src="/images/Cohesion/July%202024/wu2.png">
-        </div>
-      </div>
-      <div class="col-9">
-        <div style="padding: 20px 2rem 10px;">
-          <h2 style="color: #FE5D1F; margin: 0px; letter-spacing: 0px; font-size: x-large; line-height: 26px; font-weight: bold; font-family: Arial, 'sans-serif;';"><i>North West Brisk Walking 2024</i></h2>
-            <span style="color: #FE5D1F; margin: 0px; letter-spacing: 0px; font-size: 16px; line-height: 22px; font-weight: bold; font-family: Arial, 'sans-serif;';"><i>28 July 2024 | 8am to 9.30am<br> 
-            Northoaks Primary School </i></span>
-
-          <p style="font-size: 16px; line-height: 26px;">Put on your walking shoes for a brisk walk while exploring religious diversity. Celebrate harmony and unity within our community!</p>
-
-          <div style="max-width: 100%; text-align: left; padding: 10px 0px 0px;">
-            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold; margin-right: 8px; margin-bottom: 10px; display: inline-block; text-align: center;" target="_new" href="https://www.facebook.com/OurAdmiralty/posts/pfbid0p9tyCR6XfiHnXomEeYDJBFBNpFCbGf2fbP9iAxxsyRtyr9U9DargbeSsVfTkp6MRl">
-              <em>Register Now</em>
-            </a>
-          </div>
-        </div>
-      </div>
-      </div>
-      <hr style="margin: 0px 30px; border: thin solid #ebebeb;">
-
-      <div style="padding: 30px 0px 5px;" class="col-12 w-100">
-        <div class="col-12 text-center">
-        <h2 style="color: #FE5D1F; margin: 0px; letter-spacing: 0px; font-size: x-large; line-height: 26px; font-weight: bold; font-family: Arial, 'sans-serif;';"><i>Check out the full list of Racial Harmony Day Events!</i></h2>
-          <div style="max-width: 100%; text-align: center; padding: 20px 0px 0px;">
-            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold; margin-right: 8px; margin-bottom: 10px; display: inline-block; text-align: center;" target="_new" href="https://www.pa.gov.sg/our-programmes/racial-harmony/racial-harmony-day-events/">
-              <em>Join The Celebrations</em>
-            </a>
-          </div>
-        </div>
-      </div>
-
-      </div>
-
 
       <div style="background: #FFFFFF; padding: 20px 0px; margin-bottom: 10px;" class="col-12 w-100 rounded20">
       <div class="col-3 text-center">
         <div style="padding: 20px 20px 0px;">
-          <img style="max-width: 120px;" src="/images/Cohesion/July%202024/wu3.png">
+          <img style="max-width: 120px;" src="https://staging-lite.d2zr4mfri8ph9q.amplifyapp.com/images/Cohesion/July%202024/wu3.png">
         </div>
       </div>
       <div class="col-9">
@@ -624,7 +569,7 @@ Kampung Admiralty Community Plaza</i></span>
       <div style="background: #FFFFFF; padding: 20px 0px; margin-bottom: 10px;" class="col-12 w-100 rounded20">
       <div class="col-3 text-center">
         <div style="padding: 20px 20px 0px;">
-          <img style="max-width: 120px;" src="/images/Cohesion/July%202024/wu4.png">
+          <img style="max-width: 120px;" src="https://staging-lite.d2zr4mfri8ph9q.amplifyapp.com/images/Cohesion/July%202024/wu4.png">
         </div>
       </div>
       <div class="col-9">
@@ -638,11 +583,10 @@ Kampung Admiralty Community Plaza</i></span>
 
 <p style="font-size: 16px; line-height: 26px;"><b>Snap Away:</b> Find any NDP-themed decorations or Singapore flags in the North West and take a selfie or wefie.</p>
 
-<p style="font-size: 16px; line-height: 26px;"><b>Post &amp; Tag:</b> Share your photos on Facebook.<br> 
-Tag @NorthWestCDC using the hashtag #NorthWestNDPSnapnWin, and include the location in your caption.</p>
+<p style="font-size: 16px; line-height: 26px;"><b>Post &amp; Tag:</b> Share your photos in the comment section with hashtag #NorthWestNDPSnapnWin and tag 3 friends. </p>
 
           <div style="max-width: 100%; text-align: left; padding: 10px 0px 0px;">
-            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold; margin-right: 8px; margin-bottom: 10px; display: inline-block; text-align: center;" target="_new" href="#">
+            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold; margin-right: 8px; margin-bottom: 10px; display: inline-block; text-align: center;" target="_new" href="https://www.facebook.com/nwcdc/videos/3524711491007979">
               <em>Snap &amp; Win</em>
             </a>
           </div>
@@ -654,7 +598,7 @@ Tag @NorthWestCDC using the hashtag #NorthWestNDPSnapnWin, and include the locat
       <div style="background: #FFFFFF; padding: 20px 0px; margin-bottom: 10px;" class="col-12 w-100 rounded20">
       <div class="col-3 text-center">
         <div style="padding: 20px 20px 0px;">
-          <img style="max-width: 120px;" src="/images/Cohesion/July%202024/wu5.png">
+          <img style="max-width: 120px;" src="https://staging-lite.d2zr4mfri8ph9q.amplifyapp.com/images/Cohesion/July%202024/wu5.png">
         </div>
       </div>
       <div class="col-9">
@@ -664,7 +608,7 @@ Tag @NorthWestCDC using the hashtag #NorthWestNDPSnapnWin, and include the locat
           <p style="font-size: 16px; line-height: 26px;">Thinking of how to celebrate Singapore’s 59 years of independence? How about joining the celebrations in your neighbourhood? There will be plenty of performances and fun-filled activities for the whole family. </p>
 
           <div style="max-width: 100%; text-align: left; padding: 10px 0px 0px;">
-            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold; margin-right: 8px; margin-bottom: 10px; display: inline-block; text-align: center;" target="_new" href="#">
+            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold; margin-right: 8px; margin-bottom: 10px; display: inline-block; text-align: center;" target="_new" href="https://www.pa.gov.sg/our-programmes/national-day/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=mp_edm">
               <em>Find Out More</em>
             </a>
           </div>
@@ -747,3 +691,7 @@ Tag @NorthWestCDC using the hashtag #NorthWestNDPSnapnWin, and include the locat
 </div>
 
 </div>
+
+
+
+
