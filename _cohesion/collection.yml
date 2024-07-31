@@ -2,6 +2,7 @@ collections:
   cohesion:
     output: true
     order:
+      - July 2024/Images.md
       - July 2024/.keep
       - July 2024/July At A Glance.md
       - July 2024/Project Sama Sama @ North West.md
