@@ -5,4 +5,4 @@ variant: markdown
 description: ""
 third_nav_title: July 2024
 ---
-![](/images/Cohesion/July%202024/edm_header_59.gif)![](/images/Cohesion/July%202024/sama_infographics.jpg)
+![](/images/Cohesion/July%202024/sama_infographics__2_.png)![](/images/Cohesion/July%202024/edm_header_59.gif)![](/images/Cohesion/July%202024/sama_infographics.jpg)
