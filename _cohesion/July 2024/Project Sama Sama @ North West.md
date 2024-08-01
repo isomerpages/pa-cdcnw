@@ -5,6 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: July 2024
 ---
+
 <style>
 
 p {
@@ -425,7 +426,7 @@ object-fit: cover;
 </div>
 
 <div style="padding: 20px 0px 0px;">
-<p style="font-size: 16px; line-height: 26px;">Sama Sama means ?œsame? and ?œtogether? in Malay, which symbolises the community coming together to support the less privileged in our community. </p>
+<p style="font-size: 16px; line-height: 26px;">Sama Sama means “same“ and “together“ in Malay, which symbolises the community coming together to support the less privileged in our community. </p>
 </div>
 
 <div style="padding: 20px 0px 0px;">
@@ -550,3 +551,5 @@ Read more about Project Sama Sama @ North West <a style="font-weight: bold; colo
 
 
 </article>
+
+

@@ -432,7 +432,7 @@ object-fit: cover;
 </div>
 
 <div style="padding: 20px 0px;">
-<p style="font-size: 16px; line-height: 26px; text-align: justify;">Feeling stuck in your career and unsure what to do next? We’ve curated a list of free resources to help you achieve career resilience. Check them out here!
+<p style="font-size: 16px; line-height: 26px; text-align: justify;">Feeling stuck in your career and unsure what to do next? We?™ve curated a list of free resources to help you achieve career resilience. Check them out here!
 </p>
 </div>
 
@@ -444,7 +444,7 @@ object-fit: cover;
 <div class="" style="max-width: 100%; padding: 70px 30px 20px; background: #F7F7F7; margin-top: -50px; -webkit-border-bottom-right-radius: 20px; -webkit-border-bottom-left-radius: 20px; -moz-border-radius-bottomright: 20px; -moz-border-radius-bottomleft: 20px; border-bottom-right-radius: 20px; border-bottom-left-radius: 20px;">
 
 <div class="" style="width: 100%; padding-bottom: 20px; border-bottom: thin solid #707070">
-<h3 style="font-size: 18px; color: #000000; font-weight: bold;">Embark on your career journey with experts who’ll help you to clarify your career goals and provide advice on career opportunities.</h3>
+<h3 style="font-size: 18px; color: #000000; font-weight: bold;">Embark on your career journey with experts who?™ll help you to clarify your career goals and provide advice on career opportunities.</h3>
 <div style="width: 100%; text-align: center; padding: 20px 0px;">
   <a style="background: #1670A7; font-family: Arial, 'sans-serif;'; font-size: 16px; color: #FFFFFF; font-weight: bold; text-decoration: none; padding: 12px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem;" href="https://content.mycareersfuture.gov.sg/career-guidance/">Get career guidance</a>
 </div>
@@ -457,17 +457,17 @@ object-fit: cover;
     <p style="font-size: 15px; line-height: normal; text-align: center; margin: 0px 0px;">Get personalised career advice from Workforce Singapore (WSG) for your job search and career development. Learn how to tailor your resume and improve your interview skills, plus connect with prospective employers.
     </p>
     <div style="width: 100%; text-align: center; padding: 20px 0px;">
-      <a style="background: #1670A7; font-family: Arial, 'sans-serif;'; font-size: 13px; color: #FFFFFF; font-weight: bold; text-decoration: none; padding: 12px 15px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; display: inline-block; margin: 0px;" href="https://content.mycareersfuture.gov.sg/job-search-advisory-registration/content/">Sign Up Now</a>
+      <a style="background: #1670A7; font-family: Arial, 'sans-serif;'; font-size: 13px; color: #FFFFFF; font-weight: bold; text-decoration: none; padding: 12px 15px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; display: inline-block;" href="https://content.mycareersfuture.gov.sg/job-search-advisory-registration/content/">Sign Up Now</a>
     </div>
     </div>
   </div>
   <div style="padding: 10px 0px;" class="col-4 float-left">
     <div style="padding: 15px 10px;" class="w-100">
     <h3 style="font-size: 16px;color: #1670A7;text-align: center;font-weight: bold;line-height: initial;">Get Advice on How to Plan Your Career</h3>
-    <p style="font-size: 15px; line-height: normal; text-align: center; margin: 0px 0px;">Meet up with a Career Coach at WSG’s Careers Connect or NTUC’s e2i centres for guidance on your career goals, interests and skills. Receive one-on-one support on how to develop an action plan to advance in your career.
+    <p style="font-size: 15px; line-height: normal; text-align: center; margin: 0px 0px;">Meet up with a Career Coach at WSG?™s Careers Connect or NTUC?™s e2i centres for guidance on your career goals, interests and skills. Receive one-on-one support on how to develop an action plan to advance in your career.
     </p>
     <div style="width: 100%; text-align: center; padding: 20px 0px;">
-      <a style="background: #1670A7; font-family: Arial, 'sans-serif;'; font-size: 13px; color: #FFFFFF; font-weight: bold; text-decoration: none; padding: 12px 15px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; display: inline-block; margin: 0px;" href="https://www.wsg.gov.sg/home/individuals/career-advisory-coaching/visit-career-centres">Book an Appointment</a>
+      <a style="background: #1670A7; font-family: Arial, 'sans-serif;'; font-size: 13px; color: #FFFFFF; font-weight: bold; text-decoration: none; padding: 12px 15px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; display: inline-block;" href="https://www.wsg.gov.sg/home/individuals/career-advisory-coaching/visit-career-centres">Book an Appointment</a>
     </div>
     </div>
   </div>
@@ -478,7 +478,7 @@ Through Video Chat</h3>
     <p style="font-size: 15px; line-height: normal; text-align: center; margin: 0px 0px;">No time to visit a career centre? No problem. Connect with a career officer through video chat for quick career tips and advice.
     </p>
     <div style="width: 100%; text-align: center; padding: 20px 0px;">
-      <a style="background: #1670A7; font-family: Arial, 'sans-serif;'; font-size: 13px; color: #FFFFFF; font-weight: bold; text-decoration: none; padding: 12px 10px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; display: inline-block; margin: 0px;" href="https://content.mycareersfuture.gov.sg/video-advisory/">Connect With a Career Officer</a>
+      <a style="background: #1670A7; font-family: Arial, 'sans-serif;'; font-size: 13px; color: #FFFFFF; font-weight: bold; text-decoration: none; padding: 12px 10px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; display: inline-block;" href="https://content.mycareersfuture.gov.sg/video-advisory/">Connect With a Career Officer</a>
     </div>
     </div>
   </div>
@@ -499,7 +499,7 @@ you can learn in-demand skills for free!</h3>
 </div>
 </div>
 
-<h3 style="font-size: 18px; color: #000000; font-weight: bold; padding: 0px 0px; margin: 15px 0px 0px;">If you’re looking to build career resilience, here are three seminars to get you started.</h3>
+<h3 style="font-size: 18px; color: #000000; font-weight: bold; padding: 15px 0px 0px;">If you?™re looking to build career resilience, here are three seminars to get you started.</h3>
 
 <div style="display: inline-block;" class="w-100 col-">
   <div style="padding: 10px 0px;" class="col-4 float-left">
@@ -514,39 +514,37 @@ Time: 7pm to 9pm<br>
 Type: Virtual</span>
     </p>
     <div style="width: 100%; text-align: center; padding: 20px 0px;">
-      <a style="background: #1F4D7F; font-family: Arial, 'sans-serif;'; font-size: 13px; color: #FFFFFF; font-weight: bold; text-decoration: none; padding: 12px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; display: inline-block; margin: 0px;" href="https://www.careergrit.sg/seminars-and-workshops">Sign Up Now</a>
+      <a style="background: #1F4D7F; font-family: Arial, 'sans-serif;'; font-size: 13px; color: #FFFFFF; font-weight: bold; text-decoration: none; padding: 12px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; display: inline-block;" href="https://www.careergrit.sg/seminars-and-workshops">Sign Up Now</a>
     </div>
     </div>
   </div>
   <div style="padding: 10px 0px;" class="col-4 float-left">
     <div style="padding: 15px 10px;" class="w-100">
-    <h3 style="font-size: 16px;color: #1670A7;text-align: center;font-weight: bold;line-height: initial;">Your Personal Brand 
-and Pitch</h3>
-    <p style="font-size: 15px; line-height: normal; text-align: center; margin: 0px 0px;">Seeking career advancement within your current organisation? Learn how to craft a standout personal brand and compelling pitch so you can communicate your value and establish yourself as an industry leader.
+    <h3 style="font-size: 16px;color: #1670A7;text-align: center;font-weight: bold;line-height: initial;">Harmful and Caring Work Habits</h3>
+    <p style="font-size: 15px; line-height: normal; text-align: center; margin: 0px 0px;">Boost your career success by joining this online seminar on workplace interaction habits, where you'll learn Dr. William Glasser's “Seven Caring Habits“ and enhance workplace relationships and satisfaction using the Holland RIASEC framework. 
 <br><br>
 <span style="font-weight: bold;">
-Date: 30 Jul 2024<br>
+Date: 28 Aug 2024<br>
 Time: 12pm to 2pm<br>
 Type: Virtual</span>
     </p>
     <div style="width: 100%; text-align: center; padding: 20px 0px;">
-      <a style="background: #1F4D7F; font-family: Arial, 'sans-serif;'; font-size: 13px; color: #FFFFFF; font-weight: bold; text-decoration: none; padding: 12px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; display: inline-block; margin: 0px;" href="https://www.careergrit.sg/seminars-and-workshops">Sign Up Now</a>
+      <a style="background: #1F4D7F; font-family: Arial, 'sans-serif;'; font-size: 13px; color: #FFFFFF; font-weight: bold; text-decoration: none; padding: 12px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; display: inline-block;" href="https://www.careergrit.sg/seminars-and-workshops">Sign Up Now</a>
     </div>
     </div>
   </div>
   <div style="padding: 10px 0px;" class="col-4 float-left">
     <div style="padding: 15px 10px;" class="w-100">
-    <h3 style="font-size: 16px;color: #1670A7;text-align: center;font-weight: bold;line-height: initial;">Raise Resilience to
-Rejuvenate Career</h3>
-    <p style="font-size: 15px; line-height: normal; text-align: center; margin: 0px 0px;">To stay employable, PMETs must continuously reskill and adapt to new norms. Learn practical strategies to become more adaptable and resilient, while pursuing a purpose-driven career.
+    <h3 style="font-size: 16px;color: #1670A7;text-align: center;font-weight: bold;line-height: initial;">Growth Mindset for Career Development </h3>
+    <p style="font-size: 15px; line-height: normal; text-align: center; margin: 0px 0px;">Unlock your potential by developing a growth mindset. Learn science-based strategies, strengthen your self-efficacy, and practice techniques to boost your willpower and support your success in work and life. 
 <br><br>
 <span style="font-weight: bold;">
-Date: 31 Jul 2024<br>
+Date: 29 Aug 2024<br>
 Time: 7pm to 9pm<br>
 Type: Virtual</span>
     </p>
     <div style="width: 100%; text-align: center; padding: 20px 0px;">
-      <a style="background: #1F4D7F; font-family: Arial, 'sans-serif;'; font-size: 13px; color: #FFFFFF; font-weight: bold; text-decoration: none; padding: 12px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; display: inline-block; margin: 0px;" href="https://www.careergrit.sg/seminars-and-workshops">Sign Up Now</a>
+      <a style="background: #1F4D7F; font-family: Arial, 'sans-serif;'; font-size: 13px; color: #FFFFFF; font-weight: bold; text-decoration: none; padding: 12px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; display: inline-block;" href="https://www.careergrit.sg/seminars-and-workshops">Sign Up Now</a>
     </div>
     </div>
   </div>
@@ -563,10 +561,10 @@ Type: Virtual</span>
   <div style="padding: 10px 0px;" class="col-4 float-left">
     <div style="padding: 15px 10px;" class="w-100">
     <h3 style="font-size: 16px;color: #1670A7;text-align: center;font-weight: bold;line-height: initial;">Listen to a Podcast</h3>
-    <p style="font-size: 15px; line-height: normal; text-align: center; margin: 0px 0px;">Whether you’re seeking strategies for a career relaunch or want to develop a growth mindset, find inspiration in podcasts – a perfect way to spend your time while commuting.
+    <p style="font-size: 15px; line-height: normal; text-align: center; margin: 0px 0px;">Whether you?™re seeking strategies for a career relaunch or want to develop a growth mindset, find inspiration in podcasts ?“ a perfect way to spend your time while commuting.
     </p>
     <div style="width: 100%; text-align: center; padding: 20px 0px;">
-      <a style="background: #0070A7; font-family: Arial, 'sans-serif;'; font-size: 13px; color: #FFFFFF; font-weight: bold; text-decoration: none; padding: 12px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; display: inline-block; margin: 0px;" href="https://www.careergrit.sg/learning-on-the-go-details/podcast">Tune In to a Podcast</a>
+      <a style="background: #0070A7; font-family: Arial, 'sans-serif;'; font-size: 13px; color: #FFFFFF; font-weight: bold; text-decoration: none; padding: 12px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; display: inline-block;" href="https://www.careergrit.sg/learning-on-the-go-details/podcast">Tune In to a Podcast</a>
     </div>
     </div>
   </div>
@@ -578,7 +576,7 @@ e‑Learning Courses</h3>
 to sharpen your presentation skills, navigate challenging discussions at work, and much more.
     </p>
     <div style="width: 100%; text-align: center; padding: 20px 0px;">
-      <a style="background: #0070A7; font-family: Arial, 'sans-serif;'; font-size: 13px; color: #FFFFFF; font-weight: bold; text-decoration: none; padding: 12px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; display: inline-block; margin: 0px;" href="https://www.careergrit.sg/learning-on-the-go-details/micro-learning-courses">Find a Course</a>
+      <a style="background: #0070A7; font-family: Arial, 'sans-serif;'; font-size: 13px; color: #FFFFFF; font-weight: bold; text-decoration: none; padding: 12px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; display: inline-block;" href="https://www.careergrit.sg/learning-on-the-go-details/micro-learning-courses">Find a Course</a>
     </div>
     </div>
   </div>
@@ -589,7 +587,7 @@ Learning Resources</h3>
     <p style="font-size: 15px; line-height: normal; text-align: center; margin: 0px 0px;">Through online articles that touch on topics such as how to face the future of work amidst the AI revolution, and how to manage change amidst job redesigns, you can pick up tips on how to future-proof your career.
     </p>
     <div style="width: 100%; text-align: center; padding: 20px 0px;">
-      <a style="background: #0070A7; font-family: Arial, 'sans-serif;'; font-size: 13px; color: #FFFFFF; font-weight: bold; text-decoration: none; padding: 12px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; display: inline-block; margin: 0px;" href="https://www.careergrit.sg/learning-on-the-go-details/building-career-resilience">Explore Online Articles</a>
+      <a style="background: #0070A7; font-family: Arial, 'sans-serif;'; font-size: 13px; color: #FFFFFF; font-weight: bold; text-decoration: none; padding: 12px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; display: inline-block;" href="https://www.careergrit.sg/learning-on-the-go-details/building-career-resilience">Explore Online Articles</a>
     </div>
     </div>
   </div>
