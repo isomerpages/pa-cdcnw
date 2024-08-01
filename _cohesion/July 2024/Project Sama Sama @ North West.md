@@ -425,7 +425,7 @@ object-fit: cover;
 </div>
 
 <div style="padding: 20px 0px 0px;">
-<p style="font-size: 16px; line-height: 26px;">Sama Sama means “same” and “together” in Malay, which symbolises the community coming together to support the less privileged in our community. </p>
+<p style="font-size: 16px; line-height: 26px;">Sama Sama means ?œsame? and ?œtogether? in Malay, which symbolises the community coming together to support the less privileged in our community. </p>
 </div>
 
 <div style="padding: 20px 0px 0px;">
@@ -435,7 +435,7 @@ object-fit: cover;
 </div>
 
 <div style="width: 100%; padding: 20px 0px 20px;">
-  <img style="width: 100%; max-width:" class="rounded20" src="/images/Cohesion/July%202024/sama_infographics.png">
+  <img style="width: 100%; max-width:" class="rounded20" src="/images/Cohesion/July%202024/sama_infographics.jpg">
 </div>
 
 <div style="padding: 20px 0px 0px;">
