@@ -178,7 +178,7 @@ opportunities! Register <a href="https://go.gov.sg/sff-nwcdc" rel="noopener nore
 <p></p>
 <h4>Webinars</h4>
 <p>Unlock new opportunities and enhance your expertise with our curated series
-of webinar sessions in the month of August!</p>
+of webinar sessions in the month of August! Register <a href="https://go.gov.sg/sfanorthwest" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -245,7 +245,7 @@ of webinar sessions in the month of August!</p>
 </tr>
 </tbody>
 </table>
-<p>Registration for webinars <a href="www.go.gov.sg/sfanorthwest" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
+<p></p>
 <h4>Career Fairs</h4>
 <p>Explore opportunities to shape your professional journey at our two upcoming
 career fairs happening on 17 and 18 August at Bukit Canberra.</p>
