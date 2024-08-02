@@ -146,6 +146,17 @@ Care Economy</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>4 Aug, 12pm - 1pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Time and Stress Management for Productivity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>4 Aug, 2pm - 3pm</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -234,7 +245,7 @@ of webinar sessions in the month of August!</p>
 </tr>
 </tbody>
 </table>
-<p>Registration for webinars <a href="www.go.gov.sg/sfanorthwest" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>Registration for webinars <a href="https://go.gov.sg/sff-nwcdc" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 <h4>Career Fairs</h4>
 <p>Explore opportunities to shape your professional journey at our two upcoming
