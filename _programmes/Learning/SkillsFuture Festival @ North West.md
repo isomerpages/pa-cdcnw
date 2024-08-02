@@ -271,7 +271,7 @@ career fairs happening on 17 and 18 August at Bukit Canberra.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>e2i Skills @ Career Fair Sembawang (for PMETs)</p>
+<p>e2i Skills @ Career Fair @ Sembawang (for PMETs)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>View full job listings and register <a href="https://go.gov.sg/e2i-career-skills-fair" rel="noopener noreferrer nofollow" target="_blank">here</a>
