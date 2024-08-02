@@ -167,10 +167,122 @@ opportunities! Register <a href="https://go.gov.sg/sff-nwcdc" rel="noopener nore
 <p></p>
 <h4>Webinars</h4>
 <p>Unlock new opportunities and enhance your expertise with our curated series
-of webinar sessions in the month of August! Stay tuned for more updates!</p>
+of webinar sessions in the month of August!</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date/Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Webinars</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 Aug, 10am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>"Upskilling on Digitalisation" - covering SCTP: Business Digitalisation
++ Modular: Data Analytical, Gen-AI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8 Aug, 12.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>"Effective Communication Skills"</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 Aug, 12.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>"Effective Networking"</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 Aug, 12.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>"Digital Marketing with AI" - covering SCTP: Digital Marketing with AI
++ Modular: SMM-AI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Registration for webinars <a href="www.go.gov.sg/sfanorthwest" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 <h4>Career Fairs</h4>
 <p>Explore opportunities to shape your professional journey at our two upcoming
-career fairs happening on 17 and 18 August.</p>
+career fairs happening on 17 and 18 August at Bukit Canberra.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Career Fairs</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Registration Link</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>e2i x Jobstreet Express JObs Discovery @ North West (for Non-PMETs)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>View full job listings and register <a href="https://go.gov.sg/e2i-jobs-discovery" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>e2i Skills @ Career Fair 2 Sembawang (for PMETs)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>View full job listings and register <a href="https://go.gov.sg/e2i-career-skills-fair" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4>Win Prizes in our Social Media Giveaway!</h4>
 <p>Stand a chance to win prizes at the event by participating in our Social
 Media Giveaway! Stay tuned to our <a href="https://www.facebook.com/nwcdc" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> and <a href="https://www.instagram.com/northwestcdc/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> for
