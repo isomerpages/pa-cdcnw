@@ -424,27 +424,27 @@ object-fit: cover;
 
 <div style="width: 100%;">
   <img style="width: 100%;" src="https://northwest.cdc.gov.sg/images/Cohesion/January%202024/learning_communities.png">
-  <img style="width: 100%;" src="/images/Cohesion/July%202024/title_learning_tips.png">
+  <img style="width: 100%;" src="https://staging-lite.d2zr4mfri8ph9q.amplifyapp.com/images/Cohesion/July%202024/title_learning_tips.png">
 </div>
 
 <div class="" style="max-width: 100%; padding: 20px 0px 0px;">
-  <img style="width: 100%;" class="rounded20" src="/images/Cohesion/July%202024/kv_learning.jpg">
+  <img style="width: 100%;" class="rounded20" src="https://staging-lite.d2zr4mfri8ph9q.amplifyapp.com/images/Cohesion/July%202024/kv_learning.jpg">
 </div>
 
 <div style="padding: 20px 0px;">
-<p style="font-size: 16px; line-height: 26px; text-align: justify;">Feeling stuck in your career and unsure what to do next? We?™ve curated a list of free resources to help you achieve career resilience. Check them out here!
+<p style="font-size: 16px; line-height: 26px; text-align: justify;">Feeling stuck in your career and unsure what to do next? We've curated a list of free resources to help you achieve career resilience. Check them out here!
 </p>
 </div>
 
 
 
 <div class="" style="max-width: 100%; padding: 15px 0px 0px;">
-  <img style="width: 100%; -webkit-border-top-left-radius: 20px; -webkit-border-top-right-radius: 20px; -moz-border-radius-topleft: 20px; -moz-border-radius-topright: 20px; border-top-left-radius: 20px; border-top-right-radius: 20px;" class="" src="/images/Cohesion/July%202024/tip1.png">
+  <img style="width: 100%; -webkit-border-top-left-radius: 20px; -webkit-border-top-right-radius: 20px; -moz-border-radius-topleft: 20px; -moz-border-radius-topright: 20px; border-top-left-radius: 20px; border-top-right-radius: 20px;" class="" src="https://staging-lite.d2zr4mfri8ph9q.amplifyapp.com/images/Cohesion/July%202024/tip1.png">
 </div>
 <div class="" style="max-width: 100%; padding: 70px 30px 20px; background: #F7F7F7; margin-top: -50px; -webkit-border-bottom-right-radius: 20px; -webkit-border-bottom-left-radius: 20px; -moz-border-radius-bottomright: 20px; -moz-border-radius-bottomleft: 20px; border-bottom-right-radius: 20px; border-bottom-left-radius: 20px;">
 
 <div class="" style="width: 100%; padding-bottom: 20px; border-bottom: thin solid #707070">
-<h3 style="font-size: 18px; color: #000000; font-weight: bold;">Embark on your career journey with experts who?™ll help you to clarify your career goals and provide advice on career opportunities.</h3>
+<h3 style="font-size: 18px; color: #000000; font-weight: bold;">Embark on your career journey with experts who'll help you to clarify your career goals and provide advice on career opportunities.</h3>
 <div style="width: 100%; text-align: center; padding: 20px 0px;">
   <a style="background: #1670A7; font-family: Arial, 'sans-serif;'; font-size: 16px; color: #FFFFFF; font-weight: bold; text-decoration: none; padding: 12px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem;" href="https://content.mycareersfuture.gov.sg/career-guidance/">Get career guidance</a>
 </div>
@@ -464,7 +464,7 @@ object-fit: cover;
   <div style="padding: 10px 0px;" class="col-4 float-left">
     <div style="padding: 15px 10px;" class="w-100">
     <h3 style="font-size: 16px;color: #1670A7;text-align: center;font-weight: bold;line-height: initial;">Get Advice on How to Plan Your Career</h3>
-    <p style="font-size: 15px; line-height: normal; text-align: center; margin: 0px 0px;">Meet up with a Career Coach at WSG?™s Careers Connect or NTUC?™s e2i centres for guidance on your career goals, interests and skills. Receive one-on-one support on how to develop an action plan to advance in your career.
+    <p style="font-size: 15px; line-height: normal; text-align: center; margin: 0px 0px;">Meet up with a Career Coach at WSG's Careers Connect or NTUC's e2i centres for guidance on your career goals, interests and skills. Receive one-on-one support on how to develop an action plan to advance in your career.
     </p>
     <div style="width: 100%; text-align: center; padding: 20px 0px;">
       <a style="background: #1670A7; font-family: Arial, 'sans-serif;'; font-size: 13px; color: #FFFFFF; font-weight: bold; text-decoration: none; padding: 12px 15px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; display: inline-block;" href="https://www.wsg.gov.sg/home/individuals/career-advisory-coaching/visit-career-centres">Book an Appointment</a>
@@ -487,7 +487,7 @@ Through Video Chat</h3>
 
 
 <div class="" style="max-width: 100%; padding: 25px 0px 0px;">
-  <img style="width: 100%; -webkit-border-top-left-radius: 20px; -webkit-border-top-right-radius: 20px; -moz-border-radius-topleft: 20px; -moz-border-radius-topright: 20px; border-top-left-radius: 20px; border-top-right-radius: 20px;" class="" src="/images/Cohesion/July%202024/tip2.png">
+  <img style="width: 100%; -webkit-border-top-left-radius: 20px; -webkit-border-top-right-radius: 20px; -moz-border-radius-topleft: 20px; -moz-border-radius-topright: 20px; border-top-left-radius: 20px; border-top-right-radius: 20px;" class="" src="https://staging-lite.d2zr4mfri8ph9q.amplifyapp.com/images/Cohesion/July%202024/tip2.png">
 </div>
 <div class="" style="max-width: 100%; padding: 70px 30px 20px; background: #F7F7F7; margin-top: -50px; -webkit-border-bottom-right-radius: 20px; -webkit-border-bottom-left-radius: 20px; -moz-border-radius-bottomright: 20px; -moz-border-radius-bottomleft: 20px; border-bottom-right-radius: 20px; border-bottom-left-radius: 20px;">
 
@@ -499,7 +499,7 @@ you can learn in-demand skills for free!</h3>
 </div>
 </div>
 
-<h3 style="font-size: 18px; color: #000000; font-weight: bold; padding: 15px 0px 0px;">If you?™re looking to build career resilience, here are three seminars to get you started.</h3>
+<h3 style="font-size: 18px; color: #000000; font-weight: bold; padding: 15px 0px 0px;">If you're looking to build career resilience, here are three seminars to get you started.</h3>
 
 <div style="display: inline-block;" class="w-100 col-">
   <div style="padding: 10px 0px;" class="col-4 float-left">
@@ -553,7 +553,7 @@ Type: Virtual</span>
 
 
 <div class="" style="max-width: 100%; padding: 25px 0px 0px;">
-  <img style="width: 100%; -webkit-border-top-left-radius: 20px; -webkit-border-top-right-radius: 20px; -moz-border-radius-topleft: 20px; -moz-border-radius-topright: 20px; border-top-left-radius: 20px; border-top-right-radius: 20px;" class="" src="/images/Cohesion/July%202024/tip3.png">
+  <img style="width: 100%; -webkit-border-top-left-radius: 20px; -webkit-border-top-right-radius: 20px; -moz-border-radius-topleft: 20px; -moz-border-radius-topright: 20px; border-top-left-radius: 20px; border-top-right-radius: 20px;" class="" src="https://staging-lite.d2zr4mfri8ph9q.amplifyapp.com/images/Cohesion/July%202024/tip3.png">
 </div>
 <div class="" style="max-width: 100%; padding: 70px 30px 20px; background: #F7F7F7; margin-top: -50px; -webkit-border-bottom-right-radius: 20px; -webkit-border-bottom-left-radius: 20px; -moz-border-radius-bottomright: 20px; -moz-border-radius-bottomleft: 20px; border-bottom-right-radius: 20px; border-bottom-left-radius: 20px;">
 
@@ -561,7 +561,7 @@ Type: Virtual</span>
   <div style="padding: 10px 0px;" class="col-4 float-left">
     <div style="padding: 15px 10px;" class="w-100">
     <h3 style="font-size: 16px;color: #1670A7;text-align: center;font-weight: bold;line-height: initial;">Listen to a Podcast</h3>
-    <p style="font-size: 15px; line-height: normal; text-align: center; margin: 0px 0px;">Whether you?™re seeking strategies for a career relaunch or want to develop a growth mindset, find inspiration in podcasts ?“ a perfect way to spend your time while commuting.
+    <p style="font-size: 15px; line-height: normal; text-align: center; margin: 0px 0px;">Whether you're seeking strategies for a career relaunch or want to develop a growth mindset, find inspiration in podcasts – a perfect way to spend your time while commuting.
     </p>
     <div style="width: 100%; text-align: center; padding: 20px 0px;">
       <a style="background: #0070A7; font-family: Arial, 'sans-serif;'; font-size: 13px; color: #FFFFFF; font-weight: bold; text-decoration: none; padding: 12px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; display: inline-block;" href="https://www.careergrit.sg/learning-on-the-go-details/podcast">Tune In to a Podcast</a>
@@ -596,13 +596,12 @@ Learning Resources</h3>
 
 
 <div class="" style="max-width: 100%; padding: 25px 0px 0px;">
-  <img style="width: 100%; -webkit-border-top-left-radius: 20px; -webkit-border-top-right-radius: 20px; -moz-border-radius-topleft: 20px; -moz-border-radius-topright: 20px; border-top-left-radius: 20px; border-top-right-radius: 20px;" class="" src="/images/Cohesion/July%202024/tip4.png">
+  <img style="width: 100%; -webkit-border-top-left-radius: 20px; -webkit-border-top-right-radius: 20px; -moz-border-radius-topleft: 20px; -moz-border-radius-topright: 20px; border-top-left-radius: 20px; border-top-right-radius: 20px;" class="" src="https://staging-lite.d2zr4mfri8ph9q.amplifyapp.com/images/Cohesion/July%202024/tip4.png">
 </div>
 <div class="" style="max-width: 100%; padding: 40px 30px 20px; background: #F7F7F7; margin-top: -50px; -webkit-border-bottom-right-radius: 20px; -webkit-border-bottom-left-radius: 20px; -moz-border-radius-bottomright: 20px; -moz-border-radius-bottomleft: 20px; border-bottom-right-radius: 20px; border-bottom-left-radius: 20px;">
 
 <div class="" style="width: 100%; padding-bottom: 20px;">
-<h3 style="font-size: 18px; color: #000000; font-weight: bold;">Find out what skills you need to climb up the career ladder, transition to a new role,
-achieve salary progression or to future-proof your career.</h3>
+<h3 style="font-size: 18px; color: #000000; font-weight: bold;">Find out what skills you need to climb up the career ladder, transition to a new role, achieve salary progression or to future-proof your career.</h3>
 <div style="width: 100%; text-align: center; padding: 20px 0px;">
   <a style="background: #1F4D7F; font-family: Arial, 'sans-serif;'; font-size: 16px; color: #FFFFFF; font-weight: bold; text-decoration: none; padding: 12px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem;" href="https://careersfinder.mycareersfuture.gov.sg/">Take the CareersFinder Quiz</a>
 </div>
@@ -614,7 +613,7 @@ achieve salary progression or to future-proof your career.</h3>
 </div>
 
 <div style="width: 100%; padding: 20px 0px 0px;">
-  <img style="width: 100%; max-width:" class="" src="/images/Cohesion/July%202024/skillfuture_festival.jpg">
+  <img style="width: 100%; max-width:" class="" src="https://staging-lite.d2zr4mfri8ph9q.amplifyapp.com/images/Cohesion/July%202024/skillfuture_festival.jpg">
 </div>
 <div style="width: 100%; padding: 0px 0px; background: #FAF2E5; -webkit-border-bottom-right-radius: 20px; -webkit-border-bottom-left-radius: 20px; -moz-border-radius-bottomright: 20px; -moz-border-radius-bottomleft: 20px; border-bottom-right-radius: 20px; border-bottom-left-radius: 20px;">
   <p style="font-size: 16px; line-height: 26px; font-weight: bold; padding: 0px 40px 50px; margin: 0px 0px;">Attendance is free! Register now at <a style="font-weight: bold; color: #1F4D7F;" target="_new" href="https://go.gov.sg/sff-nwcdc">go.gov.sg/sff-nwcdc</a></p>
