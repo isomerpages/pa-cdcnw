@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: July 2024
 ---
-
 <style>
 
 p {
@@ -691,5 +690,3 @@ Learning Resources</h3>
 
 
 </article>
-
-
