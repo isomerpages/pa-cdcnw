@@ -495,7 +495,7 @@ border-bottom-left-radius: 20px;">
       </p> 
         <p style="font-size: 16px; text-align: left; line-height: 26px; color: #000; margin: 10px 0px;">Families on the KidSTART SG programme will be enrolled onto the Little Steps @ North West programme. Eligible families will be notified by an email.</p>
 
-<p style="font-size: 16px; text-align: left; line-height: 26px; color: #000; margin: 10px 0px;">For more information, visit <a href="https://go.gov.sg/nw-little-step" target="_new" style="color: #0C6C37; text-decoration: underline; font-weight: bold;">go.gov.sg/nw-little-steps</a>. </p>  
+<p style="font-size: 16px; text-align: left; line-height: 26px; color: #000; margin: 10px 0px;">For more information, visit <a href="https://go.gov.sg/nw-little-steps" target="_new" style="color: #0C6C37; text-decoration: underline; font-weight: bold;">go.gov.sg/nw-little-steps</a>. </p>  
     </div>
   </div>
 </div>
