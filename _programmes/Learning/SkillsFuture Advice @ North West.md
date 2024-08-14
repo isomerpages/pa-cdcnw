@@ -13,7 +13,8 @@ Dedicated to fostering a culture of lifelong learning, we provide resources on e
 
 Stay one step ahead of the future economy! Check out the [Skills Demand for the Future Economy](https://www.skillsfuture.gov.sg/skillsreport) report to equip yourself with the knowledge to thrive in the evolving world of work.  
 
-Join us in making lifelong learning our way of life! Register your interest for upcoming workshops and events [here](www.go.gov.sg/reg-interest-nwsfa)
+Join us in making lifelong learning our way of life! Register your interest for upcoming workshops and events [here](https://www.go.gov.sg/reg-interest-nwsfa)
+
 **Skills Framework**
 
 Find out more about the [Skills Framework](https://www.skillsfuture.gov.sg/skills-framework), which is an integral component of the Industry Transformation Maps. It is co-created by Employers, Industry Associations, Education Institutions, Unions and Government for the Singapore workforce. Skills Framework provides key sector information, occupations/job roles, and the required existing and emerging skills.
