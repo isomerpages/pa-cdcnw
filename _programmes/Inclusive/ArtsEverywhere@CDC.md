@@ -21,4 +21,4 @@ a greater appreciation for the arts through these shared experiences.</p>
 <p>This initiative is in line with our aspiration for <em>Our SG Arts Plan (2023 - 2027)</em> to
 build <em>A Connected Society</em>, where our social connections and national
 identity are strengthened through the arts.</p>
-<p></p>
+<p>Sign up</p>
