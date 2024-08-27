@@ -22,6 +22,6 @@ a greater appreciation for the arts through these shared experiences.</p>
 build <em>A Connected Society</em>, where our social connections and national
 identity are strengthened through the arts.</p>
 <p></p>
-<p><strong>Register your interest here and receive a game card to redeem a free snack of your choice!</strong>
+<p><strong>Register your interest </strong><a href="go.gov.sg/nw-ae-registration" rel="noopener nofollow" target="_blank">here</a><strong> and receive a game card to redeem a free snack of your choice!</strong>
 </p>
 <p></p>
