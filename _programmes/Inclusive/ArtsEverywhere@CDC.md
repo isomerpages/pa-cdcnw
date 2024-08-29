@@ -21,6 +21,13 @@ arts together, in the vicinity of their homes.</p>
 district, including fringe arts and culture activities for all to participate
 in. More than 50,000 residents are estimated to experience these art performances.</p>
 <p></p>
+<p>Mr Alex Yam, Mayor of North West District, said “Bringing arts into the
+heartlands of the North West District will enable us to build Inclusive
+Communities where residents can better access and support performances
+by our local artistes. Importantly, it will also bring our residents together
+and create a memorable bonding experience, enjoyed conveniently in their
+neighbourhood.”</p>
+<p></p>
 <p><strong>Register your interest </strong><a href="go.gov.sg/nw-ae-registration" rel="noopener nofollow" target="_blank">here</a><strong> and secure your slot at upcoming events, and receive a game card to redeem a free snack and participate in free activities!</strong>
 </p>
 <p></p>
