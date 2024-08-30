@@ -28,6 +28,6 @@ by our local artistes. Importantly, it will also bring our residents together
 and create a memorable bonding experience, enjoyed conveniently in their
 neighbourhood.”</p>
 <p></p>
-<p><strong>Register your interest </strong><a href="go.gov.sg/nw-ae-registration" rel="noopener nofollow" target="_blank">here</a><strong> and secure your slot at upcoming events, and receive a game card to redeem a free snack and participate in free activities!</strong>
+<p><strong>Register your interest </strong><a href="https://go.gov.sg/nw-ae-registration" rel="noopener nofollow" target="_blank">here</a><strong> and secure your slot at upcoming events, and receive a game card to redeem a free snack and participate in free activities!</strong>
 </p>
 <p></p>
