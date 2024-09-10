@@ -5,10 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Inclusive
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WB_WB_1920x720_3_NWCDC__1_.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/nw-ae-registration"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/WB_WB_1920x720_3_NWCDC__1_.jpg"></a>
 <h4>ArtsEverywhere@CDC</h4>
 <p><a href="https://www.cdc.gov.sg/artseverywhere-cdc/" rel="noopener nofollow" target="_blank">ArtsEverywhere@CDC,</a> a
 national effort by the National Arts Council (NAC), People’s Association
