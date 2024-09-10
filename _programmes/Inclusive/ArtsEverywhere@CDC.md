@@ -5,10 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Inclusive
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WB_WB_1920x720_3_NWCDC__1_.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/nw-ae-registration"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/WB_WB_1920x720_3_NWCDC__1_.jpg"></a>
 <h4>ArtsEverywhere@CDC</h4>
 <p><a href="https://www.cdc.gov.sg/artseverywhere-cdc/" rel="noopener nofollow" target="_blank">ArtsEverywhere@CDC,</a> a
 national effort by the National Arts Council (NAC), People’s Association
@@ -31,5 +28,5 @@ conveniently in their neighbourhood.”</p>
 </blockquote>
 <p></p>
 <p><strong>Register your interest </strong><a href="https://go.gov.sg/nw-ae-registration" rel="noopener nofollow" target="_blank">here</a><strong> and secure your slot at upcoming events, and receive a game card to redeem a free snack and participate in free activities!</strong>
-</p><a class="isomer-image-wrapper" href="https://go.gov.sg/nw-ae-registration"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Picture1.png"></a>
+</p>
 <p></p>
