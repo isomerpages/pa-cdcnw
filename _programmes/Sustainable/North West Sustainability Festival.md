@@ -5,10 +5,10 @@ description: ""
 third_nav_title: Sustainable
 variant: markdown
 ---
-![](/images/5M4_5327e.jpg)
+[](/images/Picture2.jpg)
 
-The inaugural North West Sustainability Festival is a dynamic showcase of green efforts, with workshops and activities to encourage participants to adopt eco-friendly practices at home and protect our environment.
+### **Sustainability in Every Bite**!
 
-With different themes and activities each year, the festival aims to cultivate a green mindset within the North West community, educating residents ways to go green and how to practice at home. 
+Feast on **bite-sized food sustainability tips**, explore our **weekend Farmers’ Market** with fresh local produce, attend **green workshops and activities**, and participate in **celebrity cooking demos** turning ugly food into delicious meals!
 
-Corporates or community organisations who are interested to partner us for this festival, please email northwest_cdc@pa.gov.sg for more information.
+Best of all, the three-day festival is **FREE** for all! So come on down and join us on this immersive food journey. Sign up for our workshops to experience hands-on green activities and learn tips to start your green practice at home!
