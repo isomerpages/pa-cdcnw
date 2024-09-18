@@ -2,7 +2,6 @@ collections:
   cohesion:
     output: true
     order:
-      - September 2024/Images.md
       - September 2024/.keep
       - September 2024/September At A Glance.md
       - September 2024/ArtsEverywhere@CDC.md
