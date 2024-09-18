@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: September 2024
 ---
-
 <style>
 
 p {
@@ -470,11 +469,37 @@ Bringing art closer to the people through live performances and art experiences 
 <p style="font-size: 16px; line-height: 26px;">For performers, it offers the opportunity to see residents enjoying their craft and build connections               with the community.</p>
 </div>
 
-<div style="max-width: 100%; padding: 0px 0px 20px;" class="rounded20">
-  <a target="_new" href="https://vouchers.cdc.gov.sg">
-    <img style="width: 100%; margin-top: 0px;" class="" src="/images/Cohesion/September%202024/ae_infographics_4.png">
-  </a>
+
+
+<div style="padding: 20px 0px;">
+<div style="width: 100%; background: #FB5C1F; padding: 20px 0px;" class="rounded20">
+  <div style="padding: 30px 35px;-webkit-border-radius: 25px;-moz-border-radius: 25px;border-radius: 25px;background: #fef5f1;width: 86%;margin: auto;">
+    <div style="width: 100%; padding: 0px 0px;">
+      <p style="text-align: left; color: #FB5C1F; margin: 0px 0px;"><span style="font-size: 24px; font-weight: bold;">Megat Muhamad Firdaus Bin Mohamad</span><br> 
+<span style="font-size: 18px; font-style: italic;">Multi-instrumentalist and Music Director, Executive Director of yIN Harmony </span>
+      </p> 
+
+      <div style="max-width: 100%; padding: 20px 0px;">
+        <div class="video-container rounded20">
+          <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/SpXvtz5EzZI?si=03EtqvcHLxdJOcBn" height="315" width="560"></iframe>
+        </div>
+      </div>
+
+      <p style="font-size: 16px; text-align: left; line-height: 24px; color: #000000; margin: 10px 0px 0px; font-weight: bold;">Why did you choose to perform A Bird's Journey for the community?</p>
+
+      <p style="font-size: 16px; text-align: left; line-height: 24px; color: #000000; margin: 10px 0px 0px;">A Bird's Journey is an inspiring tale about a young duckling who dreams of becoming a beautiful swan, reflecting our own aspirations. No matter our backgrounds or challenges, with determination and hard work, we can overcome any challenges and take flight just like a beautiful swan. I hope the audience can remember the emotions and connections they felt while watching our performance.  
+      </p> 
+
+      <br>
+
+      <p style="font-size: 16px; text-align: left; line-height: 24px; color: #000000; margin: 10px 0px 0px; font-weight: bold;">How do you think bringing the arts closer to the community fosters a sense of belonging and promotes appreciation for the arts? </p>
+
+      <p style="font-size: 16px; text-align: left; line-height: 24px; color: #000000; margin: 10px 0px 0px;">Residents can discover the richness of homegrown talent that is keeping Singapore’s arts scene vibrant. I hope that this will also spark greater interest in the arts and keep audiences excited for future performances.</p> 
+  </div>
 </div>
+</div>
+</div>
+
 
 
 <div style="padding: 20px 0px;">
@@ -536,5 +561,3 @@ Bringing art closer to the people through live performances and art experiences 
 
 
 </article>
-
-
