@@ -1,11 +1,10 @@
 ---
-title: CDC Vouchers
+title: CDC Vouchers Scheme
 permalink: /cohesion/september-2024/cdc-vouchers/
 variant: markdown
 description: ""
 third_nav_title: September 2024
 ---
-
 <style>
 
 p {
@@ -503,5 +502,3 @@ Find out how two North West residents plan to spend their CDC vouchers. </p>
 
 
 </article>
-
-
