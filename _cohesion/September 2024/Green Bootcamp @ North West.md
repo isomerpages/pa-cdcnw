@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: September 2024
 ---
-
 <style>
 
 p {
@@ -428,15 +427,15 @@ object-fit: cover;
 </div>
 
 <div class="rounded20" style="max-width: 100%; padding: 30px 0px 0px;">
-  <img style="width: 100%;" class="rounded20" src="/images/Cohesion/September%202024/glance_bootcamp.jpg">
+  <img style="width: 100%;" class="rounded20" src="/images/Cohesion/September%202024/gbc_kv.gif">
 </div>
 
 <div style="padding: 20px 0px;">
-<p style="font-size: 16px; line-height: 26px; text-align: justify;">Another year of innovative ideas and interesting workshops at our annual Green Bootcamp @ North West! This year's challenge involved coming up with solutions to encourage food sustainability and promote conscious fashion choices. 
+<p style="font-size: 16px; line-height: 26px; text-align: justify;">Another year of innovative ideas and interesting workshops at our annual Green Bootcamp @ North West! This year’s challenge involved coming up with solutions to encourage food sustainability and promote conscious fashion choices. 
 <br><br>
 To prepare them for the ideation process, the students attended a series of events including a talk on food waste by Food Citizen, a greenhouse tour by Republic Polytechnic and a creative upcycling talk and workshop on sustainable fashion by WahSoSimple. They were also mentored by facilitators from RP.
 <br><br>
-Let's take a look at the winning project by Team Eco Warrior that wowed the judges!
+Let’s take a look at the winning project by Team Eco Warrior that wowed the judges!
 </p>
 </div>
 
@@ -527,7 +526,7 @@ Let's take a look at the winning project by Team Eco Warrior that wowed the judg
 </div>
 
 <div style="padding: 20px 0px 0px; text-align: center;">
-<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="100%" width="267" src="https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2Fnwcdc%2Fvideos%2F1050693149811127%2F&amp;show_text=true&amp;width=267&amp;t=0"></iframe>
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="750" width="267" src="https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2Fnwcdc%2Fvideos%2F1050693149811127%2F&amp;show_text=true&amp;width=267&amp;t=0"></iframe>
 </div>
 
 
@@ -539,12 +538,10 @@ Let's take a look at the winning project by Team Eco Warrior that wowed the judg
   <div style="padding: 40px 40px;">
     <div style="padding: 0px 0px;">
 
-      <div style="width: 100%; text-align: right;">
-      <img style="width: 100%; max-width: 130px; position: absolute; margin-top: -67px; float: inline-end; margin-left: -113px;" src="/images/Cohesion/July%202024/greenie.png">
-      </div>
-      <p style="font-size: 20px; font-weight: bold; text-align: left; color: #086B37; margin: 0px 0px; border-bottom: 2px solid #086B37; position: relative;
-    padding-right: 50px;"><strong>Join the movement for a greener future </strong>
+      <p style="font-size: 20px; font-weight: bold; text-align: left; color: #086B37; margin: 0px 0px; border-bottom: 2px solid #086B37; position: relative; padding-right: 50px;"><strong style="z-index: 2; position: relative;">Join the movement for a greener future </strong>
+    <img style="width: 100%;max-width: 130px;position: absolute;margin-top: -72px;float: inline-end;right: -24px;/* z-index: 0; */" src="/images/Cohesion/July%202024/greenie.png">
       </p> 
+ 
 
       <p style="font-size: 16px; text-align: left; line-height: 24px; color: #000; margin: 10px 0px 0px;">Want to make an impact on the environment? Discover how you can be part of the solution through our array of green programmes, connect with like-minded individuals in the community, and turn your ideas into reality.
       <br><br>
@@ -600,5 +597,3 @@ Or immerse in an interactive food journey and experience green activities at our
 
 
 </article>
-
-
