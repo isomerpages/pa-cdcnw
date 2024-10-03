@@ -453,7 +453,7 @@ h1, h2, h3, h4, h5, h6, li {
       <div>
         <p style="line-height: initial; color: #157577;">Get your family involved and set up a recycling corner at home.</p> 
 
-        <p style="line-height: initial; color: #157577;"><i>Tip: Don't throw your toilet rolls, put it to good use! Check out the ToiletrollSG Collection drive at Sembawang West <a style="color: #157577; text-decoration: underline;" target="_new" href="/">here</a>.</i></p>
+        <p style="line-height: initial; color: #157577;"><i>Tip: Don't throw your toilet rolls, put it to good use! <a style="color: #157577; text-decoration: underline;" target="_new" href="/">here</a>.</i></p>
       </div>
     </div>
   </div>
