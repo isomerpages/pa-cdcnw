@@ -3,6 +3,7 @@ title: Advocating Green Living
 permalink: /cohesion/july-2023/getgreen-challenge/
 description: ""
 third_nav_title: July 2023
+variant: markdown
 ---
 <style>
 
@@ -452,7 +453,7 @@ h1, h2, h3, h4, h5, h6, li {
       <div>
         <p style="line-height: initial; color: #157577;">Get your family involved and set up a recycling corner at home.</p> 
 
-        <p style="line-height: initial; color: #157577;"><i>Tip: Don't throw your toilet rolls, put it to good use! Check out the ToiletrollSG Collection drive at Sembawang West <a style="color: #157577; text-decoration: underline;" target="_new" href="https://www.toiletrollsg.com/">here</a>.</i></p>
+        <p style="line-height: initial; color: #157577;"><i>Tip: Don't throw your toilet rolls, put it to good use! Check out the ToiletrollSG Collection drive at Sembawang West <a style="color: #157577; text-decoration: underline;" target="_new" href="/">here</a>.</i></p>
       </div>
     </div>
   </div>
@@ -564,7 +565,7 @@ Start small by finding a recycling point nearest to your house and be a part of 
 </div>
 
 
-<!--Footer-->
+
 <div style="padding: 20px 0px 0px; display: flex;" class="col-">&nbsp;</div>
 
 <div style="width: 100%; background: #FB5C1F; border-radius: 30px; padding: 0px 0px; display: flex;">
@@ -599,7 +600,7 @@ Start small by finding a recycling point nearest to your house and be a part of 
   <p style="font-size: 14px; line-height: 24px; margin-top: 0px;">Some articles in Cohesion are contributed by volunteers and are not necessarily opinions/comments by North&nbsp;West&nbsp;CDC.</p>
   <p style="font-size: 14px; line-height: 24px; margin-top: 0px;">Reproduction in whole or in part is prohibited without prior permission from North West CDC.</p>
 </div>
-<!--Footer End-->
+
 
 
 </article>
