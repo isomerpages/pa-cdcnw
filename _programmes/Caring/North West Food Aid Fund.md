@@ -19,4 +19,4 @@ variant: markdown
 Eligible residents may apply at the local Community Clubs, and North West CDC will work closely with Grassroots Organisations to identify the beneficiaries. For enquiries, please contact the North West CDC at   [northwest\_cdc@pa.gov.sg](mailto:northwest_cdc@pa.gov.sg).
 
        
-All applications are subject to assessment and evaluation.  Supporting documents are required to assess the applicant’s overall circumstances and meeting the eligibility criteria does may not guarantee entitlement to assistance.
+All applications are subject to assessment and evaluation.  Supporting documents are required to assess the applicant’s overall circumstances and meeting the eligibility criteria may not guarantee entitlement to assistance.
