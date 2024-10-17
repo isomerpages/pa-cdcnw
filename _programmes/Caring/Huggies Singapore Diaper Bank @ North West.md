@@ -20,4 +20,5 @@ Eligible applicants may apply during the two application windows each year, and 
 Please note that October application cycle will be from 1 October to 21 October 2024 and eligible residents may apply through this [link](https://form.gov.sg/650902912ccd0f00129a9040).
 
 
-All applications are subject to assessment and evaluation.&nbsp; Supporting documents are required to assess the applicant’s overall circumstances and&nbsp;meeting the eligibility criteria does may not guarantee entitlement to assistance.
+
+All applications are subject to assessment and evaluation.&nbsp; Supporting documents are required to assess the applicant’s overall circumstances and&nbsp;meeting the eligibility criteria may not guarantee entitlement to assistance.
