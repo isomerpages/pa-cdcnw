@@ -15,4 +15,4 @@ The scheme supports beneficiaries under the IMDA’s DigitalAccess @ Home Scheme
 
 To apply for the scheme, please complete this [form](https://go.gov.sg/nwdigiready) and submit all supporting documents. Our officer will get in touch with you upon successful application.
 
-All applications are subject to assessment  and evaluation. Supporting documents
+All applications are subject to assessment and evaluation.          Supporting documents are required to assess the applicant’s overall circumstances and meeting the eligibility criteria does may not guarantee entitlement to assistance.
