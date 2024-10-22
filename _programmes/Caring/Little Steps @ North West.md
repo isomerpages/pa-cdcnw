@@ -16,3 +16,6 @@ Each eligible child will receive a letter from the North West CDC to register fo
 As the applications are processed in batches, any incomplete submission of documents will result in a delay in the crediting of the cash assistance.
 
 For further enquiries, please contact North West CDC at [northwest\_cdc@pa.gov.sg](mailto:northwest_cdc@pa.gov.sg)
+
+       
+All applications are subject to assessment and evaluation.  Supporting documents are required to assess the applicant’s overall circumstances and meeting the eligibility criteria may not guarantee entitlement to assistance.
