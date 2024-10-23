@@ -12,7 +12,7 @@ Feast on **bite-sized food sustainability tips**, explore our **weekend Farmersâ
 
 Up for some competition? You can join our **cooking contests** to level up and compete with other inspiring chefs to be! Best of all, the three-day festival is **FREE** for all! So join us on this immersive food journey, complete a quiz and stand a chance to win attractive prizes! 
 
-![](/images/Sust_Fest_Schedule_v2.jpg)
+![](/images/Programmes/Green%20Living/Sust_Fest_Schedule.jpg)
 
 #### **Sign up for our workshops to experience hands-on green activities and learn tips to start your green practices at home!**
 
