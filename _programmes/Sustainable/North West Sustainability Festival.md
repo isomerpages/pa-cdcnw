@@ -35,7 +35,7 @@ food journey, complete a quiz and stand a chance to win attractive prizes!</p>
 <p>S/N</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name of Activity / Workshop</p>
+<p>Name of Activity / Workshop &amp; Sign Up Link</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Date</p>
