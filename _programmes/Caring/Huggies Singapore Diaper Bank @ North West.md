@@ -17,7 +17,7 @@ Eligible applicants may apply during the two application windows each year, and 
 *   Resident of the North West District;
 *   Monthly household income of&nbsp;≤ $3,500 or monthly Per Capita Income of ≤ $1,000
 
-Please note that October application cycle will be from 1 October to 21 October 2024 and eligible residents may apply through this [link](https://form.gov.sg/650902912ccd0f00129a9040).
+Please note that October 2024 application cycle is now closed. The next application cycles will be in April and October 2025.
 
 
 
