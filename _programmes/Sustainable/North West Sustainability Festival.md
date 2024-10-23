@@ -3,17 +3,255 @@ title: North West Sustainability Festival
 permalink: /programmes/advocating-green-living/north-west-sustainability-festival/
 description: ""
 third_nav_title: Sustainable
-variant: markdown
+variant: tiptap
 ---
-![](/images/Sust_Fest_2024_Poster.jpg)
-### **Sustainability in Every Bite!**
-
-Feast on **bite-sized food sustainability tips**, explore our **weekend Farmers’ Market** with fresh local produce and delicious food stalls, attend **green workshops and activities**, and participate in **celebrity cooking demos** turning ugly food into delicious meals! 
-
-Up for some competition? You can join our **cooking contests** to level up and compete with other inspiring chefs to be! Best of all, the three-day festival is **FREE** for all! So join us on this immersive food journey, complete a quiz and stand a chance to win attractive prizes! 
-
-![](/images/Programmes/Green%20Living/Sust_Fest_Schedule.jpg)
-
-#### **Sign up for our workshops to experience hands-on green activities and learn tips to start your green practices at home!**
-
-<table style="border-collapse:collapse;width:986pt" width="1315"><colgroup><col style="width:30pt" width="40"><col style="width:523pt" width="697"><col span="2" style="width:104pt" width="139"><col style="width:225pt" width="300"></colgroup><tbody><tr style="height:15.75pt" height="21"><td style="width:30pt;height:15.75pt" class="xl17" height="21" width="40">S/N</td><td style="width:523pt" class="xl18" width="697">Name of Activity / Workshop</td><td style="width:104pt" class="xl17" width="139">Date</td><td style="width:104pt" class="xl17" width="139">Date &amp; Time</td><td style="width:225pt" class="xl19" width="300">Sign Up</td></tr><tr style="height:15.75pt" height="21"><td style="width:30pt;height:31.5pt" class="xl55" height="42" width="40" rowspan="2">1</td><td style="width:523pt;height:31.5pt" class="xl57" height="42" width="697" rowspan="2">Cooking Demonstration by Masterchef Mandy Kee: Soy Good, Soy Tasty!</td><td style="width:104pt;height:31.5pt" class="xl52" height="42" width="139" rowspan="2">8 November 2024 (Friday)</td><td style="width:104pt;height:31.5pt" class="xl47" height="42" width="139" rowspan="2">7.30pm – 9.00pm</td><td style="width:225pt;height:31.5pt" class="xl49" height="42" width="300" rowspan="2"><a href="https://go.gov.sg/cookingdemo-chefmandykee">https://go.gov.sg/cookingdemo-chefmandykee</a></td></tr><tr style="height:15.75pt" height="21"></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl21" height="21">2</td><td class="xl22">Workshop: Waste not! It’s Edible</td><td style="width:104pt;height:126.0pt" class="xl52" height="168" width="139" rowspan="8">9 November 2024 (Saturday)</td><td class="xl23">10.00am – 11.00am</td><td class="xl24"><a href="https://go.gov.sg/wastenot-itsedible">https://go.gov.sg/wastenot-itsedible</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl25" height="21">3</td><td class="xl26">Sustainability Festival Storytelling</td><td class="xl23">10.00am – 11.00am</td><td class="xl24"><a href="https://go.gov.sg/sustfeststorytelling-session1">https://go.gov.sg/sustfeststorytelling-session1</a></td></tr><tr style="height:15.75pt" height="21"><td style="width:30pt;height:15.75pt" class="xl27" height="21" width="40">4</td><td class="xl28">Cooking Demonstration by Celebrity Chef Ben Yeo: Kungfu Mushter</td><td class="xl23">12.00pm – 1.00pm</td><td class="xl24"><a href="https://go.gov.sg/cookingdemo-chefbenyeo">https://go.gov.sg/cookingdemo-chefbenyeo</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl29" height="21">5</td><td class="xl30">Sharing by Garden City Farm: Turning Food Waste into Black Gold with the help of Earthworms!</td><td class="xl23">1.00pm – 2.00pm</td><td class="xl24"><a href="https://go.gov.sg/turnfoodwasteintoblackgold">https://go.gov.sg/turnfoodwasteintoblackgold</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl21" height="21">6</td><td class="xl22">Workshop: Multipurpose Fruit Enzymes Cleaner</td><td class="xl23">2.00pm – 3.00pm</td><td class="xl24"><a href="https://go.gov.sg/multipurposefruitenzymescleaner">https://go.gov.sg/multipurposefruitenzymescleaner</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl21" height="21">7</td><td class="xl22">Workshop: Beeswax Wrap Making</td><td class="xl23">4.00pm – 5.00pm</td><td class="xl24"><a href="https://go.gov.sg/beeswrapwaxmaking-session1">https://go.gov.sg/beeswrapwaxmaking-session1</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl21" height="21">8</td><td class="xl22">Workshop: Beeswax Wrap Making</td><td class="xl23">6.00pm – 7.00pm</td><td class="xl24"><a href="https://go.gov.sg/beeswrapwaxmaking-session2">https://go.gov.sg/beeswrapwaxmaking-session2</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl29" height="21">9</td><td class="xl30">Sharing by Otolith Enrichment: How to Build a Circular Food Ecosystem in your Community</td><td class="xl23">6.00pm – 7.00pm</td><td class="xl24"><a href="https://go.gov.sg/howtobuildcircularfoodeconomy">https://go.gov.sg/howtobuildcircularfoodeconomy</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl25" height="21">10</td><td class="xl26">Sustainability Festival Storytelling</td><td style="width:104pt;height:94.5pt" class="xl52" height="126" width="139" rowspan="6">10 November 2024 (Sunday)</td><td class="xl23">10.00am – 11.00am</td><td class="xl24"><a href="https://go.gov.sg/sustfeststorytelling-session3">https://go.gov.sg/sustfeststorytelling-session3</a></td></tr><tr style="height:15.75pt" height="21"><td style="width:30pt;height:15.75pt" class="xl31" height="21" width="40">11</td><td class="xl32">Cooking Contest: “Zero Waste Cook-Off: From Waste to Taste”</td><td class="xl23">10.30am – 11.45am</td><td class="xl24"><a href="https://go.gov.sg/zerowastecookingcontest">https://go.gov.sg/zerowastecookingcontest</a></td></tr><tr style="height:15.75pt" height="21"><td style="width:30pt;height:15.75pt" class="xl31" height="21" width="40">12</td><td class="xl32">Cooking Contest: “Ugly Food Cook-Off: Save Me, I am Ugly but Tasty!”</td><td class="xl23">1.00pm – 2.15pm</td><td class="xl24"><a href="https://go.gov.sg/uglyfoodcookingcontest">https://go.gov.sg/uglyfoodcookingcontest</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl21" height="21">13</td><td class="xl22">Workshop: Meat for Mushrooms</td><td class="xl23">3.00pm – 4.30pm</td><td class="xl24"><a href="https://go.gov.sg/meatformushrooms">https://go.gov.sg/meatformushrooms</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl29" height="21">14</td><td class="xl30">Sharing by Yu Taie: Beauty Starts from the Belly </td><td class="xl23">4.00pm – 5.00pm</td><td class="xl24"><a href="https://go.gov.sg/beautystartsfromthebelly">https://go.gov.sg/beautystartsfromthebelly</a></td></tr><tr style="height:15.75pt" height="21"><td style="height:15.75pt" class="xl33" height="21">15</td><td class="xl28">Cooking Demonstration by One Michelin Star Chef Benson Tong: Masterclass: Eco Eats Made Easy</td><td class="xl23">5.00pm – 6.30pm</td><td class="xl24"><a href="https://go.gov.sg/cookingdemo-chefbensontong">https://go.gov.sg/cookingdemo-chefbensontong</a></td></tr></tbody></table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sust_Fest_2024_Poster.jpg">
+</div>
+<h3><strong>Sustainability in Every Bite!</strong></h3>
+<p>Feast on <strong>bite-sized food sustainability tips</strong>, explore
+our <strong>weekend Farmers’ Market</strong> with fresh local produce and
+delicious food stalls, attend <strong>green workshops and activities</strong>,
+and participate in <strong>celebrity cooking demos</strong> turning ugly
+food into delicious meals!</p>
+<p>Up for some competition? You can join our <strong>cooking contests</strong> to
+level up and compete with other inspiring chefs to be! Best of all, the
+three-day festival is <strong>FREE</strong> for all! So join us on this immersive
+food journey, complete a quiz and stand a chance to win attractive prizes!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Green%20Living/Sust_Fest_Schedule.jpg">
+</div>
+<h4><strong>Sign up for our workshops to experience hands-on green activities and learn tips to start your green practices at home!</strong></h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S/N</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name of Activity / Workshop &amp; Sign Up Link</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Date</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Date &amp; Time</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Cooking Demonstration by Masterchef Mandy Kee: Soy Good, Soy Tasty!</p>
+<p><a href="https://go.gov.sg/cookingdemo-chefmandykee" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cookingdemo-chefmandykee</a>
+</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>8 November 2024 (Friday)</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>7.30pm – 9.00pm</p>
+</td>
+</tr>
+<tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Workshop: Waste not! It’s Edible</p>
+<p><a href="https://go.gov.sg/wastenot-itsedible" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/wastenot-itsedible</a>
+</p>
+</td>
+<td rowspan="8" colspan="1">
+<p>9 November 2024 (Saturday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.00am – 11.00am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sustainability Festival Storytelling</p>
+<p><a href="https://go.gov.sg/sustfeststorytelling-session1" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sustfeststorytelling-session1</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.00am – 11.00am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cooking Demonstration by Celebrity Chef Ben Yeo: Kungfu Mushter</p>
+<p><a href="https://go.gov.sg/cookingdemo-chefbenyeo" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cookingdemo-chefbenyeo</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12.00pm – 1.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sharing by Garden City Farm: Turning Food Waste into Black Gold with the
+help of Earthworms!</p>
+<p><a href="https://go.gov.sg/turnfoodwasteintoblackgold" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/turnfoodwasteintoblackgold</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.00pm – 2.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Workshop: Multipurpose Fruit Enzymes Cleaner</p>
+<p><a href="https://go.gov.sg/multipurposefruitenzymescleaner" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/multipurposefruitenzymescleaner</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00pm – 3.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Workshop: Beeswax Wrap Making</p>
+<p><a href="https://go.gov.sg/beeswrapwaxmaking-session1" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/beeswrapwaxmaking-session1</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.00pm – 5.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Workshop: Beeswax Wrap Making</p>
+<p><a href="https://go.gov.sg/beeswrapwaxmaking-session2" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/beeswrapwaxmaking-session2</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.00pm – 7.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sharing by Otolith Enrichment: How to Build a Circular Food Ecosystem
+in your Community</p>
+<p><a href="https://go.gov.sg/howtobuildcircularfoodeconomy" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/howtobuildcircularfoodeconomy</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.00pm – 7.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sustainability Festival Storytelling</p>
+<p><a href="https://go.gov.sg/sustfeststorytelling-session3" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sustfeststorytelling-session3</a>
+</p>
+</td>
+<td rowspan="6" colspan="1">
+<p>10 November 2024 (Sunday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.00am – 11.00am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cooking Contest: “Zero Waste Cook-Off: From Waste to Taste”</p>
+<p><a href="https://go.gov.sg/zerowastecookingcontest" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/zerowastecookingcontest</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.30am – 11.45am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cooking Contest: “Ugly Food Cook-Off: Save Me, I am Ugly but Tasty!”</p>
+<p><a href="https://go.gov.sg/uglyfoodcookingcontest" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/uglyfoodcookingcontest</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.00pm – 2.15pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Workshop: Meat for Mushrooms</p>
+<p><a href="https://go.gov.sg/meatformushrooms" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/meatformushrooms</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.00pm – 4.30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sharing by Yu Taie: Beauty Starts from the Belly</p>
+<p><a href="https://go.gov.sg/beautystartsfromthebelly" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/beautystartsfromthebelly</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.00pm – 5.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cooking Demonstration by One Michelin Star Chef Benson Tong: Masterclass:
+Eco Eats Made Easy</p>
+<p><a href="https://go.gov.sg/cookingdemo-chefbensontong" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cookingdemo-chefbensontong</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.00pm – 6.30pm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
