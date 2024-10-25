@@ -18,8 +18,9 @@ food into delicious meals!</p>
 level up and compete with other inspiring chefs to be! Best of all, the
 three-day festival is <strong>FREE</strong> for all! So join us on this immersive
 food journey, complete a quiz and stand a chance to win attractive prizes!</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Green%20Living/Sust_Fest_Schedule.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Green Living/Sust_Fest_Schedule__2_.jpg">
 </div>
 <h4><strong>Sign up for our workshops to experience hands-on green activities and learn tips to start your green practices at home!</strong></h4>
 <table style="minWidth: 100px">
