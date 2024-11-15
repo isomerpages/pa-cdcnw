@@ -2,13 +2,13 @@ collections:
   cohesion:
     output: true
     order:
-      - November 2024/Mental Wellness @ North West.md
-      - November 2024/Skillsfuture Advice @ North West.md
-      - November 2024/North West WeCare Fund.md
-      - November 2024/Green Homes @ North West.md
-      - November 2024/North West Sustainability Festival.md
-      - November 2024/November At A Glance.md
       - November 2024/.keep
+      - November 2024/November At A Glance.md
+      - November 2024/North West Sustainability Festival.md
+      - November 2024/Green Homes @ North West.md
+      - November 2024/North West WeCare Fund.md
+      - November 2024/Skillsfuture Advice @ North West.md
+      - November 2024/Mental Wellness @ North West.md
       - September 2024/.keep
       - September 2024/September At A Glance.md
       - September 2024/ArtsEverywhere@CDC.md
