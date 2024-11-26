@@ -5,6 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: November 2024
 ---
+
 <style>
 
 p {
@@ -443,7 +444,7 @@ Throughout the years, Northland Primary has been very active in supporting effor
       <div style="width: 100%; padding: 10px 10px; display: inline;">
       <p style="font-size: 16px; line-height: 22px; margin: 10px 20px;"><span style="font-weight: bold; color: #856AB7;">Collab partners:</span> Northland Primary School, Nee Soon Central Zone 6 Residents' Network and North West CDC</p>
 
-      <p style="font-size: 16px; line-height: 22px; margin: 10px 20px;"><span style="font-weight: bold; color: #856AB7;">Beneficiaries:</span> Residents from Villa Francis Home and low income families in Nee Soon</p>
+      <p style="font-size: 16px; line-height: 22px; margin: 10px 20px;"><span style="font-weight: bold; color: #856AB7;">Beneficiaries:</span> Migrant workers from Westlite Woodlands and low income families in Nee Soon</p>
 
       <p style="font-size: 16px; line-height: 22px; margin: 10px 20px 0px;"><span style="font-weight: bold; color: #856AB7;">Programme:</span><br>
         </p><ul>
@@ -608,3 +609,5 @@ Find out more about the North West WeCare Fund <a style="font-weight: bold; colo
 
 
 </article>
+
+
