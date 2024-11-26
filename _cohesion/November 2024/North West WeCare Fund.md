@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: November 2024
 ---
-
 <style>
 
 p {
@@ -609,5 +608,3 @@ Find out more about the North West WeCare Fund <a style="font-weight: bold; colo
 
 
 </article>
-
-
