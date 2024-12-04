@@ -11,4 +11,4 @@ variant: markdown
 
 Participants will learn about key tenets of the different religious faith, values and belief systems, community stories and interfaith contributions by the institutions via a presentation, site tour, and engage in Q&amp;A sessions with the religious leaders.
 
-For more information, please email northwestcdc_partnerships@pa.gov.sg.
+For more information, please email        [northwestcdc\_partnerships@pa.gov.sg](mailto:northwestcdc_partnerships@pa.gov.sg).
