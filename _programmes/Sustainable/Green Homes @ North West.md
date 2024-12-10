@@ -20,3 +20,6 @@ Residents may apply for the programme through this [link](https://go.gov.sg/gree
 * Television with 4-tick energy rating
 * Refrigerator with 3-tick energy rating
 * Washing Machine with 3-tick energy rating
+
+        
+Revised criteria will take effect on 1 April 2025. Further details will be provided soon.
