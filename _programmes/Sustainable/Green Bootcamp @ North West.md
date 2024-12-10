@@ -10,5 +10,5 @@ variant: markdown
 **Green Bootcamp @ North West** provides a platform for youths to ideate and lead the way as green change makers in the community. Youths are encouraged to think out of the box, and device innovation solutions to address pressing environmental issues.
 
   Through a series of engaging talks and workshops led by subject matter experts, participants will be empowered to develop creative solutions that can be implemented in the community. Shortlisted teams will have the opportunity to bring their ideas to life.
-
-
+	
+The 4th edition of Green Bootcamp @ North West is coming soon! Calling all IHL students who are interested to make an impact to protect our environment. Corporates or community organisations who are interested to partner us for this festival, please email northwest\_cdc@pa.gov.sg for more information.
