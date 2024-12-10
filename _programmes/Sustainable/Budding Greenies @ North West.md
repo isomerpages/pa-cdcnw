@@ -16,7 +16,7 @@ Preschools who are on board the programme will receive the following resources a
 1.  Up to $800 funding per financial year 
 2.  A Teacher’s Guide to creating Green Corners and activities within the preschools
 3.  ‘Go Green with Betty the Butterfly’ activity book for lessons
-4.  Home-based activity book and parent’s guidebook
+4.  Home-based activity book
 
 
 Preschools can apply for this programme on an annual basis. Applications open annually from 1 April, and approved projects must be completed by end March of the following year.
