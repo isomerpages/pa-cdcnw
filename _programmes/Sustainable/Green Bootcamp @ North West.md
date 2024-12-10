@@ -11,4 +11,4 @@ variant: markdown
 
   Through a series of engaging talks and workshops led by subject matter experts, participants will be empowered to develop creative solutions that can be implemented in the community. Shortlisted teams will have the opportunity to bring their ideas to life.
 	
-The 4th edition of Green Bootcamp @ North West is coming soon! Calling all IHL students who are interested to make an impact to protect our environment. Corporates or community organisations who are interested to partner us for this festival, please email [northwestcdc\@pa.gov.sg](mailto:northwestcdc_@pa.gov.sg "mailto:northwestcdc_pa.gov.sg") for more information.
+The 4th edition of Green Bootcamp @ North West is coming soon! Calling all IHL students who are interested to make an impact to protect our environment. Schools who are interested to participate, please email [northwestcdc\@pa.gov.sg](mailto:northwestcdc_@pa.gov.sg "mailto:northwestcdc_pa.gov.sg") for more information.
