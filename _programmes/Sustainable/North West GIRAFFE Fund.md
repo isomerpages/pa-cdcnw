@@ -3,9 +3,9 @@ title: North West GIRAFFE Fund
 permalink: /programmes/bonding-the-people/northwest-giraffe-fund/
 description: ""
 third_nav_title: Sustainable
+variant: markdown
 ---
-![](/images/Programmes/Green%20Living/photo%2030-3-23,%205%2001%2032%20pm.jpg)
-
+![](/images/Programmes/Green%20Living/Giraffe_1.jpg)
 
 > **Get Involved, Reach Out and Act for the Environment!** 
 
