@@ -5,7 +5,9 @@ variant: markdown
 description: ""
 third_nav_title: Sustainable
 ---
-  
+
+
+![](/images/Programmes/Green%20Living/NW_GLJ.jpg)
 
 The **North West Green Learning Journey** is a learning experiential programme for students and community groups to learn about fighting Climate Change, Green Living habits and Sustainability.  
 
