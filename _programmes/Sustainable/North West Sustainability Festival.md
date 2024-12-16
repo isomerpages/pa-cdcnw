@@ -14,4 +14,4 @@ Over 20 stakeholders, including corporate partners, community organisations, and
 
 For 2025, get ready to learn how to recycle and upcycle everyday household items through our upcoming **FREE** workshops and activities. Stay tuned for an immersive experience that will deepen your knowledge and inspire action!
 
-Corporates or community organisations who are interested to partner us for this festival, please email [northwestcdc\@pa.gov.sg](mailto:northwestcdc_@pa.gov.sg "mailto:northwestcdc_pa.gov.sg") for more information.
+Corporates or community organisations who are interested to partner us for this festival, please email northwest_cdc@pa.gov.sg for more informstion
