@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Healthy
 variant: markdown
 ---
-![](/images/Programmes/Promoting%20Health%20and%20Wellness/IMG080.jpg)
+
 
 Working together with Qigong Shi Ba Shi Association, the North West Health Qigong Club was officially launched in 2008. The club hopes to promote a healthy lifestyle through regular qigong exercise as well as to encourage active ageing among the residents.&nbsp;Members of the club also get to enjoy perks such as regular health qigong gathering and outings.
 
