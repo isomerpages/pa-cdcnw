@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Caring
 variant: markdown
 ---
-**DigiReady @ North West** provides holistic support to vulnerable residents in the following aspects of digital readiness: refurbished devices and accessories, subsidised broadband, and troubleshooting faulty digital devices.
 
 ![](/images/digiready%20@%20north%20west-%20internet%20access%20poster_2023_03-02.jpg)
 
