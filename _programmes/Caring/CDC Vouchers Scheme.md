@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Caring
 variant: markdown
 ---
-
 ##### About CDC Vouchers Scheme 2025
          
 Every Singaporean household will receive **$300 CDC Vouchers in January 2025**.  
