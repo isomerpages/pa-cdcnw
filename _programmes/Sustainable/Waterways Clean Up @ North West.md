@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sustainable
 variant: markdown
 ---
-![](/images/Programmes/Green%20Living/Waterways%20Clean%20Up.jpg)
+![](/images/Programmes/Green%20Living/Waterways_Clean_up___NW_1.jpg)
 
 In collaboration with the Waterways Watch Society (WWS), **Waterways Clean-up @ North West** aims to impart the importance of protection and conservation within our waterways to primary and secondary schools in the North West.
 
