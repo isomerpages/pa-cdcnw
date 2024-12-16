@@ -5,12 +5,11 @@ description: ""
 third_nav_title: Caring
 variant: markdown
 ---
-
 ![](/images/digiready%20@%20north%20west-%20internet%20access%20poster_2023_03-02.jpg)
 
 ##### **Subsidised broadband**
   
-   DigiReady @ North West supports beneficiaries under the IMDA’s DigitalAccess @ Home Scheme, who are residing in the North West, providing additional subsidies of up to $250, the duration of the subsidised broadband contract under the abovementioned scheme.
+   DigiReady @ North West supports beneficiaries under the IMDA’s DigitalAccess @ Home Scheme, who are residing in the North West, providing subsidies of up to $250, the duration of the subsidised broadband contract under the abovementioned scheme.
 
 To apply for the scheme, please complete this [form](https://go.gov.sg/nwdigiready) and submit all supporting documents. Our officer will get in touch with you upon successful application.
 
