@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Healthy
 variant: markdown
 ---
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/T8lV2XylyVM" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Running Club Instagram Video" src="https://www.youtube.com/embed/iofoTbhL1Uk" height="560" width="315"></iframe>
 
 **North West Running Club** promotes healthy lifestyle and community bonding among residents in the North West District, and provides a platform for residents to keep fit through group running activities.
 

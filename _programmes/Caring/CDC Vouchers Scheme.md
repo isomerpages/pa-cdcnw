@@ -5,16 +5,17 @@ description: ""
 third_nav_title: Caring
 variant: markdown
 ---
-![](/images/CDCV_Banner_June_2024.png)
-
-##### About CDC Vouchers Scheme 2024
+##### About CDC Vouchers Scheme 2025
          
-Every Singaporean household will receive **$300 CDC Vouchers in June 2024**. This is in addition to the $500 CDC Vouchers given on 3 January 2024. Therefore, all Singaporean households will receive a total of $800 CDC Vouchers this year.
+![](/images/PACDC_web_banner_31_dec_1.jpg)
 
-The CDC Vouchers Scheme 2024 (June) is part of the enhancements to the Assurance Package announced by then Deputy Prime Minister and Minister for Finance Lawrence Wong at Budget 2024.  The package provides more immediate support for Singaporean households and helps defray daily expenses.
+Every Singaporean household will receive **$300 CDC Vouchers in January 2025**.  
 
-Starting 25 June 2024, you can visit [go.gov.sg/cdcv](https://go.gov.sg/cdcv) to claim the additional $300 CDC vouchers. The process for claiming and spending the vouchers remains the same.
+The CDC Vouchers Scheme 2025 (January) is part of the enhanced Assurance Package announced by then Deputy Prime Minister and Minister for Finance Lawrence Wong at Budget 2024.  The package provides more immediate support for Singaporean households and helps defray daily expenses.
 
-Both CDC Vouchers Scheme (June) and CDC Vouchers Scheme (January) are valid till 31 December 2024.
+Starting January 2025, you can visit [go.gov.sg/cdcv](https://go.gov.sg/cdcv) to claim the $300 CDC vouchers. The process for claiming and spending the vouchers remains the same.
 
-[Learn](https://vouchers.cdc.gov.sg/residents/info) how you can claim your CDC Vouchers 2024 (June).
+The CDC Vouchers Scheme 2025 (January) are valid till 31 December 2025.
+
+[Learn](https://vouchers.cdc.gov.sg/residents/info) how you can claim your CDC Vouchers 2025 (January).
+

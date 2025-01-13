@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Healthy
 variant: markdown
 ---
-![](/images/Programmes/Promoting%20Health%20and%20Wellness/IMG_0134.jpg)
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Tai Chi Club Instagram Video" src="https://www.youtube.com/embed/mIoEA09qd-A" height="623" width="351"></iframe>
+
 
 The **North West Tai Chi Club** was launched on 19 February 2017 to promote health maintenance through regular Tai Chi exercises, and allow Tai Chi practitioners to bond and forge friendships with each other.  
   

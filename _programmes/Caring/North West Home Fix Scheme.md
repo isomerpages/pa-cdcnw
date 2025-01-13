@@ -18,7 +18,7 @@ variant: markdown
 * Monthly household income of ≤ $3,500 or monthly per capita Income of ≤ $1,000
 
     
-Eligible residents may apply at the local Community Clubs, and North West CDC will work closely with Grassroots Organisations to identify the beneficiaries. For enquiries, please contact the North West CDC at [northwest\_cdc@pa.gov.sg](mailto:northwest_cdc@pa.gov.sg).
+Eligible residents may apply at the local Community Clubs in the North West District. For enquiries, please contact the North West CDC at [northwest\_cdc@pa.gov.sg](mailto:northwest_cdc@pa.gov.sg).
 
     
 Community organisations may also apply on behalf of their clients and email the application form to [northwest\_cdc@pa.gov.sg](mailto:northwest_cdc@pa.gov.sg).
