@@ -2,13 +2,13 @@ collections:
   cohesion:
     output: true
     order:
-      - January 2025/North West SWEP.md
-      - January 2025/North West Healthy Living Clubs.md
-      - January 2025/Reduce @ North West.md
-      - January 2025/North West Youth Assembly.md
-      - January 2025/Mayor's Message.md
-      - January 2025/January At A Glance.md
       - January 2025/.keep
+      - January 2025/January At A Glance.md
+      - January 2025/Mayor's Message.md
+      - January 2025/North West Youth Assembly.md
+      - January 2025/Reduce @ North West.md
+      - January 2025/North West Healthy Living Clubs.md
+      - January 2025/North West SWEP.md
       - November 2024/.keep
       - November 2024/November At A Glance.md
       - November 2024/North West Sustainability Festival.md
