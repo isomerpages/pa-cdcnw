@@ -2,6 +2,7 @@ collections:
   cohesion:
     output: true
     order:
+      - January 2025/Mayor's Message.md
       - January 2025/January At A Glance.md
       - January 2025/.keep
       - November 2024/.keep
