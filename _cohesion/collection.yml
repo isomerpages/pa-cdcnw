@@ -2,6 +2,7 @@ collections:
   cohesion:
     output: true
     order:
+      - January 2025/North West SWEP.md
       - January 2025/North West Healthy Living Clubs.md
       - January 2025/Reduce @ North West.md
       - January 2025/North West Youth Assembly.md
