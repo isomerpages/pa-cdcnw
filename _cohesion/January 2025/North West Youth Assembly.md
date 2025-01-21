@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: January 2025
 ---
-
 <style>
 
 p {
@@ -433,7 +432,7 @@ object-fit: cover;
 </div>
 
 <div style="width: 100%; padding: 20px 0px 30px;">
-<p style="font-size: 16px; line-height: 26px; text-align: justify;">What's brewing with the incoming Executive Committee of the North West Youth Assembly (YA) for 2025/2026? In this sip-and share sesh with the newest faces of the youth leadership team, we find out more about what they're bringing to the North West community. From their go-to drinks to their volunteering highlights, plus a few light-hearted moments in between, here's what we found out! 
+<p style="font-size: 16px; line-height: 26px; text-align: justify;">What's brewing with the incoming Executive Committee of the North West Youth Assembly (YA) for 2025/2026? In this sip-and-share sesh with the newest faces of the youth leadership team, we find out more about what they're bringing to the North West community. From their go-to drinks to their volunteering highlights, plus a few light-hearted moments in between, here's what we found out! 
 </p>
 </div>
 
@@ -522,5 +521,3 @@ object-fit: cover;
 
 
 </article>
-
-
