@@ -414,7 +414,7 @@ object-fit: cover;
 <article style="max-width: 800px; width: 100%; margin: auto;">
 
 <div style="width: 100%;">
-  <a href="https://northwest.cdc.gov.sg/cohesion/november-2024/at-a-glance/">
+  <a href="https://northwest.cdc.gov.sg/cohesion/january-2025/at-a-glance/">
     <img style="width: 100%; max-width: 100px; position: relative; float: left;" alt="North West Cohesion" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-cohesion-logo-2023%201.gif">
   </a>
 </div>
@@ -425,7 +425,7 @@ object-fit: cover;
 </div>
 
 <div style="padding: 20px 0px 0px;">
-<p style="font-size: 16px; line-height: 26px; text-align: justify;">New year, new moves! Is getting healthier and staying active on your resolution list? Join one of the North West Healthy Living Clubs! Whether you're into low-impact exercises or high-energy moves, there's a club for every fitness level. Plus, you'll get the chance to meet like-minded people who share a passion for healthy living. Here's six great options to help you decide… and a handy flowchart to guide you!</p>
+<p style="font-size: 16px; line-height: 26px; text-align: justify;">New year, new moves! Is getting healthier and staying active on your resolution list? Join one of the North West Healthy Living Clubs! Whether you're into low-impact exercises or high-energy moves, there's a club for every fitness level. Plus, you'll get the chance to meet like-minded people who share a passion for healthy living. Here are six great options to help you decide… and a handy flowchart to guide you!</p>
 </div>
 
 <div class="" style="max-width: 100%; padding: 20px 0px 20px;">
