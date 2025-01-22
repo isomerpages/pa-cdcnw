@@ -514,5 +514,3 @@ Sign up and take that leap towards a more active lifestyle.<br><br>
 
 
 </article>
-
-
