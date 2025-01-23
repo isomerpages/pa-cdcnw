@@ -713,5 +713,3 @@ Here's what you need to do:
 </div>
 
 </div>
-
-
