@@ -513,5 +513,3 @@ object-fit: cover;
 
 
 </article>
-
-
