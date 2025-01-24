@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: January 2025
 ---
-
 <style>
 
 p {
@@ -743,6 +742,3 @@ Find out where you can usher in the Year of the Snake with your community.</p>
 </div>
 
 </div>
-
-
-
