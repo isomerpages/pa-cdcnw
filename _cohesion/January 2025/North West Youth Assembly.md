@@ -5,6 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: January 2025
 ---
+
 <style>
 
 p {
@@ -417,7 +418,7 @@ object-fit: cover;
 <article style="max-width: 800px; width: 100%; margin: auto;">
 
 <div style="width: 100%;">
-  <a href="https://northwest.cdc.gov.sg/cohesion/september-2024/at-a-glance/">
+  <a href="https://northwest.cdc.gov.sg/cohesion/january-2025/at-a-glance/">
     <img style="width: 100%; max-width: 100px; position: relative; float: left;" alt="North West Cohesion" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-cohesion-logo-2023%201.gif">
   </a>
 </div>
@@ -432,7 +433,7 @@ object-fit: cover;
 </div>
 
 <div style="width: 100%; padding: 20px 0px 30px;">
-<p style="font-size: 16px; line-height: 26px; text-align: justify;">What's brewing with the incoming Executive Committee of the North West Youth Assembly (YA) for 2025/2026? In this sip-and-share sesh with the newest faces of the youth leadership team, we find out more about what they're bringing to the North West community. From their go-to drinks to their volunteering highlights, plus a few light-hearted moments in between, here's what we found out! 
+<p style="font-size: 16px; line-height: 26px; text-align: justify;">What's brewing with the incoming Executive Committee of the North West Youth Assembly (YA) for 2025/2026? In this sip-and share sesh with the newest faces of the youth leadership team, we find out more about what they're bringing to the North West community. From their go-to drinks to their volunteering highlights, plus a few light-hearted moments in between, here's what we found out! 
 </p>
 </div>
 
@@ -495,7 +496,7 @@ object-fit: cover;
     <div style="width: 100%; padding: 15px 10px; text-align: center;   display: flex; justify-content: center; align-items: center;">
       <span style="font-family: Arial; font-weight: bold; font-size: large; color: #FFFFFF;">Follow us on</span>
       <a target="_new" href="https://www.facebook.com/nwcdc/" style="line-height: normal !important; margin-bottom: 0px !important;"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-facebook.png"></a>
-      <a target="_new" href="https://www.linkedin.com/company/north-west-community-development-council/posts/?feedView=all" style="line-height: normal !important; margin-bottom: 0px !important;"><img style="padding: 0px 7px; max-width: 33px;" src="/images/Cohesion/January%202025/linkedin_white.png"></a>
+      <a target="_new" href="https://www.linkedin.com/company/north-west-community-development-council/posts/?feedView=all" style="line-height: normal !important; margin-bottom: 0px !important;"><img style="padding: 0px 7px; max-width: 47px;" src="/images/Cohesion/January%202025/linkedin_white.png"></a>
       <a target="_new" href="https://www.instagram.com/northwestcdc" style="line-height: normal !important; margin-bottom: 0px !important;"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-instagram.png"></a>
       <a target="_new" href="https://t.me/northwestcdc" style="line-height: normal !important; margin-bottom: 0px !important;"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/telegram.png"></a>
       <a target="_new" href="https://www.youtube.com/northwestcdc" style="line-height: normal !important; margin-bottom: 0px !important;"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-youtube.png"></a>
@@ -521,3 +522,5 @@ object-fit: cover;
 
 
 </article>
+
+
