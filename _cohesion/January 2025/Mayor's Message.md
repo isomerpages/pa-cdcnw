@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: January 2025
 ---
-
 <style>
 
 p {
@@ -487,5 +486,3 @@ Hit play to learn the slangs! Stay lit and keep glowing! ✨😉</p>
 
 
 </article>
-
-
