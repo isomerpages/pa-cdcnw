@@ -429,7 +429,7 @@ object-fit: cover;
 </div>
 
 <div class="" style="max-width: 100%; padding: 20px 0px 20px;">
-  <img style="width: 100%;" class="" src="/images/Cohesion/January%202025/infographics_healthy.jpg">
+  <img style="width: 100%;" class="" src="/images/Cohesion/January%202025/infographics_healthy_1.jpg">
 </div>
 
 <div class="" style="max-width: 100%; padding: 20px 0px 0px;">
@@ -514,3 +514,5 @@ Sign up and take that leap towards a more active lifestyle.<br><br>
 
 
 </article>
+
+
