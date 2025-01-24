@@ -402,7 +402,7 @@ h1, h2, h3, h4, h5, h6, li {
 
     <div style="width: 100%;">
       <a target="_new" href="https://northwest.cdc.gov.sg/cohesion/january-2025/mayor-message">
-        <img style="width: 100%; margin-top: 0px;" class="" src="/images/Cohesion/January%202025/edm_mayor.png">
+        <img style="width: 100%; margin-top: 0px;" class="" src="/images/edm_mayor.png">
       </a>
     </div>
 
@@ -415,7 +415,7 @@ h1, h2, h3, h4, h5, h6, li {
   <div style="max-width: 100%; padding: 10px 10px;">
     <div style="max-width: 100%; padding: 0px 0px 0px; background: #FFFFFF; margin: 30px 0px 0px; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px;">
   <div style="width: 100%;">
-    <img style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;" class="" src="/images/Cohesion/January%202025/edm_new_ya.jpg">
+    <img style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;" class="" src="/images/Cohesion/January%202025/edm_new_ya_1.jpg">
   </div>
   <div style="background: #F8F8F8; padding: 10px 20px 30px; -webkit-border-bottom-right-radius: 25px; -webkit-border-bottom-left-radius: 25px; -moz-border-radius-bottomright: 25px; -moz-border-radius-bottomleft: 25px; border-bottom-right-radius: 25px; border-bottom-left-radius: 25px; min-height: 300px; position: relative; text-align: center;">
     <h2 style="color: #1F4D7F;font-weight: bolder;font-size: 20px;line-height: initial;font-style: italic;margin: 15px 0px;">
@@ -583,7 +583,7 @@ Here's what you need to do:
 
 
           <div style="max-width: 100%; text-align: left; padding: 10px 0px 0px;">
-            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold; margin-right: 8px; margin-bottom: 10px; display: inline-block; text-align: center;" target="_new" href="#">
+            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold; margin-right: 8px; margin-bottom: 10px; display: inline-block; text-align: center;" target="_new" href="https://go.gov.sg/nwrunningclinic2025">
               <em>Sign Up Now</em>
             </a>
           </div>
@@ -626,6 +626,35 @@ Here's what you need to do:
           <div style="max-width: 100%; text-align: left; padding: 10px 0px 0px;">
             <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold; margin-right: 8px; margin-bottom: 10px; display: inline-block; text-align: center;" target="_new" href="https://form.gov.sg/66cd5073725169f909275a33">
               <em>Register Your Interest</em>
+            </a>
+          </div>
+
+        </div>
+      </div>
+      </div>
+
+      </div>
+
+      <div style="background: #FFFFFF; padding: 20px 0px; margin-bottom: 10px; display: inline-block;" class="w-100 rounded20">
+
+      <div style="padding: 0px 15px 5px;" class="col-12 w-100">
+      <div class="col-3 text-center">
+        <div style="padding: 20px 0px 0px;">
+          <img style="max-width: 140px;" src="/images/Cohesion/January%202025/wu_cny.png">
+        </div>
+      </div>
+      <div class="col-9">
+        <div style="padding: 20px 2rem 10px;">
+          <h2 style="color: #FE5D1F; font-weight: bolder; font-size: 20px;line-height: initial;font-style: italic; margin: 0px;"><i>Celebrate Chinese New Year with your community!</i></h2>
+            
+
+          <p style="font-size: 16px; line-height: 20px; padding: 12px 0px; margin: 0px;">PA&amp;apso;s Chinese New Year celebrations offer something for everyone.
+Find out where you can usher in the Year of the Snake with your community.</p>
+
+
+          <div style="max-width: 100%; text-align: left; padding: 10px 0px 0px;">
+            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold; margin-right: 8px; margin-bottom: 10px; display: inline-block; text-align: center;" target="_new" href="https://go.gov.sg/edm-cny2025">
+              <em>Join Us</em>
             </a>
           </div>
 
@@ -713,3 +742,6 @@ Here's what you need to do:
 </div>
 
 </div>
+
+
+
