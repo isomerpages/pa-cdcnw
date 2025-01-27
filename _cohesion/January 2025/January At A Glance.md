@@ -5,6 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: January 2025
 ---
+
 <style>
 
 p {
@@ -648,7 +649,7 @@ Here's what you need to do:
           <h2 style="color: #FE5D1F; font-weight: bolder; font-size: 20px;line-height: initial;font-style: italic; margin: 0px;"><i>Celebrate Chinese New Year with your community!</i></h2>
             
 
-          <p style="font-size: 16px; line-height: 20px; padding: 12px 0px; margin: 0px;">PA&amp;apso;s Chinese New Year celebrations offer something for everyone.
+          <p style="font-size: 16px; line-height: 20px; padding: 12px 0px; margin: 0px;">PA's Chinese New Year celebrations offer something for everyone.
 Find out where you can usher in the Year of the Snake with your community.</p>
 
 
@@ -742,3 +743,6 @@ Find out where you can usher in the Year of the Snake with your community.</p>
 </div>
 
 </div>
+
+
+
