@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Sustainable
 variant: markdown
 ---
-
-
 **Green Homes @ North West** encourages households in the North West District to adopt eco-friendly practices and make use of energy and water efficient appliances to attain Green Living at home. 
 
 Residents may apply for the programme through this [link](https://go.gov.sg/greenhomesnw) 
@@ -15,11 +13,11 @@ Residents may apply for the programme through this [link](https://go.gov.sg/gree
 
 
 * Recyclable collection corner
-* Instantaneous or heat pump water heater
+* Instantaneous/ heat pump/gas water heater
 * Air-conditioner with 3-tick energy rating
 * Television with 4-tick energy rating
 * Refrigerator with 3-tick energy rating
-* Washing Machine with 4-tick energy rating
+* Washing Machine with 4-tick energy rating on the efficiency label
 * Presence of two Direct Current (DC) Fans
 
         
