@@ -11,4 +11,4 @@ variant: markdown
 
 The Reduce @ North West challenge encourages residents to take action and do their part in fighting climate change by reducing their household energy or water consumption by at least 5% over a four-month period. 
 
-Residents who are keen to participate in our challenge to fight climate change may apply  [here](https://go.gov.sg/reduce-sign-up).
+Residents who are keen to participate in our challenge to fight climate change may apply [here](https://go.gov.sg/reduce-sign-up).
