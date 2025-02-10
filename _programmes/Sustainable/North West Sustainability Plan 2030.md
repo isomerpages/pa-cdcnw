@@ -3,8 +3,9 @@ title: North West Sustainability Plan 2030
 permalink: /programmes/bonding-the-people/northwest-sustainability-plan2030/
 description: ""
 third_nav_title: Sustainable
+variant: markdown
 ---
-Building on the positive momentum of the Green Living @ North West 10-Year Eco Plan in cultivating a green culture among North West residents, increasing green ownership and achieving environmental sustainability, the North West Sustainability Plan 2023 promotes sustainability holistically in all its forms throughout the North West District. 
+Building on the positive momentum of the Green Living @ North West 10-Year Eco Plan in cultivating a green culture among North West residents, increasing green ownership and achieving environmental sustainability, the North West Sustainability Plan 2030 promotes sustainability holistically in all its forms throughout the North West District. 
 
 To achieve this, eight United Nations Sustainable Development Goals (SDG) were adopted:
 
@@ -26,4 +27,4 @@ To achieve this, eight United Nations Sustainable Development Goals (SDG) were a
 
 **Goal 17** Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
 
-**Read North West Sustainability Report 2021 [here](/files/PA%20NWCDC%20Sustainability%20Report%202021.pdf).**
+**Read North West Sustainability Report 2030 [here](/files/PA%20NWCDC%20Sustainability%20Report%202021.pdf).**
