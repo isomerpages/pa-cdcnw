@@ -1,5 +1,5 @@
 ---
-title: Budding Greenies @ North West
+title: Little Greenies @ North West
 permalink: /programmes/advocating-green-living/budding-greenies-at-north-west/
 description: ""
 third_nav_title: Sustainable
@@ -7,7 +7,7 @@ variant: markdown
 ---
 ![](/images/Programmes/Green%20Living/BG_2.jpg)
 
-**Budding Greenies @ North West** was officially launched in 2020 and aims to support pre-school centres in creating a Green Learning corner to educate pre-schoolers on environmental conservation and good eco habits via story-telling and play activities.  
+**Little Greenies @ North West** was officially launched in 2020 and aims to support pre-school centres in creating a Green Learning corner to educate pre-schoolers on environmental conservation and good eco habits via story-telling and play activities.  
 
 In 2021, North West CDC developed and published a home-based version of ‘Go Green with Betty the Butterfly’ activity book and a parent’s guidebook, ensuring that sustainability education continues at home and is unaffected by school closures due to Covid-19.
 
