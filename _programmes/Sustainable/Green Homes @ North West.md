@@ -9,7 +9,7 @@ variant: markdown
 
 Residents may apply for the programme through this [link](https://go.gov.sg/greenhomesnw) 
 
-**Fulfil at least 3 criteria to receive e-vouchers:**
+**Fulfil at least 3 out of the 7 criteria to qualify for e-vouchers:**
 
 
 * Recyclable collection corner
@@ -17,7 +17,7 @@ Residents may apply for the programme through this [link](https://go.gov.sg/gree
 * Air-conditioner with 3-tick energy rating
 * Television with 4-tick energy rating
 * Refrigerator with 3-tick energy rating
-* Washing Machine with 4-tick energy rating on the efficiency label
+* Washing Machine with 4-tick energy rating
 * Presence of two Direct Current (DC) Fans
 
         
