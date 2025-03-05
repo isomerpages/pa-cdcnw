@@ -2,6 +2,12 @@ collections:
   cohesion:
     output: true
     order:
+      - March 2025/.keep
+      - March 2025/March At A Glance.md
+      - March 2025/YA Paints And Cleans.md
+      - March 2025/Green Homes @ North West.md
+      - March 2025/Street Dance @ North West.md
+      - March 2025/Skillsfuture Advice @ North West.md
       - January 2025/.keep
       - January 2025/January At A Glance.md
       - January 2025/Mayor's Message.md
