@@ -2,7 +2,6 @@ collections:
   cohesion:
     output: true
     order:
-      - March 2025/Images.md
       - March 2025/.keep
       - March 2025/March At A Glance.md
       - March 2025/North West Youth Assembly.md
