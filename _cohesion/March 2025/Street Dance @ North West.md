@@ -5,6 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: March 2025
 ---
+
 <style>
 
 p {
@@ -431,9 +432,9 @@ object-fit: cover;
 </div>
 
 <div style="padding: 20px 0px 20px;">
-<p style="font-size: 16px; line-height: 26px; text-align: justify;">The first-ever Street Dance @ North West held at Bukit Panjang Plaza in March was an energetic affair!  
+<p style="font-size: 16px; line-height: 26px; text-align: justify;">The first-ever Street Dance @ North West held at Bukit Panjang Plaza was an energetic affair!  
 <br><br>
-Over 100 dancers competed in an Open-Style Dance Battle, freestyling to everything from sharp Popping and Locking to smooth House grooves and explosive Breaking. Solo and duo performers brought their A-game to the competition, showing off their best moves to a hyped-up crowd as they battled for cash prizes.</p>
+Over 100 dancers competed in an open style street dance battle, where they must react to a randomly played song and adapt to the beat and rhythm in real-time. This open format allows them to demonstrate their ability to improvise, think on their feet and truly express their individuality through dance.</p>
 </div>
 
 <div class="" style="max-width: 100%; padding: 0px 0px;">
