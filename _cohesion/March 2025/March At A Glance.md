@@ -733,6 +733,3 @@ Fringe activities: 5pm to 6pm / 7pm to 8pm</i></span>
 </div>
 
 </div>
-
-
-
