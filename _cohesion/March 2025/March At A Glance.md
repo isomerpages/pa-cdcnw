@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: March 2025
 ---
-
 <style>
 
 p {
@@ -416,7 +415,7 @@ h1, h2, h3, h4, h5, h6, li {
       Street Dance Battle:<br>
 Empowering Youths Through Dance
     </h2>
-    <p style="font-size: 16px; line-height: 20px; margin: 10px 0px;">High Energy Big Moves! The inaugural Street Dance @ North West brought together over 100 dancers - showcasing their talents and connect with fellow dance enthusiasts.</p> 
+    <p style="font-size: 16px; line-height: 20px; margin: 10px 0px;">High Energy Big Moves! The inaugural Street Dance @ North West brought together over 100 dancers - celebrating youths and showcasing the energetic dance community.</p> 
 
     <div style="width: 100%; text-align: center; display: inline-flex; margin: 0px auto;">
     <div style="max-width: 100%; text-align: center; padding: 10px 15px 0px; margin: 0px auto;"><a style="background: #F96B8D; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center; font-style: italic;" href="https://northwest.cdc.gov.sg/cohesion/march-2025/street-dance/">Catch The Action</a>
@@ -535,7 +534,7 @@ Digital, Green and Care Careers
       <div style="padding: 0px 15px 5px;" class="col-12 w-100">
       <div class="col-3 text-center">
         <div style="padding: 20px 0px 0px;">
-          <img style="max-width: 140px;" src="/images/Cohesion/March%202025/wu1.png">
+          <img class="rounded20" style="max-width: 140px;" src="https://northwest.cdc.gov.sg/images/Cohesion/September%202024/glance_bootcamp.jpg">
         </div>
       </div>
       <div class="col-9">
