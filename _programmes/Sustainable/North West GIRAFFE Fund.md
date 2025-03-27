@@ -10,3 +10,5 @@ variant: markdown
 > **Get Involved, Reach Out and Act for the Environment!** 
 
 **North West GIRAFFE Fund** provides funding for ground-up environmental initiatives put forth by schools and community organisations in the North West. To qualify for the fund, projects should promote environmental education and enhance community participation in environmental activities.
+
+Interested schools and community organizations can submit their application via this [link](https://go.gov.sg/giraffeform) 

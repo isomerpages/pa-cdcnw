@@ -9,16 +9,23 @@ variant: markdown
 
 Residents may apply for the programme through this [link](https://go.gov.sg/greenhomesnw) 
 
+
 **Fulfil at least 3 out of the 7 criteria to qualify for e-vouchers:**
 
 
-* Recyclable collection corner
-* Instantaneous/ heat pump/gas water heater
-* Air-conditioner with 3-tick energy rating
-* Television with 4-tick energy rating
-* Refrigerator with 3-tick energy rating
-* Washing Machine with 4-tick energy rating
-* Presence of two Direct Current (DC) Fans
+**Criteria**
 
-        
-Revised criteria will take effect on 1 April 2025. Further details will be provided soon.
+1.  Air-conditioner with 3-tick and above energy rating
+2.  Refrigerator with 3-tick and above energy rating
+3.  Washing Machine with 4-tick and above rating
+4.  Television with 4-tick and above energy rating
+5.  Instantaneous / Heat Pump / Gas Water Heater
+6.  Presence of at least two Direct Current (DC) fans
+7.  Recyclable Collection Corner
+
+**Reward Tiers**
+
+*   Platinum Award ($500) – fulfil all 7 criteria
+*   Gold Award ($250) – fulfil 5 out of 7 criteria
+*   Silver Award ($150) – fulfil 4 out of 7 criteria
+*   Bronze Award ($100) – fulfil 3 out of 7 criteria
