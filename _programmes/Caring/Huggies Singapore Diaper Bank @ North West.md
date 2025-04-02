@@ -20,5 +20,4 @@ Eligible applicants may apply during the two application windows each year, and 
 April's application cycle will be from 7 to 27 April 2025.
 
 
-
 All applications are subject to assessment and evaluation.&nbsp; Supporting documents are required to assess the applicant’s overall circumstances and&nbsp;meeting the eligibility criteria may not guarantee entitlement to assistance.
