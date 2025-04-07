@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Learning
 variant: markdown
 ---
-   
 Welcome to SkillsFuture Advice @ North West, where your journey to lifelong learning begins. In collaboration with SkillsFuture Singapore (SSG) and North West Community Development Council (CDC), we empower residents to unlock their potential through career planning and skills identification.
 
 **Skills Upgrading**
@@ -25,6 +24,18 @@ Discover the [**Skills Framework**](https://www.skillsfuture.gov.sg/skills-frame
 Starting 1 May 2024, eligible Singaporeans aged 40 years and above can tap on the $4,000 SkillsFuture Credit (Mid-Career) top-up to offset course fees for selected courses. This initiative supports reskilling and upskilling in high-demand sectors.
 
 For more information on the programme and a list of eligible courses, visit the [SkillsFuture website](https://www.skillsfuture.gov.sg/level-up-programme).
+
+**Featured Partner: Republic Polytechnic (RP)**  
+_Learn Smart. Level Up._ Boost your skills with RP’s hands-on, industry-relevant courses designed to keep your career future-proof.
+
+**Popular SkillsFuture Career Transition Programme (SCTP) & Specialist Diploma courses include:**  
+• 🤖 Automation with Artificial Intelligence (AI)  
+• 🛠️ Facade Inspection Using Drones  
+• 🍽️ Food & Beverage Entrepreneurship  
+• 🌱 Sustainability & Environmental Skills  
+• 🏃‍♂️ Sport Science & Wellness
+
+🔗 [View All Courses](https://www.rp.edu.sg/ace/skillsfuture-career-transition-programme "https://www.rp.edu.sg/ace/skillsfuture-career-transition-programme") & [Register with RP](https://form.gov.sg/67e50332032a00bd70706e7a "https://form.gov.sg/67e50332032a00bd70706e7a")
 
 **SkillsFuture Mid-Career Training Allowance**
 
