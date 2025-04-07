@@ -30,7 +30,7 @@ _Learn Smart. Level Up._ Boost your skills with RP’s hands-on, industry-relev
 
 **Popular SkillsFuture Career Transition Programme (SCTP) & Specialist Diploma courses include:**  
 • 🤖 Automation with Artificial Intelligence (AI)  
-• 🛠️ Façade Inspection Using Drones  
+• 🛠️ Facade Inspection Using Drones  
 • 🍽️ Food & Beverage Entrepreneurship  
 • 🌱 Sustainability & Environmental Skills  
 • 🏃‍♂️ Sport Science & Wellness
