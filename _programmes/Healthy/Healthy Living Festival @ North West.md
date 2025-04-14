@@ -26,8 +26,9 @@ the gamecard and redeem freebies too!</p>
 <p><strong><a href="https://go.gov.sg/hlf25-rsvp" rel="noopener nofollow" target="_blank">Register</a> </strong>NOW
 to secure your spot!</p>
 <h4><strong>★ Programme Highlights ★</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_Highlights_01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_Highlights_02.png">
 </div>
 <h4><strong>★ Healthier Together Movement ★</strong></h4>
 <p>Celebrate SG60 through wellness with us this May! Starting from 1 May
