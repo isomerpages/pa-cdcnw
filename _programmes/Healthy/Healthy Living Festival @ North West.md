@@ -22,8 +22,8 @@ Clubs such as FitnessX (Zumba, Kpop Fitness), Dance-Fit, Qigong and more!&nbsp;<
 the festival and take part in activities to collect stamps to complete
 the gamecard and redeem freebies too!</p>
 <p>Psst! First 600 sign-ups will receive a Limited Edition STC x SG Enable
-Cup too! Don’t wait, <a href="https://go.gov.sg/hlf25-rsvp" rel="noopener nofollow" target="_blank">register now</a> to
-secure your spot.</p>
+Cup too! <strong>Don’t wait, <a href="https://go.gov.sg/hlf25-rsvp" rel="noopener nofollow" target="_blank">register now</a> to secure your spot.</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -73,7 +73,7 @@ secure your spot.</p>
 </table>
 <h4><strong>★ Programme Highlights ★</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_Highlights_v5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_Highlights_06.jpg">
 </div>
 <h4><strong>★ Healthier Together Movement ★</strong></h4>
 <p>Celebrate SG60 through wellness with us this May! Starting from 1 May
