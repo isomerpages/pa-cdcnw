@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Healthy
 variant: tiptap
 ---
-<p>[insert poster]</p>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/hlf25-rsvp"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Healthy_Living_Fes_25_Promotional_Poster_R12.jpg"></a>
 <p><strong>Register <a href="https://go.gov.sg/hlf25-rsvp" rel="noopener nofollow" target="_blank">here</a></strong>
 </p>
 <p>Healthy Living Festival @ North West is a flagship event to promote healthy
@@ -16,15 +16,16 @@ with a month-long campaign – Healthier Together Movement, leading up to
 the highly anticipated 3-day festival to celebrate SG60 through wellness.
 The Healthier Together Movement invites everyone to come together and collectively
 clock 60,000km through running, swimming, walking, and cycling. The 3-day
-festival comes jam-packed with flea market, curated food and drinks booths,
-live performances, family-friendly games, sports activities, and free try-outs
+festival comes jam-packed with pop-up fairs, food and drinks booths, live
+performances, family-friendly games, sports activities, and free try-outs
 by North West Healthy Living Clubs such as FitnessX (Zumba, Kpop Fitness),
 Dance-Fit, Qigong and more!&nbsp;</p>
 <p>Participants can collect their game card at the information counter, explore
 the festival and take part in activities to collect stamps to complete
 the gamecard and redeem freebies too!</p>
-<p><strong><a href="https://go.gov.sg/hlf25-rsvp" rel="noopener nofollow" target="_blank">Register</a> </strong>NOW
-to secure your spot!</p>
+<p>Psst! First 600 sign-ups will receive a Limited Edition STC x SG Enable
+Cup. Don’t wait, <a href="https://go.gov.sg/hlf25-rsvp" rel="noopener nofollow" target="_blank">register now</a> to
+secure your spot!</p>
 <h4><strong>★ Programme Highlights ★</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_Highlights_v3.png">
