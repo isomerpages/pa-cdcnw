@@ -36,6 +36,9 @@ to 1 June 2025, join us in celebrating Singapore’s 60<sup>th</sup> birthday
 by collectively clocking 60,000km through activities such as running, swimming,
 walking, and cycling. <strong>Register and start clocking your distance <a href="https://go.gov.sg/hlf25-htm" rel="noopener nofollow" target="_blank">here</a>!</strong>
 </p>
+<p>What’s more? Join our social media giveaway on NWCDC <a href="https://www.facebook.com/nwcdc" rel="noopener nofollow" target="_blank">Facebook</a> or
+<a href="https://www.instagram.com/northwestcdc" rel="noopener nofollow" target="_blank">Instagram</a>by uploading a photo of yourselves participating in the SG60
+Healthier Together Movement for a chance to win attractive prizes!</p>
 <h4><strong>★ Free Sports Try-Out ★</strong></h4>
 <p>Take part in free sports try-outs by North West Healthy Living Clubs:</p>
 <ul data-tight="true" class="tight">
