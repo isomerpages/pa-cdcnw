@@ -18,23 +18,22 @@ The Healthier Together Movement invites everyone to come together and collective
 clock 60,000km through running, swimming, walking, and cycling. The 3-day
 festival comes jam-packed with flea market, curated food and drinks booths,
 live performances, family-friendly games, sports activities, and free try-outs
-by North West Healthy Living Clubs such as FitnessX (Zumba, Kpop), Dance-Fit,
-Qigong and more!&nbsp;</p>
+by North West Healthy Living Clubs such as FitnessX (Zumba, Kpop Fitness),
+Dance-Fit, Qigong and more!&nbsp;</p>
 <p>Participants can collect their game card at the information counter, explore
 the festival and take part in activities to collect stamps to complete
 the gamecard and redeem freebies too!</p>
 <p><strong><a href="https://go.gov.sg/hlf25-rsvp" rel="noopener nofollow" target="_blank">Register</a> </strong>NOW
 to secure your spot!</p>
 <h4><strong>★ Programme Highlights ★</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_Highlights_02.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_Highlights_v3.png">
 </div>
 <h4><strong>★ Healthier Together Movement ★</strong></h4>
 <p>Celebrate SG60 through wellness with us this May! Starting from 1 May
-2025, join us in celebrating Singapore’s 60<sup>th</sup> birthday by collectively
-clocking 60,000km through activities such as running, swimming, walking,
-and cycling. <strong>Pledge your kilometers <a href="https://go.gov.sg/hlf25-htm" rel="noopener nofollow" target="_blank">here</a>!</strong>
+to 1 June 2025, join us in celebrating Singapore’s 60<sup>th</sup> birthday
+by collectively clocking 60,000km through activities such as running, swimming,
+walking, and cycling. <strong>Register and start clocking your distance <a href="https://go.gov.sg/hlf25-htm" rel="noopener nofollow" target="_blank">here</a>!</strong>
 </p>
 <h4><strong>★ Free Sports Try-Out ★</strong></h4>
 <p>Take part in free sports try-outs by North West Healthy Living Clubs:</p>
