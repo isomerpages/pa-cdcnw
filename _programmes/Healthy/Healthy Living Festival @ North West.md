@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Healthy
 variant: tiptap
 ---
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/hlf25-rsvp"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Healthy_Living_Fes_25_Promotional_Poster_R12.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/hlf25-rsvp"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Main_Poster.jpg"></a>
 <p><strong>Register <a href="https://go.gov.sg/hlf25-rsvp" rel="noopener nofollow" target="_blank">here</a></strong>
 </p>
 <p>Healthy Living Festival @ North West is a flagship event to promote healthy
@@ -73,7 +73,7 @@ secure your spot.</p>
 </table>
 <h4><strong>★ Programme Highlights ★</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_Highlights_v3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_Highlights_v5.png">
 </div>
 <h4><strong>★ Healthier Together Movement ★</strong></h4>
 <p>Celebrate SG60 through wellness with us this May! Starting from 1 May
