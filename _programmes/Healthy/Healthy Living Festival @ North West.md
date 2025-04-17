@@ -39,7 +39,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>30 May 2025 (Fri) | 5pm to 10pm
 <br>31 May 2025 (Sat) | 2pm to 10pm
-<br>1 June 2025 (Sun) | 9sm to 7pm</p>
+<br>1 June 2025 (Sun) | 9am to 7pm</p>
 </td>
 </tr>
 <tr>
