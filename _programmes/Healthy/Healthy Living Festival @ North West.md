@@ -127,4 +127,3 @@ vouchers!</p>
 <p>Participate in our social media giveaway and redeem prizes at the Healthy
 Living Festival @ North West event! Follow us and stay tuned to our <a href="https://www.facebook.com/nwcdc" rel="noopener nofollow" target="_blank">Facebook</a> and
 <a href="https://www.instagram.com/northwestcdc" rel="noopener nofollow" target="_blank">Instagram</a>for more information.</p>
-<p>a</p>
