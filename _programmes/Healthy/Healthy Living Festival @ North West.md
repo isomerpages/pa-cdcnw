@@ -30,7 +30,8 @@ variant: tiptap
 <p>Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sing</p>
+<p>Singapore Turf Club</p>
+<p>1 Turf Club</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -49,7 +50,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>★ Programme Highlights </strong></h4>
+<h4><strong>★ Programme Highlights</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_Highlights_06.jpg">
 </div>
@@ -106,4 +107,4 @@ vouchers!</p>
 <p>Participate in our social media giveaway and redeem prizes at the Healthy
 Living Festival @ North West event! Follow us and stay tuned to our <a href="https://www.facebook.com/nwcdc" rel="noopener nofollow" target="_blank">Facebook</a> and
 <a href="https://www.instagram.com/northwestcdc" rel="noopener nofollow" target="_blank">Instagram</a>for more information.</p>
-<p></p>
+<p>a</p>
