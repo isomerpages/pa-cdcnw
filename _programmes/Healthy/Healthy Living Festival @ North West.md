@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Healthy
 variant: tiptap
 ---
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/hlf25-rsvp"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Main_Poster.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/hlf25-rsvp"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Main_Poster__v2__01.jpg"></a>
 <h4><a href="https://go.gov.sg/hlf25-rsvp" rel="noopener nofollow" target="_blank">REGISTER NOW</a></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -55,7 +55,7 @@ variant: tiptap
 </table>
 <h4><strong>★ Programme Highlights ★</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_Highlights_001.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_Highlights_0003.jpg">
 </div>
 <p><strong>Healthy Living Festival @ North West </strong>is a flagship event
 to promote healthy living and bonding through a line-up of wellness activities
