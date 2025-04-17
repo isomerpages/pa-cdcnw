@@ -61,9 +61,10 @@ variant: tiptap
 to promote healthy living and bonding through a line-up of wellness activities
 and experiences to encourage holistic well-being in the North West District.</p>
 <p>Back for its third year, Healthy Living Festival @ North West kicks off
-with a month-long campaign - Healthier Together Movement, to celebrate
-SG60 through wellness by inviting everyone to come together and collectively
-clock 60,000km through running, swimming, walking and cycling. <strong>(Refer to ★ SG60 Healthier Together Movement ★)</strong>
+with a month-long campaign - SG60 Healthier Together Movement, to celebrate
+Singapore's birthday through wellness by inviting everyone to come together
+and collectively clock 60,000km through running, swimming, walking and
+cycling. <strong>(Refer to ★ SG60 Healthier Together Movement ★)</strong>
 </p>
 <p>The 3-day festival comes jam-packed with pop-up fairs, food and drinks
 booths, live performances, family-friendly games, sports activities, and
