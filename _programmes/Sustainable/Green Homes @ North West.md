@@ -5,12 +5,13 @@ description: ""
 third_nav_title: Sustainable
 variant: markdown
 ---
+
+
+![](/images/Programmes/Green%20Living/FA_Green_Homes_2025___Poster__1_.png)
+
 **Green Homes @ North West** encourages households in the North West District to adopt eco-friendly practices and make use of energy and water efficient appliances to attain Green Living at home. 
 
 Residents may apply for the programme through this [link](https://go.gov.sg/greenhomesnw) 
-
-
-**Fulfil at least 3 out of the 7 criteria to qualify for e-vouchers:**
 
 
 **Criteria**
