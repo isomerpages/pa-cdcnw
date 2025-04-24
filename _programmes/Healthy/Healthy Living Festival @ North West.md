@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Healthy
 variant: tiptap
 ---
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/hlf25-rsvp"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Main_Poster__v2__01.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/hlf25-rsvp"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Main_Poster_2404_02_01.jpg"></a>
 <h4><a href="https://go.gov.sg/hlf25-rsvp" rel="noopener nofollow" target="_blank">REGISTER NOW</a></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -55,7 +55,7 @@ variant: tiptap
 </table>
 <h4><strong>★ Programme Highlights ★</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_Highlights_0003.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_Highlights_02_2404_01.jpg">
 </div>
 <p><strong>Healthy Living Festival @ North West </strong>is a flagship event
 to promote healthy living and bonding through a line-up of wellness activities
@@ -84,6 +84,13 @@ walking, and cycling. <strong>Register and start clocking your distance <a href=
 <p>Join our social media giveaway on NWCDC <a href="https://www.facebook.com/nwcdc" rel="noopener nofollow" target="_blank">Facebook</a> or <a href="https://www.instagram.com/northwestcdc" rel="noopener nofollow" target="_blank">Instagram</a> by
 uploading a photo of yourselves participating in the SG60 Healthier Together
 Movement for a chance to win attractive prizes!</p>
+<h4><strong>★ Family Telematch and Ah Boy &amp; Ah Girl Dash ★</strong></h4>
+<p>Join us for the Family Telematch and Ah Boy &amp; Ah Girl Dash at the
+festival! View more information <a href="/files/Telematch___Ah_Boy___Ah_Girl_Dash.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p><strong><a href="https://go.gov.sg/hlf25-telematch" rel="noopener nofollow" target="_blank">SIGN UP HERE</a></strong>
+</p>
+<h4><strong>★ Sunset Yoga (31 May) ★</strong></h4>
+<p>Sunset Yoga (31 May)</p>
 <h4><strong>★ Free Sports Try-Out ★</strong></h4>
 <p>Take part in free sports try-outs by North West Healthy Living Clubs:</p>
 <ul data-tight="true" class="tight">
