@@ -96,8 +96,7 @@ sunset. Don’t forget to bring your own yoga mat and towel for a comfortable
 experience! <strong><a href="https://go.gov.sg/hlf25-yoga" rel="noopener nofollow" target="_blank">Register here</a></strong>.</p>
 <h4><strong>★ Community Run &amp; Running Workshop (31 May) ★</strong></h4>
 <p>Get ready for a fun and energizing evening! Start with a <strong>Running Workshop (5:00pm - 5:45pm) </strong>to
-boost your running skills, then join us for a <strong>5km Community Run (6:00pm - 6:45pm)</strong>. <strong><a href="https://go.gov.sg/hlf25-running" rel="noopener nofollow" target="_blank">Sign up</a></strong> now
-for a healthier lifestyle together!</p>
+boost your running skills, then join us for a <strong>5km Community Run (6:00pm - 6:45pm)</strong>. <strong><a href="https://go.gov.sg/hlf25-running" rel="noopener nofollow" target="_blank">Sign up now</a></strong>!</p>
 <h4><strong>★ Free Sports Try-Out ★</strong></h4>
 <p>Take part in free sports try-outs by North West Healthy Living Clubs:</p>
 <ul data-tight="true" class="tight">
