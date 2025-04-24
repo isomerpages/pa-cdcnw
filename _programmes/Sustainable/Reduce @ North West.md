@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sustainable
 variant: markdown
 ---
-![](/images/Programmes/Green%20Living/Reduce___NW.jpg)
+![](/images/Programmes/Green%20Living/NWCDC_Reduce_northwest2025_Poster.png)
 
 **Reduce @ North West** educates students from participating schools in the North West and equip them with the knowledge to encourage households to reduce energy and water consumption, and food wastage, through house visits and sharing these message with their network.
 

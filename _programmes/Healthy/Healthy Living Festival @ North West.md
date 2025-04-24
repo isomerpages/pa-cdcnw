@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Healthy
 variant: tiptap
 ---
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/hlf25-rsvp"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Main_Poster__v2__01.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/hlf25-rsvp"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Main_Poster_2404_02_01.jpg"></a>
 <h4><a href="https://go.gov.sg/hlf25-rsvp" rel="noopener nofollow" target="_blank">REGISTER NOW</a></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -55,7 +55,7 @@ variant: tiptap
 </table>
 <h4><strong>★ Programme Highlights ★</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_Highlights_0003.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_Highlights_04_2404_01_01.jpg">
 </div>
 <p><strong>Healthy Living Festival @ North West </strong>is a flagship event
 to promote healthy living and bonding through a line-up of wellness activities
@@ -84,6 +84,20 @@ walking, and cycling. <strong>Register and start clocking your distance <a href=
 <p>Join our social media giveaway on NWCDC <a href="https://www.facebook.com/nwcdc" rel="noopener nofollow" target="_blank">Facebook</a> or <a href="https://www.instagram.com/northwestcdc" rel="noopener nofollow" target="_blank">Instagram</a> by
 uploading a photo of yourselves participating in the SG60 Healthier Together
 Movement for a chance to win attractive prizes!</p>
+<h4><strong>★ Telematch and Ah Boy &amp; Ah Girl Dash (31 May &amp; 1 June)★</strong></h4>
+<p><strong><a href="https://go.gov.sg/hlf25-telematch" rel="noopener nofollow" target="_blank">Sign up</a> </strong>for
+the Family Telematch and Ah Boy &amp; Ah Girl Dash at the festival! View
+more information <a href="/files/Telematch___Ah_Boy___Ah_Girl_Dash.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<h4><strong>★ Sunset Yoga (31 May) ★</strong></h4>
+<p>Join Jimin Choi and her daughter Skye for a relaxing <strong>Sunset Yoga</strong> session
+from <strong>6.15pm to 7.15pm</strong>, ideal for beginners and suitable
+for ages 3 and above. Enjoy gentle yoga poses, calming breaths, and the
+beauty of the sunset. The session will be held at the outdoor turf track
+grass patch, so don’t forget to bring your own yoga mat and towel for a
+comfortable experience! <strong><a href="https://go.gov.sg/hlf25-yoga" rel="noopener nofollow" target="_blank">Register here</a></strong>.</p>
+<h4><strong>★ Community Run &amp; Running Workshop (31 May) ★</strong></h4>
+<p>Get ready for a fun and energizing evening! Start with a <strong>Running Workshop (5:00pm - 5:45pm) </strong>to
+boost your running skills, then join us for a <strong>5km Community Run (6:00pm - 6:45pm)</strong>. <strong><a href="https://go.gov.sg/hlf25-running" rel="noopener nofollow" target="_blank">Sign up now</a></strong>!</p>
 <h4><strong>★ Free Sports Try-Out ★</strong></h4>
 <p>Take part in free sports try-outs by North West Healthy Living Clubs:</p>
 <ul data-tight="true" class="tight">
