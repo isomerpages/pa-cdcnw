@@ -89,11 +89,11 @@ Movement for a chance to win attractive prizes!</p>
 the Family Telematch and Ah Boy &amp; Ah Girl Dash at the festival! View
 more information <a href="/files/Telematch___Ah_Boy___Ah_Girl_Dash.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h4><strong>★ Sunset Yoga (31 May) ★</strong></h4>
-<p>Join Jimin Choi and her daughter Skye for a relaxing Sunset Yoga session
-from 6.15pm to 7.15pm, ideal for beginners and suitable for ages 3 and
-above. Enjoy gentle yoga poses, calming breaths, and the beauty of the
-sunset. Don’t forget to bring your own yoga mat and towel for a comfortable
-experience! <strong><a href="https://go.gov.sg/hlf25-yoga" rel="noopener nofollow" target="_blank">Register here</a></strong>.</p>
+<p>Join Jimin Choi and her daughter Skye for a relaxing <strong>Sunset Yoga</strong> session
+from <strong>6.15pm to 7.15pm</strong>, ideal for beginners and suitable
+for ages 3 and above. Enjoy gentle yoga poses, calming breaths, and the
+beauty of the sunset. Don’t forget to bring your own yoga mat and towel
+for a comfortable experience! <strong><a href="https://go.gov.sg/hlf25-yoga" rel="noopener nofollow" target="_blank">Register here</a></strong>.</p>
 <h4><strong>★ Community Run &amp; Running Workshop (31 May) ★</strong></h4>
 <p>Get ready for a fun and energizing evening! Start with a <strong>Running Workshop (5:00pm - 5:45pm) </strong>to
 boost your running skills, then join us for a <strong>5km Community Run (6:00pm - 6:45pm)</strong>. <strong><a href="https://go.gov.sg/hlf25-running" rel="noopener nofollow" target="_blank">Sign up now</a></strong>!</p>
