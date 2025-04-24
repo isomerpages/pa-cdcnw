@@ -55,7 +55,7 @@ variant: tiptap
 </table>
 <h4><strong>★ Programme Highlights ★</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_Highlights_03_2404_01_01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_Highlights_04_2404_01_01.jpg">
 </div>
 <p><strong>Healthy Living Festival @ North West </strong>is a flagship event
 to promote healthy living and bonding through a line-up of wellness activities
@@ -92,8 +92,9 @@ more information <a href="/files/Telematch___Ah_Boy___Ah_Girl_Dash.pdf" rel="noo
 <p>Join Jimin Choi and her daughter Skye for a relaxing <strong>Sunset Yoga</strong> session
 from <strong>6.15pm to 7.15pm</strong>, ideal for beginners and suitable
 for ages 3 and above. Enjoy gentle yoga poses, calming breaths, and the
-beauty of the sunset. Don’t forget to bring your own yoga mat and towel
-for a comfortable experience! <strong><a href="https://go.gov.sg/hlf25-yoga" rel="noopener nofollow" target="_blank">Register here</a></strong>.</p>
+beauty of the sunset. The session will be held at the outdoor turf track
+grass patch, so don’t forget to bring your own yoga mat and towel for a
+comfortable experience! <strong><a href="https://go.gov.sg/hlf25-yoga" rel="noopener nofollow" target="_blank">Register here</a></strong>.</p>
 <h4><strong>★ Community Run &amp; Running Workshop (31 May) ★</strong></h4>
 <p>Get ready for a fun and energizing evening! Start with a <strong>Running Workshop (5:00pm - 5:45pm) </strong>to
 boost your running skills, then join us for a <strong>5km Community Run (6:00pm - 6:45pm)</strong>. <strong><a href="https://go.gov.sg/hlf25-running" rel="noopener nofollow" target="_blank">Sign up now</a></strong>!</p>
