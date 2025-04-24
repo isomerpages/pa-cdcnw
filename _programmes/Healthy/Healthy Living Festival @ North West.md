@@ -55,7 +55,7 @@ variant: tiptap
 </table>
 <h4><strong>★ Programme Highlights ★</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_Highlights_02_2404_01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_Highlights_03_2404_01_01.jpg">
 </div>
 <p><strong>Healthy Living Festival @ North West </strong>is a flagship event
 to promote healthy living and bonding through a line-up of wellness activities
