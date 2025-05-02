@@ -61,4 +61,18 @@ sections:
       subtitle: Locate your district
       button: Find now
       url: https://www.gowhere.gov.sg/cdc
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: Change in Venue for Legal Clinics by Pro Bono SG
+          date: 05 May 2025
+          announcement: "Due to ongoing renovations at our North West CDC office, the
+            legal clinic sessions by Pro Bono SG will be held temporarily at its
+            Community Law Centre at Realm Of Tranquility at 547 Woodlands Drive
+            16, #01-177, Singapore 730547, till further notice. Please call 6536
+            0650 to fix an appointment."
+          link_text: ""
+          link_url: ""
 ---
