@@ -2,7 +2,6 @@ collections:
   cohesion:
     output: true
     order:
-      - May 2025/Images.md
       - May 2025/.keep
       - May 2025/May At A Glance.md
       - May 2025/Healthy Living Festival @ North West.md
