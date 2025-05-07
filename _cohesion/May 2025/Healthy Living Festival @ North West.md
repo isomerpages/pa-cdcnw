@@ -552,9 +552,10 @@ border-bottom-left-radius: 20px;">
         <li style="padding-bottom: 10px;">Post a photo of you participating in the SG60 Healthier Together Movement<br>
         <span style="font-style: italic;">(e.g., walking, running, swimming, cycling) and the distance clocked (e.g., I have clocked 2.5km)</span></li>
         <li style="padding-bottom: 10px;">Tag North West CDC and hashtag <span style="font-weight: bold; color: #F96B8D;">#HLF2025</span></li>
-        <li style="padding-bottom: 10px;">DM us your email address to enter for a chance to win shopping vouchers</li>
+        <li style="padding-bottom: 10px;">DM us your email address to enter for a chance to win shopping vouchers<br><br>
+                                          <span style="font-style: italic; font-weight: bold;">Contest ends on 25 May 2025 at 23:59hrs</span></li>
       </ol>
-    <p></p>
+    
   </div>
 </div>
 
