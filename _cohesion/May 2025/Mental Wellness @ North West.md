@@ -449,6 +449,9 @@ In November 2024, two active ageing centres in Yishun – All Saints Home and St
   <img style="width: 100%;" class="" src="/images/Cohesion/May%202025/quote_chang.jpg">
 </div>
 
+<div class="" style="max-width: 100%; padding: 15px 0px;">
+  <img style="width: 100%;" class="" src="/images/Cohesion/May%202025/quote_slec_1.jpg">
+</div>
 
 <div class="" style="max-width: 100%; padding: 15px 0px;">
   <img style="width: 100%;" class="" src="/images/Cohesion/May%202025/infographic_5reasons_awareness.jpg">
