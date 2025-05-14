@@ -54,7 +54,6 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>★ Programme Highlights ★</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_Highlights_0905_03_01.jpg">
 </div>
@@ -75,6 +74,14 @@ Kpop Fitness), Dance-Fit, Qigong and more!&nbsp;</p>
 the festival and take part in activities to collect stamps to complete
 the gamecard and redeem freebies too!</p>
 <p>First 600 sign-ups will receive a Limited Edition STC x SG Enable Cup. <strong>Don’t wait, <a href="https://go.gov.sg/hlf25-rsvp" rel="noopener nofollow" target="_blank">register now</a> to secure your spot!</strong>
+</p>
+<p><strong>Full Programme:</strong>
+</p>
+<p><a href="/files/Day_1_Programme.pdf" rel="noopener nofollow" target="_blank">Day 1 Programme (30 May)</a>
+</p>
+<p><a href="/files/Day_2_Programme.pdf" rel="noopener nofollow" target="_blank">Day 2 Programme (31 May)</a>
+</p>
+<p><a href="/files/Day_3_Programme.pdf" rel="noopener nofollow" target="_blank">Day 3 Programme (1 June)</a>
 </p>
 <h4><strong>★ SG60 Healthier Together Movement ★</strong></h4>
 <p>Celebrate SG60 through wellness with us this May! Starting from 1 May
