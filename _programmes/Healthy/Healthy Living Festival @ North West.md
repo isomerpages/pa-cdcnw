@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Healthy
 variant: tiptap
 ---
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/hlf25-rsvp"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Main_Poster_2404_02_01.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/hlf25-htm"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/HLF2025_updated_14May.jpg"></a>
 <h4><a href="https://go.gov.sg/hlf25-rsvp" rel="noopener nofollow" target="_blank">REGISTER NOW</a></h4>
 <table style="minWidth: 50px">
 <colgroup>
