@@ -110,19 +110,17 @@ boost your running skills, then join us for a <strong>5km Community Run (6:00pm 
 <p>Join us for "A Journey Through Time" - an exclusive exhibition at the
 Singapore Turf Club, featured as part of Healthy Living Festival @ North
 West.</p>
-<p>Experience Singapore's rich horse racing heritage through five captivating
+<p>&nbsp;Experience Singapore's rich horse racing heritage through five captivating
 galleries. Journey from the sport's beginnings in Farrer Park to its final
-days in Kranji. View historic trophies from the Singapore Derby and Grand
+site in Kranji. View historic trophies from the Singapore Derby and Grand
 Singapore Gold Cup, admire award-winning photography, and relive the emotional
 final race day through immersive video installations. Complete your visit
-at the Legacy Cinema featuring CNA's touching documentaries.</p>
-<p>All participants will receive an exclusive keepsake to commemorate their
-visit, and your exhibition tour counts as a station to collect stamps for
-your carnival game card! Get your slot now for this memorable celebration
-of Singapore's sporting heritage.</p>
-<p><a href="https://go.gov.sg/hlf25-ajtt" rel="noopener nofollow" target="_blank">Register now!</a> Slots
-are on first-come-first basis. 30pax per time slot. View more information
-<a href="https://www.turfclub.com.sg/en/our-homestretch/a-journey-through-time-exhibition.html" rel="noopener nofollow" target="_blank">here</a>.</p>
+at the Legacy Cinema featuring CNA's In the Grandstand documentary series.</p>
+<p>&nbsp;All participants will receive an exclusive keepsake* to commemorate
+their visit, and your exhibition tour counts as a station to collect stamps
+for your carnival game card! <a href="https://form.gov.sg/681c0da99adc13e5bc882861" class="fui-Link ___1q1shib f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1s184ao f1mk8lai fnbmjn9 f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn" rel="noreferrer noopener" target="_blank">Register now</a> for
+this memorable celebration of Singapore's sporting heritage. View more
+information&nbsp;<a href="https://www.turfclub.com.sg/en/our-homestretch/a-journey-through-time-exhibition.html" class="fui-Link ___1q1shib f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1s184ao f1mk8lai fnbmjn9 f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn" rel="noreferrer noopener" target="_blank">here</a>.</p>
 <h4><strong>★ Free Sports Try-Out ★</strong></h4>
 <p>Take part in free sports try-outs by North West Healthy Living Clubs:</p>
 <ul data-tight="true" class="tight">
