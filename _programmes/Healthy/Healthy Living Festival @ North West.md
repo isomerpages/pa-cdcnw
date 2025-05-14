@@ -106,6 +106,23 @@ comfortable experience! <strong><a href="https://go.gov.sg/hlf25-yoga" rel="noop
 <h4><strong>★ Community Run &amp; Running Workshop (31 May) ★</strong></h4>
 <p>Get ready for a fun and energizing evening! Start with a <strong>Running Workshop (5:00pm - 5:45pm) </strong>to
 boost your running skills, then join us for a <strong>5km Community Run (6:00pm - 6:45pm)</strong>. <strong><a href="https://go.gov.sg/hlf25-running" rel="noopener nofollow" target="_blank">Sign up now</a></strong>!</p>
+<h4><strong>★ A Journey Through Time Exhibition ★</strong></h4>
+<p>Join us for "A Journey Through Time" - an exclusive exhibition at the
+Singapore Turf Club, featured as part of Healthy Living Festival @ North
+West.</p>
+<p>Experience Singapore's rich horse racing heritage through five captivating
+galleries. Journey from the sport's beginnings in Farrer Park to its final
+days in Kranji. View historic trophies from the Singapore Derby and Grand
+Singapore Gold Cup, admire award-winning photography, and relive the emotional
+final race day through immersive video installations. Complete your visit
+at the Legacy Cinema featuring CNA's touching documentaries.</p>
+<p>All participants will receive an exclusive keepsake to commemorate their
+visit, and your exhibition tour counts as a station to collect stamps for
+your carnival game card! Get your slot now for this memorable celebration
+of Singapore's sporting heritage.</p>
+<p><a href="https://go.gov.sg/hlf25-ajtt" rel="noopener nofollow" target="_blank">Register now!</a> Slots
+are on first-come-first basis. 30pax per time slot. View more information
+<a href="https://www.turfclub.com.sg/en/our-homestretch/a-journey-through-time-exhibition.html" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h4><strong>★ Free Sports Try-Out ★</strong></h4>
 <p>Take part in free sports try-outs by North West Healthy Living Clubs:</p>
 <ul data-tight="true" class="tight">
