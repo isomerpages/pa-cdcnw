@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Healthy
 variant: tiptap
 ---
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/hlf25-htm"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/HLF2025_updated_14May.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/hlf25-rsvp"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/HLF2025_updated_14May.jpg"></a>
 <h4><a href="https://go.gov.sg/hlf25-rsvp" rel="noopener nofollow" target="_blank">REGISTER NOW</a></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -77,11 +77,11 @@ the gamecard and redeem freebies too!</p>
 </p>
 <p><strong>Full Programme:</strong>
 </p>
-<p><a href="/files/Day_1_Programme.pdf" rel="noopener nofollow" target="_blank">Day 1 Programme (30 May)</a>
+<p><a href="/files/Day_1_Programme_01.pdf" rel="noopener nofollow" target="_blank">Day 1 Programme (30 May)</a>
 </p>
-<p><a href="/files/Day_2_Programme.pdf" rel="noopener nofollow" target="_blank">Day 2 Programme (31 May)</a>
+<p><a href="/files/Day_2_Programme_01.pdf" rel="noopener nofollow" target="_blank">Day 2 Programme (31 May)</a>
 </p>
-<p><a href="/files/Day_3_Programme.pdf" rel="noopener nofollow" target="_blank">Day 3 Programme (1 June)</a>
+<p><a href="/files/Day_3_Programme_01.pdf" rel="noopener nofollow" target="_blank">Day 3 Programme (1 June)</a>
 </p>
 <h4><strong>★ SG60 Healthier Together Movement ★</strong></h4>
 <p>Celebrate SG60 through wellness with us this May! Starting from 1 May
