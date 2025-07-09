@@ -99,7 +99,7 @@ everyday experiences.</p>
 <p>Discover how AI tools can simplify your daily life and boost productivity
 at work and home. Learn practical tips for task automation and stay updated
 on the latest SkillsFuture initiatives, including how to maximise your
-SkillsFuture Credits and acquire in-demand skills. <a href="https://go.gov.sg/nwjf2025" rel="noopener nofollow" target="_blank">Register now</a>!</p>
+SkillsFuture Credits and acquire in-demand skills. <a href="https://go.gov.sg/nw-skills-talk" rel="noopener nofollow" target="_blank">Register now</a>!</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
