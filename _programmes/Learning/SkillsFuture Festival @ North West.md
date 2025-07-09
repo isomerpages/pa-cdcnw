@@ -148,7 +148,7 @@ Institute</p>
 </table>
 <p><strong><a href="https://go.gov.sg/nw-skills-talk" rel="noopener nofollow" target="_blank">Register</a> for the Community Skills Talk today!</strong>
 </p>
-<h4><strong>★ e2i Skills &amp; Career Fair @ North West</strong>&nbsp;</h4>
+<h4><strong>★e2i Skills &amp; Career Fair @ North West ★ </strong>&nbsp;</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Job_Fair_Banner.jpg">
 </div>
@@ -171,10 +171,10 @@ to healthcare, customer service to logistics, and more! <a href="https://go.gov.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Date29 -</p>
+<p>Date</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ly</p>
+<p>29 &amp; 30 July 2025</p>
 </td>
 </tr>
 <tr>
@@ -182,7 +182,7 @@ to healthcare, customer service to logistics, and more! <a href="https://go.gov.
 <p>Time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>10.30am to 6.30pm (Last registration at 6pm)</p>
 </td>
 </tr>
 <tr>
@@ -190,10 +190,58 @@ to healthcare, customer service to logistics, and more! <a href="https://go.gov.
 <p>Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Causeway Point, Level 1 Round Atrium</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p><a href="https://go.gov.sg/nwjf2025" rel="noopener nofollow" target="_blank">Register</a> for
+e2i Skills &amp; Career Fair @ North West now!</p>
+<h4><strong>★e2i Skills &amp; Career Fair @ North West ★ </strong>&nbsp;</h4>
+<p>Join us for a high-impact event designed to equip SMEs with practical
+AI and digitalisation strategies for growth. Expect a dynamic dialogue
+session, breakout workshops covering AI applications, and targeted networking
+opportunities to help your business navigate digital transformation. Connect
+with training providers and solution partners showcasing tools for upskilling
+and business transformation. <a href="https://www.eventbrite.sg/e/north-west-corporate-exchange-tickets-1451201084509?aff=oddtdtcreator" rel="noopener nofollow" target="_blank">Register now</a>.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Event Details</p>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Date</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14 August 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12pm to 5.30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Venue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HomeTeamNS Khatib</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
