@@ -35,7 +35,7 @@ Festival @ North West:</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Event Details</p>
+<p>SkillsFuture Festival @ North West</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
