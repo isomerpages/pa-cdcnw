@@ -422,11 +422,11 @@ object-fit: cover;
 
 <div style="width: 100%;">
   <img style="width: 100%; max-width:" src="https://northwest.cdc.gov.sg/images/Cohesion/January%202024/caring_communities.png">
-  <img style="width: 100%; max-width:" alt="" src="/images/Cohesion/July%202025/title_assistance.jpg">
+  <img style="width: 100%; max-width:" alt="" src="/images/Cohesion/July%202025/title_assistance_1.jpg">
 </div>
 
 <div style="max-width: 100%; padding: 20px 0px 10px;" class="rounded20">
-  <img style="width: 100%; margin-top: 0px;" class="rounded20" src="/images/Cohesion/July%202025/edm_kv_project_sama.jpg">
+  <img style="width: 100%; margin-top: 0px;" class="rounded20" src="/images/Cohesion/July%202025/sama_sama_kv_1.gif">
 </div>
 
 <div style="padding: 10px 0px 10px;">
@@ -440,7 +440,7 @@ Project Sama Sama will continue to expand its reach within the North West to mor
 </div>
 
 <div style="max-width: 100%; padding: 30px 0px 10px;" class="rounded20">
-  <img style="width: 100%; margin-top: 0px;" class="" src="/images/Cohesion/July%202025/project_sama_rollouts.jpg">
+  <img style="width: 100%; margin-top: 0px;" class="" src="/images/Cohesion/July%202025/project_sama_rollouts_1.jpg">
 </div>
 
 <div style="padding: 10px 0px 10px;">
