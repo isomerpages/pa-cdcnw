@@ -90,7 +90,7 @@ everyday experiences.</p>
 <p>Discover how AI tools can simplify your daily life and boost productivity
 at work and home. Learn practical tips for task automation and stay updated
 on the latest SkillsFuture initiatives, including how to maximise your
-SkillsFuture Credits and acquire in-demand skills. Register <a href="https://go.gov.sg/nw-skills-talk" rel="noopener nofollow" target="_blank">now</a>!</p>
+SkillsFuture Credits and acquire in-demand skills. <a href="https://go.gov.sg/nwjf2025" rel="noopener nofollow" target="_blank">Register now</a>!</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -146,10 +146,14 @@ Institute</p>
 </tr>
 </tbody>
 </table>
-<p><a href="https://go.gov.sg/nw-skills-talk" rel="noopener nofollow" target="_blank">Register</a> for
-the Community Skills Talk today!</p>
-<h4><strong>★ e2i Skills &amp; Career Fair @ North West</strong>&nbsp;<strong>★</strong></h4>
+<p><strong><a href="https://go.gov.sg/nw-skills-talk" rel="noopener nofollow" target="_blank">Register</a> for the Community Skills Talk today!</strong>
+</p>
+<h4><strong>★ e2i Skills &amp; Career Fair @ North West</strong>&nbsp;</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Job_Fair_Banner.jpg">
+</div>
 <p>With over 1,000 job vacancies available, join us at the <strong>e2i Skills &amp; Career Fair @ North West</strong> and
 explore exciting opportunities across various industries – from engineering
-to healthcare, customer service to logistics, and more! Sign up now!</p>
+to healthcare, customer service to logistics, and more! <a href="https://go.gov.sg/nwjf2025" rel="noopener nofollow" target="_blank">Sign Up Now</a>!</p>
+<p></p>
 <p></p>
