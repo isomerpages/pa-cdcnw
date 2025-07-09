@@ -203,7 +203,7 @@ to healthcare, customer service to logistics, and more! <a href="https://go.gov.
 </table>
 <p><a href="https://go.gov.sg/nwjf2025" rel="noopener nofollow" target="_blank">Register</a> for
 e2i Skills &amp; Career Fair @ North West now!</p>
-<h4><strong>★e2i Skills &amp; Career Fair @ North West ★ </strong>&nbsp;</h4>
+<h4><strong>★North West Corporate Exchange ★ </strong>&nbsp;</h4>
 <p>Join us for a high-impact event designed to equip SMEs with practical
 AI and digitalisation strategies for growth. Expect a dynamic dialogue
 session, breakout workshops covering AI applications, and targeted networking
