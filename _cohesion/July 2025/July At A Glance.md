@@ -696,8 +696,3 @@ Venue: Northpoint City, South Atrium</i></span>
 </div>
 
 </div>
-
-
-
-
-
