@@ -157,10 +157,7 @@ Institute</p>
 </table>
 <p><strong><a href="https://go.gov.sg/nw-skills-talk" rel="noopener nofollow" target="_blank">Register</a> for the Community Skills Talk today!</strong>
 </p>
-<h4><strong>★e2i Skills &amp; Career Fair @ North West ★ </strong>&nbsp;</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Job_Fair_Banner.jpg">
-</div>
+<h4><strong>★e2i Skills &amp; Career Fair @ North West ★ </strong>&nbsp;</h4><a class="isomer-image-wrapper" href="https://go.gov.sg/nwjf2025"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Job_Fair_Banner.jpg"></a>
 <p>With over 1,000 job vacancies available, join us at the <strong>e2i Skills &amp; Career Fair @ North West</strong> and
 explore exciting opportunities across various industries – from engineering
 to healthcare, customer service to logistics, and more! <a href="https://go.gov.sg/nwjf2025" rel="noopener nofollow" target="_blank">Sign Up Now</a>!</p>
