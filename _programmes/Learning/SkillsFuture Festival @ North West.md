@@ -155,9 +155,8 @@ Institute</p>
 <p>With over 1,000 job vacancies available, join us at the <strong>e2i Skills &amp; Career Fair @ North West</strong> and
 explore exciting opportunities across various industries – from engineering
 to healthcare, customer service to logistics, and more! <a href="https://go.gov.sg/nwjf2025" rel="noopener nofollow" target="_blank">Sign Up Now</a>!</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -169,27 +168,26 @@ to healthcare, customer service to logistics, and more! <a href="https://go.gov.
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dat</p>
+<p>Date29 -</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>ly</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>e</p>
+<p>Time</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Venue</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
