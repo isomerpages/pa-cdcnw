@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: July 2024
 ---
-
 <style>
 
 p {
@@ -478,7 +477,7 @@ Through Video Chat</h3>
     <p style="font-size: 15px; line-height: normal; text-align: center; margin: 0px 0px;">No time to visit a career centre? No problem. Connect with a career officer through video chat for quick career tips and advice.
     </p>
     <div style="width: 100%; text-align: center; padding: 20px 0px;">
-      <a style="background: #1670A7; font-family: Arial, 'sans-serif;'; font-size: 13px; color: #FFFFFF; font-weight: bold; text-decoration: none; padding: 12px 10px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; display: inline-block;" href="https://content.mycareersfuture.gov.sg/video-advisory/">Connect With a Career Officer</a>
+      <a style="background: #1670A7; font-family: Arial, 'sans-serif;'; font-size: 13px; color: #FFFFFF; font-weight: bold; text-decoration: none; padding: 12px 10px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; display: inline-block;" href="https://video.careerservices.sg/advisory">Connect With a Career Officer</a>
     </div>
     </div>
   </div>
@@ -691,5 +690,3 @@ Learning Resources</h3>
 
 
 </article>
-
-
