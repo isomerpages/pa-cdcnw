@@ -457,23 +457,23 @@ From 1 May to 1 June 2025, residents walked, ran, swam and cycled their way to b
 <img align="left" style="max-width: 33.3%; padding: 0px 15px 10px 0px;" src="/images/Cohesion/July%202025/cycling_stats.jpg">
 <p style="font-size: 20px; font-weight: bold; text-align: left; color: #FF5C83; margin: 0px 0px;">Favourite activity: </p>
 
-<p style="font-size: 16px; line-height: 26px; text-align: justify; padding: 0px 0px 10px;">Cycling, hands down! I fell in love with pedalling during the COVID lockdown, and it's been my go-to ever since. </p>
+<p style="font-size: 16px; line-height: 26px; text-align: justify; padding: 0px 0px 10px; margin: 0px;">Cycling, hands down! I fell in love with pedalling during the COVID lockdown, and it's been my go-to ever since. </p>
 
 <p style="font-size: 20px; font-weight: bold; text-align: left; color: #FF5C83; margin: 15px 0px 0px;">Training hours: </p>
 
-<p style="font-size: 16px; line-height: 26px; text-align: justify; padding: 0px 0px 10px;">After 9.00pm or at the crack of dawn (4.30am!) – weather permitting! Traded Netflix binges and extra sleep for fresh air and the thrill of the ride! </p>
+<p style="font-size: 16px; line-height: 26px; text-align: justify; padding: 0px 0px 10px; margin: 0px;">After 9.00pm or at the crack of dawn (4.30am!) – weather permitting! Traded Netflix binges and extra sleep for fresh air and the thrill of the ride! </p>
 
 <p style="font-size: 20px; font-weight: bold; text-align: left; color: #FF5C83; margin: 15px 0px 0px;;">Why join the SG60 Healthier Together Movement?</p>
 
-<p style="font-size: 16px; line-height: 26px; text-align: justify; padding: 0px 0px 10px;">To keep the fitness vibes high and add more fun to an already active lifestyle. Plus, contributing to the 60,000km target felt like joining a nationwide fitness party! </p>
+<p style="font-size: 16px; line-height: 26px; text-align: justify; padding: 0px 0px 10px; margin: 0px;">To keep the fitness vibes high and add more fun to an already active lifestyle. Plus, contributing to the 60,000km target felt like joining a nationwide fitness party! </p>
 
 <p style="font-size: 20px; font-weight: bold; text-align: left; color: #FF5C83; margin: 15px 0px 0px;;">Motivation fuel: </p>
 
-<p style="font-size: 16px; line-height: 26px; text-align: justify; padding: 0px 0px 10px;">It started with "let's shed a few pounds" – but once I hit my target weight, it was all about staying fit and crushing personal goals. That kept me pedalling with a smile! </p>
+<p style="font-size: 16px; line-height: 26px; text-align: justify; padding: 0px 0px 10px; margin: 0px;">It started with "let's shed a few pounds" – but once I hit my target weight, it was all about staying fit and crushing personal goals. That kept me pedalling with a smile! </p>
 
 <p style="font-size: 20px; font-weight: bold; text-align: left; color: #FF5C83; margin: 15px 0px 0px;;">Next fitness move: </p>
 
-<p style="font-size: 16px; line-height: 26px; text-align: justify; padding: 0px 0px 10px;">I'm all for joining the North West Healthy Living Clubs. Count me in for brisk walking or running fun – the more action, the better! </p>
+<p style="font-size: 16px; line-height: 26px; text-align: justify; padding: 0px 0px 10px; margin: 0px;">I'm all for joining the North West Healthy Living Clubs. Count me in for brisk walking or running fun – the more action, the better! </p>
 </div>
 
 
