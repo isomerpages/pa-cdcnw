@@ -68,6 +68,15 @@ Festival @ North West:</p>
 <p>Causeway Point, Level 1 Round Atrium</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Admission</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FREE Entry</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>★ Festival Highlights</strong>&nbsp;<strong>★</strong></h4>
