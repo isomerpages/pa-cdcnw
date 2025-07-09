@@ -666,5 +666,3 @@ Join us in making lifelong learning a way of life! <a style="font-weight: bold; 
 
 
 </article>
-
-
