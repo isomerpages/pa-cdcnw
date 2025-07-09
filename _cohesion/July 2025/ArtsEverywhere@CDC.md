@@ -452,40 +452,40 @@ Here are 11 performances to look out for that’ll make your weekends way more i
   <div class="" style="max-width: 100%; padding: 0px 12% 0px; margin: 0px; text-align: center;">
     <p style="font-size: 20px; line-height: 26px; text-align: justify; font-weight: bold; font-style: italic; color: #542A9A;">1. Move Your World by O School</p>
     <img style="width: 100%;" class="" src="/images/Cohesion/July%202025/f1.jpg">
-    <p style="font-size: 16px; line-height: 26px; text-align: justify;">Our residents had front-row seats to experience the Malay culture and heritage, transporting them back to the good old kampong days - where life was all about gotong-royong (mutual cooperation) and community spirit.</p>
+    <p style="font-size: 16px;line-height: initial;text-align: justify;margin: 10px 0px 30px;">Our residents had front-row seats to experience the Malay culture and heritage, transporting them back to the good old kampong days - where life was all about gotong-royong (mutual cooperation) and community spirit.</p>
   </div>
 
   <div class="" style="max-width: 100%; padding: 0px 12% 0px; margin: 0px; text-align: center;">
     <p style="font-size: 20px; line-height: 26px; text-align: justify; font-weight: bold; font-style: italic; color: #542A9A;">2. A Tribute to Heritage, a Celebration of Diversity by Singapore Chinese Dance Theatre </p>
     <img style="width: 100%;" class="" src="/images/Cohesion/July%202025/f2.jpg">
-    <p style="font-size: 16px; line-height: 26px; text-align: justify;">Celebrate Singapore's rich cultural heritage as Chinese, Malay, and Indian dance traditions come alive in a vibrant display of movement and storytelling. Continue the experience with hands-on fringe activities – try making intricate Indian crafts, learn meditative Chinese arts, and create traditional Malay art forms. </p>
+    <p style="font-size: 16px;line-height: initial;text-align: justify;margin: 10px 0px 30px;">Celebrate Singapore's rich cultural heritage as Chinese, Malay, and Indian dance traditions come alive in a vibrant display of movement and storytelling. Continue the experience with hands-on fringe activities – try making intricate Indian crafts, learn meditative Chinese arts, and create traditional Malay art forms. </p>
   </div>
 
   <div class="" style="max-width: 100%; padding: 0px 12% 0px; margin: 0px; text-align: center;">
     <p style="font-size: 20px; line-height: 26px; text-align: justify; font-weight: bold; font-style: italic; color: #542A9A;">3. Camino Flamenco by Flamenco Sin Fronteras </p>
     <img style="width: 100%;" class="" src="/images/Cohesion/July%202025/f3.jpg">
-    <p style="font-size: 16px; line-height: 26px; text-align: justify;">Discover the journey of the flamenco, which traces its roots from India and the Middle East to Spain. This show blends cultures and dances, revealing the magic behind the flamenco's powerful rhythm. Don't forget to join the fun dance workshop to learn flamenco steps, kathak gestures, and Middle Eastern spins. </p>
+    <p style="ffont-size: 16px;line-height: initial;text-align: justify;margin: 10px 0px 30px;">Discover the journey of the flamenco, which traces its roots from India and the Middle East to Spain. This show blends cultures and dances, revealing the magic behind the flamenco's powerful rhythm. Don't forget to join the fun dance workshop to learn flamenco steps, kathak gestures, and Middle Eastern spins. </p>
   </div>
 
 
   <div class="" style="max-width: 100%; padding: 0px 12% 0px; margin: 0px; text-align: center;">
     <p style="font-size: 20px; line-height: 26px; text-align: justify; font-weight: bold; font-style: italic; color: #542A9A;">4. The Tiger Hero by Paper Monkey Theatre</p>
     <img style="width: 100%;" class="" src="/images/Cohesion/July%202025/f4.jpg">
-    <p style="font-size: 16px; line-height: 26px; text-align: justify;">Dive into the magical world of Chinese hand puppetry as legendary tales like Wu Song come alive with stunning artistry and powerful storytelling. Get hands-on with various Chinese puppetry styles and unlock the secrets behind their moves during the fringe activities. </p>
+    <p style="font-size: 16px;line-height: initial;text-align: justify;margin: 10px 0px 30px;">Dive into the magical world of Chinese hand puppetry as legendary tales like Wu Song come alive with stunning artistry and powerful storytelling. Get hands-on with various Chinese puppetry styles and unlock the secrets behind their moves during the fringe activities. </p>
   </div>
 
 
   <div class="" style="max-width: 100%; padding: 0px 12% 0px; margin: 0px; text-align: center;">
     <p style="font-size: 20px; line-height: 26px; text-align: justify; font-weight: bold; font-style: italic; color: #542A9A;">5. Yesterday Once More by Rudy Djoe &amp; Kenchana Jazz</p>
     <img style="width: 100%;" class="" src="/images/Cohesion/July%202025/f5.jpg">
-    <p style="font-size: 16px; line-height: 26px; text-align: justify;">Take a journey down memory lane in this soulful showcase featuring timeless folk, jazz and Latin pop melodies including Chan Mali Chan, Burung Kakak Tua, Tian Mi Mi and Rose, Rose I Love You. Then, get moving in "Let's Cha Cha Cha!" – learn fun, easy steps and that capture the charm of the golden dance era! </p>
+    <p style="font-size: 16px;line-height: initial;text-align: justify;margin: 10px 0px 30px;">Take a journey down memory lane in this soulful showcase featuring timeless folk, jazz and Latin pop melodies including Chan Mali Chan, Burung Kakak Tua, Tian Mi Mi and Rose, Rose I Love You. Then, get moving in "Let's Cha Cha Cha!" – learn fun, easy steps and that capture the charm of the golden dance era! </p>
   </div>
 
 
   <div class="" style="max-width: 100%; padding: 0px 12% 0px; margin: 0px; text-align: center;">
     <p style="font-size: 20px; line-height: 26px; text-align: justify; font-weight: bold; font-style: italic; color: #542A9A;">6. Where We Belong by Act 3 International </p>
     <img style="width: 100%;" class="" src="/images/Cohesion/July%202025/f6.jpg">
-    <p style="font-size: 16px; line-height: 26px; text-align: justify;">Immerse yourself in this magical storytelling journey that brings an island village to life. Younger audiences will delight in the playful, interactive style of this heartwarming tale. Don't forget to let the fun continue through imaginative play in a hands-on drama workshop. </p>
+    <p style="font-size: 16px;line-height: initial;text-align: justify;margin: 10px 0px 30px;">Immerse yourself in this magical storytelling journey that brings an island village to life. Younger audiences will delight in the playful, interactive style of this heartwarming tale. Don't forget to let the fun continue through imaginative play in a hands-on drama workshop. </p>
   </div>
 
   <p style="font-size: 24px; line-height: 26px; text-align: center; font-weight: bold; padding: 40px 10% 10px; margin: 0px; color: #542A9A;">Musical street performances by rising stars </p>
@@ -500,7 +500,7 @@ Here are 11 performances to look out for that’ll make your weekends way more i
       <div class="col-8 float-left text-left">
         <div style="padding: 20px 1rem 10px;">
           <p style="font-size: 20px; line-height: 26px; text-align: justify; font-weight: bold; font-style: italic; color: #542A9A;">7. <a style="color: #542A9A;" target="_new" href="https://www.instagram.com/p/DIxxlbjh22U/">Shayne Ko</a></p>
-          <p style="font-size: 16px; line-height: 26px; text-align: justify;">Be awed by this 9-year old's incredible talent, whose enchanting piano performances have captured the hearts of audiences. Besides the piano, Shayne masterfully blends keyboard skills, finger drumming and mesmerising loops to elevate his performance!</p>
+          <p style="font-size: 16px;line-height: initial;text-align: justify;margin: 10px 0px 30px;">Be awed by this 9-year old's incredible talent, whose enchanting piano performances have captured the hearts of audiences. Besides the piano, Shayne masterfully blends keyboard skills, finger drumming and mesmerising loops to elevate his performance!</p>
         </div>
       </div>
       </div>
@@ -517,7 +517,7 @@ Here are 11 performances to look out for that’ll make your weekends way more i
       <div class="col-8 float-left text-left">
         <div style="padding: 20px 1rem 10px;">
           <p style="font-size: 20px; line-height: 26px; text-align: justify; font-weight: bold; font-style: italic; color: #542A9A;">8. <a style="color: #542A9A;" target="_new" href="https://www.instagram.com/hayleymusiclover/">Hayley Ho</a></p>
-          <p style="font-size: 16px; line-height: 26px; text-align: justify;">Let the enchanting melodies of the guzheng fill the air as 14-year-old Hayley performs a vibrant medley of English, Chinese, Hokkien, and K-pop tunes. Her expressive playing brings each piece to life, inviting audiences of all ages to enjoy the beauty of this traditional instrument. </p>
+          <p style="font-size: 16px;line-height: initial;text-align: justify;margin: 10px 0px 30px;">Let the enchanting melodies of the guzheng fill the air as 14-year-old Hayley performs a vibrant medley of English, Chinese, Hokkien, and K-pop tunes. Her expressive playing brings each piece to life, inviting audiences of all ages to enjoy the beauty of this traditional instrument. </p>
         </div>
       </div>
       </div>
@@ -534,7 +534,7 @@ Here are 11 performances to look out for that’ll make your weekends way more i
       <div class="col-8 float-left text-left">
         <div style="padding: 20px 1rem 10px;">
           <p style="font-size: 20px; line-height: 26px; text-align: justify; font-weight: bold; font-style: italic; color: #542A9A;">9. <a style="color: #542A9A;" target="_new" href="https://www.instagram.com/lee_theodora/">Theodora Lee</a></p>
-          <p style="font-size: 16px; line-height: 26px; text-align: justify;">This 10-year-old musician is sure to charm you with her singing and stage presence. Fresh from winning Cristofori's Got Talent 2024, Theodora is also a multi-instrumentalist and plays the piano, keyboard, ukelele, and guitar. </p>
+          <p style="font-size: 16px;line-height: initial;text-align: justify;margin: 10px 0px 30px;">This 10-year-old musician is sure to charm you with her singing and stage presence. Fresh from winning Cristofori's Got Talent 2024, Theodora is also a multi-instrumentalist and plays the piano, keyboard, ukelele, and guitar. </p>
         </div>
       </div>
       </div>
@@ -553,7 +553,7 @@ Here are 11 performances to look out for that’ll make your weekends way more i
       <div class="col-8 float-left text-left">
         <div style="padding: 20px 1rem 10px;">
           <p style="font-size: 20px; line-height: 26px; text-align: justify; font-weight: bold; font-style: italic; color: #542A9A;">10. Jackie Chionh</p>
-          <p style="font-size: 16px; line-height: 26px; text-align: justify;">Enjoy a unique performance that blends magic and cardistry. Watch as Jackie shows off skillful moves and surprising tricks that showcase passion and creativity. It's a chance to be inspired by an artist who’s overcome challenges through the art of performance. </p>
+          <p style="font-size: 16px;line-height: initial;text-align: justify;margin: 10px 0px 30px;">Enjoy a unique performance that blends magic and cardistry. Watch as Jackie shows off skillful moves and surprising tricks that showcase passion and creativity. It's a chance to be inspired by an artist who’s overcome challenges through the art of performance. </p>
         </div>
       </div>
       </div>
@@ -569,7 +569,7 @@ Here are 11 performances to look out for that’ll make your weekends way more i
       <div class="col-8 float-left text-left">
         <div style="padding: 20px 1rem 10px;">
           <p style="font-size: 20px; line-height: 26px; text-align: justify; font-weight: bold; font-style: italic; color: #542A9A;">11. Gabriel Lim</p>
-          <p style="font-size: 16px; line-height: 26px; text-align: justify;">Be thrilled by Gabriel's exciting act featuring handbalancing, contortion, and masterful cigar box juggling. With his focus, control and balance taking centre stage, this display of strength and skill will keep you entertained from start to finish. </p>
+          <p style="font-size: 16px;line-height: initial;text-align: justify;margin: 10px 0px 30px;">Be thrilled by Gabriel's exciting act featuring handbalancing, contortion, and masterful cigar box juggling. With his focus, control and balance taking centre stage, this display of strength and skill will keep you entertained from start to finish. </p>
         </div>
       </div>
       </div>
@@ -597,12 +597,12 @@ Besides enjoying the dance musical, brothers Teoh Yu Quan and Teoh Yu Le both ha
 
   <div class="" style="max-width: 100%; padding: 0px 0px; margin: 0px; text-align: center; display: inline-flex;">
       <div style="padding: 0px 0px; margin: 0px 0px;" class="col-12 w-100">
-      <div class="col-5 text-center float-left">
+      <div class="col-6 text-center">
         <div class="rounded20" style="padding: 20px 0px 0px; float: left;">
           <iframe class="rounded20" src="https://www.youtube.com/embed/n1G96vf9qH4" frameborder="0" allowfullscreen="true" height="569" width="320"></iframe>
         </div>
       </div>
-      <div class="col-7 float-left text-left">
+      <div class="col-6 float-left text-left">
         <div style="padding: 20px 1rem 10px;">
 <p style="font-size: 16px; line-height: 26px; text-align: justify;"><span style="font-weight: bold; color: #7B669E;">Learning about Indian instruments </span>
 <br><br>
@@ -648,16 +648,16 @@ North&nbsp;West:
 <span style="font-weight: bold; color: #7B669E; font-style: italic; font-size: 18px;">A Tribute to Heritage, A Celebration of Diversity</span><br> 
 <span style="font-weight: bold; color: #7B669E;">Presented by: Singapore Chinese Dance Theatre and Partners</span><br>
 <br>
-<img style="max-width: 16px; padding-right: 5px;" src="/images/Cohesion/July%202025/calendar_icon.png">Date: 12 July 2025<br>
-<img style="max-width: 16px; padding-right: 5px;" src="/images/Cohesion/July%202025/time_icon.png">Time: 6.30pm to 8.30pm <br>
-<img style="max-width: 16px; padding-right: 5px;" src="/images/Cohesion/July%202025/marker_icon.png">Venue: Limbang Shopping Centre<br>
+<img style="max-width: 20px; padding-right: 5px; display: inline;" src="/images/Cohesion/July%202025/calendar_icon.png">Date: 12 July 2025<br>
+<img style="max-width: 20px; padding-right: 5px; display: inline;" src="/images/Cohesion/July%202025/time_icon.png">Time: 6.30pm to 8.30pm <br>
+<img style="max-width: 20px; padding-right: 5px; display: inline;" src="/images/Cohesion/July%202025/marker_icon.png">Venue: Limbang Shopping Centre<br>
 <br>
 <span style="font-weight: bold; color: #7B669E; font-style: italic; font-size: 18px;">Wonders of the Animal Kingdom</span><br>
 <span style="font-weight: bold; color: #7B669E;">Presented by Reverberance 回响</span><br>
 <br>
-<img style="max-width: 16px; padding-right: 5px;" src="/images/Cohesion/July%202025/calendar_icon.png">Date: 26 July 2025<br>
-<img style="max-width: 16px; padding-right: 5px;" src="/images/Cohesion/July%202025/time_icon.png">Time: 10am to 1pm <br>
-<img style="max-width: 16px; padding-right: 5px;" src="/images/Cohesion/July%202025/marker_icon.png">Venue: Hardcourt in front of Blk 413 Yishun Ring Road<br>
+<img style="max-width: 20px; padding-right: 5px; display: inline;" src="/images/Cohesion/July%202025/calendar_icon.png">Date: 26 July 2025<br>
+<img style="max-width: 20px; padding-right: 5px; display: inline;" src="/images/Cohesion/July%202025/time_icon.png">Time: 10am to 1pm <br>
+<img style="max-width: 20px; padding-right: 5px; display: inline;" src="/images/Cohesion/July%202025/marker_icon.png">Venue: Hardcourt in front of Blk 413 Yishun Ring Road<br>
 <br>
 <a style="color: #7B669E; font-weight: bold;" target="_new" href="https://form.gov.sg/66cd5073725169f909275a33">Register your interest</a> now and you'll also receive a game card to redeem a free snack at the performance. 
 
@@ -723,5 +723,9 @@ What else is coming? Find the next performance at <a style="color: #7B669E; font
 
 
 </article>
+
+
+
+
 
 
