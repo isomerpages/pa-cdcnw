@@ -413,7 +413,6 @@ object-fit: cover;
 
 </style>
 
-
 <article style="max-width: 800px; width: 100%; margin: auto;">
 
 <div style="width: 100%;">
@@ -455,9 +454,9 @@ border-bottom-left-radius: 20px;">
     <p style="font-size: 16px; line-height: 26px; padding: 10px 5px 15px; margin: 0px 0px;"><span style="font-weight: bold; color: #1F4D7F;">1. Learning new skills can open doors</span>
     </p>
     
-    <div style="max-width:100%; text-align: left; padding-left: 5px;" class=""><img style="max-width: 127px;" src="/images/Cohesion/July%202025/zaki.png"></div>
-    <div style="max-width:100%; text-align: left; padding-left: 25px; padding-top: 7px;" class=""><img style="max-width: 22px;" src="/images/Cohesion/July%202025/up.png"></div>
-    <div style="max-width: 100%; background: #FFFFFF; padding: 10px 20px; margin: 0px 0px 15px;" class="rounded20">
+    <div style="max-width:100%; text-align: left; padding-left: 5px;" class=""><img style="max-width: 127px; display: inline;" src="/images/Cohesion/July%202025/zaki.png"></div>
+    <div style="max-width:100%; text-align: left; padding-left: 25px; padding-top: 7px;" class=""><img style="max-width: 22px; display: inline;" src="/images/Cohesion/July%202025/up.png"></div>
+    <div style="max-width: 100%; background: #FFFFFF; padding: 10px 20px; margin: -6px 0px 15px;" class="rounded20">
       <p style="font-size: 16px; line-height: 22px; text-align: justify; padding: 0px; margin: 0px;">"I came to check out what's new and maybe learn something extra. The drone flying demo was pretty cool. I didn't realise you could get a commercial license and actually use drones for things like inspecting building facades in the construction industry. Or even do wedding videography on the side. It’s a real skill that can lead to other opportunities."
       </p>
     </div>
@@ -466,17 +465,17 @@ border-bottom-left-radius: 20px;">
       <p style="font-size: 16px; line-height: 22px; text-align: justify; padding: 0px; margin: 0px;">"New tech is changing jobs everywhere. Let's use drone technology as an example. Even companies in the delivery sector are keen to hire drone operators as drone delivery is a promising area for business expansion. That's why we offer a lot of courses – so people can upskill themselves to tap into new job opportunities." 
       </p>
     </div>
-    <div style="max-width:100%; text-align: right; padding-right: 90px; padding-bottom: 7px;" class=""><img style="max-width: 22px;" src="/images/Cohesion/July%202025/down.png"></div>
-    <div style="max-width:100%; text-align: right;" class=""><img style="max-width: 127px;" src="/images/Cohesion/July%202025/feryani.png"></div>
+    <div class="" style="max-width:100%;text-align: right;padding-right: 90px;padding-bottom: 7px;float: right;"><img src="/images/Cohesion/July%202025/down.png" style="max-width: 22px;"></div>
+    <div style="width: 100%;text-align: right;float: right;display: inline;" class=""><img style="max-width: 127px;float: right;" src="/images/Cohesion/July%202025/feryani.png"></div>
   </div>
 
   <div style="padding: 10px 0px;" class="w-100">
     <p style="font-size: 16px; line-height: 26px; padding: 10px 5px 15px; margin: 0px 0px;"><span style="font-weight: bold; color: #1F4D7F;">2. Tech and AI skills are core in every upskilling journey </span>
     </p>
     
-    <div style="max-width:100%; text-align: left; padding-left: 5px;" class=""><img style="max-width: 127px;" src="/images/Cohesion/July%202025/feryani.png"></div>
-    <div style="max-width:100%; text-align: left; padding-left: 25px; padding-top: 7px;" class=""><img style="max-width: 22px;" src="/images/Cohesion/July%202025/up.png"></div>
-    <div style="max-width: 100%; background: #FFFFFF; padding: 10px 20px; margin: 0px 0px 15px;" class="rounded20">
+    <div style="max-width:100%; text-align: left; padding-left: 5px;" class=""><img style="max-width: 127px; display: inline;" src="/images/Cohesion/July%202025/feryani.png"></div>
+    <div style="max-width:100%; text-align: left; padding-left: 25px; padding-top: 7px;" class=""><img style="max-width: 22px; display: inline;" src="/images/Cohesion/July%202025/up.png"></div>
+    <div style="max-width: 100%; background: #FFFFFF; padding: 10px 20px; margin: -6px 0px 15px;" class="rounded20">
       <p style="font-size: 16px; line-height: 22px; text-align: justify; padding: 0px; margin: 0px;">"We get many questions about AI. We offer Gen AI courses from beginner to advanced because AI skills are becoming essential everywhere. Digital literacy is so important, especially as we are already moving on from Industry 4.0 into Industry 5.0." 
       </p>
     </div>
@@ -487,9 +486,9 @@ border-bottom-left-radius: 20px;">
     <p style="font-size: 16px; line-height: 26px; padding: 10px 5px 15px; margin: 0px 0px;"><span style="font-weight: bold; color: #1F4D7F;">3. Getting certified builds confidence</span>
     </p>
     
-    <div style="max-width:100%; text-align: left; padding-left: 5px;" class=""><img style="max-width: 127px;" src="/images/Cohesion/July%202025/zaki.png"></div>
-    <div style="max-width:100%; text-align: left; padding-left: 25px; padding-top: 7px;" class=""><img style="max-width: 22px;" src="/images/Cohesion/July%202025/up.png"></div>
-    <div style="max-width: 100%; background: #FFFFFF; padding: 10px 20px; margin: 0px 0px 15px;" class="rounded20">
+    <div style="max-width:100%; text-align: left; padding-left: 5px;" class=""><img style="max-width: 127px; display: inline;" src="/images/Cohesion/July%202025/zaki.png"></div>
+    <div style="max-width:100%; text-align: left; padding-left: 25px; padding-top: 7px;" class=""><img style="max-width: 22px; display: inline;" src="/images/Cohesion/July%202025/up.png"></div>
+    <div style="max-width: 100%; background: #FFFFFF; padding: 10px 20px; margin: -6px 0px 15px;" class="rounded20">
       <p style="font-size: 16px; line-height: 22px; text-align: justify; padding: 0px; margin: 0px;">"I didn't expect drone flying to be so technical. It requires specific skills and there are rules to follow like height restrictions. The right certification matters, especially if you want to pursue drone operating professionally."
       </p>
     </div>
@@ -498,8 +497,8 @@ border-bottom-left-radius: 20px;">
       <p style="font-size: 16px; line-height: 22px; text-align: justify; padding: 0px; margin: 0px;">"Having proper training and certification is what makes your skills trusted. For example, some retirees want to start a home baking business but they don't realise that they need a Food Safety Level 1 certificate before they can even sell anything."
       </p>
     </div>
-    <div style="max-width:100%; text-align: right; padding-right: 90px; padding-bottom: 7px;" class=""><img style="max-width: 22px;" src="/images/Cohesion/July%202025/down.png"></div>
-    <div style="max-width:100%; text-align: right;" class=""><img style="max-width: 127px;" src="/images/Cohesion/July%202025/feryani.png"></div>
+    <div class="" style="max-width:100%;text-align: right;padding-right: 90px;padding-bottom: 7px;float: right;"><img src="/images/Cohesion/July%202025/down.png" style="max-width: 22px;"></div>
+    <div style="width: 100%;text-align: right;float: right;display: inline;" class=""><img style="max-width: 127px;float: right;" src="/images/Cohesion/July%202025/feryani.png"></div>
   </div>
 
 
@@ -507,22 +506,22 @@ border-bottom-left-radius: 20px;">
     <p style="font-size: 16px; line-height: 26px; padding: 10px 5px 15px; margin: 0px 0px;"><span style="font-weight: bold; color: #1F4D7F;">4. Lifelong learning is for everyone, at any stage</span>
     </p>
     
-    <div style="max-width:100%; text-align: left; padding-left: 5px;" class=""><img style="max-width: 127px;" src="/images/Cohesion/July%202025/feryani.png"></div>
-    <div style="max-width:100%; text-align: left; padding-left: 25px; padding-top: 7px;" class=""><img style="max-width: 22px;" src="/images/Cohesion/July%202025/up.png"></div>
-    <div style="max-width: 100%; background: #FFFFFF; padding: 10px 20px; margin: 0px 0px 15px;" class="rounded20">
+    <div style="max-width:100%; text-align: left; padding-left: 5px;" class=""><img style="max-width: 127px; display: inline;" src="/images/Cohesion/July%202025/feryani.png"></div>
+    <div style="max-width:100%; text-align: left; padding-left: 25px; padding-top: 7px;" class=""><img style="max-width: 22px; display: inline;" src="/images/Cohesion/July%202025/up.png"></div>
+    <div style="max-width: 100%; background: #FFFFFF; padding: 10px 20px; margin: -6px 0px 15px;" class="rounded20">
       <p style="font-size: 16px; line-height: 22px; text-align: justify; padding: 0px; margin: 0px;">"Lifelong learning isn't a choice anymore – it's a must. People need to stay informed and be workforce ready. Whether you're working or retired, there's always something new to pick up. For the older generation, for example, learning digital skills can help them stay safe from scams or keep up with the ever-changing technology around them." 
       </p>
     </div>
   </div>
 
 
-  <div style="padding: 0px 0px 10px;" class="w-100">
+  <div style="padding: 0px 0px 10px; display: inline-block;" class="w-100">
     <p style="font-size: 16px; line-height: 26px; padding: 10px 5px 15px; margin: 0px 0px;"><span style="font-weight: bold; color: #1F4D7F;">5. Learning events can spark new ideas</span>
     </p>
     
-    <div style="max-width:100%; text-align: left; padding-left: 5px;" class=""><img style="max-width: 127px;" src="/images/Cohesion/July%202025/zaki.png"></div>
-    <div style="max-width:100%; text-align: left; padding-left: 25px; padding-top: 7px;" class=""><img style="max-width: 22px;" src="/images/Cohesion/July%202025/up.png"></div>
-    <div style="max-width: 100%; background: #FFFFFF; padding: 10px 20px; margin: 0px 0px 15px;" class="rounded20">
+    <div style="max-width:100%; text-align: left; padding-left: 5px;" class=""><img style="max-width: 127px; display: inline;" src="/images/Cohesion/July%202025/zaki.png"></div>
+    <div style="max-width:100%; text-align: left; padding-left: 25px; padding-top: 7px;" class=""><img style="max-width: 22px; display: inline;" src="/images/Cohesion/July%202025/up.png"></div>
+    <div style="max-width: 100%; background: #FFFFFF; padding: 10px 20px; margin: -6px 0px 15px;" class="rounded20">
       <p style="font-size: 16px; line-height: 22px; text-align: justify; padding: 0px; margin: 0px;">"The event has shown me the importance of upskilling."
       </p>
     </div>
@@ -531,8 +530,8 @@ border-bottom-left-radius: 20px;">
       <p style="font-size: 16px; line-height: 22px; text-align: justify; padding: 0px; margin: 0px;">"These learning roadshows are helpful in reaching out to the community. Without them, many won't even know how to use their SkillsFuture credits, find out about courses they can take and at what level. At these events, they can ask questions and try things out firsthand."
       </p>
     </div>
-    <div style="max-width:100%; text-align: right; padding-right: 90px; padding-bottom: 7px;" class=""><img style="max-width: 22px;" src="/images/Cohesion/July%202025/down.png"></div>
-    <div style="max-width:100%; text-align: right;" class=""><img style="max-width: 127px;" src="/images/Cohesion/July%202025/feryani.png"></div>
+    <div class="" style="max-width:100%;text-align: right;padding-right: 90px;padding-bottom: 7px;float: right;"><img src="/images/Cohesion/July%202025/down.png" style="max-width: 22px;"></div>
+    <div style="width: 100%;text-align: right;float: right;display: inline;" class=""><img style="max-width: 127px;float: right;" src="/images/Cohesion/July%202025/feryani.png"></div>
   </div>
 
 
@@ -555,48 +554,44 @@ border-bottom-left-radius: 20px;">
 <br><br>
 Looking to level up your career? Don't miss these upcoming events where you can chat with career pros, explore your options and get insights to make your next move.
 <br><br>
-<span style="font-weight: bold; color: #1F4D7F; font-size: 18px;">SkillsFuture Festival @ North West</span><br>
-        <img style="max-width: 16px; padding-right: 5px;" src="/images/Cohesion/July%202025/calendar_icon.png">2 &amp; 3 August 2025 (Sat &amp; Sun)<br>
-        <img style="max-width: 16px; padding-right: 5px;" src="/images/Cohesion/July%202025/time_icon.png">10.00am to 7.00pm<br>
-        <img style="max-width: 16px; padding-right: 5px;" src="/images/Cohesion/July%202025/marker_icon.png">Causeway Point, Level 1 Round Atrium<br><br>
-
-<span style="font-size: 16px; text-align: left; line-height: 20px; color: #000; font-weight: bold;">Highlights:</span><br>
-<span style="font-style: italic; line-height: 20px;">Digital Passport – Track your event journey and unlock rewards along the way, encouraging participants to embrace digitalisation through interactive milestones.<br><br>
-AI Course Consultant – Receive personalised course recommendations powered by AI, tailored to support your unique learning journey.<br><br>
-Job Portal – Discover job opportunities available right here in our North West District.</span><br><br><br>
-
-
-<span style="font-weight: bold; color: #1F4D7F; font-size: 18px;">e2i Skills &amp; Career Fair @ North West</span><br>
-        <img style="max-width: 16px; padding-right: 5px;" src="/images/Cohesion/July%202025/calendar_icon.png">29 &amp; 30 July 2025 (Tue &amp; Wed)<br>
-        <img style="max-width: 16px; padding-right: 5px;" src="/images/Cohesion/July%202025/time_icon.png">10.30am to 6.30pm (Last registration at 6pm)<br>
-        <img style="max-width: 16px; padding-right: 5px;" src="/images/Cohesion/July%202025/marker_icon.png">Causeway Point, Level 1 Round Atrium<br><br> 
-
-<span style="font-size: 16px; text-align: left; line-height: 20px; color: #000; font-weight: bold;">Highlights:</span><br>
-<span style="font-style: italic; line-height: 20px;">Jobseekers can receive career guidance and skills advisory, and speak directly with hiring employers on-site.
-</span><br><br><br>
-
 
 <span style="font-weight: bold; color: #1F4D7F; font-size: 18px;">Community Skills Talk @ Woodlands - Level up with ChatGPT &amp; AI tools</span> <br>
-        <img style="max-width: 16px; padding-right: 5px;" src="/images/Cohesion/July%202025/calendar_icon.png">27 July 2025 (Sun) <br>
-        <img style="max-width: 16px; padding-right: 5px;" src="/images/Cohesion/July%202025/time_icon.png">10.00am to 11.30am <br>
-        <img style="max-width: 16px; padding-right: 5px;" src="/images/Cohesion/July%202025/marker_icon.png">Woodlands Library Auditorium (Basement)<br><br>
+        <img style="max-width: 20px; padding-right: 5px; display: inline;" src="/images/Cohesion/July%202025/calendar_icon.png">27 July 2025 (Sun) <br>
+        <img style="max-width: 20px; padding-right: 5px; display: inline;" src="/images/Cohesion/July%202025/time_icon.png">10.00am to 11.30am <br>
+        <img style="max-width: 20px; padding-right: 5px; display: inline;" src="/images/Cohesion/July%202025/marker_icon.png">Woodlands Library Auditorium (Basement)<br><br>
 
 <span style="font-size: 16px; text-align: left; line-height: 20px; color: #000; font-weight: bold;">Highlights:</span><br>
-<span style="font-style: italic; line-height: 20px;">Discover how AI tools can help save time both at work and at home, along with practical tips to boost productivity and automate everyday tasks.
-<br><br>
-Learn about the latest SkillsFuture initiatives, how to make the most of your SkillsFuture Credits, and which skills are currently in demand.
-<br><br>
-Explore in-demand courses offered by James Cook Institute, with on-site assistance available for course browsing and applications, if needed.
+<span style="font-style: italic; line-height: 20px;">Level up your ChatGPT &amp; AI skills to boost productivity and automate everyday tasks. Learn how you can make the most out of your SkillsFuture Credits, which skills are currently in demand.<br><br>
+Limited seats so sign up for the Community Skills <a style="font-weight: bold; color: #1F4D7F;" target="_new" href="https://go.gov.sg/nw-skills-talk">Talk now</a>!
 
 </span><br><br><br>
+
+<span style="font-weight: bold; color: #1F4D7F; font-size: 18px;">e2i Skills &amp; Career Fair @ North West</span><br>
+        <img style="max-width: 20px; padding-right: 5px; display: inline;" src="/images/Cohesion/July%202025/calendar_icon.png">29 &amp; 30 July 2025 (Tue &amp; Wed)<br>
+        <img style="max-width: 20px; padding-right: 5px; display: inline;" src="/images/Cohesion/July%202025/time_icon.png">10.30am to 6.30pm (Last registration at 6pm)<br>
+        <img style="max-width: 20px; padding-right: 5px; display: inline;" src="/images/Cohesion/July%202025/marker_icon.png">Causeway Point, Level 1 Round Atrium<br><br> 
+
+<span style="font-size: 16px; text-align: left; line-height: 20px; color: #000; font-weight: bold;">Highlights:</span><br>
+<span style="font-style: italic; line-height: 20px;">Sign up now and explore exciting career opportunities across various industries – from engineering to healthcare, customer service to logistics, and more!
+</span><br><br><br>
+
+
+<span style="font-weight: bold; color: #1F4D7F; font-size: 18px;">SkillsFuture Festival @ North West</span><br>
+        <img style="max-width: 20px; padding-right: 5px; display: inline;" src="/images/Cohesion/July%202025/calendar_icon.png">2 &amp; 3 August 2025 (Sat &amp; Sun)<br>
+        <img style="max-width: 20px; padding-right: 5px; display: inline;" src="/images/Cohesion/July%202025/time_icon.png">10.00am to 7.00pm<br>
+        <img style="max-width: 20px; padding-right: 5px; display: inline;" src="/images/Cohesion/July%202025/marker_icon.png">Causeway Point, Level 1 Round Atrium<br><br>
+
+<span style="font-size: 16px; text-align: left; line-height: 20px; color: #000; font-weight: bold;">Highlights:</span><br>
+<span style="font-style: italic; line-height: 20px;">Track your event journey and unlock rewards along the way with your very own Digital Passport. Immerse in a world of digital technology with personalised AI course consultant, robotic barista and even a digital gachapon. No sign up needed, free admission, just walk in for an experience of a lifetime!</span><br><br><br>
+
 
 
 <span style="font-weight: bold; color: #1F4D7F; font-size: 18px;">Corporate Exchange</span><br>
-        <img style="max-width: 16px; padding-right: 5px;" src="/images/Cohesion/July%202025/calendar_icon.png">Date: 14 August 2025 (Thursday)<br>
-        <img style="max-width: 16px; padding-right: 5px;" src="/images/Cohesion/July%202025/time_icon.png">Time: 12.00pm -5.30pm<br>
-        <img style="max-width: 16px; padding-right: 5px;" src="/images/Cohesion/July%202025/marker_icon.png">Venue: HomeTeamNS Khatib<br>
+        <img style="max-width: 20px; padding-right: 5px; display: inline;" src="/images/Cohesion/July%202025/calendar_icon.png">Date: 14 August 2025 (Thursday)<br>
+        <img style="max-width: 20px; padding-right: 5px; display: inline;" src="/images/Cohesion/July%202025/time_icon.png">Time: 12.00pm -5.30pm<br>
+        <img style="max-width: 20px; padding-right: 5px; display: inline;" src="/images/Cohesion/July%202025/marker_icon.png">Venue: HomeTeamNS Khatib<br>
 <br>
-Join us in making lifelong learning a way of life! <a style="font-weight: bold; color: #1F4D7F;" target="_new" href="https://go.gov.sg/connectsfa">Subscribe</a> to our email list for updates on the latest upskilling resources. Find out more <a style="font-weight: bold; color: #1F4D7F;" target="_new" href="https://go.gov.sg/nw-sfa">here</a>.
+Designed to equip SMEs with practical AI and digitalisation strategies for growth. Expect a dynamic dialogue session, breakout workshops, and networking opportunities to help your business navigate digital transformation. <a style="font-weight: bold; color: #1F4D7F;" target="_new" href="https://www.eventbrite.sg/e/north-west-corporate-exchange-tickets-1451201084509?aff=oddtdtcreator">Register now</a>!
       </p>
 
 
@@ -666,3 +661,4 @@ Join us in making lifelong learning a way of life! <a style="font-weight: bold; 
 
 
 </article>
+
