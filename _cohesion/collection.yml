@@ -2,7 +2,6 @@ collections:
   cohesion:
     output: true
     order:
-      - July 2025/Images.md
       - July 2025/.keep
       - July 2025/July At A Glance.md
       - July 2025/SG60 Healthier Together Movement.md
