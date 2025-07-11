@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: July 2025
 ---
-
 <style>
 
 p {
@@ -572,5 +571,3 @@ border-bottom-left-radius: 20px;">
 
 
 </article>
-
-
