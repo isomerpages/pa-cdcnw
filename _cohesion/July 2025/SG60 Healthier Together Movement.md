@@ -5,6 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: July 2025
 ---
+
 <style>
 
 p {
@@ -440,9 +441,14 @@ From 1 May to 1 June 2025, residents walked, ran, swam and cycled their way to b
   <img src="/images/Cohesion/July%202025/sg60_healthier_numbers.jpg" class="" style="width: 100%;">
 </div>
 
-<div style="padding: 20px 0px 20px;">
+<div style="padding: 20px 0px 0px;">
 <p style="font-size: 16px; line-height: 26px; text-align: justify;"><span style="color: #F96B8D; font-weight: 900;">Bonus:</span> Achieving the goal also unlocked a $60,000 donation from Lih Ming Construction to support Club 100 @ North West!</p>
 </div>
+
+<div style="max-width: 100%; padding: 10px 0px 10px;" class="">
+  <img src="/images/Cohesion/July%202025/WhatsApp_Image_2025_07_09_at_22_31_54.jpg" class="" style="width: 100%;">
+</div>
+
 
 <div style="padding: 20px 0px 20px;">
 <p style="font-size: 20px; font-weight: bold; text-align: left; color: #FF5C83; margin: 10px 0px;">Meet one of our top fitness pace setters</p>
@@ -453,7 +459,12 @@ From 1 May to 1 June 2025, residents walked, ran, swam and cycled their way to b
 <div style="max-width: 100%; padding: 0px 0px;" class="">
   <img src="/images/Cohesion/July%202025/quote_cycling.jpg" class="" style="width: 100%;">
 </div>
-<div style="padding: 20px 30px 20px; background: #FEF2FD;">
+<div style="padding: 20px 30px 40px; background: #FEF2FD;  -webkit-border-bottom-right-radius: 20px;
+-webkit-border-bottom-left-radius: 20px;
+-moz-border-radius-bottomright: 20px;
+-moz-border-radius-bottomleft: 20px;
+border-bottom-right-radius: 20px;
+border-bottom-left-radius: 20px;">
 <img align="left" style="max-width: 33.3%; padding: 0px 15px 10px 0px;" src="/images/Cohesion/July%202025/cycling_stats.jpg">
 <p style="font-size: 20px; font-weight: bold; text-align: left; color: #FF5C83; margin: 0px 0px;">Favourite activity: </p>
 
@@ -561,3 +572,5 @@ border-bottom-left-radius: 20px;">
 
 
 </article>
+
+
