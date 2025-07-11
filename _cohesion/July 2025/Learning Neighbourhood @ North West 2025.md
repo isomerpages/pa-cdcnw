@@ -587,7 +587,7 @@ Limited seats so <a style="font-weight: bold; color: #1F4D7F;" target="_new" hre
 
 
 
-<span style="font-weight: bold; color: #1F4D7F; font-size: 18px;">Corporate Exchange</span><br>
+<span style="font-weight: bold; color: #1F4D7F; font-size: 18px;">North West Corporate Exchange</span><br>
         <img style="max-width: 20px; padding-right: 5px; display: inline;" src="/images/Cohesion/July%202025/calendar_icon.png">Date: 14 August 2025 (Thursday)<br>
         <img style="max-width: 20px; padding-right: 5px; display: inline;" src="/images/Cohesion/July%202025/time_icon.png">Time: 12.00pm -5.30pm<br>
         <img style="max-width: 20px; padding-right: 5px; display: inline;" src="/images/Cohesion/July%202025/marker_icon.png">Venue: HomeTeamNS Khatib<br>
