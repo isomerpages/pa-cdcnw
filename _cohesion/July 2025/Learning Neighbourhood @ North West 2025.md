@@ -5,6 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: July 2025
 ---
+
 <style>
 
 p {
@@ -562,7 +563,7 @@ Looking to level up your career? Don't miss these upcoming events where you can 
 
 <span style="font-size: 16px; text-align: left; line-height: 20px; color: #000; font-weight: bold;">Highlights:</span><br>
 <span style="font-style: italic; line-height: 20px;">Level up your ChatGPT &amp; AI skills to boost productivity and automate everyday tasks. Learn how you can make the most out of your SkillsFuture Credits, which skills are currently in demand.<br><br>
-Limited seats so sign up for the Community Skills <a style="font-weight: bold; color: #1F4D7F;" target="_new" href="https://go.gov.sg/nw-skills-talk">Talk now</a>!
+Limited seats so <a style="font-weight: bold; color: #1F4D7F;" target="_new" href="https://go.gov.sg/nw-skills-talk">sign up</a> for the Community Skills Talk now!
 
 </span><br><br><br>
 
@@ -572,7 +573,7 @@ Limited seats so sign up for the Community Skills <a style="font-weight: bold; c
         <img style="max-width: 20px; padding-right: 5px; display: inline;" src="/images/Cohesion/July%202025/marker_icon.png">Causeway Point, Level 1 Round Atrium<br><br> 
 
 <span style="font-size: 16px; text-align: left; line-height: 20px; color: #000; font-weight: bold;">Highlights:</span><br>
-<span style="font-style: italic; line-height: 20px;">Sign up now and explore exciting career opportunities across various industries – from engineering to healthcare, customer service to logistics, and more!
+<span style="font-style: italic; line-height: 20px;"><a style="font-weight: bold; color: #1F4D7F;" target="_new" href="https://go.gov.sg/nwjf2025">Sign up</a> now and explore exciting career opportunities across various industries – from engineering to healthcare, customer service to logistics, and more!
 </span><br><br><br>
 
 
