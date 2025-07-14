@@ -16,14 +16,21 @@ Thread your fashion creativity with a sustainable cause! Join our **Re:Style SG6
 &nbsp;&nbsp;&nbsp; </div>     
 From free recycling workshops to innovative upcycling demonstrations, this family-friendly festival offers practical tips and green activities for everyone.
 
-##### **Workshop Schedule**
+##### **Workshops Schedule**
 
-| Date |     Find out more on the workshops and activities below!
+| Date |     Find out our daily workshops below!
 | -------- | -------- |
-|   Friday **29 Aug 2025**| [Upcycled Glass Bottle Terrarium Workshop](go.gov.sg/glass-bottle-terrarium)
-| Saturday **30 Aug 2025**    |    [DIY Recycled Paper Stickers Workshop](https://go.gov.sg/diy-recycling-paper-stickers)     |
-|      | [Upcycled Crossbody Handphone Strap Workshop (Session 1)](https://go.gov.sg/handphone-strap-making-session-1)   |
-|      | [Introduction To Plastics (ITP) – Upcycled Coasters &amp; Comb Workshop](https://go.gov.sg/plastic-upcycling-coaster-comb)    |
-|      | [Coconut Husk Planter Workshop](https://go.gov.sg/coconut-husk-planter)   |
+|  **Friday 29 August**
+7pm - 8pm| [Upcycled Glass Bottle Terrarium Workshop](go.gov.sg/glass-bottle-terrarium)
+| **Saturday 30 August**    
+11am - 12pm|    [DIY Recycled Paper Stickers Workshop](https://go.gov.sg/diy-recycling-paper-stickers)     |
+|   2.30pm - 3.30pm   | [Upcycled Crossbody Handphone Strap Workshop (Session 1)](https://go.gov.sg/handphone-strap-making-session-1)   |
+|   5.00pm - 6.00pm   | [Introduction To Plastics (ITP) – Upcycled Coasters &amp; Comb Workshop](https://go.gov.sg/plastic-upcycling-coaster-comb)    |
+|   6.30pm - 7.30pm  | [Coconut Husk Planter Workshop](https://go.gov.sg/coconut-husk-planter)   |
+|   **Sunday 31 August**  
+10.00am - 11.00am| [Upcycled Crossbody Handphone Strap Workshop (Session 2)](https://go.gov.sg/handphone-strap-making-session-2)  |
+|  11.30am - 12.30pm    | [Upcycled Crossbody Handphone Strap Workshop (Session 3)](https://go.gov.sg/handphone-strap-making-session-3)   |
+|   5.00pm - 6.00pm   | [Fuse &amp; Reuse: Upcycled Unwanted Plastics Bags Into Pouches](https://go.gov.sg/fuse-and-reuse-pouch)   |
+|  6.30pm - 7.30pm    | [Fuse &amp; Reuse: Upcycled Unwanted Plastics Bags Into Earrings](https://go.gov.sg/fuse-and-reuse-earrings)   |
 
 Be part of North West CDC's green movement and help us build a more sustainable Singapore, one small action at a time.
