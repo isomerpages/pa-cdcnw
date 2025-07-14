@@ -18,10 +18,12 @@ From free recycling workshops to innovative upcycling demonstrations, this famil
 
 ##### **Workshop Schedule**
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-
+| Date |     Find out more on the workshops and activities below!
+| -------- | -------- |
+|   Friday **29 Aug 2025**| [Upcycled Glass Bottle Terrarium Workshop](go.gov.sg/glass-bottle-terrarium)
+| Saturday **30 Aug 2025**    |    [DIY Recycled Paper Stickers Workshop](https://go.gov.sg/diy-recycling-paper-stickers)     |
+|      | [Upcycled Crossbody Handphone Strap Workshop (Session 1)](https://go.gov.sg/handphone-strap-making-session-1)   |
+|      | [Introduction To Plastics (ITP) – Upcycled Coasters &amp; Comb Workshop](https://go.gov.sg/plastic-upcycling-coaster-comb)    |
+|      | [Coconut Husk Planter Workshop](https://go.gov.sg/coconut-husk-planter)   |
 
 Be part of North West CDC's green movement and help us build a more sustainable Singapore, one small action at a time.
