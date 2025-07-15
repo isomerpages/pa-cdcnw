@@ -9,17 +9,17 @@ variant: markdown
 
 ##### **Transform your everyday habits into meaningful environmental action at the North West Sustainability Festival 2025!**
 
-Join us for an inspiring three-day celebration of green living, where you'll discover creative ways to recycle and upcycle through engaging exhibitions, hands-on workshops, and interactive activities. 
+Join us for an inspiring three-day celebration of green living, where you'll discover creative ways to recycle and upcycle through engaging exhibitions, hands-on workshops, and interactive activities such as VR recycling and VR experience. 
 
 Thread your fashion creativity with a sustainable cause! Join our **Re:Style SG60 Fashion Contest** and prove that second-hand fashion can be transformed into couture pieces suited for our Fashion Runway. Whether you're an aspiring designer or simply love sustainable fashion, this is your chance to showcase your style – so what are you waiting for!
 
  <a style="background: #196B37; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: left; font-style: italic;" href="https://go.gov.sg/restyle-sg60-fashion-contest/">Re:Style Fashion Contest - Sign Up Now! </a>
    
-From free recycling workshops to innovative upcycling demonstrations, this family-friendly festival offers practical tips and green activities for everyone.
+From free recycling workshops to innovative upcycling demonstrations, this friendly festival offers a whole range of green activities and workshops for everyone.
 
 ##### **Workshops Schedule**
 
-| Date |     Find out our daily workshops below!
+| Date |     Find out more on our daily workshops below!
 | -------- | -------- |
 |  **Friday 29 August**
 7pm - 8pm| [Upcycled Glass Bottle Terrarium Workshop](go.gov.sg/glass-bottle-terrarium)
