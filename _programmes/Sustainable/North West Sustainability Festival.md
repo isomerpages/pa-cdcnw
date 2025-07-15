@@ -36,4 +36,7 @@ From free recycling workshops to innovative upcycling demonstrations, this frien
 |   5.00pm - 6.00pm   | [Fuse &amp; Reuse: Upcycled Unwanted Plastics Bags Into Pouches Workshop](https://go.gov.sg/fuse-and-reuse-pouch)   |
 |  6.30pm - 7.30pm    | [Fuse &amp; Reuse: Upcycled Unwanted Plastics Bags Into Earrings Workshop](https://go.gov.sg/fuse-and-reuse-earrings)   |
 
-Be part of North West CDC's green movement and help us build a more sustainable Singapore, one small action at a time.
+*Registration ends on 17 August 2025*
+
+
+![](/images/Screenshot_2025_07_15_184656.jpg)
