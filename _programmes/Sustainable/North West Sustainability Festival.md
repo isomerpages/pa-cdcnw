@@ -38,5 +38,8 @@ From free recycling workshops to innovative upcycling demonstrations, this frien
 
 *Registration ends on 17 August 2025*
 
+##### **Event Highlights**
+
+
 
 ![](/images/Screenshot_2025_07_15_184656.jpg)
