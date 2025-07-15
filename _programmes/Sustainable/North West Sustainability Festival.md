@@ -31,7 +31,7 @@ From free recycling workshops to innovative upcycling demonstrations, this frien
 |   **Sunday 31 August**  
 10.00am - 11.00am| [Upcycled Crossbody Handphone Strap Workshop (Session 2)](https://go.gov.sg/handphone-strap-making-session-2)  |
 |  11.30am - 12.30pm    | [Upcycled Crossbody Handphone Strap Workshop (Session 3)](https://go.gov.sg/handphone-strap-making-session-3)   |
-|   5.00pm - 6.00pm   | [Fuse &amp; Reuse: Upcycled Unwanted Plastics Bags Into Pouches](https://go.gov.sg/fuse-and-reuse-pouch)   |
-|  6.30pm - 7.30pm    | [Fuse &amp; Reuse: Upcycled Unwanted Plastics Bags Into Earrings](https://go.gov.sg/fuse-and-reuse-earrings)   |
+|   5.00pm - 6.00pm   | [Fuse &amp; Reuse: Upcycled Unwanted Plastics Bags Into Pouches Workshop](https://go.gov.sg/fuse-and-reuse-pouch)   |
+|  6.30pm - 7.30pm    | [Fuse &amp; Reuse: Upcycled Unwanted Plastics Bags Into Earrings Workshop](https://go.gov.sg/fuse-and-reuse-earrings)   |
 
 Be part of North West CDC's green movement and help us build a more sustainable Singapore, one small action at a time.
