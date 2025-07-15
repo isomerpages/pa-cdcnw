@@ -26,11 +26,13 @@ From free recycling workshops to innovative upcycling demonstrations, this frien
 | **Saturday 30 August**    
 11am - 12pm|    [DIY Recycled Paper Stickers Workshop](https://go.gov.sg/diy-recycling-paper-stickers)     |
 |   2.30pm - 3.30pm   | [Upcycled Crossbody Handphone Strap Workshop (Session 1)](https://go.gov.sg/handphone-strap-making-session-1)   |
+|   4.00pm - 4.30pm   | [Sustainable Storytelling](https://go.gov.sg/sustainability-fest-storytelling-30aug25)   |
 |   5.00pm - 6.00pm   | [Introduction To Plastics (ITP) – Upcycled Coasters &amp; Comb Workshop](https://go.gov.sg/plastic-upcycling-coaster-comb)    |
 |   6.30pm - 7.30pm  | [Coconut Husk Planter Workshop](https://go.gov.sg/coconut-husk-planter)   |
 |   **Sunday 31 August**  
 10.00am - 11.00am| [Upcycled Crossbody Handphone Strap Workshop (Session 2)](https://go.gov.sg/handphone-strap-making-session-2)  |
 |  11.30am - 12.30pm    | [Upcycled Crossbody Handphone Strap Workshop (Session 3)](https://go.gov.sg/handphone-strap-making-session-3)   |
+|   4.00pm - 4.30pm   | [Sustainable Storytelling](https://go.gov.sg/sustainability-fest-storytelling-31aug25)   |
 |   5.00pm - 6.00pm   | [Fuse &amp; Reuse: Upcycled Unwanted Plastics Bags Into Pouches Workshop](https://go.gov.sg/fuse-and-reuse-pouch)   |
 |  6.30pm - 7.30pm    | [Fuse &amp; Reuse: Upcycled Unwanted Plastics Bags Into Earrings Workshop](https://go.gov.sg/fuse-and-reuse-earrings)   |
 
