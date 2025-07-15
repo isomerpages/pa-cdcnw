@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sustainable
 variant: markdown
 ---
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/yQIECXckNB4?si=9tBwUwRv7b2a3fA1" height="315" width="560"></iframe>
+![](/images/Screenshot_2025_07_15_183531.jpg)
 
 ##### **Transform your everyday habits into meaningful environmental action at the North West Sustainability Festival 2025!**
 
