@@ -13,8 +13,7 @@ Join us for an inspiring three-day celebration of green living, where you'll dis
 
 Thread your fashion creativity with a sustainable cause! Join our **Re:Style SG60 Fashion Contest** and prove that second-hand fashion can be transformed into couture pieces suited for our Fashion Runway. Whether you're an aspiring designer or simply love sustainable fashion, this is your chance to showcase your style – so what are you waiting for!
 
- <a style="background: #196B37; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: left; font-style: italic;" href="https://go.gov.sg/restyle-sg60-fashion-contest/">Re:Style Fashion Contest - Sign Up Now! </a>
-   
+ <a style="background: #196B37; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: left; font-style: italic;" href="https://go.gov.sg/restyle-sg60-fashion-contest/">Re:Style Fashion Contest - Sign Up Now! </a>   
 From free recycling workshops to innovative upcycling demonstrations, this friendly festival offers a whole range of green activities and workshops for everyone.
 
 ##### **Workshops Schedule**
