@@ -19,7 +19,7 @@ From free recycling workshops to innovative upcycling demonstrations, this frien
 ![](/images/event_highlights.jpg)
 ##### **Workshops Schedule**
 
-| Date |     Find out more on our daily workshops below!
+| Date |     Sign up for our daily workshops below!
 | -------- | -------- |
 |  **Friday 29 August**
 7pm - 8pm| [Upcycled Glass Bottle Terrarium Workshop](https://go.gov.sg/glass-bottle-terrarium)
