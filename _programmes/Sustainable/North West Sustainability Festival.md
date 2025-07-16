@@ -22,7 +22,7 @@ From free recycling workshops to innovative upcycling demonstrations, this frien
 | Date |     Find out more on our daily workshops below!
 | -------- | -------- |
 |  **Friday 29 August**
-7pm - 8pm| [Upcycled Glass Bottle Terrarium Workshop](go.gov.sg/glass-bottle-terrarium)
+7pm - 8pm| [Upcycled Glass Bottle Terrarium Workshop](https://go.gov.sg/glass-bottle-terrarium)
 | **Saturday 30 August**    
 11am - 12pm|    [DIY Recycled Paper Stickers Workshop](https://go.gov.sg/diy-recycling-paper-stickers)     |
 |   2.30pm - 3.30pm   | [Upcycled Crossbody Handphone Strap Workshop (Session 1)](https://go.gov.sg/handphone-strap-making-session-1)   |
