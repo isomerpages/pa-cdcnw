@@ -16,6 +16,7 @@ Thread your fashion creativity with a sustainable cause! Join our **Re:Style SG6
  <a style="background: #196B37; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: left; font-style: italic;" href="https://go.gov.sg/restyle-sg60-fashion-contest/">Re:Style Fashion Contest - Sign Up Now! </a>   
 From free recycling workshops to innovative upcycling demonstrations, this friendly festival offers a whole range of green activities and workshops for everyone.
 
+![](/images/event_highlights.jpg)
 ##### **Workshops Schedule**
 
 | Date |     Find out more on our daily workshops below!
@@ -36,9 +37,6 @@ From free recycling workshops to innovative upcycling demonstrations, this frien
 |  6.30pm - 7.30pm    | [Fuse &amp; Reuse: Upcycled Unwanted Plastics Bags Into Earrings Workshop](https://go.gov.sg/fuse-and-reuse-earrings)   |
 
 *Registration ends on 17 August 2025*
-
-##### **Event Highlights**
-
 
 
 ![](/images/Screenshot_2025_07_15_184656.jpg)
