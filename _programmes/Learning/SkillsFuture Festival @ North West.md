@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Learning
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SFF.jpg">
+</div>
 <p><strong>SkillsFuture Festival @ North West</strong> aims to help the community
 to be more aware of the opportunities in the growth economies and take
 charge of their learning to navigate the future employment landscape. The
