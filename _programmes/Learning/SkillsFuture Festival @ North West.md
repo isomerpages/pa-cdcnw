@@ -18,7 +18,7 @@ the future – Care, Digital and Green.</p>
 <p>Looking for a job closer to home? Explore our one-stop jobs portal to
 discover local job opportunities, career support, and more - all in one
 place! Visit: <a href="https://event.e2i.com.sg/view-event/jobsanywhere" rel="noopener nofollow" target="_blank">go.gov.sg/jobsanywhere</a>.</p>
-<h4><strong>★ Festival Highlights</strong>&nbsp;</h4>
+<h4><strong>★ Festival Highlights</strong>&nbsp;<strong>★</strong>&nbsp;&nbsp;</h4>
 <p>Look out for our curated line-up of events this year as part of the SkillsFuture
 Festival @ North West:</p>
 <ul data-tight="true" class="tight">
