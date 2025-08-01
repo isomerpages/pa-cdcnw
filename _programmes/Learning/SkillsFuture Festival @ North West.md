@@ -14,6 +14,11 @@ to be more aware of the opportunities in the growth economies and take
 charge of their learning to navigate the future employment landscape. The
 festival shines a spotlight on three highly sought-after industries of
 the future – Care, Digital and Green.</p>
+<h4><strong>★ Jobs Anywhere @ North West</strong>&nbsp;<strong>★</strong></h4>
+<p>Looking for a job closer to home? Explore our one-stop jobs portal to
+discover local job opportunities, career support, and more - all in one
+place! Visit: <a href="go.gov.sg/jobsanywhere" rel="noopener nofollow" target="_blank">go.gov.sg/jobsanywhere</a>.</p>
+<h4><strong>★ Festival Highlights</strong>&nbsp;<strong>★</strong></h4>
 <p>Look out for our curated line-up of events this year as part of the SkillsFuture
 Festival @ North West:</p>
 <ul data-tight="true" class="tight">
@@ -29,8 +34,10 @@ Festival @ North West:</p>
 <li>
 <p>14 August – North West Corporate Exchange</p>
 </li>
-</ul>
+<li>
 <p></p>
+</li>
+</ul>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -83,7 +90,6 @@ Festival @ North West:</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>★ Festival Highlights</strong>&nbsp;<strong>★</strong></h4>
 <p><strong>🎯 Digital Passport </strong>– Track your festival journey and
 unlock digital stamps at the interactive booths for exciting rewards, making
 your digitalisation journey both fun and rewarding.</p>
