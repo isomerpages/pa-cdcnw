@@ -16,7 +16,7 @@ Thread your fashion creativity with a sustainable cause! Join our **Re:Style SG6
  <a style="background: #196B37; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: left; font-style: italic;" href="https://go.gov.sg/restyle-sg60-fashion-contest/">Re:Style Fashion Contest - Sign Up Now! </a>   
 From free upcycling workshops to innovative upcycling demonstrations, this friendly festival offers a whole range of green activities and workshops for everyone.
 
-![](/images/programme_schedule.png)
+![](/images/prog_schedule_v2.png)
 ##### **Workshops Schedule**
 
 | Date |     Sign up for our daily workshops below!
