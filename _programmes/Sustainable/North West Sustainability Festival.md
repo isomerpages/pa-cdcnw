@@ -15,9 +15,10 @@ Witness fashion innovation with a purpose as we showcase stunning pieces from pr
 
 Whether you're joining our complimentary upcycling workshops, or simply enjoying the green exhibitions, North West Sustainability Festival offers an inspiring array of eco-friendly activities designed for visitors of all ages and interests.
 
-![](/images/Artboard_18_100.jpg)
+![](/images/Artboard_18_1002.jpg)
 
-##### **Workshops Schedule**
+##### **Stamp Your Way to Prizes**
+
 
 | Date |     Sign up for our daily workshops below!
 | -------- | -------- |
