@@ -9,11 +9,11 @@ variant: markdown
 
 ##### **Transform your everyday habits into meaningful environmental action at the North West Sustainability Festival 2025!**
 
-Join us for an inspiring three-day celebration of green living, where you'll discover creative ways to recycle and upcycle through engaging exhibitions, hands-on workshops, and interactive activities such as VR recycling games and VR experience. 
+ Discover the art of sustainable living at our three-day green festival – immerse yourself in captivating exhibitions, hands-on workshops, and cutting-edge interactive experiences, including VR recycling games that bring sustainability to life.
 
-Thread fashion creativity with a sustainable cause! Come see the fashion pieces created by our contestants from \*\*Re:Style SG60 Fashion Contest\*\* - a testament that second-hand fashion can be transformed into couture pieces suited for our Fashion Runway.
+Witness fashion innovation with a purpose as we showcase stunning pieces from preschoolers to tertiary students at the **Re:Style Fashion Runway Showcase (30 Aug)**, and **SG60 Fashion Contest  (31 Aug)** participants will demonstrate how second-hand garments can be upcycled into runway-worthy couture in celebration of our nation's 60th birthday.
 
-From free upcycling workshops to innovative upcycling demonstrations, this friendly festival offers a whole range of green activities and workshops for everyone.
+Whether you're joining our complimentary upcycling workshops, or simply enjoying the green exhibitions, North West Sustainability Festival offers an inspiring array of eco-friendly activities designed for visitors of all ages and interests.
 
 ![](/images/Artboard_18_100.jpg)
 
