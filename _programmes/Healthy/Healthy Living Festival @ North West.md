@@ -6,7 +6,7 @@ third_nav_title: Healthy
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/I84F3dR1KO0?si=dOApKdxtek5y6KDK"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nrc-CrqpPgA?si=V7_wrsqp7xfaUtwq"></iframe>
 </div>
 <p>Started in 2023, Healthy Living Festival @ North West is a flagship event
 to promote healthy living and bonding among residents, in-line with North
