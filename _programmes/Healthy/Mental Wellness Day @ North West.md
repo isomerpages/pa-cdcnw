@@ -10,7 +10,10 @@ third_nav_title: Healthy
 discovery. Explore interactive booths and hands-on workshops featuring
 the five senses and discover simple tricks to boost your mood through exciting
 sensory activities. <strong>Plus, complete your game card with 5 stamps to receive an exclusive blindbox keychain</strong>!</p>
-<h3><strong>★ Workshops ★</strong></h3>
+<h4><strong>★ Workshops ★</strong></h4>
+<p>Don't miss out on our exciting line-up of hands-on workshops designed
+to boost your mood and enhance your mental wellbeing. <strong>Limited slots available</strong>,
+sign up today!</p>
 <h4><strong>🖌️ Zentangle Session</strong></h4>
 <table style="minWidth: 25px">
 <colgroup>
@@ -37,37 +40,6 @@ the therapeutic benefits of focused, repetitive mark-making.</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
 <h4><strong>🎨 Finger Painting</strong></h4>
 <table style="minWidth: 25px">
 <colgroup>
@@ -90,37 +62,6 @@ with Dr Tam encourages participants to let go of perfectionism and embrace
 the joy of creating through direct touch and spontaneous movement.</p>
 <p>Register here: <a href="https://go.gov.sg/mwdfinger" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mwdfinger</a>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
