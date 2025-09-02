@@ -23,7 +23,7 @@ sign up today!</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p>🗓️ 3 October, Friday
-<br>🕗 2pm to 3pm
+<br>🕗 2.30pm to 3pm
 <br>📍 Causeway Point, Atrium</p>
 </th>
 </tr>
@@ -100,9 +100,8 @@ and emotional overwhelm.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>🗓️ 4 October, Saturday
-<br>🕗 2pm to 3pm
-<br>📍 Causeway Point, Atrium</p>
+<p><strong>🗓️ 4 October, Saturday <br>🕗 2pm to 3pm <br>📍 Causeway Point, Atrium</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -126,9 +125,8 @@ movements and focused attention that naturally quiets busy minds.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>🗓️ 4 October, Saturday
-<br>🕗 3.30pm to 4pm
-<br>📍 Causeway Point, Atrium</p>
+<p><strong>🗓️ 4 October, Saturday <br>🕗 3.30pm to 4pm <br>📍 Causeway Point, Atrium</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -152,9 +150,8 @@ rituals in daily life.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>🗓️ 4 October, Saturday
-<br>🕗 5pm to 5.30pm
-<br>📍 Causeway Point, Atrium</p>
+<p><strong>🗓️ 4 October, Saturday <br>🕗 5pm to 5.30pm <br>📍 Causeway Point, Atrium</strong>
+</p>
 </td>
 </tr>
 <tr>
