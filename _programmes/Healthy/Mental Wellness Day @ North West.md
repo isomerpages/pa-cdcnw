@@ -23,7 +23,7 @@ sign up today!</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p>🗓️ 3 October, Friday
-<br>🕗 2pm to 3pm
+<br>🕗 2.30pm to 3pm
 <br>📍 Causeway Point, Atrium</p>
 </th>
 </tr>
