@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Healthy
 ---
+<h3></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mental_Wellness_Poster.jpg">
+</div>
 <h3><strong>Transform your wellbeing at Mental Wellness Day @ North West!</strong></h3>
 <p>Join us for an immersive experience where mental wellness meets sensory
 discovery. Explore interactive booths and hands-on workshops featuring
