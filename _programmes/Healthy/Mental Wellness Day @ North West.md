@@ -13,7 +13,9 @@ third_nav_title: Healthy
 <p>Join us for an immersive experience where mental wellness meets sensory
 discovery. Explore interactive booths and hands-on workshops featuring
 the five senses and discover simple tricks to boost your mood through exciting
-sensory activities. <strong>Plus, complete your game card with 5 stamps to receive an exclusive blindbox keychain</strong>!</p>
+sensory activities. Complete your game card with 5 stamps to receive an
+exclusive blindbox keychain, and the first 500 participants upon completion
+of the game cards.</p>
 <h4><strong>★ Workshops ★</strong></h4>
 <p>Don't miss out on our exciting line-up of hands-on workshops designed
 to boost your mood and enhance your mental wellbeing. <strong>Limited slots available</strong>,
@@ -70,7 +72,7 @@ the joy of creating through direct touch and spontaneous movement.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>📦 Sensory Box by Living Essentially</strong></h4>
+<h4>🧼 <strong>Parent-Child Workshop: Natural Soap Making with Essential Oils</strong></h4>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -85,37 +87,18 @@ the joy of creating through direct touch and spontaneous movement.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Join us for an interactive workshop by Living Essentially where participants
-will learn about sensory regulation techniques and create their own personalised
-sensory box for mental wellness. This hands-on session combines education
-about the nervous system with practical tools for managing stress, anxiety,
-and emotional overwhelm.</p>
+<p>Looking for a meaningful way to bond with your child while nurturing creativity
+and relaxation? This hands-on activity is designed to spark joy, creativity,
+and connection, to help both parent and child relax, recharge, and strengthen
+your bond.</p>
+<p></p>
+<p>&nbsp;Together, you and your child will:
+<br>✨ Learn how to create your own all-natural soap
+<br>✨ Explore the calming benefits of essential oils
+<br>✨ Enjoy mindful moments that support emotional well-being
+<br>✨ Take home your handmade creations (100g per parent &amp; child)</p>
+<p></p>
 <p>Register here: <a href="https://go.gov.sg/mwdsensory" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mwdsensory</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>🧶 Crochet Workshop</strong>&nbsp;</h4>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>🗓️ 4 October, Saturday <br>🕗 2pm to 3pm <br>📍 Causeway Point, Atrium</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Discover the meditative art of crochet in this therapeutic workshop designed
-to promote mindfulness, reduce anxiety, and enhance mental wellbeing through
-the rhythmic practice of yarn craft. Participants will learn basic crochet
-techniques whilst experiencing the calming benefits of repetitive hand
-movements and focused attention that naturally quiets busy minds.</p>
-<p>Register here: <a href="https://go.gov.sg/mwdcrochet" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mwdcrochet</a>
 </p>
 </td>
 </tr>
@@ -146,7 +129,7 @@ rituals in daily life.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>🌸 Aromatherapy Workshop by Living Essentially</strong></h4>
+<h4><strong>🌸 Aromatherapy Workshop: Stress &amp; Emotional Management</strong>&nbsp;</h4>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -160,11 +143,14 @@ rituals in daily life.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Explore the therapeutic power of scent in this immersive aromatherapy
-workshop by Living Essentially designed to enhance mental wellbeing through
-the mindful use of essential oils. Participants will learn how different
-aromas can influence mood, reduce stress, and support emotional balance
-whilst creating personalised aromatherapy blends for ongoing wellness support.</p>
+<p>This is your time to pause, breathe, and step into calm confidence.</p>
+<p></p>
+<p>✨ Understand how stress + emotions affect your body &amp; mind
+<br>✨ Learn empowering strategies to reframe challenges
+<br>✨ Discover how essential oils calm stress hormones
+<br>through your limbic system
+<br>✨ Make your own&nbsp;80g Relaxing Bath Salt&nbsp;(yours to bring home!)</p>
+<p>&nbsp;</p>
 <p>Register here: <a href="https://go.gov.sg/mwdaroma" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mwdaroma</a>
 </p>
 </td>
