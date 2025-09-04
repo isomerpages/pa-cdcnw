@@ -150,8 +150,7 @@ rituals in daily life.</p>
 <br>✨ Discover how essential oils calm stress hormones
 <br>through your limbic system
 <br>✨ Make your own&nbsp;80g Relaxing Bath Salt&nbsp;(yours to bring home!)</p>
-<p>&nbsp;</p>
-<p>Register here: <a href="https://go.gov.sg/mwdaroma" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mwdaroma</a>
+<p>&nbsp;Register here: <a href="https://go.gov.sg/mwdaroma" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mwdaroma</a>
 </p>
 </td>
 </tr>
