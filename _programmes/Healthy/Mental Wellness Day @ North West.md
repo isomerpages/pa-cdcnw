@@ -5,22 +5,21 @@ variant: tiptap
 description: ""
 third_nav_title: Healthy
 ---
-<h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mental_Wellness_Poster.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mental_Wellness_EDM_R12.jpg">
 </div>
 <h3><strong>Transform your wellbeing at Mental Wellness Day @ North West!</strong></h3>
 <p>Join us for an immersive experience where mental wellness meets sensory
 discovery. Explore interactive booths and hands-on workshops featuring
 the five senses and discover simple tricks to boost your mood through exciting
 sensory activities. Complete your game card with 5 stamps to receive an
-exclusive blindbox keychain, and the first 500 participants upon completion
-of the game cards.</p>
+exclusive blindbox keychain, and the first 500 participants will receive
+a limited edition SG60 foldable bag!</p>
 <h4><strong>★ Workshops ★</strong></h4>
 <p>Don't miss out on our exciting line-up of hands-on workshops designed
 to boost your mood and enhance your mental wellbeing. <strong>Limited slots available</strong>,
 sign up today!</p>
-<h4><strong>🖌️ Zentangle Session</strong></h4>
+<h4><strong>🖌️ Zentangle Session (Full)</strong></h4>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -40,13 +39,13 @@ to promote mindfulness, reduce stress, and enhance mental wellbeing. Participant
 will learn this accessible drawing method that combines structured patterns
 with creative expression, creating beautiful artwork whilst experiencing
 the therapeutic benefits of focused, repetitive mark-making.</p>
-<p>Register here: <a href="https://go.gov.sg/mwdzentangle" rel="noopener nofollow" target="_blank">https://go.gov.sg/mwdzentangle</a>
+<p>*<strong>Workshop Full</strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>🎨 Finger Painting</strong></h4>
+<h4><strong>🎨 Finger Painting (Full)</strong></h4>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -66,7 +65,7 @@ painting in this liberating workshop designed to reduce stress, promote
 emotional expression, and enhance mental wellbeing. This hands-on experience
 with Dr Tam encourages participants to let go of perfectionism and embrace
 the joy of creating through direct touch and spontaneous movement.</p>
-<p>Register here: <a href="https://go.gov.sg/mwdfinger" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mwdfinger</a>
+<p>*<strong>Workshop Full</strong>
 </p>
 </td>
 </tr>
@@ -104,7 +103,7 @@ your bond.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>🍵 Tea Appreciation Workshop</strong></h4>
+<h4><strong>🍵 Tea Appreciation Workshop (Full)</strong></h4>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -123,13 +122,13 @@ designed to promote relaxation, mindfulness, and mental wellbeing. Participants
 will explore how the ancient practice of tea drinking can become a powerful
 tool for stress reduction, present-moment awareness, and creating peaceful
 rituals in daily life.</p>
-<p>Register here: <a href="https://go.gov.sg/mwdtea" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mwdtea</a>
+<p>*<strong>Workshop Full</strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>🌸 Aromatherapy Workshop: Stress &amp; Emotional Management</strong>&nbsp;</h4>
+<h4><strong>🌸 Aromatherapy Workshop: Stress &amp; Emotional Management&nbsp;(Full)</strong></h4>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -150,7 +149,7 @@ rituals in daily life.</p>
 <br>✨ Discover how essential oils calm stress hormones
 <br>through your limbic system
 <br>✨ Make your own&nbsp;80g Relaxing Bath Salt&nbsp;(yours to bring home!)</p>
-<p>&nbsp;Register here: <a href="https://go.gov.sg/mwdaroma" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mwdaroma</a>
+<p>*<strong>Workshop Full</strong>
 </p>
 </td>
 </tr>
