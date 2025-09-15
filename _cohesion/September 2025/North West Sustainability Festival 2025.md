@@ -634,5 +634,3 @@ Plus, participate in the Reduce @ North West Challenge! All you need to do is ta
 
 
 </article>
-
-
