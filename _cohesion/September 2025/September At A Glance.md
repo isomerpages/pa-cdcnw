@@ -450,7 +450,7 @@ h1, h2, h3, h4, h5, h6, li {
     <p style="font-size: 16px; line-height: 20px; margin: 10px 0px;">With the launch of the Jobs Anywhere @ North West portal, residents can now easily find jobs closer to home that fit their needs.</p> 
 
     <div style="width: 100%; text-align: center; display: inline-flex; margin: 0px auto;">
-    <div style="max-width: 100%; text-align: center; padding: 45px 15px 0px; margin: 0px auto;"><a style="background: #1F4D7F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center; font-style: italic; font-weight: bold;" href="https://northwest.cdc.gov.sg/cohesion/september-2025/jobs-anywhere/">Find A Job</a>
+    <div style="max-width: 100%; text-align: center; padding: 45px 15px 0px; margin: 0px auto;"><a style="background: #1F4D7F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center; font-style: italic; font-weight: bold;" href="https://northwest.cdc.gov.sg/cohesion/september-2025/jobs-anywhere/">Find A Job Anywhere</a>
     </div>
     </div>
 
