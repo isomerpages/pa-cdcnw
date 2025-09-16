@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: September 2025
 ---
-
 <style>
 
 p {
@@ -408,7 +407,7 @@ h1, h2, h3, h4, h5, h6, li {
       <em>5 Ways to Boost Your Mental Wellness With Your Senses</em>
     </h2>
 
-    <p style="font-size: 16px; line-height: 26px; text-align: center;">North West Mental Wellness Ambassador Hyzue shares practical tips on how to be calmer, happier and more present through the five senses of sight, hearing, smell, taste, and touch. Check out his tips today!   </p>
+    <p style="font-size: 16px; line-height: 26px; text-align: center;">North West Mental Wellness Ambassador Hyzue shares practical tips on how to be calmer, happier and more present through the five sense of sight, hearing, smell, taste, and touch. Check out his tips today!   </p>
 
     <div style="max-width: 100%; text-align: center; padding: 10px 15px 15px;"><a style="background: #F96B8D; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center; font-weight: bold;" href="https://northwest.cdc.gov.sg/cohesion/september-2025/mental-wellness/"><em>Discover Your Calm</em></a></div>
   </div>
@@ -427,10 +426,10 @@ h1, h2, h3, h4, h5, h6, li {
     <h2 style="color: #DA312C;font-weight: bolder;font-size: 20px;line-height: initial;font-style: italic;margin: 15px 0px;">
       17 Years of Giving Together
     </h2>
-    <p style="font-size: 16px; line-height: 20px; margin: 10px 0px;">Besides monthly donations, Club-100 @ North West members also contribute their efforts and time to supporting the less-privileged in #OurNorthWest.</p> 
+    <p style="font-size: 16px; line-height: 20px; margin: 10px 0px;">Besides monthly donations, Club-100 members also contribute their efforts and time to supporting the less-privileged in #ourNorthWest.</p> 
 
     <div style="width: 100%; text-align: center; display: inline-flex; margin: 0px auto;">
-    <div style="max-width: 100%; text-align: center; padding: 30px 0px 0px; margin: 0px auto;"><a style="background: #DA312C; color: #FFFFFF; padding: 15px 10px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center; font-style: italic; font-weight: bold;" href="https://northwest.cdc.gov.sg/cohesion/september-2025/c-100/">Be Part of Our Giving Community</a>
+    <div style="max-width: 100%; text-align: center; padding: 10px 15px 0px; margin: 0px auto;"><a style="background: #DA312C; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center; font-style: italic; font-weight: bold;" href="https://northwest.cdc.gov.sg/cohesion/september-2025/c-100/">Be Part of Our Giving Community</a>
     </div>
     </div>
   </div>
@@ -451,7 +450,7 @@ h1, h2, h3, h4, h5, h6, li {
     <p style="font-size: 16px; line-height: 20px; margin: 10px 0px;">With the launch of the Jobs Anywhere @ North West portal, residents can now easily find jobs closer to home that fit their needs.</p> 
 
     <div style="width: 100%; text-align: center; display: inline-flex; margin: 0px auto;">
-    <div style="max-width: 100%; text-align: center; padding: 45px 15px 0px; margin: 0px auto;"><a style="background: #1F4D7F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center; font-style: italic; font-weight: bold;" href="https://northwest.cdc.gov.sg/cohesion/september-2025/jobs-anywhere/">Find A Job</a>
+    <div style="max-width: 100%; text-align: center; padding: 10px 15px 0px; margin: 0px auto;"><a style="background: #1F4D7F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center; font-style: italic; font-weight: bold;" href="https://northwest.cdc.gov.sg/cohesion/september-2025/jobs-anywhere/">Find A Job</a>
     </div>
     </div>
 
@@ -476,7 +475,7 @@ h1, h2, h3, h4, h5, h6, li {
     <h2 style="color: #7B669E;font-weight: bolder;font-size: 20px;line-height: initial;font-style: italic;margin: 15px 0px;">
      Bringing Communities Together Through Art
     </h2>
-    <p style="font-size: 16px; line-height: 20px; margin: 10px 0px;">Art comes alive in a month-long exhibition at the National Gallery from 16 September to 12 October! Supported by the WeCare Arts Fund programme, discover the stories, creativity and community spirit behind SG60-inspired artworks, created by children and youths.</p> 
+    <p style="font-size: 16px; line-height: 20px; margin: 10px 0px;">Art comes alive in a month-long exhibition at the National Gallery from 16 September to 15 October! Supported by the WeCare Arts Fund programme, discover the stories, creativity and community spirit behind SG60-inspired artworks, created by children and youths.</p> 
 
 
     <div style="width: 100%; text-align: center; display: inline-flex; margin: 0px auto;">
@@ -498,7 +497,7 @@ h1, h2, h3, h4, h5, h6, li {
     <h2 style="color: #086B37;font-weight: bolder;font-size: 20px;line-height: initial;font-style: italic;margin: 15px 0px;">
       Going Green in Style
     </h2>
-    <p style="font-size: 16px; line-height: 20px; margin: 10px 0px;">From a winning sustainable fashion workshop space proposal at the Green Bootcamp to creative upcycled fashion outfits at the North West Sustainability Festival 2025, #OurNorthWest has been buzzing with plenty of style-inspired green ideas.</p> 
+    <p style="font-size: 16px; line-height: 20px; margin: 10px 0px;">Green efforts never stop in #ourNorthWest! From a winning sustainable fashion workshop space proposal at the Green Bootcamp to creative upcycled fashion outfits at the North West Sustainability Festival 2025, #OurNorthWest has been buzzing with plenty of style-inspired green ideas.</p> 
 
 
     <div style="width: 100%; text-align: center; display: inline-flex; margin: 0px auto 25px;">
@@ -582,7 +581,7 @@ Venue: Causeway Point Atrium</i></span>
         <div style="padding: 20px 2rem 10px;">
           <h2 style="color: #FE5D1F; font-weight: bolder; font-size: 20px;line-height: initial;font-style: italic; margin: 0px;"><i>Walking Trails @ CDC </i></h2>
 
-          <p style="font-size: 16px; line-height: 20px; padding: 12px 0px; margin: 0px;">Complete fun digital challenges and earn up to $50 Redeem SG Rewards Vouchers while exploring 5 unique trails across Singapore. Try out the North West Walking Trail for a 5.5km scenic route that starts from Cashew MRT and ends at Bukit Timah Railway Station. Let’s keep fit together with friends and family!</p>
+          <p style="font-size: 16px; line-height: 20px; padding: 12px 0px; margin: 0px;">Held in conjunction with the Marsiling SG60 Mid-Autumn Festival, this programme features a selection of classic scenes from traditional Teochew opera, showcasing the richness and charm of this cultural art form. During the fringe activities, craft your own lantern while discovering the legend of the Jade Rabbit at the Mid-Autumn Festival Rabbit Lantern Workshop!</p>
 
           <div style="max-width: 100%; text-align: left; padding: 10px 0px 0px;">
             <a href="https://www.cdc.gov.sg/walking-trails-cdc/" target="_new" style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: 15px; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold; margin-right: 8px; margin-bottom: 10px; display: inline-block; text-align: center; font-style: italic;">
@@ -621,7 +620,7 @@ Presented by: Nam Hwa Opera </i></h2>
 Time: 7pm to 9.30pm<br>
 Venue: Marsiling Community Club Multi-Purpose Hall </i></span>
 
-          <p style="font-size: 16px; line-height: 20px; padding: 12px 0px; margin: 0px;">Held in conjunction with the Marsiling SG60 Mid-Autumn Festival, this programme features a selection of classic scenes from traditional Teochew opera, showcasing the richness and charm of this cultural art form. During the fringe activities, craft your own lantern while discovering the legend of the Jade Rabbit at the Mid-Autumn Festival Rabbit Lantern Workshop!</p>
+          <p style="font-size: 16px; line-height: 20px; padding: 12px 0px; margin: 0px;">Complete fun digital challenges, earn up to $50 Redeem SG Rewards Vouchers while exploring 5 unique trails across Singapore. Try out the North West Walking Trail for a 5.5km scenic route that starts from Cashew MRT and ends at Bukit Timah Railway Station. Let’s keep fit together with friends and family! </p>
           
         </div>
       </div>
@@ -674,7 +673,7 @@ Presented by: The TENG Company
 Time: 6.30pm to 9.00pm<br>
 Venue: Greenridge Shopping Centre </i></span>
 
-          <p style="font-size: 16px; line-height: 20px; padding: 12px 0px; margin: 0px;">Experience a multicultural musical journey featuring popular tunes performed on traditional Chinese instruments that's bound to lift your spirits and stir your heart. Don't forget to join the lively fringe activities – belt out familiar songs in the "Sing Along Session" or feel the beat with simple, fun exercises in the "Rhythmic Engagement"!</p>
+          <p style="font-size: 16px; line-height: 20px; padding: 12px 0px; margin: 0px;">Experience a multicultural musical journey featuring popular tunes performed on traditional Chinese instruments that's bound to lift your spirits and stir your heart. Don't forget to have join the lively fringe activities – belt out familiar songs in the "Sing Along Session" or feel the beat with simple, fun exercises in the "Rhythmic Engagement"!</p>
 
           <div style="max-width: 100%; text-align: left; padding: 10px 0px 0px;">
             <a href="https://form.gov.sg/66cd5073725169f909275a33" target="_new" style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: 15px; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold; margin-right: 8px; margin-bottom: 10px; display: inline-block; text-align: center; font-style: italic;">
@@ -703,7 +702,7 @@ Venue: Greenridge Shopping Centre </i></span>
           <h2 style="color: #FE5D1F; font-weight: bolder; font-size: 20px;line-height: initial;font-style: italic; margin: 0px;"><i>Chingay Children's Book</i></h2>
 
 
-          <p style="font-size: 16px; line-height: 20px; padding: 12px 0px; margin: 0px;">Introduce your child to Singapore's UNESCO-nominated Chingay heritage with our first-ever children's book! Follow Meena's heartwarming journey as she and her friends build their float and discover our cultural diversity. Get your free children's e-book and activity kit from <a style="color: #FE5D1F; text-decoration: underline;" href="https://www.chingay.gov.sg"><i>www.chingay.gov.sg</i></a></p>
+          <p style="font-size: 16px; line-height: 20px; padding: 12px 0px; margin: 0px;">Introduce your child to Singapore's UNESCO-nominated Chingay heritage with our first-ever children's book! Follow Meena's heartwarming journey as she and her friends build their float and discover our cultural diversity. Get your free children's e-book and activity kit from <a style="color: #FE5D1F; text-decoration: underline;" href="www.chingay.gov.sg"><i>www.chingay.gov.sg</i></a></p>
 
 
         </div>
