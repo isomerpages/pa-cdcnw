@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: September 2025
 ---
-
 <style>
 
 p {
@@ -792,6 +791,3 @@ Venue: Greenridge Shopping Centre </i></span>
 </div>
 
 </div>
-
-
-
