@@ -497,7 +497,7 @@ h1, h2, h3, h4, h5, h6, li {
     <h2 style="color: #086B37;font-weight: bolder;font-size: 20px;line-height: initial;font-style: italic;margin: 15px 0px;">
       Going Green in Style
     </h2>
-    <p style="font-size: 16px; line-height: 20px; margin: 10px 0px;">From a winning sustainable fashion workshop space proposal at the Green Bootcamp to creative upcycled fashion outfits at the North West Sustainability Festival 2025, #OurNorthWest has been buzzing with plenty of style-inspired green ideas.</p> 
+    <p style="font-size: 16px; line-height: 20px; margin: 10px 0px;">From a winning sustainable fashion space at Green Bootcamp to creative upcycled fashion outfits at the Sustainability Festival, #OurNorthWest has been buzzing with many green ideas.</p> 
 
 
     <div style="width: 100%; text-align: center; display: inline-flex; margin: 0px auto 25px;">
