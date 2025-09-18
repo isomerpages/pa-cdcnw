@@ -485,7 +485,7 @@ Each month, more than 700 members contribute to help less-privileged residents i
 </div>
 
 <div style="padding: 20px 0px 0px;">
-<p style="font-size: 16px; line-height: 26px;">That's not all. The recent Club-100 @ North West Charity Golf &amp; Dinner 2025 in July proudly raised more than $750,000 to provide more sustained support to more than 60,000 beneficiaries.
+<p style="font-size: 16px; line-height: 26px;">That's not all. The recent Club-100 @ North West Charity Golf &amp; Dinner 2025 in July proudly raised more than $700,000 to provide more sustained support to more than 60,000 beneficiaries.
 </p>
 </div>
 
@@ -574,5 +574,3 @@ Find out more about Club-100 @ North West <a style="font-weight: bold; color: #D
 
 
 </article>
-
-
