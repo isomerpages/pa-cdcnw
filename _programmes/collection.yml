@@ -1,0 +1,51 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - Caring/.keep
+      - Caring/CDC Vouchers Scheme.md
+      - Caring/Club 100 @ North West.md
+      - Caring/Club 100 @ North West Charity Golf.md
+      - Caring/DigiReady @ North West.md
+      - Caring/Huggies Singapore Diaper Bank @ North West.md
+      - Caring/Little Steps @ North West.md
+      - Caring/North West Emergency Relief Fund.md
+      - Caring/North West Food Aid Fund.md
+      - Caring/North West Home Fix Scheme.md
+      - Caring/North West Interim Financial Assistance Scheme.md
+      - Caring/North West Service Weeks.md
+      - Caring/North West Student Support Fund.md
+      - Caring/North West Utilities Assistance Scheme.md
+      - Caring/North West WeCare Fund.md
+      - Caring/Project Sama Sama @ North West.md
+      - Caring/WeCare Arts @ North West.md
+      - Caring/WeCare Arts Experience @ North West.md
+      - Healthy/.keep
+      - Healthy/Healthy Living Festival @ North West.md
+      - Healthy/Mental Wellness Day @ North West.md
+      - Healthy/Mental Wellness @ North West.md
+      - Healthy/North West Brisk Walking Club.md
+      - Healthy/North West Dance Fit Club.md
+      - Healthy/North West FitnessX Club.md
+      - Healthy/North West Health Qigong Club.md
+      - Healthy/North West Running Club.md
+      - Healthy/North West Tai Chi Club.md
+      - Inclusive/ArtsEverywhere@CDC.md
+      - Inclusive/.keep
+      - Inclusive/Interfaith Network @ North West.md
+      - Learning/.keep
+      - Learning/SkillsFuture Advice @ North West.md
+      - Learning/Jobs Anywhere @ North West.md
+      - Learning/North West Youth Assembly.md
+      - Learning/SME Centre @ North West.md
+      - Sustainable/.keep
+      - Sustainable/Little Greenies @ North West.md
+      - Sustainable/Green Bootcamp @ North West.md
+      - Sustainable/Green Homes @ North West.md
+      - Sustainable/North West GIRAFFE Fund.md
+      - Sustainable/North West Green Learning Journey.md
+      - Sustainable/North West Sustainability Festival.md
+      - Sustainable/North West Sustainability Plan 2030.md
+      - Sustainable/Recycle @ North West.md
+      - Sustainable/Reduce @ North West.md
+      - Sustainable/Waterways Clean Up @ North West.md

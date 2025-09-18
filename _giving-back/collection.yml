@@ -1,0 +1,6 @@
+collections:
+  giving-back:
+    output: true
+    order:
+      - Volunteer with us.md
+      - Corporate Social Responsibility.md
