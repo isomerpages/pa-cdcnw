@@ -14,15 +14,24 @@ for the less-privileged, the philanthropic club has forged a strong culture
 of giving back. Each donor contributes a minimum of $100 monthly in an
 individual or corporate capacity or donates a lump sum amount to provide
 sustained and timely assistance to the North West community.</p>
-<p>Since 2024, the programme has been expanded to cover more areas of support
-and to assist more needy residents. Additional support will be given to
-residents struggling with making ends meet due to the rising cost of living,
-the financial strain of raising children, unforeseen yet essential expenses
-for the household, or emergency situations at home. The unwavering contributions
-from our donors through Club-100 @ North West will create a profound and
-lasting impact to the lives of less-privileged families.</p>
-<p>By joining Club-100 @ North West, you become part of <strong>A Giving Community</strong> to
-uplift the lives of less-privileged residents among us. Individuals or
-corporate organisations who are keen to join Club-100 @ North West may
-email at northwestcdc_partnerships@pa.gov.sg or <a href="/files/C100_Brochure.pdf" rel="noopener nofollow" target="_blank">download the form</a> to become a Club-100
-@ North West member today.</p>
+<p>The programme has since been expanded to cover more areas of support and
+assist more needy residents. Additional support will be given to residents
+struggling with making ends meet due to <strong>the rising cost of living, the financial strain of raising children, unforeseen yet essential expenses for the household, or emergency situations at home</strong>.
+The unwavering contributions from our donors through Club-100 @ North West
+will create a profound and lasting impact to the lives of less-privileged
+families.</p>
+<p><strong>Donation Modes:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Bank Giro (Please download this <a href="/files/NWCDC_C100_Donation_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">form</a> and mail the completed
+printed copy to North West CDC’s office, 900 South Woodlands Drive #06-01,
+Woodlands Civic Centre S730900)</p>
+</li>
+<li>
+<p>Credit Card through <a rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/nw-c100digital</a>
+</p>
+<p></p>
+</li>
+</ul>
+<p>For more information, please email CDC Secretariat at <a rel="noopener noreferrer nofollow" target="_blank">northwestcdc_partnerships@pa.gov.sg</a>.</p>
