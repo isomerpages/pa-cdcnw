@@ -22,15 +22,16 @@ will create a profound and lasting impact to the lives of less-privileged
 families.</p>
 <p><strong>Donation Modes:</strong>
 </p>
+<p></p>
 <ul data-tight="true" class="tight">
+<li>
+<p>Credit Card via this <a href="go.gov.sg/nw-c100digital" rel="noopener nofollow" target="_blank">link</a>
+</p>
+</li>
 <li>
 <p>Bank Giro (Please download this <a href="/files/NWCDC_C100_Donation_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">form</a> and mail the completed
 printed copy to North West CDC’s office, 900 South Woodlands Drive #06-01,
 Woodlands Civic Centre S730900)</p>
-</li>
-<li>
-<p>Credit Card through <a rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/nw-c100digital</a>
-</p>
 <p></p>
 </li>
 </ul>
