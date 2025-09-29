@@ -20,9 +20,7 @@ struggling with making ends meet due to <strong>the rising cost of living, the f
 The unwavering contributions from our donors through Club-100 @ North West
 will create a profound and lasting impact to the lives of less-privileged
 families.</p>
-<p><strong>Donation Modes:</strong>
-</p>
-<p></p>
+<h4><strong>Donation Modes:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Credit Card via this <a href="go.gov.sg/nw-c100digital" rel="noopener nofollow" target="_blank">link</a>
