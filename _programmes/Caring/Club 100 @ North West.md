@@ -23,7 +23,7 @@ families.</p>
 <h4><strong>Donation Modes:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Credit Card via this <a href="go.gov.sg/nw-c100digital" rel="noopener nofollow" target="_blank">link</a>
+<p>Credit Card via this <a href="https://go.gov.sg/nw-c100digital" rel="noopener nofollow" target="_blank">link</a>
 </p>
 </li>
 <li>
