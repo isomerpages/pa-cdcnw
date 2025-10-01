@@ -19,4 +19,13 @@ for personalised guidance, as well as with Skills Ambassadors to receive
 recommendations for skills upgrading courses to enhance employability.
 Residents can receive updates about career fairs and employment events,
 making it a comprehensive resource for job seekers in the North West district.</p>
-<p>Start your job search a <a href="https://event.e2i.com.sg/view-event/jobsanywhere" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/jobsanywhere</u></a>!</p>
+<p><strong>Start your job search at <a href="https://event.e2i.com.sg/view-event/jobsanywhere" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/jobsanywhere!</u></a></strong>
+</p>
+<p>Career Resources are now right within your neighbourhood! Speak to our
+Job Ambassadors to discover available roles near you, and learn more about
+the various hiring industries.</p>
+<p>Head down to these locations near you, and scan the QR code below to register!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/October_CRS_1080_x_1080.png">
+</div>
+<p></p>
