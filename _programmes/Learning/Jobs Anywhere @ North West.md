@@ -24,7 +24,9 @@ making it a comprehensive resource for job seekers in the North West district.</
 <p>Career Resources are now right within your neighbourhood! Speak to our
 Job Ambassadors to discover available roles near you, and learn more about
 the various hiring industries.</p>
-<p>Head down to these locations near you, and scan the QR code below to register!</p>
+<p>Register via this <a href="go.gov.sg/nw-nsc" rel="noopener nofollow" target="_blank">link</a>,
+and simply head down to these locations near you! Stay tuned for November’s
+schedule.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/October_CRS_1080_x_1080.png">
 </div>
