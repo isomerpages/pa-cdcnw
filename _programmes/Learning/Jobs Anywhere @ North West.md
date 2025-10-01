@@ -30,4 +30,6 @@ schedule.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/October_CRS_1080_x_1080.png">
 </div>
-<p></p>
+<p>Career Resources are now right within your neighbourhood! Speak to our
+Job Ambassadors to discover available roles near you and learn more about
+the various hiring industries.</p>
