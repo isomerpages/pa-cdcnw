@@ -24,7 +24,12 @@ making it a comprehensive resource for job seekers in the North West district.</
 <p>Career Resources are now right within your neighbourhood! Speak to our
 Job Ambassadors to discover available roles near you, and learn more about
 the various hiring industries.</p>
-<p>You may refer to the table below and sign up based on the nearest location
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/October_CRS_1080_x_1080.png">
+</div>
+<p></p>
+<p>Please refer to the table below and sign up based on the nearest location
 to you!</p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -40,7 +45,8 @@ to you!</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Registration Link</p>
+<p><strong>Registration Link</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -88,10 +94,15 @@ to you!</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Cashew CC</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><a href="https://go.gov.sg/nw-cashew" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nw-cashew</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>Stay tuned for November’s schedule.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/October_CRS_1080_x_1080.png">
-</div>
-<p>s near you and learn more about the various hiring industries.</p>
