@@ -24,12 +24,74 @@ making it a comprehensive resource for job seekers in the North West district.</
 <p>Career Resources are now right within your neighbourhood! Speak to our
 Job Ambassadors to discover available roles near you, and learn more about
 the various hiring industries.</p>
-<p>Register via this <a href="go.gov.sg/nw-nsc" rel="noopener nofollow" target="_blank">link</a>,
-and simply head down to these locations near you! Stay tuned for November’s
-schedule.</p>
+<p>You may refer to the table below and sign up based on the nearest location
+to you!</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Venue</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Registration Link</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Nee Soon Central CC</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><a href="https://go.gov.sg/nw-nsc" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nw-nsc</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>ACE The Place CC</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><a href="https://go.gov.sg/nw-ace" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nw-ace</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Bukit Timah CC</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><a href="http://go.gov.sg/nw-bt" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/nw-bt</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Woodlands Galaxy CC</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><a href="https://go.gov.sg/nw-wg" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nw-wg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Yew Tee CC</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><a href="https://go.gov.sg/nw-yt" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nw-yt</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Stay tuned for November’s schedule.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/October_CRS_1080_x_1080.png">
 </div>
-<p>Career Resources are now right within your neighbourhood! Speak to our
-Job Ambassadors to discover available roles near you and learn more about
-the various hiring industries.</p>
+<p>s near you and learn more about the various hiring industries.</p>
