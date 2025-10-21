@@ -5,30 +5,27 @@ variant: tiptap
 description: ""
 third_nav_title: Learning
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cam_2__24_.jpg">
-</div>
-<p><strong>Jobs Anywhere @ North West</strong> is a one-stop jobs portal that
-helps residents find flexible work arrangements and jobs closer to home.
-The portal features distance filters to show jobs within 1 to 5 kilometres
-and offers positions with flexible hours to accommodate different schedules.</p>
-<p>The portal also provides career guidance resources, AI resume building
-assistance, and schedule one-on-one sessions with experienced career coaches
-for personalised guidance, as well as with Skills Ambassadors to receive
-recommendations for skills upgrading courses to enhance employability.
-Residents can receive updates about career fairs and employment events,
-making it a comprehensive resource for job seekers in the North West district.</p>
-<p><strong>Start your job search at <a href="https://event.e2i.com.sg/view-event/jobsanywhere" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/jobsanywhere!</u></a></strong>
+<p><strong>Jobs Nearby @ CDC</strong> is a localised job-matching initiative
+to connect residents with job opportunities closer to them – providing
+personalised career support and advice tailored to the residents’ needs
+through the following resources:</p>
+<p><strong><u>Jobs Anywhere @ North West</u></strong>
 </p>
-<p>Career Resources are now right within your neighbourhood! Speak to our
-Job Ambassadors to discover available roles near you, and learn more about
-the various hiring industries.</p>
+<p>A one-stop portal that helps residents find flexible work arrangements
+and jobs closer to home. The portal provides career guidance resources,
+AI resume building assistance, as well as to schedule one-on-one sessions
+with experienced career coaches for personalised guidance, and Skills Ambassadors
+to receive recommendations for skills upgrading courses to enhance employability.</p>
+<p>Start your job search at <a href="https://event.e2i.com.sg/view-event/jobsanywhere" rel="noopener nofollow" target="_blank">go.gov.sg/jobsanywhere</a>!</p>
 <p></p>
+<p><strong><u>Career Resource Stations (Job Clinics)</u></strong>
+</p>
+<p>The job clinics are now right within your neighbourhood! Speak to our
+Job Ambassadors to discover available roles near you, and personalised
+career guidance between jobseekers and potential employers.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/October_CRS_1080_x_1080.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CRS_Schedule.jpg">
 </div>
-<p></p>
 <p>Please refer to the table below and sign up based on the nearest location
 to you!</p>
 <table style="minWidth: 100px">
@@ -105,4 +102,14 @@ to you!</p>
 </tr>
 </tbody>
 </table>
-<p>Stay tuned for November’s schedule.</p>
+<p>For other enquiries, kindly contact:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Hotline: 66344468 (Mon to Fri, 9am to 5pm, excluding Public Holidays)</p>
+</li>
+<li>
+<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">helpdesk@findsgjobs.co</a>
+</p>
+</li>
+</ul>
+<p></p>
