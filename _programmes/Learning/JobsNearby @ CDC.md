@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Learning
 ---
-<p><strong>JobsNearby @ CDC – North West</strong> is a localised job-matching
+<p><strong>Jobs Nearby @ CDC – North West</strong> is a localised job-matching
 initiative to connect residents with job opportunities closer to them –
 providing personalised career support and advice tailored to the residents’
 needs through the following resources:</p>
