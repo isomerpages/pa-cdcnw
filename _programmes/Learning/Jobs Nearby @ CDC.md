@@ -1,14 +1,14 @@
 ---
-title: Jobs Nearby @ North West
-permalink: /jobs-nearby-north-west/
+title: Jobs Nearby @ CDC
+permalink: /jobs-nearby-cdc/
 variant: tiptap
 description: ""
 third_nav_title: Learning
 ---
-<p><strong>Jobs Nearby @ CDC</strong> is a localised job-matching initiative
-to connect residents with job opportunities closer to them – providing
-personalised career support and advice tailored to the residents’ needs
-through the following resources:</p>
+<p><strong>Jobs Nearby @ CDC – North West</strong> is a localised job-matching
+initiative to connect residents with job opportunities closer to them –
+providing personalised career support and advice tailored to the residents’
+needs through the following resources:</p>
 <p><strong><u>Jobs Anywhere @ North West</u></strong>
 </p>
 <p>A one-stop portal that helps residents find flexible work arrangements
@@ -105,10 +105,10 @@ to you!</p>
 <p>For other enquiries, kindly contact:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Hotline: 66344468 (Mon to Fri, 9am to 5pm, excluding Public Holidays)</p>
+<p>Hotline: 62485566 (Mon to Fri, 9am to 5pm, excluding Public Holidays)</p>
 </li>
 <li>
-<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">helpdesk@findsgjobs.co</a>
+<p>Email: <a href="" rel="noopener noreferrer nofollow" target="_blank">Northwest_CDC@pa.gov.sg</a>
 </p>
 </li>
 </ul>
