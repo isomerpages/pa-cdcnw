@@ -108,7 +108,7 @@ to you!</p>
 <p>Hotline: 62485566 (Mon to Fri, 9am to 5pm, excluding Public Holidays)</p>
 </li>
 <li>
-<p>Email: <a href="Northwest_CDC@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Northwest_CDC@pa.gov.sg</a>
+<p>Email: <a href="" rel="noopener noreferrer nofollow" target="_blank">Northwest_CDC@pa.gov.sg</a>
 </p>
 </li>
 </ul>
