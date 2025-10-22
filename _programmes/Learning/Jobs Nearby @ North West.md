@@ -105,10 +105,10 @@ to you!</p>
 <p>For other enquiries, kindly contact:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Hotline: 66344468 (Mon to Fri, 9am to 5pm, excluding Public Holidays)</p>
+<p>Hotline: 62485566 (Mon to Fri, 9am to 5pm, excluding Public Holidays)</p>
 </li>
 <li>
-<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">helpdesk@findsgjobs.co</a>
+<p>Email: <a href="Northwest_CDC@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Northwest_CDC@pa.gov.sg</a>
 </p>
 </li>
 </ul>
