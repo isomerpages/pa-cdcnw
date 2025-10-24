@@ -2,14 +2,14 @@ collections:
   cohesion:
     output: true
     order:
-      - November 2025/Images.md
-      - November 2025/Interfaith Network @ North West.md
-      - November 2025/Jobs Nearby @ CDC.md
-      - November 2025/Reduce @ North West.md
-      - November 2025/North West Service Weeks.md
-      - November 2025/North West Dance Fit Club.md
-      - November 2025/November At A Glance.md
       - November 2025/.keep
+      - November 2025/Images.md
+      - November 2025/November At A Glance.md
+      - November 2025/North West Dance Fit Club.md
+      - November 2025/North West Service Weeks.md
+      - November 2025/Reduce @ North West.md
+      - November 2025/Jobs Nearby @ CDC.md
+      - November 2025/Interfaith Network @ North West.md
       - September 2025/.keep
       - September 2025/September At A Glance.md
       - September 2025/Mental Wellness @ North West.md
