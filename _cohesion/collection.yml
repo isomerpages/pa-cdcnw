@@ -2,6 +2,7 @@ collections:
   cohesion:
     output: true
     order:
+      - November 2025/North West Service Weeks.md
       - November 2025/North West Dance Fit Club.md
       - November 2025/November At A Glance.md
       - November 2025/.keep
