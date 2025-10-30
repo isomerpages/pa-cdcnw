@@ -24,7 +24,7 @@ to receive recommendations for skills upgrading courses to enhance employability
 Job Ambassadors to discover available roles near you, and personalised
 career guidance between jobseekers and potential employers.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CRS_SCHEDULE.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CRS_SCHEDULE_2.jpg">
 </div>
 <p>Please refer to the table below and sign up based on the nearest location
 to you!</p>
