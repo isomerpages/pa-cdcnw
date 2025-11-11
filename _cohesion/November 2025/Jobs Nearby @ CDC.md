@@ -425,11 +425,11 @@ object-fit: cover;
   <img style="width: 100%;" src="https://northwest.cdc.gov.sg/images/Cohesion/Nov%202025/title_find_job.jpg">
 </div>
 
-<div class="" style="max-width: 100%; padding: 20px 0px 0px;">
+<div class="" style="max-width: 100%; padding: 20px 0px 10px;">
   <img style="width: 100%;" class="rounded20" src="https://northwest.cdc.gov.sg/images/Cohesion/Nov%202025/edm_mh6.jpg">
 </div>
 
-<div style="padding: 0px 0px;">
+<div style="padding: 15px 0px;">
 <p style="font-size: 16px; line-height: 26px; text-align: justify;">Why travel far when your next job could be nearby? If you need to work close to home, Jobs Nearby @ CDC can connect you with opportunities right in your neighbourhood.  
 <br><br>
 Jobs Ambassadors will be available at our community job clinics located at convenient locations around the North West to provide personalised guidance to match residents to the right job within their community. Whats more? Residents can also visit our <a style="font-weight: bold; color: #283F94;" target="_new" href="https://go.gov.sg/jobsanywhere"><b>Jobs Anywhere @ North West portal</b></a> to search for suitable jobs nearby!
@@ -641,5 +641,4 @@ Singapore 689296
 
 
 </article>
-
 
