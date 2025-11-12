@@ -429,7 +429,7 @@ h1, h2, h3, h4, h5, h6, li {
     <p style="font-size: 16px; line-height: 22px; margin: 10px 0px;">In October, Northland Primary School took over North West Service Weeks with food, fun and friendship! They helped residents select items for their care packs and hosted a Children's Day carnival. See how small acts of service can make a difference to those in&nbsp;need.</p> 
 
     <div style="width: 100%; text-align: center; display: inline-flex; margin: 0px auto;">
-    <div style="max-width: 100%; text-align: center; padding: 5px 0px 0px; margin: 0px auto;"><a style="background: #DA312C; color: #FFFFFF; padding: 15px 10px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center; font-style: italic; font-weight: bold;" href="https://northwest.cdc.gov.sg/cohesion/november-2025/nw-sw/">Made An Impact</a>
+    <div style="max-width: 100%; text-align: center; padding: 5px 0px 0px; margin: 0px auto;"><a style="background: #DA312C; color: #FFFFFF; padding: 15px 20px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center; font-style: italic; font-weight: bold;" href="https://northwest.cdc.gov.sg/cohesion/november-2025/nw-sw/">Made An Impact</a>
     </div>
     </div>
   </div>
@@ -451,7 +451,7 @@ Festive&nbsp;Celebration
     <p style="font-size: 16px; line-height: 22px; margin: 10px 0px;">Go green this upcoming festive season! Discover simple, practical tips to reduce waste and make your celebrations more eco-friendly and&nbsp;sustainable!</p> 
 
     <div style="width: 100%; text-align: center; display: inline-flex; margin: 0px auto;">
-    <div style="max-width: 100%; text-align: center; padding: 45px 15px 0px; margin: 0px auto;"><a style="background: #0C6C37; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center; font-style: italic; font-weight: bold;" href="https://northwest.cdc.gov.sg/cohesion/september-2025/jobs-anywhere/">Reduce Festive Waste</a>
+    <div style="max-width: 100%; text-align: center; padding: 45px 15px 0px; margin: 0px auto;"><a style="background: #0C6C37; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center; font-style: italic; font-weight: bold;">Reduce Festive Waste</a>
     </div>
     </div>
 
@@ -504,7 +504,7 @@ Jobs&nbsp;Nearby @ CDC
 
 
     <div style="width: 100%; text-align: center; display: inline-flex; margin: 0px auto 25px;">
-    <div style="max-width: 100%; text-align: center; padding: 20px 15px 0px; margin: 0px auto;"><a style="background: #1F4D7F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center; font-style: italic; font-weight: bold;" href="https://northwest.cdc.gov.sg/cohesion/september-2025/sust-fest/">Find Jobs Nearby</a>
+    <div style="max-width: 100%; text-align: center; padding: 20px 15px 0px; margin: 0px auto;"><a style="background: #1F4D7F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center; font-style: italic; font-weight: bold;" href="https://northwest.cdc.gov.sg/cohesion/november-2025/jobs-nearby/">Find Jobs Nearby</a>
     </div>
     </div>
 
@@ -705,14 +705,20 @@ Venue: Amphitheatre beside Chong Pang hawker centre
 </i></span>
 
           <p style="font-size: 16px; line-height: 22px; padding: 12px 0px; margin: 0px;">Ancient rhythms meet contemporary beats in this dynamic musical performance which tells the story of Singapore's shared heritage through the power of drums from Chinese, Indian, Malay, Middle Eastern and Latin Folk traditions. Don't forget to check out the fringe activities where you can try playing different percussion instruments at the Rhythm Booths and join the Ethnic Drum Circle to create music together.</p>
+
+                    <div style="max-width: 100%; text-align: left; padding: 15px 0px 0px;">
+            <a target="_new" style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: 15px; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 120px; font-style: italic; font-weight: bold; margin-right: 8px; margin-bottom: 10px; display: inline-block; text-align: center; font-style: italic;" href="https://www.onepa.gov.sg/events/artseverywhere-chong-pang-98555564">
+              Register Your Interest
+            </a>
+          </div>
           
         </div>
       </div>
       </div>
 
-          <div style="max-width: 100%; text-align: left; padding: 10px 35px 0px;">
-            <hr style="border-bottom: thin solid #D3D3D3;">
-          </div>
+      <div style="max-width: 100%;text-align: left;padding: 10px 14px 0px;height: 10px;display: inline;">
+        <div style="border-bottom: thin solid #D3D3D3;height: 1px;margin: 0px 15px;padding: 0px 30px;"></div>
+      </div>
 
       <div style="padding: 0px 15px 5px;" class="col-12 w-100">
       <div class="col-3 text-center">
@@ -731,27 +737,21 @@ Time: 6pm to 8pm<br>
 Venue: Hardcourt beside Sun Plaza  </i></span>
 
           <p style="font-size: 16px; line-height: 22px; padding: 12px 0px; margin: 0px;">Don't miss this uniquely Singaporean showcase where traditional instruments from different cultures blend in harmony while dancers from different ethnic communities unite to bring the music to life with graceful movements. Plus, get up close and personal with various instruments like the Dizi, Bansuri, Mridangam, Accordion and Chinese Drums during the fringe activities.</p>
-          
-        </div>
-      </div>
-      </div>
 
-
-          <div style="max-width: 100%; text-align: left; padding: 10px 35px 0px;">
-            <hr style="border-bottom: thin solid #D3D3D3;">
-          </div>
-
-      <div style="text-align: center;" class="w-100">
-        <div style="text-align: center; margin: auto;" class="w-100">
-
-          <div style="max-width: 100%; text-align: center; padding: 10px 0px 0px;">
-            <a href="https://form.gov.sg/66cd5073725169f909275a33" target="_new" style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: 15px; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold; display: inline-block; text-align: center; font-style: italic;">
+                    <div style="max-width: 100%; text-align: left; padding: 15px 0px 0px;">
+            <a target="_new" style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: 15px; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 120px; font-style: italic; font-weight: bold; margin-right: 8px; margin-bottom: 10px; display: inline-block; text-align: center; font-style: italic;" href="https://form.gov.sg/66cd5073725169f909275a33">
               Register Your Interest
             </a>
           </div>
           
         </div>
       </div>
+      </div>
+
+
+
+
+
 
 
       </div>
@@ -886,7 +886,4 @@ Hint: Find the answers in past issues of our Cohesion e-newsletters! </p>
 </div>
 
 </div>
-
-
-
 
