@@ -429,7 +429,7 @@ h1, h2, h3, h4, h5, h6, li {
     <p style="font-size: 16px; line-height: 22px; margin: 10px 0px;">In October, Northland Primary School took over North West Service Weeks with food, fun and friendship! They helped residents select items for their care packs and hosted a Children's Day carnival. See how small acts of service can make a difference to those in&nbsp;need.</p> 
 
     <div style="width: 100%; text-align: center; display: inline-flex; margin: 0px auto;">
-    <div style="max-width: 100%; text-align: center; padding: 5px 0px 0px; margin: 0px auto;"><a style="background: #DA312C; color: #FFFFFF; padding: 15px 10px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center; font-style: italic; font-weight: bold;" href="https://northwest.cdc.gov.sg/cohesion/november-2025/nw-sw/">Made An Impact</a>
+    <div style="max-width: 100%; text-align: center; padding: 5px 0px 0px; margin: 0px auto;"><a style="background: #DA312C; color: #FFFFFF; padding: 15px 20px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center; font-style: italic; font-weight: bold;" href="https://northwest.cdc.gov.sg/cohesion/november-2025/nw-sw/">Made An Impact</a>
     </div>
     </div>
   </div>
@@ -451,7 +451,7 @@ Festive&nbsp;Celebration
     <p style="font-size: 16px; line-height: 22px; margin: 10px 0px;">Go green this upcoming festive season! Discover simple, practical tips to reduce waste and make your celebrations more eco-friendly and&nbsp;sustainable!</p> 
 
     <div style="width: 100%; text-align: center; display: inline-flex; margin: 0px auto;">
-    <div style="max-width: 100%; text-align: center; padding: 45px 15px 0px; margin: 0px auto;"><a style="background: #0C6C37; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center; font-style: italic; font-weight: bold;" href="https://northwest.cdc.gov.sg/cohesion/september-2025/jobs-anywhere/">Reduce Festive Waste</a>
+    <div style="max-width: 100%; text-align: center; padding: 45px 15px 0px; margin: 0px auto;"><a style="background: #0C6C37; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center; font-style: italic; font-weight: bold;">Reduce Festive Waste</a>
     </div>
     </div>
 
@@ -504,7 +504,7 @@ Jobs&nbsp;Nearby @ CDC
 
 
     <div style="width: 100%; text-align: center; display: inline-flex; margin: 0px auto 25px;">
-    <div style="max-width: 100%; text-align: center; padding: 20px 15px 0px; margin: 0px auto;"><a style="background: #1F4D7F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center; font-style: italic; font-weight: bold;" href="https://northwest.cdc.gov.sg/cohesion/september-2025/sust-fest/">Find Jobs Nearby</a>
+    <div style="max-width: 100%; text-align: center; padding: 20px 15px 0px; margin: 0px auto;"><a style="background: #1F4D7F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center; font-style: italic; font-weight: bold;" href="https://northwest.cdc.gov.sg/cohesion/november-2025/jobs-nearby/">Find Jobs Nearby</a>
     </div>
     </div>
 
@@ -886,7 +886,4 @@ Hint: Find the answers in past issues of our Cohesion e-newsletters! </p>
 </div>
 
 </div>
-
-
-
 
