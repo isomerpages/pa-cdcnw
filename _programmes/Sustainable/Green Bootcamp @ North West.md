@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sustainable
 variant: markdown
 ---
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/hsACnPm88-E?si=LPDubehw3sRuiZx1" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/2dOtAJNzEPI?si=auQ5-A-cUdaqe8-d" height="315" width="560"></iframe>
 
 **Green Bootcamp @ North West** provides a platform for youths to ideate and lead the way as green change makers in the community. Youths are encouraged to think out of the box, and design innovation solutions to address pressing environmental issues.
 
