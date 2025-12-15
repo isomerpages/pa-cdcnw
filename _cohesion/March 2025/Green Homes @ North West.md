@@ -1,11 +1,10 @@
 ---
 title: Green Homes @ North West
-permalink: /cohesion/march-2025/green-homes/
+permalink: /cohesion/january-2026/green-homes/
 variant: markdown
 description: ""
 third_nav_title: March 2025
 ---
-
 <style>
 
 p {
@@ -601,5 +600,3 @@ border-bottom-left-radius: 20px;">
 
 
 </article>
-
-
