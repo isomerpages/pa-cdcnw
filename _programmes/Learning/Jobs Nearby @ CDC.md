@@ -26,6 +26,14 @@ career guidance between jobseekers and potential employers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CRS_SCHEDULE_2.jpg">
 </div>
+<p><strong>Job Listings</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Job_Listings_18_Dec.pdf" rel="noopener nofollow" target="_blank">18 Dec Job Listings</a>
+</p>
+</li>
+</ul>
 <p>Please refer to the table below and sign up based on the nearest location
 to you!</p>
 <table style="minWidth: 100px">
