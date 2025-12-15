@@ -2,13 +2,13 @@ collections:
   cohesion:
     output: true
     order:
-      - January 2026/Mayor's Message.md
-      - January 2026/North West Youth Assembly.md
-      - January 2026/Green Homes @ North West.md
-      - January 2026/North West Student Wise Enrichment Programme.md
-      - January 2026/North West FitnessX Club.md
-      - January 2026/January At A Glance.md
       - January 2026/.keep
+      - January 2026/January At A Glance.md
+      - January 2026/North West FitnessX Club.md
+      - January 2026/North West Student Wise Enrichment Programme.md
+      - January 2026/Green Homes @ North West.md
+      - January 2026/North West Youth Assembly.md
+      - January 2026/Mayor's Message.md
       - November 2025/.keep
       - November 2025/November At A Glance.md
       - November 2025/North West Dance Fit Club.md
