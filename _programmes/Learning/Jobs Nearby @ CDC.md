@@ -30,7 +30,7 @@ career guidance between jobseekers and potential employers.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Job_Listings_18_Dec.pdf" rel="noopener nofollow" target="_blank">18 Dec Job Listings</a>
+<p><a href="/files/Job_Listings_18_Dec_v2.pdf" rel="noopener nofollow" target="_blank">18 Dec 2025</a>
 </p>
 </li>
 </ul>
