@@ -649,7 +649,7 @@ Hardcourt beside Yew Tee MRT Station</i></span>
 
 
           <div style="max-width: 100%; text-align: left; padding: 10px 0px 0px;">
-            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold; margin-right: 8px; margin-bottom: 10px; display: inline-block; text-align: center;" target="_new" href="https://www.mof.gov.sg/news-publications/press-releases/more-than-2.4-million-singaporeans-to-receive-200-to-400-for-the-budget-2024-cost-of-living-(col)-special-payment-in-september">
+            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold; margin-right: 8px; margin-bottom: 10px; display: inline-block; text-align: center;" target="_new" href="">
               <em>Find Out More</em>
             </a>
           </div>
