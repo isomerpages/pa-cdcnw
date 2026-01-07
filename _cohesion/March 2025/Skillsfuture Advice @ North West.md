@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: March 2025
 ---
-
 <style>
 
 p {
@@ -449,7 +448,7 @@ If you're figuring out the next step in your career, why not explore the high-gr
 
   <div style="padding: 15px 10px;">
     <div style="padding: 0px 0px;">
-      <p style="font-size: 18px; font-weight: bold; text-align: left; color: #1F4D7F; margin: 0px 0px;"><strong>Step 1: Subscribe to your preferred platform (e.g. Udemy, Coursera or Gnowbe) <a style="font-weight: bold; color: #1F4D7F; text-decoration: underline;" target="_new" href="https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career- resources/education-career-personal- development/use_SFC_for_online_subscriptions_and_courses.html">here</a>.</strong>
+      <p style="font-size: 18px; font-weight: bold; text-align: left; color: #1F4D7F; margin: 0px 0px;"><strong>Step 1: Subscribe to your preferred platform (e.g. Udemy, Coursera or Gnowbe).</strong>
       </p> 
       <div class="" style="width: 100%; text-align: center; display: inline-block;"><img style="width: 100%; max-width: 500px; padding: 25px 0px; margin: auto;" class="rounded20" src="/images/Cohesion/March%202025/sf_step1.png"></div>
  
@@ -583,5 +582,3 @@ If you're figuring out the next step in your career, why not explore the high-gr
 
 
 </article>
-
-
