@@ -5,6 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: January 2026
 ---
+
 <style>
 
 p {
@@ -476,7 +477,7 @@ h1, h2, h3, h4, h5, h6, li {
      Celebrating the Hands<br>
 That Build Our Nation
     </h2>
-    <p style="font-size: 16px; line-height: 22px; margin: 10px 0px;">Learn how young leaders from the North West Youth Assembly are uplifting and appreciating migrant workers this International Migrant Workers' Day.</p> 
+    <p style="font-size: 16px; line-height: 22px; margin: 10px 0px;">Learn how young leaders from the North West Youth Assembly came together to uplift and appreciate migrant workers in celebration of International Migrant Workers' Day.</p> 
 
 
     <div style="width: 100%; text-align: center; display: inline-flex; margin: 0px auto;">
@@ -554,7 +555,7 @@ Through Digital Exploration
       </div>
       <div class="col-9">
         <div style="padding: 20px 2rem 10px;">
-          <h2 style="color: #FE5D1F; font-weight: bolder; font-size: 20px;line-height: initial;font-style: italic; margin: 0px;"><i>Join Our Brand New and Free North West FitnessX Club Zumba SweatOut Party</i></h2>
+          <h2 style="color: #FE5D1F; font-weight: bolder; font-size: 20px;line-height: initial;font-style: italic; margin: 0px;"><i>Join Our Brand New and Free North West FitnessX Club Zumba Sweat-Out Party</i></h2>
 
           <p style="font-size: 16px; line-height: 22px; padding: 12px 0px; margin: 0px;">Ready to dance, sweat, and have a blast? A new Zumba class is launching, and you’re invited to the fun!
 <br><br>
@@ -656,8 +657,8 @@ Burn calories, boost your mood, and meet new friends – all with our energetic 
     <tr style="color: #000000; background: #FFFFFF; border-bottom: 1px solid #d6d6d6;">
       <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px;">Yew Tee CC</td>
 
-      <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px; text-align: center;">27 Jan 2026 / Thursday<br>
-24 Feb 2026 / Thursday </td>
+      <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px; text-align: center;">27 Jan 2026 / Tuesday<br>
+24 Feb 2026 / Tuesday </td>
 
       <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 5px; text-align: center;">11am - 4pm</td>
       
@@ -698,7 +699,7 @@ Burn calories, boost your mood, and meet new friends – all with our energetic 
 
 
     <tr style="color: #000000; background: #FFFFFF; border-bottom: 1px solid #d6d6d6;">
-      <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px;">Cashew CC</td>
+      <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px;">Senja-Cashew CC</td>
 
       <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px; text-align: center;">26 Feb 2026 / Thursday</td>
 
@@ -866,3 +867,6 @@ Venue: Woodlands CC</p>
 </div>
 
 </div>
+
+
+
