@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: January 2026
 ---
-
 <style>
 
 p {
@@ -867,6 +866,3 @@ Venue: Woodlands CC</p>
 </div>
 
 </div>
-
-
-
