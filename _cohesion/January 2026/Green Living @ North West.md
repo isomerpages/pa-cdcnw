@@ -700,5 +700,3 @@ Key in your postal code <a style="font-weight: bold; color: #086B37" target="_ne
 
 
 </article>
-
-
