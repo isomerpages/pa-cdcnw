@@ -451,7 +451,7 @@ h1, h2, h3, h4, h5, h6, li {
     <p style="font-size: 16px; line-height: 22px; margin: 10px 0px;">Start your year right. Lower your bills and grab e-vouchers all in one go! Check out our guide to energy-efficient living and see how going green can pay off!</p> 
 
     <div style="width: 100%; text-align: center; display: inline-flex; margin: 0px auto;">
-    <div style="max-width: 100%; text-align: center; padding: 27px 15px 0px; margin: 0px auto;"><a style="background: #0C6C37; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center; font-style: italic; font-weight: bold;" href="https://northwest.cdc.gov.sg/cohesion/january-2026/nw-green-homes/">Switch and Save</a>
+    <div style="max-width: 100%; text-align: center; padding: 27px 15px 0px; margin: 0px auto;"><a style="background: #0C6C37; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center; font-style: italic; font-weight: bold;" href="https://northwest.cdc.gov.sg/cohesion/january-2026/nw-green-living/">Switch and Save</a>
     </div>
     </div>
 
@@ -646,7 +646,7 @@ Burn calories, boost your mood, and meet new friends – all with our energetic 
       <div style="" class="col-12">
 <div style="padding: 10px 15px;">
 
-  <table style="width: 100%; font-size: 14px;">
+<table style="width: 100%; font-size: 14px;">
     <tbody><tr style="color: #000000; background: #FF9D76; font-weight: bold;">
       <td style="padding: 10px 10px; text-align: center;"><b>Venue</b></td>
       <td style="padding: 10px 10px; text-align: center;"><b>Date/Day</b></td>
@@ -654,20 +654,7 @@ Burn calories, boost your mood, and meet new friends – all with our energetic 
       <td style="padding: 10px 10px; text-align: center;"><b>Registration</b></td>
     </tr>
 
-    <tr style="color: #000000; background: #FFFFFF; border-bottom: 1px solid #d6d6d6;">
-      <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px;">Yew Tee CC</td>
-
-      <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px; text-align: center;">27 Jan 2026 / Tuesday<br>
-24 Feb 2026 / Tuesday </td>
-
-      <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 5px; text-align: center;">11am - 4pm</td>
-      
-      <td style="padding: 10px 5px; text-align: center; border-bottom: 1px solid #d6d6d6;">
-        <a href="https://go.gov.sg/nw-yt" target="_new" style="background: #FE5D1F; color: #FFFFFF; padding: 6px 15px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: 15px; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 110px; font-style: italic; font-weight: bold; margin: auto; display: inline-block; text-align: center; font-style: italic;">
-              Sign Up Now
-        </a>
-      </td>
-    </tr>
+    
 
     <tr style="color: #000000; background: #FFFFFF; border-bottom: 1px solid #d6d6d6;">
       <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px;">Nee Soon Central CC</td>
@@ -683,7 +670,8 @@ Burn calories, boost your mood, and meet new friends – all with our energetic 
       </td>
     </tr>
 
-    <tr style="color: #000000; background: #FFFFFF; border-bottom: 1px solid #d6d6d6;">
+    
+<tr style="color: #000000; background: #FFFFFF; border-bottom: 1px solid #d6d6d6;">
       <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px;">Ace The Place CC</td>
 
       <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px; text-align: center;">12 Feb 2026 / Thursday</td>
@@ -699,6 +687,20 @@ Burn calories, boost your mood, and meet new friends – all with our energetic 
 
 
     <tr style="color: #000000; background: #FFFFFF; border-bottom: 1px solid #d6d6d6;">
+      <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px;">Yew Tee CC</td>
+
+      <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px; text-align: center;">
+24 Feb 2026 / Tuesday </td>
+
+      <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 5px; text-align: center;">11am - 4pm</td>
+      
+      <td style="padding: 10px 5px; text-align: center; border-bottom: 1px solid #d6d6d6;">
+        <a href="https://go.gov.sg/nw-yt" target="_new" style="background: #FE5D1F; color: #FFFFFF; padding: 6px 15px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: 15px; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 110px; font-style: italic; font-weight: bold; margin: auto; display: inline-block; text-align: center; font-style: italic;">
+              Sign Up Now
+        </a>
+      </td>
+    </tr>
+<tr style="color: #000000; background: #FFFFFF; border-bottom: 1px solid #d6d6d6;">
       <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px;">Senja-Cashew CC</td>
 
       <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px; text-align: center;">26 Feb 2026 / Thursday</td>
@@ -867,6 +869,5 @@ Venue: Woodlands CC</p>
 </div>
 
 </div>
-
 
 
