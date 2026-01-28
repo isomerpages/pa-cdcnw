@@ -424,7 +424,7 @@ object-fit: cover;
   -moz-border-radius: 20px;
   border-radius: 20px;
 }
-</style>
+  </style>
 
 
 <article style="max-width: 800px; width: 100%; margin: auto;">
@@ -437,53 +437,53 @@ object-fit: cover;
 
 <div style="width: 100%;">
   <img style="width: 100%; max-width:" src="https://northwest.cdc.gov.sg/images/Cohesion/January%202024/caring_communities.png">
-  <img style="width: 100%; max-width:" src="/images/Cohesion/Jan%202026/title_mayors_message.png">
+  <img style="width: 100%; max-width:" src="https://staging-lite.d2zr4mfri8ph9q.amplifyapp.com/images/Cohesion/Jan%202026/title_mayors_message.png">
+
 </div>
 
 <div style="max-width: 100%; padding: 30px 0px 10px;" class="rounded20">
-  <img style="width: 100%; margin-top: 0px;" class="rounded20" src="/images/Cohesion/Jan%202026/mayor_message.jpg">
+  <img style="width: 100%; margin-top: 0px;" class="rounded20" src="https://staging-lite.d2zr4mfri8ph9q.amplifyapp.com/images/Cohesion/Jan%202026/mayor_message.jpg">
 </div>
 
 <div style="padding: 10px 0px 20px;">
-<p style="font-size: 17px; line-height: 26px;" class="sriracha-regular">As we welcome 2026, I look back with gratitude on how we're shaping #OurNorthWest community – through the work we do, the projects we take on, and the way we show up for one another. Let's continue to move forward as a caring, sustainable, healthy, inclusive, and learning community – together.</p>
+<p style="font-size: 17px; line-height: 26px;" class="sriracha-regular">As we welcome 2026, I look back with gratitude on how we have shaped #OurNorthWest community in 2025. We achieved much through the work we did, the projects we took on, and the way we showed up for one another. As we journey ahead for the new year, we look forward to the continued support from our corporate, community and school partners, as well as our dedicated volunteers, as we make #OurNorthWest a caring and healthy community.</p> 
+
+<p style="font-size: 17px; line-height: 26px;" class="sriracha-regular">Wishing you and your family a Happy New Year!</p>
+  
+
+<p style="font-size: 17px; line-height: 26px;" class="sriracha-regular">Alex Yam<br>
+Mayor, North West Community Development Council</p>
+<p></p>
 </div>
 
 
 <div style="padding: 0px 0px;">
-  <img style="width: 100%; margin-top: 0px; padding: 0px 0px;" class="" src="/images/Cohesion/Jan%202026/highlights_2025_01.jpg">
+  <img style="width: 100%; margin-top: 0px; padding: 0px 0px;" class="" src="https://staging-lite.d2zr4mfri8ph9q.amplifyapp.com/images/Cohesion/Jan%202026/highlights_2025_01.jpg">
 </div>
 
 <div style="padding: 0px 0px;">
-  <img style="width: 100%; margin-top: 0px; padding: 0px 0px;" class="" src="/images/Cohesion/Jan%202026/highlights_2025_02.gif">
+  <img style="width: 100%; margin-top: 0px; padding: 0px 0px;" class="" src="https://staging-lite.d2zr4mfri8ph9q.amplifyapp.com/images/Cohesion/Jan%202026/highlights_2025_02.gif">
 </div>
 
 <div style="padding: 0px 0px;">
-  <img style="width: 100%; margin-top: 0px; padding: 0px 0px;" class="" src="/images/Cohesion/Jan%202026/highlights_2025_03.gif">
+  <img style="width: 100%; margin-top: 0px; padding: 0px 0px;" class="" src="https://staging-lite.d2zr4mfri8ph9q.amplifyapp.com/images/Cohesion/Jan%202026/highlights_2025_03.gif">
 </div>
 
 <div style="padding: 0px 0px;">
-  <img style="width: 100%; margin-top: 0px; padding: 0px 0px;" class="" src="/images/Cohesion/Jan%202026/highlights_2025_04.gif">
+  <img style="width: 100%; margin-top: 0px; padding: 0px 0px;" class="" src="https://staging-lite.d2zr4mfri8ph9q.amplifyapp.com/images/Cohesion/Jan%202026/highlights_2025_04.gif">
 </div>
 
 <div style="padding: 0px 0px;">
-  <img style="width: 100%; margin-top: 0px; padding: 0px 0px;" class="" src="/images/Cohesion/Jan%202026/highlights_2025_05.gif">
+  <img style="width: 100%; margin-top: 0px; padding: 0px 0px;" class="" src="https://staging-lite.d2zr4mfri8ph9q.amplifyapp.com/images/Cohesion/Jan%202026/highlights_2025_05.gif">
 </div>
 
 <div style="padding: 0px 0px;">
-  <img style="width: 100%; margin-top: 0px; padding: 0px 0px;" class="" src="/images/Cohesion/Jan%202026/highlights_2025_06.gif">
+  <img style="width: 100%; margin-top: 0px; padding: 0px 0px;" class="" src="https://staging-lite.d2zr4mfri8ph9q.amplifyapp.com/images/Cohesion/Jan%202026/highlights_2025_06.gif">
 </div>
 
 
 
 
-<div style="padding: 10px 0px 0px;">
-<p style="font-size: 17px; line-height: 26px;" class="sriracha-regular">With the support from our corporate, community and school partners, as well as volunteers, we look forward to making #OurNorthWest an even better place to live, work and thrive. 
-<br><br>
-Wishing you and your family a happy, healthy New Year!
-<br><br>
-<span style="font-weight: bold;">Alex Yam<br>
-Mayor, North West Community Development Council</span></p>
-</div>
 
 
 
@@ -525,5 +525,8 @@ Mayor, North West Community Development Council</span></p>
 
 
 </article>
+
+
+
 
 
