@@ -766,9 +766,7 @@ Date: 1 Mar 2026,<br>
 Time: 10am to 12pm<br>
 Venue: Woodlands CC</p>
           <br>
-          <a href="https://form.gov.sg/66cd5073725169f909275a33" target="_new" style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: 15px; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold; display: inline-block; text-align: center; font-style: italic;">
-              Register Your Interest
-            </a>
+        
         </div>
 
       </div>
@@ -868,6 +866,3 @@ Venue: Woodlands CC</p>
 </div>
 
 </div>
-
-
-
