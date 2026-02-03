@@ -5,19 +5,14 @@ variant: tiptap
 description: ""
 third_nav_title: Learning
 ---
-<p><strong>Jobs Nearby @ CDC – North West</strong> is a localised job-matching
-initiative to connect residents with job opportunities closer to them –
-providing personalised career support and advice tailored to the residents’
-needs through the following resources:</p>
-<p><strong><u>Jobs Anywhere @ North West</u></strong>
-</p>
-<p>A one-stop portal that helps residents find flexible work arrangements
-and jobs closer to home. The portal provides career guidance resources,
-AI resume building assistance, as well as to schedule one-on-one sessions
-with experienced career coaches for personalised guidance, and Skills Ambassadors
-to receive recommendations for skills upgrading courses to enhance employability.</p>
-<p>Start your job search at <a href="https://event.e2i.com.sg/view-event/jobsanywhere" rel="noopener nofollow" target="_blank">go.gov.sg/jobsanywhere</a>!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Artboard_1_100.jpg">
+</div>
+<p><strong>Jobs Nearby @ CDC – North West</strong> connects residents with
+job opportunities within their neighbourhood and provides personalised
+career support and advice tailored to residents’ needs through the following
+resources:</p>
 <p><strong><u>Community Job Clinics</u></strong>
 </p>
 <p>The job clinics are now right within your neighbourhood! Speak to our
@@ -102,6 +97,16 @@ to you!</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p><strong><u>Jobs Anywhere @ North West</u></strong>
+</p>
+<p>A one-stop portal that helps residents find flexible work arrangements
+and jobs closer to home. The portal provides career guidance resources,
+AI resume building assistance, as well as to schedule one-on-one sessions
+with experienced career coaches for personalised guidance, and Skills Ambassadors
+to receive recommendations for skills upgrading courses to enhance employability.</p>
+<p>Start your job search at <a href="https://event.e2i.com.sg/view-event/jobsanywhere" rel="noopener nofollow" target="_blank">go.gov.sg/jobsanywhere</a>!</p>
+<p></p>
 <p>For other enquiries, kindly contact:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -112,4 +117,5 @@ to you!</p>
 </p>
 </li>
 </ul>
+<p></p>
 <p></p>
