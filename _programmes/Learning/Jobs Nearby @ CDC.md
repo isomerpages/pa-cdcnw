@@ -9,10 +9,9 @@ third_nav_title: Learning
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Artboard_1_100.jpg">
 </div>
-<p><strong>Jobs Nearby @ CDC – North West</strong> connects residents with
-job opportunities within their neighbourhood and provides personalised
-career support and advice tailored to residents’ needs through the following
-resources:</p>
+<p><a href="https://www.cdc.gov.sg/jobs-nearby-cdc/" rel="noopener nofollow" target="_blank">Jobs Nearby @ CDC</a><strong> </strong>connects
+residents with job opportunities within their neighbourhood and provides
+personalised career support and advice tailored to residents’ needs.</p>
 <p><strong><u>Community Job Clinics</u></strong>
 </p>
 <p>The job clinics are now right within your neighbourhood! Speak to our
