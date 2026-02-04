@@ -18,15 +18,16 @@ personalised career support and advice tailored to residents’ needs.</p>
 Job Ambassadors to discover available roles near you, and personalised
 career guidance between jobseekers and potential employers.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JN___CJC_Schedule.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/job_clinics_2.jpg">
 </div>
-<p></p>
-<p>Another one-stop portal that helps residents find flexible work arrangements
-and jobs closer to home. The portal provides career guidance resources,
-AI resume building assistance, as well as to schedule one-on-one sessions
-with experienced career coaches for personalised guidance, and Skills Ambassadors
-to receive recommendations for skills upgrading courses to enhance employability.
-Start your job search at <a href="https://event.e2i.com.sg/view-event/jobsanywhere" rel="noopener nofollow" target="_blank"><u>go.gov.sg/jobsanywhere</u></a>!</p>
+<p>Another resource available is a one-stop portal that helps residents find
+flexible work arrangements and jobs closer to home. The portal provides
+career guidance resources, AI resume building assistance, as well as to
+schedule one-on-one sessions with experienced career coaches for personalised
+guidance, and Skills Ambassadors to receive recommendations for skills
+upgrading courses to enhance employability. Start your job search at
+<a href="https://event.e2i.com.sg/view-event/jobsanywhere" rel="noopener nofollow" target="_blank"><u>go.gov.sg/jobsanywhere</u>
+</a>!</p>
 <p>For other enquiries, kindly contact:</p>
 <ul data-tight="true" class="tight">
 <li>
