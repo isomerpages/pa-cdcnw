@@ -17,8 +17,9 @@ personalised career support and advice tailored to residents’ needs.</p>
 <p>The job clinics are now right within your neighbourhood! Speak to our
 Job Ambassadors to discover available roles near you, and personalised
 career guidance between jobseekers and potential employers.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/job_clinics_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/job_clinics_3.jpg">
 </div>
 <p>Another resource available is a one-stop portal that helps residents find
 flexible work arrangements and jobs closer to home. The portal provides
