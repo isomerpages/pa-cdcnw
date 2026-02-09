@@ -54,6 +54,4 @@ This platform, developed in partnership with Workforce Singapore (WSG) and the G
 
 The [SkillsFuture Jobseeker Support Scheme](https://www.wsg.gov.sg/home/individuals/jobseeker-support) provides temporary financial support of up to $6,000 over 6 months for involuntarily unemployed individuals. This initiative offered by Workforce Singapore (WSG) helps job seekers make better use of their skills and experiences, supporting their career transitions effectively.
 
-Access this [Career Toolkit](https://content.mycareersfuture.gov.sg/career-readiness-toolkit/) for career-related insights and guidance, supporting you at every step in your career planning process.
-
 Together, let us make lifelong learning our way of life!
