@@ -20,7 +20,7 @@ career guidance between jobseekers and potential employers.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CRS_SCHEDULE___3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community_Job_Clinics_Poster.jpg">
 </div>
 <p>Another resource available is a one-stop portal that helps residents find
 flexible work arrangements and jobs closer to home. The portal provides
