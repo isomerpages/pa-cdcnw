@@ -27,6 +27,48 @@ conveniently in their neighbourhood.”</p>
 <p>Mr Alex Yam, Mayor of North West District</p>
 </blockquote>
 <p></p>
-<p><strong>Register your interest </strong><a href="https://go.gov.sg/nw-ae-registration" rel="noopener nofollow" target="_blank">here</a><strong> and secure your slot at upcoming events, and receive a game card to redeem a free snack and participate in free activities!</strong>
-</p>
+<h4><strong>Upcoming Events</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Woodlands CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Mar 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10am to 12.30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
