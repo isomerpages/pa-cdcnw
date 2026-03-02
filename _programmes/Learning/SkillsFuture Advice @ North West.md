@@ -25,18 +25,6 @@ Starting 1 May 2024, eligible Singaporeans aged 40 years and above can tap on th
 
 For more information on the programme and a list of eligible courses, visit the [SkillsFuture website](https://www.skillsfuture.gov.sg/level-up-programme).
 
-**Featured Partner: Republic Polytechnic (RP)**  
-_Learn Smart. Level Up._ Boost your skills with RP’s hands-on, industry-relevant courses designed to keep your career future-proof.
-
-**Popular SkillsFuture Career Transition Programme (SCTP) & Specialist Diploma courses include:**  
-• 🤖 Automation with Artificial Intelligence (AI)  
-• 🛠️ Facade Inspection Using Drones  
-• 🍽️ Food & Beverage Entrepreneurship  
-• 🌱 Sustainability & Environmental Skills  
-• 🏃‍♂️ Sport Science & Wellness
-
-🔗 [View All Courses](https://www.rp.edu.sg/ace/skillsfuture-career-transition-programme "https://www.rp.edu.sg/ace/skillsfuture-career-transition-programme") & [Register with RP](https://form.gov.sg/67e50332032a00bd70706e7a "https://form.gov.sg/67e50332032a00bd70706e7a")
-
 **SkillsFuture Mid-Career Training Allowance**
 
 From early 2025, Singaporeans can embrace new career opportunities through the SkillsFuture Mid-Career Training Allowance, which provides financial support for individuals attending eligible training courses. This allowance helps ease the transition for mid-career professionals into new roles or industries by pursuing substantive reskilling through full-time, long-form training.
@@ -46,7 +34,7 @@ Discover how this programme can support your career progression by visiting the 
 **Job Seekers**
 
 **My CareersFuture Portal**  
-Your next career move is just a few clicks away. Check out the My CareersFuture Portal, specifically designed to connect you to relevant job opportunities based on your unique skills and competencies.
+Our next career move is just a few clicks away. Check out the [My CareersFuture Portal](https://www.mycareersfuture.gov.sg/ "https://www.mycareersfuture.gov.sg/"), specifically designed to connect you to relevant job opportunities based on your unique skills and competencies.
 
 This platform, developed in partnership with Workforce Singapore (WSG) and the Government Technology Agency, also highlights job positions eligible for Government support.
 
