@@ -17,7 +17,7 @@ personalised career support and advice tailored to residents’ needs.</p>
 <p>The job clinics are now right within your neighbourhood! Speak to our
 Job Ambassadors to discover available roles near you, and personalised
 career guidance between jobseekers and potential employers. Register your
-interest at <a href="" rel="noopener nofollow" target="_blank">go.gov.sg/nw-jobclinic</a>.</p>
+interest at <a href="http://go.gov.sg/nw-jobclinics" rel="noopener nofollow" target="_blank">go.gov.sg/nw-jobclinics</a>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/community_job_clinic_poster___mar.jpg">
 </div>
