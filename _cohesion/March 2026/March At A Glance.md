@@ -613,7 +613,7 @@ Possible by a Giving Community
     </tr>
 
     <tr style="color: #000000; background: #FFFFFF; border-bottom: 1px solid #d6d6d6;">
-      <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px;">Marsiling Zone 4 RN Centre CC</td>
+      <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px;">Marsiling Zone 4 RN Centre</td>
 
       <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px; text-align: center;">
 7 Apr 2026 / Tuesday</td>
