@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: March 2026
 ---
-
 <style>
 
 p {
@@ -427,7 +426,7 @@ h1, h2, h3, h4, h5, h6, li {
     <h2 style="color: #F96B8D;font-weight: bolder;font-size: 20px;line-height: initial;font-style: italic;margin: 15px 15px;">
       Discover the Top 3 Walking Trails in our North West
     </h2>
-    <p style="font-size: 16px; line-height: 22px; margin: 10px 0px;">Looking for a low-impact way to get moving? Join our healthy community today! Here are 3 easy walking trails to get you started, brought to you by the North West Brisk Walking Club</p> 
+    <p style="font-size: 16px; line-height: 22px; margin: 10px 0px;">Looking for a low-impact way to get moving? Join our healthy community today! Here are 3 easy walking trails to get you started, brought to you by the North West Brisk Walking Club.</p> 
 
     <div style="width: 100%; text-align: center; display: inline-flex; margin: 0px auto;">
     <div style="max-width: 100%; text-align: center; padding: 5px 0px 0px; margin: 0px auto;"><a style="background: #F96B8D; color: #FFFFFF; padding: 15px 10px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center; font-style: italic; font-weight: bold;" href="https://northwest.cdc.gov.sg/cohesion/january-2026/nw-fitnessx/">Hit the Trails</a>
@@ -646,7 +645,7 @@ Possible by a Giving Community
 
            <div style="max-width: 100%; text-align: center; padding: 10px 0px 0px;">
             <a href="https://go.gov.sg/nw-jobclinics" target="_new" style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: 15px; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 120px; font-style: italic; font-weight: bold; margin-right: 8px; margin-bottom: 10px; display: inline-block; text-align: center; font-style: italic;">
-              Sign Up Now
+              SPEAK TO OUR JOB AMBASSADORS
             </a>
           </div> 
 
@@ -706,7 +705,7 @@ Possible by a Giving Community
           </p>
                     <div style="max-width: 100%; text-align: left; padding: 10px 0px 0px;">
             <a href="https://go.gov.sg/nwdance-reg" target="_new" style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: 15px; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 120px; font-style: italic; font-weight: bold; margin-right: 8px; margin-bottom: 10px; display: inline-block; text-align: center; font-style: italic;">
-              Register Now
+              Sign Up Now
             </a>
           </div> 
         </div>
