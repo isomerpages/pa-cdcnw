@@ -17,6 +17,7 @@ Eligible applicants may apply during the two application windows each year, and 
 *   Resident of the North West District;
 *   Monthly household income of&nbsp;≤ $3,500 or monthly Per Capita Income of ≤ $1,000
 
-October's application cycle will be from 6 October to 26 October 2025.  Eligible residents residing within the North West District may apply within the application period via this [application form](https://go.gov.sg/nwdiapers).
+ 
+April's application cycle will be from 6 April to 26 April 2026.&nbsp; Eligible residents residing within the North West District may apply within the application period via this \[application form\](https://go.gov.sg/nwdiapers).
 
 All applications are subject to assessment and evaluation.&nbsp; Supporting documents are required to assess the applicant’s overall circumstances and&nbsp;meeting the eligibility criteria may not guarantee entitlement to assistance.
