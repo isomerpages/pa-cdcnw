@@ -571,10 +571,10 @@ border-bottom-left-radius: 20px;">
   <div style="width: 100%; display: flex; padding: 15px 0px;">
     <div class="col-12">
       <div class="col-6">
-        <a target="_new" href="https://go.gov.sg/greenhomesnw"><img style="width: 100%;" class="" src="/images/Cohesion/Mar%202026/join_reduce.png"></a>
+        <a target="_new" href="https://go.gov.sg/greenhomesnw"><img style="width: 100%;" class="" src="/images/Cohesion/Mar%202026/join_green.png"></a>
       </div>
       <div class="col-6">
-        <a target="_new" href="https://go.gov.sg/reduce-sign-up"><img style="width: 100%;" class="" src="/images/Cohesion/Mar%202026/join_green.png"></a>
+        <a target="_new" href="https://form.gov.sg/641db104f33bd00013d157bf"><img style="width: 100%;" class="" src="/images/Cohesion/Mar%202026/join_reduce.png"></a>
       </div>
     </div>
   </div>
