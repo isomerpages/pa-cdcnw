@@ -572,27 +572,10 @@ Possible by a Giving Community
     </tr>
 
     <tr style="color: #000000; background: #FFFFFF; border-bottom: 1px solid #d6d6d6;">
-      <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px;">Bukit Timah CC</td>
-
-      <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px; text-align: center;">10 Mar 2026 / Tuesday</td>
-
-      <td style="border-bottom: 1px solid #d6d6d6; padding: 10px 5px; text-align: center;">11am - 4pm</td>
-      
-    </tr>
-
-    <tr style="color: #000000; background: #FFFFFF; border-bottom: 1px solid #d6d6d6;">
-      <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px;">Ace The Place CC</td>
-
-      <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px; text-align: center;">12 Mar 2026 / Thursday</td>
-
-      <td style="border-bottom: 1px solid #d6d6d6; padding: 10px 5px; text-align: center;">11am - 4pm</td>
-      
-    </tr>    
-
-    <tr style="color: #000000; background: #FFFFFF; border-bottom: 1px solid #d6d6d6;">
       <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px;">Canberaa CC</td>
 
-      <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px; text-align: center;">17 Mar 2026 / Tuesday</td>
+      <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px; text-align: center;">17 Mar 2026 / Tuesday<br>
+21 Apr 2026 / Tuesday</td>
 
       <td style="border-bottom: 1px solid #d6d6d6; padding: 10px 5px; text-align: center;">11am - 4pm</td>
       
@@ -602,7 +585,8 @@ Possible by a Giving Community
   <tr style="color: #000000; background: #FFFFFF; border-bottom: 1px solid #d6d6d6;">
       <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px;">Senja-Cashew CC</td>
 
-      <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px; text-align: center;">19 Mar 2026 / Thursday</td>
+      <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px; text-align: center;">19 Mar 2026 / Thursday<br>
+16 Apr 2026 / Thursday</td>
 
       <td style="border-bottom: 1px solid #d6d6d6; padding: 10px 5px; text-align: center;">11am - 4pm</td>
       
@@ -612,8 +596,8 @@ Possible by a Giving Community
     <tr style="color: #000000; background: #FFFFFF; border-bottom: 1px solid #d6d6d6;">
       <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px;">Yew Tee CC</td>
 
-      <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px; text-align: center;">
-24 Mar 2026 / Tuesday</td>
+      <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px; text-align: center;">24 Mar 2026 / Tuesday<br>
+28 Apr 2026 / Tuesday</td>
 
       <td style="border-bottom: 1px solid #d6d6d6; padding: 10px 5px; text-align: center;">11am - 4pm</td>
       
@@ -633,6 +617,24 @@ Possible by a Giving Community
 
       <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px; text-align: center;">
 7 Apr 2026 / Tuesday</td>
+
+      <td style="border-bottom: 1px solid #d6d6d6; padding: 10px 5px; text-align: center;">11am - 4pm</td>
+      
+    </tr>
+
+    <tr style="color: #000000; background: #FFFFFF; border-bottom: 1px solid #d6d6d6;">
+      <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px;">Ace The Place CC</td>
+
+      <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px; text-align: center;">9 Apr 2026 / Thursday</td>
+
+      <td style="border-bottom: 1px solid #d6d6d6; padding: 10px 5px; text-align: center;">11am - 4pm</td>
+      
+    </tr>    
+
+    <tr style="color: #000000; background: #FFFFFF; border-bottom: 1px solid #d6d6d6;">
+      <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px;">Bukit Timah CC</td>
+
+      <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px; text-align: center;">14 Apr 2026 / Tuesday</td>
 
       <td style="border-bottom: 1px solid #d6d6d6; padding: 10px 5px; text-align: center;">11am - 4pm</td>
       
@@ -825,5 +827,4 @@ Visit <a style="color: #FB5C1F;" target="_new" href="https://www.pa.gov.sg/caree
 </div>
 
 
-
-
+\
