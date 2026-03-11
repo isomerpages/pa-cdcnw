@@ -477,7 +477,7 @@ object-fit: cover;
   <p style="font-size: 13px; line-height: 26px; text-align: justify; font-style: italic; margin: 0px;">Photo credit: Nparks</p>
 </div>
 
-<div style="padding: 10px 0px 0px;">
+<div style="padding: 10px 0px 20px;">
 <p style="font-size: 16px; line-height: 26px; text-align: justify;"><span style="font-weight: bold;">Distance:</span> 3.9km<br>
 <span style="font-weight: bold;">Time taken:</span> 1 to 1.5 hours<br>
 <span style="font-weight: bold;">Difficulty:</span> Easy<br><br>
@@ -507,7 +507,7 @@ Need a quick nature escape? Go on an easy brisk walk through our very own UNESCO
   <p style="font-size: 13px; line-height: 26px; text-align: justify; font-style: italic; margin: 0px;">Photo credit: Nparks</p>
 </div>
 
-<div style="padding: 10px 0px 0px;">
+<div style="padding: 10px 0px 20px;">
 <p style="font-size: 16px; line-height: 26px; text-align: justify;"><span style="font-weight: bold;">Distance:</span> 1.3km<br>
 <span style="font-weight: bold;">Time taken:</span> 30 to 40mins<br>
 <span style="font-weight: bold;">Difficulty:</span> Easy<br><br>
@@ -536,7 +536,7 @@ Take a rejuvenating walk along this trail and immerse yourself in the sights, so
   <p style="font-size: 13px; line-height: 26px; text-align: justify; font-style: italic; margin: 0px;">Photo credit: littledayout.com</p>
 </div>
 
-<div style="padding: 10px 0px 0px;">
+<div style="padding: 10px 0px 20px;">
 <p style="font-size: 16px; line-height: 26px; text-align: justify;"><span style="font-weight: bold;">Distance:</span> 5.5km<br>
 <span style="font-weight: bold;">Time taken:</span> approximately 2.5 hours <br>
 <span style="font-weight: bold;">Difficulty:</span> Moderate to challenging<br><br>
@@ -653,5 +653,3 @@ border-bottom-left-radius: 20px;">
 
 
 </article>
-
-

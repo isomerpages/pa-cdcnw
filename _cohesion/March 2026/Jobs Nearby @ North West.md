@@ -1,5 +1,5 @@
 ---
-title: Jobs Nearby @ CDC
+title: Jobs Nearby @ North West
 permalink: /cohesion/march-2026/jobs-nearby/
 variant: markdown
 description: ""
@@ -533,5 +533,3 @@ Not only does Jobs Nearby @ CDC make it easier for jobseekers to find roles clos
 
 
 </article>
-
-
