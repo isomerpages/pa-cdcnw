@@ -474,48 +474,48 @@ object-fit: cover;
 <div style="padding: 10px 0px 15px;">
   <p style="font-size: 20px; font-weight: bold; text-align: left; color: #086B37; margin: 0px 0px;"><b>Achievements </b></p> 
   <p style="font-size: 16px; line-height: 26px; text-align: justify; margin: 10px 0px;">As Co-Chairman of the Green Living Committee, Dennis has spearheaded efforts to  create programmes aimed at fostering environmental sustainability in the North West District:</p>
-  <ul style="padding: 0px 15px;">
-    <li style="padding-bottom: 8px;">Led the development of North West CDC’s Sustainability Plan 2030</li>
-    <li style="padding-bottom: 8px;">Expanded coverage of the North West CDC Sustainability Report beyond Green Living initiatives</li>
-    <li style="padding-bottom: 8px;">Developed a green checklist for grassroots activities in North West CDC to reduce consumption of resources</li> 
-    <li style="padding-bottom: 8px;">Developed the North West Youth Forum on Sustainability to engage residents on sustainability issues during the COVD-19 pandemic</li>
+  <ul style="padding: 0px 15px 0px 0px;font-size: 16px !important;">
+    <li style="padding-bottom: 8px;font-size: 16px;line-height: initial;">Led the development of North West CDC’s Sustainability Plan 2030</li>
+    <li style="padding-bottom: 8px;font-size: 16px;line-height: initial;">Expanded coverage of the North West CDC Sustainability Report beyond Green Living initiatives</li>
+    <li style="padding-bottom: 8px;font-size: 16px;line-height: initial;">Developed a green checklist for grassroots activities in North West CDC to reduce consumption of resources</li> 
+    <li style="padding-bottom: 8px;font-size: 16px;line-height: initial;">Developed the North West Youth Forum on Sustainability to engage residents on sustainability issues during the COVD-19 pandemic</li>
   </ul>
 </div>
 
 <div style="padding: 10px 0px 15px;">
   <p style="font-size: 20px; font-weight: bold; text-align: left; color: #086B37; margin: 0px 0px;"><b>Impact</b></p>
 
-    <div style="padding: 20px 0px;" class="col-12">
-      <div style="display: flex;" class="col-6">
+<div class="col-12" style="padding: 20px 0px;">
+      <div class="col-6" style="display: flex;">
         <div style="width: 100%;padding: 3px;">
-        <div style="width: 100%; background: #D3EBE5;" class="rounded20">
+        <div class="rounded20" style="width: 100%; background: #D3EBE5;">
           <div style="width: 98%; margin: 0px auto;">
             <div style="width: 100%; padding: 15px 15px 30px; display: table-cell;">
               <p style="width: 100%; font-size: 18px; font-weight: bold; text-align: left; color: #086B37; margin: 10px 0px; text-align: center;"><b>North West Sustainability Festival</b></p>
-              <img style="width: 100%;" class="rounded20" src="/images/Cohesion/Mar%202026/green1.gif">
-          <p style="font-size: 16px; line-height: 20px; margin: 10px 0px;">Schools, community groups and corporates came together in a 3-day festival focused on food sustainability.</p>
-              <br>
-              <p style="font-size: 16px; line-height: 20px; margin: 10px 0px;"><img align="left" style="width: 100%; max-width: 40px; margin-top: -8px;" class="" src="/images/Cohesion/Mar%202026/icon_nwsf1.png">&nbsp;5,000 participants</p><br>
-              <p style="font-size: 16px; line-height: 20px; margin: 10px 0px;"><img align="left" style="width: 100%; max-width: 40px; margin-top: -8px;" class="" src="/images/Cohesion/Mar%202026/icon_nwsf2.png">&nbsp;120 vlounteers</p><br>
-              <p style="font-size: 16px; line-height: 20px; margin: 10px 0px;"><img align="left" style="width: 100%; max-width: 40px; margin-top: -8px;" class="" src="/images/Cohesion/Mar%202026/icon_nwsf3.png">&nbsp;36 partners</p>
+              <img src="/images/Cohesion/Mar%202026/green1.gif" class="rounded20" style="width: 100%;">
+          <p style="font-size: 16px;line-height: 20px;padding: 10px 0px 18px;margin: 0px 0px;min-height: 128px;">Schools, community groups and corporates came together in a 3-day festival focused on food sustainability.</p>
+              
+              <div style="font-size: 16px;line-height: 20px;margin: 10px 0px;padding: 10px 0px;"><img src="/images/Cohesion/Mar%202026/icon_nwsf1.png" class="" style="width: 100%; max-width: 36px; margin-top: -8px;" align="left">&nbsp;5,000 participants</div>
+              <div style="font-size: 16px;line-height: 20px;margin: 10px 0px;padding: 10px 0px;"><img src="/images/Cohesion/Mar%202026/icon_nwsf2.png" class="" style="width: 100%; max-width: 36px; margin-top: -8px;" align="left">&nbsp;120 vlounteers</div>
+              <div style="font-size: 16px;line-height: 20px;margin: 10px 0px;padding: 10px 0px;"><img src="/images/Cohesion/Mar%202026/icon_nwsf3.png" class="" style="width: 100%;max-width: 36px;margin-top: -8px;" align="left">&nbsp;36 partners</div>
             </div>        
           </div>
         </div>
         </div>
       </div>
 
-      <div style="display: flex;" class="col-6">
+      <div class="col-6" style="display: flex;">
         <div style="width: 100%;padding: 3px;">
-        <div style="width: 100%; background: #D3EBE5;" class="rounded20">
+        <div class="rounded20" style="width: 100%; background: #D3EBE5;">
           <div style="width: 98%; margin: 0px auto;">
             <div style="width: 100%; padding: 15px 15px 30px; display: table-cell;">
               <p style="width: 100%; font-size: 18px; font-weight: bold; text-align: left; color: #086B37; margin: 10px 0px; text-align: center;"><b>Recycle @ North West</b></p>
-              <img style="width: 100%;" class="rounded20" src="/images/Cohesion/Mar%202026/Recycle___NW.png">
-          <p style="font-size: 16px; line-height: 20px; margin: 10px 0px 18px;">Recycling points were set up in schools where students could deposit recyclables, learn about recycling processes, and engage in hands-on sustainability activities </p>
+              <img src="/images/Cohesion/Mar%202026/Recycle___NW.png" class="rounded20" style="width: 100%;">
+          <p style="font-size: 16px;line-height: 20px;padding: 10px 0px 18px;margin: 0px 0px;min-height: 128px;">Recycling points were set up in schools where students could deposit recyclables, learn about recycling processes, and engage in hands-on sustainability activities </p>
 
-              <p style="font-size: 16px; line-height: 20px; margin: 10px 0px;"><img align="left" style="width: 100%; max-width: 40px; margin-top: -8px;" class="" src="/images/Cohesion/Mar%202026/icon_recycle1.png">&nbsp;44 schools</p><br>
-              <p style="font-size: 16px; line-height: 20px; margin: 10px 0px;"><img align="left" style="width: 100%; max-width: 40px; margin-top: -8px;" class="" src="/images/Cohesion/Mar%202026/icon_recycle2.png">&nbsp;49,625 students</p><br>
-              <p style="font-size: 16px; line-height: 20px; margin: 10px 0px;"><img align="left" style="width: 100%; max-width: 40px; margin-top: -8px;" class="" src="/images/Cohesion/Mar%202026/icon_recycle3.png">&nbsp;99,188 kg of recyclables collected</p>
+              <div style="font-size: 16px;line-height: 20px;margin: 10px 0px;padding: 10px 0px;"><img src="/images/Cohesion/Mar%202026/icon_recycle1.png" class="" style="width: 100%;max-width: 36px;margin-top: -8px;" align="left">&nbsp;44 schools</div>
+              <div style="font-size: 16px;line-height: 20px;margin: 10px 0px;padding: 10px 0px;"><img src="/images/Cohesion/Mar%202026/icon_recycle2.png" class="" style="width: 100%;max-width: 36px;margin-top: -8px;" align="left">&nbsp;49,625 students</div>
+              <div style="font-size: 16px;line-height: 20px;margin: 10px 0px;padding: 10px 0px;"><img src="/images/Cohesion/Mar%202026/icon_recycle3.png" class="" style="width: 100%;max-width: 36px;margin-top: -8px;" align="left">&nbsp;99,188 kg of recyclables collected</div>
             </div>        
           </div>
         </div>
