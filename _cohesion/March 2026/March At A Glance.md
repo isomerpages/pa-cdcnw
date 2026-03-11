@@ -409,7 +409,7 @@ h1, h2, h3, h4, h5, h6, li {
 
     <p style="font-size: 16px; line-height: 22px; text-align: center; max-width: 80%; margin: auto;">Street Dance @ North West is returning for its second edition and we want to see what you're made of! Bring your sharpest moves, freestyle energy and raw talent to the dance floor! Join us for an exciting showdown.</p>
 
-    <div style="max-width: 100%; text-align: center; padding: 10px 15px 15px;"><a style="background: #F96B8D; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center; font-weight: bold;" href="https://northwest.cdc.gov.sg/cohesion/january-2026/mayor-message/"><em>Get Grooming</em></a></div>
+    <div style="max-width: 100%; text-align: center; padding: 10px 15px 15px;"><a style="background: #F96B8D; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center; font-weight: bold;" href="https://northwest.cdc.gov.sg/cohesion/march-2026/street-dance/"><em>Get Grooving</em></a></div>
   </div>
   </div>
 
@@ -420,16 +420,16 @@ h1, h2, h3, h4, h5, h6, li {
   <div style="max-width: 100%; padding: 10px 10px;">
     <div style="max-width: 100%; padding: 0px 0px 0px; background: #FFFFFF; margin: 30px 0px 0px; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px;">
   <div style="width: 100%;">
-    <img style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px; background: #FFE2E9; background-blend-mode: multiply;" class="" src="/images/Cohesion/Mar%202026/edm2.jpg">
+    <img src="/images/Cohesion/Mar%202026/edm2.jpg" class="" style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px; background: #FFE2E9; background-blend-mode: multiply;">
   </div>
-  <div style="background: #F8F8F8; padding: 10px 20px 30px; -webkit-border-bottom-right-radius: 25px; -webkit-border-bottom-left-radius: 25px; -moz-border-radius-bottomright: 25px; -moz-border-radius-bottomleft: 25px; border-bottom-right-radius: 25px; border-bottom-left-radius: 25px; min-height: 250px; position: relative; text-align: center;">
+  <div style="background: #F8F8F8;padding: 10px 20px 30px;-webkit-border-bottom-right-radius: 25px;-webkit-border-bottom-left-radius: 25px;-moz-border-radius-bottomright: 25px;-moz-border-radius-bottomleft: 25px;border-bottom-right-radius: 25px;border-bottom-left-radius: 25px;min-height: 250px;position: relative;text-align: center;">
     <h2 style="color: #F96B8D;font-weight: bolder;font-size: 20px;line-height: initial;font-style: italic;margin: 15px 15px;">
       Discover the Top 3 Walking Trails in our North West
     </h2>
-    <p style="font-size: 16px; line-height: 22px; margin: 10px 0px;">Looking for a low-impact way to get moving? Join our healthy community today! Here are 3 easy walking trails to get you started, brought to you by the North West Brisk Walking Club.</p> 
+    <p style="font-size: 16px;line-height: 22px;margin: 10px 0px;padding-bottom: 22px;">Looking for a low-impact way to get moving? Join our healthy community today! Here are 3 easy walking trails to get you started, brought to you by the North West Brisk Walking Club.</p> 
 
     <div style="width: 100%; text-align: center; display: inline-flex; margin: 0px auto;">
-    <div style="max-width: 100%; text-align: center; padding: 5px 0px 0px; margin: 0px auto;"><a style="background: #F96B8D; color: #FFFFFF; padding: 15px 10px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center; font-style: italic; font-weight: bold;" href="https://northwest.cdc.gov.sg/cohesion/january-2026/nw-fitnessx/">Hit the Trails</a>
+    <div style="max-width: 100%;text-align: center;padding: 0px 0px 0px;margin: 0px auto;"><a href="https://northwest.cdc.gov.sg/cohesion/march-2026/bwc-nw/" style="background: #F96B8D;color: #FFFFFF;padding: 15px 10px;-webkit-border-radius: 50rem;-moz-border-radius: 50rem;border-radius: 50rem;font-size: medium;font-family: Arial, 'sans-serif;';text-decoration: none;text-transform: uppercase;min-width: 150px;display: inline-block;text-align: center;font-style: italic;font-weight: bold;margin: 0px;">Hit the Trails</a>
     </div>
     </div>
   </div>
@@ -441,17 +441,17 @@ h1, h2, h3, h4, h5, h6, li {
   <div style="max-width: 100%; padding: 10px 10px;">
     <div style="max-width: 100%; padding: 0px 0px 0px; background: #FFFFFF; margin: 30px 0px 0px; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px;">
   <div style="width: 100%;">
-    <img style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;" class="" src="/images/Cohesion/Mar%202026/edm3.jpg">
+    <img src="/images/Cohesion/Mar%202026/edm3.jpg" class="" style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;">
   </div>
-  <div style="background: #F8F8F8; padding: 10px 20px 30px; -webkit-border-bottom-right-radius: 25px; -webkit-border-bottom-left-radius: 25px; -moz-border-radius-bottomright: 25px; -moz-border-radius-bottomleft: 25px; border-bottom-right-radius: 25px; border-bottom-left-radius: 25px; min-height: 250px; position: relative; text-align: center;">
+  <div style="background: #F8F8F8;padding: 10px 20px 30px;-webkit-border-bottom-right-radius: 25px;-webkit-border-bottom-left-radius: 25px;-moz-border-radius-bottomright: 25px;-moz-border-radius-bottomleft: 25px;border-bottom-right-radius: 25px;border-bottom-left-radius: 25px;min-height: 250px;position: relative;text-align: center;">
     <h2 style="color: #1F4D7F;font-weight: bolder;font-size: 20px;line-height: initial;font-style: italic;margin: 15px 0px;">
     Ready to work again? Here’s how
 Jobs Nearby @ CDC can help you
     </h2>
-    <p style="font-size: 16px; line-height: 22px; margin: 10px 0px;">Whether you're a homemaker, caregiver, retiree, or retrenched worker, Jobs Nearby @ CDC can match you with roles close to home. It's a winwin for both jobseekers and local employers.</p> 
+    <p style="font-size: 16px;line-height: 22px;margin: 10px 0px;padding-bottom: 22px;">Whether you're a homemaker, caregiver, retiree, or retrenched worker, Jobs Nearby @ CDC can match you with roles close to home. It's a winwin for both jobseekers and local employers.</p> 
 
     <div style="width: 100%; text-align: center; display: inline-flex; margin: 0px auto;">
-    <div style="max-width: 100%; text-align: center; padding: 27px 15px 0px; margin: 0px auto;"><a style="background: #1F4D7F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center; font-style: italic; font-weight: bold;" href="https://northwest.cdc.gov.sg/cohesion/january-2026/nw-green-living/">Get Matched</a>
+    <div style="max-width: 100%;text-align: center;padding: 0px 15px 0px;margin: 0px auto;"><a href="https://northwest.cdc.gov.sg/cohesion/march-2026/jobs-nearby/" style="background: #1F4D7F;color: #FFFFFF;padding: 15px 25px;-webkit-border-radius: 50rem;-moz-border-radius: 50rem;border-radius: 50rem;font-size: medium;font-family: Arial, 'sans-serif;';text-decoration: none;text-transform: uppercase;min-width: 150px;display: inline-block;text-align: center;font-style: italic;font-weight: bold;margin: 0px;">Get Matched</a>
     </div>
     </div>
 
@@ -470,9 +470,9 @@ Jobs Nearby @ CDC can help you
   <div style="max-width: 100%; padding: 10px 10px;">
     <div style="max-width: 100%; padding: 0px 0px 0px; background: #FFFFFF; margin: 30px 0px 0px; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px;">
   <div style="width: 100%;">
-    <img style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;" class="" src="/images/Cohesion/Mar%202026/edm4.jpg">
+    <img src="/images/Cohesion/Mar%202026/edm4.jpg" class="" style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;">
   </div>
-  <div style="background: #F8F8F8; padding: 10px 20px 0px; -webkit-border-bottom-right-radius: 25px; -webkit-border-bottom-left-radius: 25px; -moz-border-radius-bottomright: 25px; -moz-border-radius-bottomleft: 25px; border-bottom-right-radius: 25px; border-bottom-left-radius: 25px; min-height: 340px; position: relative; text-align: center; margin-top: -20px;">
+  <div style="background: #F8F8F8;padding: 10px 20px 30px;-webkit-border-bottom-right-radius: 25px;-webkit-border-bottom-left-radius: 25px;-moz-border-radius-bottomright: 25px;-moz-border-radius-bottomleft: 25px;border-bottom-right-radius: 25px;border-bottom-left-radius: 25px;min-height: 340px;position: relative;text-align: center;margin-top: -20px;">
     <h2 style="color: #DA312C;font-weight: bolder;font-size: 20px;line-height: initial;font-style: italic;margin: 15px 0px;">
      A Network of Support Made
 Possible by a Giving Community
@@ -481,7 +481,7 @@ Possible by a Giving Community
 
 
     <div style="width: 100%; text-align: center; display: inline-flex; margin: 0px auto;">
-    <div style="max-width: 100%; text-align: center; padding: 10px 15px 0px; margin: 0px auto;"><a style="background: #DA312C; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center; font-style: italic; font-weight: bold;" href="https://northwest.cdc.gov.sg/cohesion/january-2026/nw-ya/">Make Giving Count</a>
+    <div style="max-width: 100%;text-align: center;padding: 0px 15px 0px;margin: 0px auto;"><a href="https://northwest.cdc.gov.sg/cohesion/march-2026/c-100/" style="background: #DA312C;color: #FFFFFF;padding: 15px 25px;-webkit-border-radius: 50rem;-moz-border-radius: 50rem;border-radius: 50rem;font-size: medium;font-family: Arial, 'sans-serif;';text-decoration: none;text-transform: uppercase;min-width: 150px;display: inline-block;text-align: center;font-style: italic;font-weight: bold;margin: 0px;">Make Giving Count</a>
     </div>
     </div>
   </div>
@@ -493,17 +493,17 @@ Possible by a Giving Community
   <div style="max-width: 100%; padding: 10px 10px;">
     <div style="max-width: 100%; padding: 0px 0px 0px; background: #FFFFFF; margin: 30px 0px 0px; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px;">
   <div style="width: 100%;">
-    <img style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;" class="" src="/images/Cohesion/Mar%202026/edm5.jpg">
+    <img src="/images/Cohesion/Mar%202026/edm5.jpg" class="" style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;">
   </div>
-  <div style="background: #F8F8F8; padding: 10px 20px 0px; -webkit-border-bottom-right-radius: 25px; -webkit-border-bottom-left-radius: 25px; -moz-border-radius-bottomright: 25px; -moz-border-radius-bottomleft: 25px; border-bottom-right-radius: 25px; border-bottom-left-radius: 25px; min-height: 340px; position: relative; text-align: center; margin-top: -20px;">
+  <div style="background: #F8F8F8;padding: 10px 20px 30px;-webkit-border-bottom-right-radius: 25px;-webkit-border-bottom-left-radius: 25px;-moz-border-radius-bottomright: 25px;-moz-border-radius-bottomleft: 25px;border-bottom-right-radius: 25px;border-bottom-left-radius: 25px;min-height: 340px;position: relative;text-align: center;margin-top: -20px;">
     <h2 style="color: #086B37;font-weight: bolder;font-size: 20px;line-height: initial;font-style: italic;margin: 15px 0px;">
       Championing a Greener #OurNorthWest
     </h2>
-    <p style="font-size: 16px; line-height: 22px; margin: 10px 0px;">District Councillor Dennis Chee is a man on a mission to make sustainability a community habit in the North West. Discover what drives him to make green living a reality in the community.</p> 
+    <p style="font-size: 16px;line-height: 22px;margin: 10px 0px;padding-bottom: 10px;min-height: 154px;">District Councillor Dennis Chee is a man on a mission to make sustainability a community habit in the North West. Discover what drives him to make green living a reality in the community.</p> 
 
 
-    <div style="width: 100%; text-align: center; display: inline-flex; margin: 0px auto 25px;">
-    <div style="max-width: 100%; text-align: center; padding: 20px 15px 0px; margin: 0px auto;"><a style="background: #086B37; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center; font-style: italic; font-weight: bold;" href="https://northwest.cdc.gov.sg/cohesion/january-2026/nw-swep/">Spark Your Green Journey</a>
+    <div style="width: 100%;text-align: center;display: inline-flex;margin: 0px auto;position: relative;">
+    <div style="max-width: 100%;text-align: center;padding: 0px;margin: 0px auto;/* position: absolute; *//* text-align: center; */"><a href="https://northwest.cdc.gov.sg/cohesion/march-2026/nw-green-living/" style="background: #086B37;color: #FFFFFF;padding: 15px 25px;-webkit-border-radius: 50rem;-moz-border-radius: 50rem;border-radius: 50rem;font-size: medium;font-family: Arial, 'sans-serif;';text-decoration: none;text-transform: uppercase;min-width: 150px;display: inline-block;text-align: center;font-style: italic;font-weight: bold;margin: 0px;">Spark Your Green Journey</a>
     </div>
     </div>
 
@@ -613,7 +613,7 @@ Possible by a Giving Community
     </tr>
 
     <tr style="color: #000000; background: #FFFFFF; border-bottom: 1px solid #d6d6d6;">
-      <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px;">Marsiling Zone 4 RN Centre</td>
+      <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px;">Marsiling Zone 4 RN Centre CC</td>
 
       <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px; text-align: center;">
 7 Apr 2026 / Tuesday</td>
@@ -827,4 +827,4 @@ Visit <a style="color: #FB5C1F;" target="_new" href="https://www.pa.gov.sg/caree
 </div>
 
 
-\
+
