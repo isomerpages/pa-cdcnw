@@ -7,6 +7,9 @@ variant: markdown
 ---
 ![](/images/Programmes/Green%20Living/Recycle___NW.jpg)
 
-**Recycle @ North West (Schools)** works closely with schools within the North West District to instill good recycling habits from young. The programme encourages schools to set up recycling points, where students will gather to collect recyclables at least once a month and put proper recycling knowledge to good use. Schools are also encouraged to recycle e-waste on an annual basis.
+  
+**Recycle @ North West (Schools)** partners schools in the North West District to cultivate good recycling habits from a young age. Schools set up recycling points where students collect and sort recyclables at least once a month, gaining hands-on experience in resource conservation and environmental responsibility. Schools are also encouraged to take part in annual e-waste recycling initiatives.
 
-Active recycling breaks away from the current recycling practices. Students will learn more about resource conservation, get hands-on in sorting the recyclables and gain in-depth knoweldge on green education.
+The programme is supported by waste management partners appointed by NEA. ALBA provides both recycling and e-waste bins, while Cora Environment provides recycling bins. They manage the collection and logistics from school recycling points, with tonnage reports used to determine incentives for participating schools.
+
+Beyond recycling drives, educational talks and a Train-the-Trainer programme equip students and educators with knowledge on sustainability. Schools are encouraged to organise their own workshops or sustainability initiatives, fostering a culture of student-led green action.

@@ -9,4 +9,11 @@ variant: markdown
 
 **Green Bootcamp @ North West** provides a platform for youths to ideate and lead the way as green change makers in the community. Youths are encouraged to think out of the box, and design innovation solutions to address pressing environmental issues.
 
- Through a series of engaging talks and workshops led by subject matter experts, participants will be empowered to develop creative solutions that can be implemented in the community. Shortlisted teams will have the opportunity to bring their ideas to life, and win attractive prizes.
+ 
+Participants will work in teams to develop innovative solutions to address pressing environmental sustainability challenges at the constituency and corporate levels.  
+  
+Guided by community or corporate mentors, teams will tackle selected problem statements and gain real-world exposure through the Design Thinking with Humanity-Centred workshop, learning journeys, and mentorship sessions.
+
+The top 10 finalist teams will refine their concepts into prototypes and present their solutions to a judging panel at the final showcase. Each team will receive seed funding of up to $2,000 to support prototype development.
+
+ 
