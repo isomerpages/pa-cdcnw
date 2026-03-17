@@ -14,4 +14,3 @@ Interested in our Healthy Living Clubs? Register your interest&nbsp;[here](https
 
 For enquiries, please contact North West CDC at&nbsp;[northwest\_cdc@pa.gov.sg](mailto:northwest_cdc@pa.gov.sg).
 
- For enquiries, please contact North West CDC at [northwest\_cdc@pa.gov.sg](mailto:northwest_cdc@pa.gov.sg).
