@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Healthy
 variant: tiptap
 ---
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nrc-CrqpPgA?si=V7_wrsqp7xfaUtwq"></iframe>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/A1Poster_FA_Pathed_Preview__page_0006.jpg">
 </div>
 <table style="minWidth: 75px">
 <colgroup>
@@ -17,7 +17,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Event Details</p>
+<p>vent Details</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -87,3 +87,6 @@ participant will receive a game card to complete and redeem a gift at the
 Tikam-Tikam booth. Plus,&nbsp;don’t&nbsp;miss&nbsp;out&nbsp;on the chance
 to win prizes by&nbsp;showcasing&nbsp;your skills and teamwork in various
 competitions, leaderboard challenges, and family-friendly activities!&nbsp;</p>
+<p></p>
+<p></p>
+<p></p>
