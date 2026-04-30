@@ -86,9 +86,9 @@ Tikam-Tikam booth. Plus,&nbsp;don’t&nbsp;miss&nbsp;out&nbsp;on the chance
 to win prizes by&nbsp;showcasing&nbsp;your skills and teamwork in various
 competitions, leaderboard challenges, and family-friendly activities!&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What_s_Happening_HLF.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What_s_Happening_v2.jpg">
 </div>
-<h4><strong>★ Leaderboard Challenges ★</strong>&nbsp;</h4>
+<p><strong>★ Leaderboard Challenges ★</strong>&nbsp;</p>
 <p>Look&nbsp;out for these exciting leaderboard challenges where you, your
 friends, and families can&nbsp;participate, and stand a chance to win up
 to $50 supermarket vouchers and other exciting prizes!&nbsp;</p>
@@ -99,8 +99,7 @@ to $50 supermarket vouchers and other exciting prizes!&nbsp;</p>
 <br>🎯 Pull-Up
 <br>🎯 Push-Up
 <br>🎯 Vertical Jump
-<br>🎯 Tyre Flip (Adult)
-<br>🎯 Tyre Flip (Child)</p>
+<br>🎯 Hold-It-Up Challenge (Adult/Child)</p>
 <h4><strong>★ Competitions ★</strong>&nbsp;</h4>
 <p>We have various competitions happening across the two-day festival for
 you, your friends, and families to take part in! Enjoy your favourite sports
