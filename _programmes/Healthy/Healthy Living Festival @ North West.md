@@ -86,7 +86,7 @@ Tikam-Tikam booth. Plus,&nbsp;don’t&nbsp;miss&nbsp;out&nbsp;on the chance
 to win prizes by&nbsp;showcasing&nbsp;your skills and teamwork in various
 competitions, leaderboard challenges, and family-friendly activities!&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What_s_Happening___v3b.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What_s_Happening_v4.png">
 </div>
 <h4><strong>★ Leaderboard Challenges ★</strong>&nbsp;</h4>
 <p>Look&nbsp;out for these exciting leaderboard challenges where you, your
