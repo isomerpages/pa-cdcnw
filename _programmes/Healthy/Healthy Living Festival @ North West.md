@@ -90,8 +90,7 @@ competitions, leaderboard challenges, and family-friendly activities!&nbsp;</p>
 </div>
 <p><strong>★ Leaderboard Challenges ★</strong>&nbsp;</p>
 <p>Look&nbsp;out for these exciting leaderboard challenges where you, your
-friends, and families can&nbsp;participate, and stand a chance to win up
-to $50 supermarket vouchers and other exciting prizes!&nbsp;</p>
+friends, and families can&nbsp;participate, and stand a chance to win!&nbsp;</p>
 <p>🎯 SkiErg
 <br>🎯 Wall Ball
 <br>🎯 Rower
