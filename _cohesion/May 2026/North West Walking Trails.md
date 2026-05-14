@@ -55,7 +55,7 @@ object-fit: cover;
 
 .tiktok-embed {margin: 0px auto !important;}
 
-.paragraph-article {font-size: 16px; line-height: 24px !important; text-align: justify; margin: 10px 0px !important;}
+.paragraph-article {font-size: 16px; line-height: 26px; text-align: justify; margin: 10px 0px !important;}
 
 .soc-icon {padding: 0px 7px; max-width: 47px; width: 100%;}
 
@@ -413,13 +413,13 @@ object-fit: cover;
 
 .instagram-media {margin: auto !important;}
 
-
+/** LIGHTBOX MARKUP **/
 
 .lightbox {
-
+  /* Default to hidden */
   display: none;
 
-
+  /* Overlay entire screen */
   position: fixed;
   z-index: 999;
   top: 0;
@@ -427,25 +427,25 @@ object-fit: cover;
   right: 0;
   bottom: 0;
   
-
+  /* A bit of padding around image */
   padding: 1em;
 
-
+  /* Translucent background */
   background: rgba(0, 0, 0, 0.8);
 }
 
-
+/* Unhide the lightbox when it's the target */
 .lightbox:target {
   display: block;
 }
 
 .lightbox span {
-
+  /* Full width and height */
   display: block;
   width: 80%;
   height: 80%;
   margin: auto;
-
+  /* Size and position background image */
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -472,10 +472,9 @@ object-fit: cover;
 <div style="padding: 10px 0px 15px;">
 <p class="paragraph-article">Walking Trails @ CDC is back with an interactive Heritage Edition that lets you explore your neighbourhood with fresh eyes!</p> 
 
-<p class="paragraph-article">The North West trail is approximately 4.4km and follows a scenic coastal route in Woodlands where rewards and surprises await. At digital checkpoints, discover the heritage stories behind local landmarks and complete interactive challenges to unlock RedeemSG shopping vouchers.</p>
+<p class="paragraph-article">The North West trail is approximately 4.4km and follows a scenic coastal route in Woodlands. At digital checkpoints, discover the heritage stories behind local landmarks and complete interactive challenges along the way.</p>
 
-<p class="paragraph-article">It's a healthy, easy and rewarding way to spend your time! Don't forget to bring along your friends and family for this fun-filled walk. 
-</p>
+<p class="paragraph-article">It's a healthy, easy and engaging way to spend your time! Don't forget to bring along your friends and family for this fun-filled walk.</p>
 </div>
 
 <div style="padding: 10px 0px 0px;">
@@ -489,7 +488,7 @@ End: Marsiling Lane Market &amp; Food Centre
 </div>
 
 <div class="" style="max-width: 100%; padding: 20px 0px 0px;">
-  <img style="width: 100%;" class="" src="/images/Cohesion/May%202026/trail_map.png">
+  <img style="width: 100%;" class="" src="/images/Cohesion/May%202026/trail_map_2.jpg">
 </div>
 
 <div style="padding: 10px 0px 10px;">
@@ -500,6 +499,10 @@ Walking Trails @ CDC: Woodlands on 4 April 2026. Exploring the trail side by sid
 <div class="" style="max-width: 100%; padding: 10px 0px 0px;">
   <img style="width: 100%;" class="" src="/images/Cohesion/May%202026/faith_quote_1.png">
 </div>
+
+
+
+
 
 
 
@@ -535,6 +538,9 @@ border-bottom-left-radius: 20px;">
     </p>
   </div>
 </div>
+
+
+
 
 
 <div style="padding: 20px 0px 0px; display: flex;" class="col-">&nbsp;</div>
@@ -575,4 +581,7 @@ border-bottom-left-radius: 20px;">
 
 
 
+
 </article>
+
+
