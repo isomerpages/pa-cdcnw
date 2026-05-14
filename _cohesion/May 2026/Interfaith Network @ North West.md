@@ -57,7 +57,7 @@ object-fit: cover;
 
 .tiktok-embed {margin: 0px auto !important;}
 
-.paragraph-article {font-size: 16px; line-height: 24px !important; text-align: justify; margin: 10px 0px !important;}
+.paragraph-article {font-size: 16px; line-height: 26px; text-align: justify; margin: 10px 0px !important;}
 
 .soc-icon {padding: 0px 7px; max-width: 47px; width: 100%;}
 
@@ -415,28 +415,39 @@ object-fit: cover;
   border-radius: 20px;
 }
 
+/** LIGHTBOX MARKUP **/
 
 .lightbox {
+  /* Default to hidden */
   display: none;
+
+  /* Overlay entire screen */
   position: fixed;
   z-index: 999;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
+  
+  /* A bit of padding around image */
   padding: 1em;
+
+  /* Translucent background */
   background: rgba(0, 0, 0, 0.8);
 }
 
-
+/* Unhide the lightbox when it's the target */
 .lightbox:target {
   display: block;
 }
 
 .lightbox span {
+  /* Full width and height */
   display: block;
   width: 100%;
   height: 100%;
+
+  /* Size and position background image */
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -473,7 +484,7 @@ object-fit: cover;
   <img style="width: 100%; max-width:" src="/images/Cohesion/May%202026/interfaith_infographics_01.jpg">
 </div>
 <div style="width: 100%;">
-  <img style="width: 100%; max-width:" src="/images/Cohesion/May%202026/interfaith_infographics_02.jpg">
+  <img style="width: 100%; max-width:" src="/images/Cohesion/May%202026/interfaith_infographics_02_1.jpg">
 </div>
 <div style="width: 100%;">
   <img style="width: 100%; max-width:" src="/images/Cohesion/May%202026/interfaith_infographics_03.jpg">
@@ -536,6 +547,7 @@ object-fit: cover;
 
 
 
+
 <div style="padding: 20px 0px 0px; display: flex;" class="col-">&nbsp;</div>
 
 <div style="width: 100%; background: #FB5C1F; border-radius: 30px; padding: 0px 0px; display: flex;">
@@ -571,6 +583,7 @@ object-fit: cover;
   <p style="font-size: 14px; line-height: 24px; margin-top: 0px; padding: 0px 20px;">Reproduction in whole or in part is prohibited without prior permission from North&nbsp;West&nbsp;CDC.</p>
   </div>
 </div>
+
 
 
 </article>
