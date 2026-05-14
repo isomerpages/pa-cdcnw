@@ -51,7 +51,7 @@ h1, h2, h3, h4, h5, h6, li {
 
 .tiktok-embed {margin: 0px auto !important;}
 
-.paragraph-article {font-size: 16px; line-height: 26px !important; text-align: justify; margin: 10px 0px !important;}
+.paragraph-article {font-size: 16px; line-height: 26px; text-align: justify; margin: 10px 0px !important;}
 
 .soc-icon {padding: 0px 7px; max-width: 47px; width: 100%;}
 
@@ -408,14 +408,14 @@ h1, h2, h3, h4, h5, h6, li {
     <img style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;" class="" src="/images/Cohesion/May%202026/edm5b.jpg">
   </div>
 
-  <div style="background: #F8F8F8; padding: 30px 30px; -webkit-border-bottom-right-radius: 25px; -webkit-border-bottom-left-radius: 25px; -moz-border-radius-bottomright: 25px; -moz-border-radius-bottomleft: 25px; border-bottom-right-radius: 25px; border-bottom-left-radius: 25px;">
+  <div style="background: #F8F8F8; padding: 30px 30px 15px; -webkit-border-bottom-right-radius: 25px; -webkit-border-bottom-left-radius: 25px; -moz-border-radius-bottomright: 25px; -moz-border-radius-bottomleft: 25px; border-bottom-right-radius: 25px; border-bottom-left-radius: 25px;">
     <h2 style="color: #F96B8D; font-weight: bold; font-size: x-large; text-align: center; margin: 10px;">
-      <em>Check Out the New Heritage Walking Trail in Woodlands</em>
+      <em>Check Out the Heritage Walking Trail in Woodlands</em>
     </h2>
 
-    <p style="font-size: 16px; line-height: 22px; text-align: center; max-width: 90%; margin: auto;">Getting fit pays off with Walking Trails @ CDC! Try out the new North West Heritage Edition walking trail. Interesting landmarks await along the scenic coastal trail in Woodlands. Along the way, complete interactive challenges to win shopping vouchers!</p>
+    <p style="font-size: 16px; line-height: 22px; text-align: center; max-width: 90%; margin: auto;">Getting fit pays off Walking Trails @ CDC! From markets to mosques to waterfront walks, every step is a trip down memory lane with our North West Hertiage Trail.</p>
 
-    <div style="max-width: 100%; text-align: center; padding: 10px 15px 15px;"><a style="background: #F96B8D; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center; font-weight: bold;" href="https://northwest.cdc.gov.sg/cohesion/may-2026/bwc-nw/"><em>Explore The Trail</em></a></div>
+    <div style="max-width: 100%; text-align: center; padding: 10px 15px 15px;"><a style="background: #F96B8D; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center; font-weight: bold;" href="https://northwest.cdc.gov.sg/cohesion/may-2026/nw-wt"><em>Explore The Trail</em></a></div>
   </div>
 
   </div>
@@ -432,12 +432,11 @@ h1, h2, h3, h4, h5, h6, li {
     <img src="/images/Cohesion/May%202026/edm2.jpg" class="" style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px; background: #FFE2E9; background-blend-mode: multiply;">
   </div>
   <div style="background: #F8F8F8;padding: 10px 20px 30px;-webkit-border-bottom-right-radius: 25px;-webkit-border-bottom-left-radius: 25px;-moz-border-radius-bottomright: 25px;-moz-border-radius-bottomleft: 25px;border-bottom-right-radius: 25px;border-bottom-left-radius: 25px;min-height: 250px;position: relative;text-align: center;">
-    <h2 style="color: #7B669E; font-weight: bolder;font-size: 20px;line-height: initial;font-style: italic;margin: 15px 15px;">Reflections on
-5 Years of Interfaith Connections</h2>
-    <p style="font-size: 16px;line-height: 22px;margin: 10px 0px;padding-bottom: 22px;">Since 2020, Interfaith Network @ North West has organised interfaith dialogues and visits to different places of worship in #OurNorthWest. Learning about each other's religions, beliefs and cultures has strengthened harmony in our community!</p> 
+    <h2 style="color: #7B669E; font-weight: bolder;font-size: 20px;line-height: initial;font-style: italic;margin: 15px 10px;">5 Years of Interfaith Connections</h2>
+    <p style="font-size: 16px;line-height: 22px;margin: 10px 0px;padding-bottom: 22px;">Interfaith Network @ North West has brought over 300 students on learning journeys to different places of worship in the North West, and expand their understanding about each other's religions, beliefs and culture through interfaith dialogues.</p> 
 
-    <div style="width: 100%; text-align: center; display: inline-flex; margin: 0px auto;">
-    <div style="max-width: 100%;text-align: center;padding: 0px 0px 0px;margin: 0px auto;"><a href="https://northwest.cdc.gov.sg/cohesion/may-2026/interfaith-nw/" style="background: #7B669E; color: #FFFFFF;padding: 15px 25px;-webkit-border-radius: 50rem;-moz-border-radius: 50rem;border-radius: 50rem;font-size: medium;font-family: Arial, 'sans-serif;';text-decoration: none;text-transform: uppercase;min-width: 150px;display: inline-block;text-align: center;font-style: italic;font-weight: bold;margin: 0px;">Discover Our Faiths</a>
+    <div style="width: 100%; text-align: center; display: inline-flex; margin: 0px auto 15px;">
+    <div style="max-width: 100%;text-align: center;padding: 0px 0px 0px;margin: 0px auto;"><a href="https://northwest.cdc.gov.sg/cohesion/may-2026/interfaith-nw/" style="background: #7B669E; color: #FFFFFF;padding: 15px 25px;-webkit-border-radius: 50rem;-moz-border-radius: 50rem;border-radius: 50rem;font-size: medium;font-family: Arial, 'sans-serif;';text-decoration: none;text-transform: uppercase;min-width: 100px;display: inline-block;text-align: center;font-style: italic;font-weight: bold;margin: 0px;">Discover Our Faiths</a>
     </div>
     </div>
   </div>
@@ -449,14 +448,14 @@ h1, h2, h3, h4, h5, h6, li {
   <div style="max-width: 100%; padding: 10px 10px;">
     <div style="max-width: 100%; padding: 0px 0px 0px; background: #FFFFFF; margin: 30px 0px 0px; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px; border: 2px solid #086B37;">
   <div style="width: 100%;">
-    <img src="/images/Cohesion/May%202026/edm3.jpg" class="" style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;">
+    <img src="/images/Cohesion/May%202026/edm3b.jpg" class="" style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;">
   </div>
   <div style="background: #F8F8F8;padding: 10px 20px 30px;-webkit-border-bottom-right-radius: 25px;-webkit-border-bottom-left-radius: 25px;-moz-border-radius-bottomright: 25px;-moz-border-radius-bottomleft: 25px;border-bottom-right-radius: 25px;border-bottom-left-radius: 25px;min-height: 250px;position: relative;text-align: center;">
     <h2 style="color: #086B37;font-weight: bolder;font-size: 20px;line-height: initial;font-style: italic;margin: 15px 0px;">Simple Ways to Save Energy</h2>
-    <p style="font-size: 16px;line-height: 22px;margin: 10px 0px;padding-bottom: 68px;">Trying to save energy and your utility bills too? Reduce @ North West winner Huibin shares practical energy-saving tips that are simple, effective, and easy to follow. Take action and put these tips to good use!</p> 
+    <p style="font-size: 16px;line-height: 22px;margin: 10px 0px;padding-bottom: 44px;">Trying to save energy and your utility bills too? Reduce @ North West winner Huibin shares practical energy-saving tips that are simple, effective, and easy to follow. Take action and put these tips to good use!</p> 
 
-    <div style="width: 100%; text-align: center; display: inline-flex; margin: 0px auto;">
-    <div style="max-width: 100%;text-align: center;padding: 0px 15px 0px;margin: 0px auto;"><a href="https://northwest.cdc.gov.sg/cohesion/may-2026/reduce-nw/" style="background: #086B37;color: #FFFFFF;padding: 15px 25px;-webkit-border-radius: 50rem;-moz-border-radius: 50rem;border-radius: 50rem;font-size: medium;font-family: Arial, 'sans-serif;';text-decoration: none;text-transform: uppercase;min-width: 150px;display: inline-block;text-align: center;font-style: italic;font-weight: bold;margin: 0px;">Start Saving</a>
+    <div style="width: 100%; text-align: center; display: inline-flex; margin: 0px auto 15px;">
+    <div style="max-width: 100%;text-align: center;padding: 0px 15px 0px;margin: 0px auto;"><a href="https://northwest.cdc.gov.sg/cohesion/may-2026/reduce-nw/" style="background: #086B37;color: #FFFFFF;padding: 15px 25px;-webkit-border-radius: 50rem;-moz-border-radius: 50rem;border-radius: 50rem;font-size: medium;font-family: Arial, 'sans-serif;';text-decoration: none;text-transform: uppercase;min-width: 100px;display: inline-block;text-align: center;font-style: italic;font-weight: bold;margin: 0px;">Start Saving</a>
     </div>
     </div>
 
@@ -477,14 +476,15 @@ h1, h2, h3, h4, h5, h6, li {
   <div style="width: 100%;">
     <img src="/images/Cohesion/May%202026/edm4.jpg" class="" style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;">
   </div>
-  <div style="background: #F8F8F8;padding: 10px 20px 0px;-webkit-border-bottom-right-radius: 25px;-webkit-border-bottom-left-radius: 25px;-moz-border-radius-bottomright: 25px;-moz-border-radius-bottomleft: 25px;border-bottom-right-radius: 25px;border-bottom-left-radius: 25px;min-height: 320px;position: relative;text-align: center;margin-top: -20px;">
-    <h2 style="color: #F96B8D;font-weight: bolder;font-size: 20px;line-height: initial;font-style: italic;margin: 15px 0px;">Behind the Win With Our
+  <div style="background: #F8F8F8;padding: 10px 20px 0px;-webkit-border-bottom-right-radius: 25px;-webkit-border-bottom-left-radius: 25px;-moz-border-radius-bottomright: 25px;-moz-border-radius-bottomleft: 25px;border-bottom-right-radius: 25px;border-bottom-left-radius: 25px;min-height: 300px;position: relative;text-align: center;margin-top: -20px;">
+    <h2 style="color: #F96B8D;font-weight: bolder;font-size: 20px;line-height: initial;font-style: italic;margin: 15px 10px;">Behind the Win With Our
 Street Dance Champions</h2>
-    <p style="font-size: 16px; line-height: 22px; margin: 10px 0px; padding-bottom: 33px;">At the second edition of Street Dance @ North West, contestants wowed the audience while showing off their fanciest dance moves to ever-changing beats. See who owned the moment!</p> 
+    <p style="font-size: 16px; line-height: 22px; margin: 10px 0px; padding-bottom: 33px;">At the second edition of Street Dance @ North West, contestants wowed the audience while showing off their fanciest dance moves to ever-changing beats.
+See who owned the moment!</p> 
 
 
-    <div style="width: 100%; text-align: center; display: inline-flex; margin: 0px auto;">
-    <div style="max-width: 100%;text-align: center;padding: 0px 15px 0px;margin: 0px auto;"><a href="https://northwest.cdc.gov.sg/cohesion/may-2026/street-dance/" style="background: #F96B8D;color: #FFFFFF;padding: 15px 25px;-webkit-border-radius: 50rem;-moz-border-radius: 50rem;border-radius: 50rem;font-size: medium;font-family: Arial, 'sans-serif;';text-decoration: none;text-transform: uppercase;min-width: 150px;display: inline-block;text-align: center;font-style: italic;font-weight: bold;margin: 0px;">Feel The Beat</a>
+    <div style="width: 100%; text-align: center; display: inline-flex; margin: 0px auto 15px;">
+    <div style="max-width: 100%;text-align: center;padding: 0px 15px 0px;margin: 0px auto;"><a href="https://northwest.cdc.gov.sg/cohesion/may-2026/street-dance/" style="background: #F96B8D;color: #FFFFFF;padding: 15px 25px;-webkit-border-radius: 50rem;-moz-border-radius: 50rem;border-radius: 50rem;font-size: medium;font-family: Arial, 'sans-serif;';text-decoration: none;text-transform: uppercase;min-width: 100px;display: inline-block;text-align: center;font-style: italic;font-weight: bold;margin: 0px;">Feel The Beat</a>
     </div>
     </div>
   </div>
@@ -498,13 +498,14 @@ Street Dance Champions</h2>
   <div style="width: 100%;">
     <img src="/images/Cohesion/May%202026/edm1b.jpg" class="" style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;">
   </div>
-  <div style="background: #F8F8F8;padding: 10px 20px 0px;-webkit-border-bottom-right-radius: 25px;-webkit-border-bottom-left-radius: 25px;-moz-border-radius-bottomright: 25px;-moz-border-radius-bottomleft: 25px;border-bottom-right-radius: 25px;border-bottom-left-radius: 25px;min-height: 320px;position: relative;text-align: center;margin-top: -20px;">
+  <div style="background: #F8F8F8;padding: 10px 20px 0px;-webkit-border-bottom-right-radius: 25px;-webkit-border-bottom-left-radius: 25px;-moz-border-radius-bottomright: 25px;-moz-border-radius-bottomleft: 25px;border-bottom-right-radius: 25px;border-bottom-left-radius: 25px;min-height: 300px;position: relative;text-align: center;margin-top: -20px;">
     <h2 style="color: #DA312C;font-weight: bolder;font-size: 20px;line-height: initial;font-style: italic;margin: 15px 0px;">Club-100 @ North West Donor Shares Why Giving Matters</h2>
-    <p style="font-size: 16px;line-height: 22px;margin: 10px 0px;padding-bottom: 10px;">At Club-100 @ North West, each donor signs up to give consistently every month. Giving regularly can make a meaningful and lasting difference over time. Read more about Mdm Daisy Wee and what drives her to give.</p> 
+    <p style="font-size: 16px;line-height: 22px;margin: 10px 0px;padding-bottom: 10px;">At Club-100 @ North West, each donor signs up to give consistently every month. Giving regularly can make a meaningful and lasting difference over time. Read more about
+Dr&nbsp;Daisy Wee and what drives her to give.</p> 
 
 
     <div style="width: 100%;text-align: center;display: inline-flex;margin: 0px auto;position: relative;">
-    <div style="max-width: 100%;text-align: center;padding: 0px;margin: 0px auto;"><a href="https://northwest.cdc.gov.sg/cohesion/may-2026/c-100/" style="background: #DA312C;color: #FFFFFF;padding: 15px 25px;-webkit-border-radius: 50rem;-moz-border-radius: 50rem;border-radius: 50rem;font-size: medium;font-family: Arial, 'sans-serif;';text-decoration: none;text-transform: uppercase;min-width: 150px;display: inline-block;text-align: center;font-style: italic;font-weight: bold;margin: 0px;">Support A Good Cause</a>
+    <div style="max-width: 100%;text-align: center;padding: 0px;margin: 0px auto 15px;"><a href="https://northwest.cdc.gov.sg/cohesion/may-2026/c-100/" style="background: #DA312C;color: #FFFFFF;padding: 15px 25px;-webkit-border-radius: 50rem;-moz-border-radius: 50rem;border-radius: 50rem;font-size: medium;font-family: Arial, 'sans-serif;';text-decoration: none;text-transform: uppercase;min-width: 100px;display: inline-block;text-align: center;font-style: italic;font-weight: bold;margin: 0px;">Support A Good Cause</a>
     </div>
     </div>
 
@@ -531,9 +532,7 @@ Street Dance Champions</h2>
   <div style="background: #FFFFFF; margin: 30px 10px 0px; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px;">
     <div style="width: 100%;">
       <div style="background: #FE5D1F; margin: 30px 0px 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px; -moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;">
-        <div style="text-align: center; display: flex; justify-content: center; align-items: center; margin: 0px auto; padding: 15px 15px; color: #FFFFFF; text-transform: uppercase; font-size:  x-large; font-weight: bold; font-family: Arial, 'sans-serif;';"><strong style="font-weight: bold;
-    color: #FFFFFF;
-    font-style: italic;">What's Up</strong> <img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-arrow.png" style="padding: 0px 10px; max-width: 40px; width: 40px; margin: 0px 0px;"></div>
+        <div style="text-align: center; display: flex; justify-content: center; align-items: center; margin: 0px auto; padding: 15px 15px; color: #FFFFFF; text-transform: uppercase; font-size:  28px; font-weight: bolder; font-family: Arial, 'sans-serif;'; font-style: italic;">What's Up <img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-arrow.png" style="padding: 0px 10px; max-width: 40px; width: 40px; margin: 0px 0px;"></div>
       </div>
     </div>
 
@@ -559,7 +558,7 @@ Street Dance Champions</h2>
       </div>
 
       <div class="col-12">
-        <div style="padding: 20px 1rem 0px; text-align: left;">
+        <div style="padding: 20px 25px 0px; text-align: left;">
           <h2 style="color: #FE5D1F; font-weight: bolder; font-size: 20px;line-height: initial;margin: 0px;"><b>Join Us for a Fun-Filled Time at Healthy Living Festival @ North West 2026</b><br></h2>
 
           <p style="font-size: 18px; color: #FE5D1F; font-weight: bolder; line-height: 22px; padding: 10px 0px 0px; margin: 0px;">When: Sat, 6 June 2026 (7am to 9pm) and Sun, 7 June 2026 (7am to 12pm)</p> 
@@ -569,21 +568,21 @@ Street Dance Champions</h2>
       </div>
 
       <div style="" class="col-12">
-        <div style="padding: 10px 15px;">
+        <div style="padding: 10px 25px;">
           <p class="paragraph-article">Calling all fitness and health enthusiasts! The Healthy Living Festival is back with more action, sports tryouts and movement!</p> 
-          <p class="paragraph-article"><span style="font-weight: bold; font-weight: 900;">Here's what to look out for at the Healthy Living Festival @ North West 2026:</span></p>
+          <p class="paragraph-article"><span style="font-weight: bold; font-weight: 900;">Here's what to look out for:</span></p>
         </div>
-        <div style="padding: 0px 15px;">
+        <div style="padding: 0px 25px;">
           <ul style="padding: 0px 0px; margin: 0px 15px;">
-            <li style="font-size: 16px; line-height: 20px; padding: 0px 0px 10px; margin: 0px;">Bond with your family: join the parent-child fitness circuit race (new!) and enjoy the carnival games</li> 
+            <li style="font-size: 16px; line-height: 20px; padding: 0px 0px 10px; margin: 0px; font-weight: bold;">Bond with your family: join the parent-child FAM-FIT 4 telematch and enjoy the carnival&nbsp;games </li> 
 
-            <li style="font-size: 16px; line-height: 20px; padding: 0px 0px 10px; margin: 0px;">Take on functional fitness challenges: push yourself with farmer's carry, rowing, wall ball and more</li>
+            <li style="font-size: 16px; line-height: 20px; padding: 0px 0px 10px; margin: 0px; font-weight: bold;">Take on functional fitness challenges: push yourself with farmer's carry, rowing, wall ball and&nbsp;more</li>
 
-            <li style="font-size: 16px; line-height: 20px; padding: 0px 0px 10px; margin: 0px;">Pick up health and wellness tips: attend the running, sleep and nutrition workshops</li> 
+            <li style="font-size: 16px; line-height: 20px; padding: 0px 0px 10px; margin: 0px; font-weight: bold;">Pick up health and wellness tips: attend the running, sleep and nutrition workshops</li> 
 
-            <li style="font-size: 16px; line-height: 20px; padding: 0px 0px 10px; margin: 0px;">Discover a healthy community: join the North West Healthy Living Club Try-Outs featuring Running, Qigong, Brisk Walking, FitnessX and Dance-Fit</li> 
+            <li style="font-size: 16px; line-height: 20px; padding: 0px 0px 10px; margin: 0px; font-weight: bold;">Discover a healthy community: join the North West Healthy Living Clubs Try-Outs featuring Running, Qigong, Brisk Walking, FitnessX Club and Dance-Fit</li> 
 
-            <li style="font-size: 16px; line-height: 20px; padding: 0px 0px 10px; margin: 0px;">Explore new sports: sign up for tryouts for pickleball, tchoukball, floorball and more</li> 
+            <li style="font-size: 16px; line-height: 20px; padding: 0px 0px 10px; margin: 0px; font-weight: bold;">Explore new sports: sign up for pickleball, tchouckball, floorball try-outs and more</li> 
           </ul>
         </div>
       </div>
@@ -603,28 +602,170 @@ Street Dance Champions</h2>
           <h2 style="color: #FE5D1F; font-weight: bolder; font-size: 20px;line-height: initial;font-style: italic; margin: 0px;"><i>Contest Alert! You could be heading to USS.</i></h2>
 
           <p style="font-size: 16px; line-height: 22px; padding: 10px 0px; margin: 0px;">Sign up and spread the word about the Healthy Living Festival! 
-3 lucky winners will receive <span style="font-weight: bold; font-weight: 900;">Universal Studios Singapore Season Passes</span> (6 months of unlimited visits)!
+3 lucky winners will receive <span style="font-weight: bold; font-weight: 900;">Universal Studios Singapore Season Passes</span> (6&nbsp;months of unlimited visits)!
           <br><br>
 Here's what you need to do:</p>
 <p style="font-size: 16px; line-height: 22px; padding: 3px 0px; margin: 0px;">1. Follow us on TikTok <a style="color: #FB5C1F; font-weight: bold;" target="_new" href="https://www.tiktok.com/@ournorthwest">@ournorthwest</a></p>
 <p style="font-size: 16px; line-height: 22px; padding: 3px 0px; margin: 0px;">2. Register for the <a style="color: #FB5C1F; font-weight: bold;" target="_new" href="https://go.gov.sg/hlf-northwest">Healthy Living Festival 2026</a>. Enter code HLFTOK26 in the form to qualify.</p>
-<p style="font-size: 16px; line-height: 22px; padding: 3px 0px; margin: 0px;">3. Tap "Repost" / Share the contest post to your stories or feed and tag 3 friends to boost your chances of winning</p>
+<p style="font-size: 16px; line-height: 22px; padding: 3px 0px; margin: 0px;">3. Tap "Repost"</p>
 
 <p style="color: #FB5C1F; font-weight: bolder !important; font-size: 17px; line-height: 22px; padding: 15px 0px 5px; margin: 0px;">Early Bird Bonus</p>
-<p style="font-size: 16px; line-height: 22px; padding: 3px 0px; margin: 0px;">Be among the first 200 to show up at Healthy Living Festival @ North West this year and walk away with a $10 Decathlon voucher on the spot!</p> 
+<p style="font-size: 16px; line-height: 22px; padding: 3px 0px; margin: 0px;">Be among the first 200 to show up at Healthy Living Festival @ North West this year and walk away with a $10 Decathlon voucher on the&nbsp;spot!</p> 
           
         </div>
       </div>
       </div>
 
       <div style="width: 100%; max-width: 100%; text-align: center; padding: 10px 0px 20px; margin: auto;">
-        <a target="_new" style="margin: auto; background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: 15px; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 230px; font-style: italic; font-weight: bold; margin-top: 20px; margin-bottom: 10px; display: inline-block; text-align: center; font-style: italic;" href="https://www.tiktok.com/@ournorthwest">Win USS Passes</a>
+        <a target="_new" style="margin: auto; background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: 15px; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 230px; font-style: italic; font-weight: bold; margin: 0px; display: inline-block; text-align: center; font-style: italic;" href="https://www.instagram.com/p/DYPAccqjPL_/">Win USS Passes</a>
       </div>
 
 
       </div>
 
       </div>
+
+
+
+<div style="background: #FFFFFF; padding: 20px 0px; margin-bottom: 20px; display: inline-block;" class="w-100 rounded20">
+
+      <div style="padding: 0px 15px 5px;" class="col-12 w-100">
+      <div class="col-3 text-center">
+        <div style="padding: 20px 0px 0px;">
+          <img style="max-width: 140px;" class="rounded20" src="/images/Cohesion/May%202026/wu_2.jpg">
+        </div>
+      </div>
+      <div class="col-9">
+        <div style="padding: 20px 2rem 10px;">
+          <h2 style="color: #FE5D1F; font-weight: bolder; font-size: 20px;line-height: initial;font-style: italic; margin: 0px;"><i>North West Sustainability Market </i></h2>
+
+          <p style="font-size: 16px; color: #FE5D1F; font-weight: bolder; line-height: 22px; padding: 0px 0px; margin: 0px;">When: 27 – 28 June 2026, 9am to 2pm</p>
+          <p style="font-size: 16px; color: #FE5D1F; font-weight: bolder; line-height: 22px; padding: 0px 0px; margin: 0px;">Where: Hillion Mall Outdoor Plaza</p>
+
+          <p style="font-size: 16px; line-height: 22px; padding: 10px 0px; margin: 0px;">Join us to discover affordable local produce and practical ways to embrace healthy eco-living habits in #OurNorthWest. Sign up for engaging workshops and cooking demonstrations throughout the&nbsp;weekend.</p>
+ 
+          
+        </div>
+      </div>
+      </div>
+
+
+      <div style="" class="col-12">
+      <div style="padding: 10px 15px;">
+      
+        <table style="width: 100%;">
+          <tbody><tr style="color: #000000; background: #FF9D76; font-weight: bold;">
+            <td style="padding: 10px 10px; text-align: left;"><b>Workshops</b></td>
+            <td style="padding: 10px 10px; text-align: center;"><b></b></td>
+          </tr>
+
+          <tr style="color: #000000; background: #FFFFFF; border-bottom: 1px solid #d6d6d6;">
+            <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px;">
+
+                <p style="font-size: 13px; font-weight: bolder; line-height: 13px; padding: 2px 0px; margin: 0px;">27 June 2026 / 9.30am to 10.30am</p>
+                <p style="font-size: 16px; font-weight: bolder; line-height: 18px; padding: 5px 0px; margin: 0px;">Plant-Based Cooking Workshop</p>
+                <p style="font-size: 13px; line-height: 13px; padding: 2px 0px 5px; margin: 0px;">Discover reimagined recipes using wholesome plant-based ingredients, featuring:
+                <br><br>
+                • Kerabu Mangga<br>
+                • Tempeh + Mushroom Rendang
+                <br><br>
+                by Khoo Teck Puat Hospital Food Services Department and Nutrition and Dietetics Department
+                </p>
+            </td>
+
+            <td style="border-bottom: 1px solid #d6d6d6; padding: 10px 10px; text-align: center;">
+              <div style="width: 100%; max-width: 100%; text-align: center; padding: 10px 0px 20px; margin: auto;">
+                <a target="_new" style="margin: auto; background: #FE5D1F; color: #FFFFFF; padding: 7px 15px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: 14px; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 100px; font-style: italic; font-weight: bold; margin-top: 20px; margin-bottom: 10px; display: inline-block; text-align: center; font-style: italic;" href="https://go.gov.sg/plantbasedcookingdemo-session1">Sign Up Now</a>
+              </div>
+            </td>
+          </tr>
+
+          <tr style="color: #000000; background: #FFFFFF; border-bottom: 1px solid #d6d6d6;">
+            <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px;">
+
+                <p style="font-size: 13px; font-weight: bolder; line-height: 13px; padding: 2px 0px; margin: 0px;">27 June 2026 / 10.30am to 11.30am</p>
+                <p style="font-size: 16px; font-weight: bolder; line-height: 18px; padding: 5px 0px; margin: 0px;">Plant-Based Cooking Workshop</p>
+                <p style="font-size: 13px; line-height: 13px; padding: 2px 0px 5px; margin: 0px;">See how healthy cooking can be made accessible and delicious, featuring:
+                <br><br>
+                • Mushroom Salad<br>
+                • Yong Tau Foo
+                <br><br>
+                by Khoo Teck Puat Hospital Food Services Department and Nutrition and Dietetics Department
+                </p>
+            </td>
+
+            <td style="border-bottom: 1px solid #d6d6d6; padding: 10px 10px; text-align: center;">
+              <div style="width: 100%; max-width: 100%; text-align: center; padding: 10px 0px 20px; margin: auto;">
+                <a target="_new" style="margin: auto; background: #FE5D1F; color: #FFFFFF; padding: 7px 15px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: 14px; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 100px; font-style: italic; font-weight: bold; margin-top: 20px; margin-bottom: 10px; display: inline-block; text-align: center; font-style: italic;" href="https://go.gov.sg/plantbasedcookingdemo-session2">Sign Up Now</a>
+              </div>
+            </td>
+          </tr>
+
+
+          <tr style="color: #000000; background: #FFFFFF; border-bottom: 1px solid #d6d6d6;">
+            <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px;">
+
+                <p style="font-size: 13px; font-weight: bolder; line-height: 13px; padding: 2px 0px; margin: 0px;">28 June 2026 / 9:30am to 11am</p>
+                <p style="font-size: 16px; font-weight: bolder; line-height: 18px; padding: 5px 0px; margin: 0px;">Grow Lah! Workshop</p>
+                <p style="font-size: 13px; line-height: 13px; padding: 2px 0px 5px; margin: 0px;">Learn how to grow nutrition-packed greens in your home.<br><br>
+                by GreenUp
+                </p>
+            </td>
+
+            <td style="border-bottom: 1px solid #d6d6d6; padding: 10px 10px; text-align: center;">
+              <div style="width: 100%; max-width: 100%; text-align: center; padding: 10px 0px 20px; margin: auto;">
+                <a target="_new" style="margin: auto; background: #FE5D1F; color: #FFFFFF; padding: 7px 15px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: 14px; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 100px; font-style: italic; font-weight: bold; margin-top: 20px; margin-bottom: 10px; display: inline-block; text-align: center; font-style: italic;" href="https://go.gov.sg/growlahworkshop">Sign Up Now</a>
+              </div>
+            </td>
+          </tr>
+
+
+          <tr style="color: #000000; background: #FFFFFF; border-bottom: 1px solid #d6d6d6;">
+            <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px;">
+
+                <p style="font-size: 13px; font-weight: bolder; line-height: 13px; padding: 2px 0px; margin: 0px;">28 June 2026 / 11:30am to 12:30pm</p>
+                <p style="font-size: 16px; font-weight: bolder; line-height: 18px; padding: 5px 0px; margin: 0px;">Cooking Demonstration by Chef Benson Tong</p>
+                <p style="font-size: 13px; line-height: 13px; padding: 2px 0px 5px; margin: 0px;">Discover the art of simple healthy meal prep.
+                </p>
+            </td>
+
+            <td style="border-bottom: 1px solid #d6d6d6; padding: 10px 10px; text-align: center;">
+              <div style="width: 100%; max-width: 100%; text-align: center; padding: 10px 0px 20px; margin: auto;">
+                <a target="_new" style="margin: auto; background: #FE5D1F; color: #FFFFFF; padding: 7px 15px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: 14px; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 100px; font-style: italic; font-weight: bold; margin-top: 20px; margin-bottom: 10px; display: inline-block; text-align: center; font-style: italic;" href="https://go.gov.sg/cookingdemo-sustmarket">Sign Up Now</a>
+              </div>
+            </td>
+          </tr>
+
+          <tr style="color: #000000; background: #FFFFFF; border-bottom: 1px solid #d6d6d6;">
+            <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px;">
+
+                <p style="font-size: 13px; font-weight: bolder; line-height: 13px; padding: 2px 0px; margin: 0px;">28 June 2026 / 1pm to 2pm</p>
+                <p style="font-size: 16px; font-weight: bolder; line-height: 18px; padding: 5px 0px; margin: 0px;">Fresh for Longer Workshop</p>
+                <p style="font-size: 13px; line-height: 13px; padding: 2px 0px 5px; margin: 0px;">Discover the art of simple healthy meal prep.
+                </p>
+            </td>
+
+            <td style="border-bottom: 1px solid #d6d6d6; padding: 10px 10px; text-align: center;">
+              <div style="width: 100%; max-width: 100%; text-align: center; padding: 10px 0px 20px; margin: auto;">
+                <a target="_new" style="margin: auto; background: #FE5D1F; color: #FFFFFF; padding: 7px 15px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: 14px; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 100px; font-style: italic; font-weight: bold; margin-top: 20px; margin-bottom: 10px; display: inline-block; text-align: center; font-style: italic;" href="https://go.gov.sg/freshforlonger-workshop">Sign Up Now</a>
+              </div>
+            </td>
+          </tr>
+
+
+
+      </tbody></table>
+      
+
+
+      </div>
+
+      </div>
+
+      </div>
+</div>
+
+
 
 
 <div style="background: #FFFFFF; padding: 20px 0px; margin-bottom: 10px; display: inline-block;" class="w-100 rounded20">
@@ -685,13 +826,20 @@ Here's what you need to do:</p>
           </tr>
 
           <tr style="color: #000000; background: #FFFFFF; border-bottom: 1px solid #d6d6d6;">
-            <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px;">Nee Soon East CC, 1 Yishun Ave 9<br> 
-      Ulu Pandan CC, xx</td>
+            <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px;">Yew Tee CC, 20 Choa Chu Kang St 62</td>
 
             <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px; text-align: center;">26 May 2026 (Tue)</td>
 
             <td style="border-bottom: 1px solid #d6d6d6; padding: 10px 5px; text-align: center;">11am - 4pm</td>
-            
+          </tr>
+
+          <tr style="color: #000000; background: #FFFFFF; border-bottom: 1px solid #d6d6d6;">
+            <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px;">Nee Soon East CC, 1 Yishun Ave 9<br> 
+Ulu Pandan CC, 170 Ghim Moh Rd</td>
+
+            <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px; text-align: center;">28 May 2026 (Thu)</td>
+
+            <td style="border-bottom: 1px solid #d6d6d6; padding: 10px 5px; text-align: center;">11am - 4pm</td>
           </tr>
 
       </tbody></table>
@@ -709,8 +857,7 @@ Here's what you need to do:</p>
       </div>
 
       </div>
-
-      </div>
+</div>
     
 
       </div>
@@ -725,7 +872,7 @@ Here's what you need to do:</p>
     </div>
 
   </div>
-</div>
+
 
 
 <div class="col-12" style="max-width: 100%; padding: 30px 0px 40px; display: block;">
