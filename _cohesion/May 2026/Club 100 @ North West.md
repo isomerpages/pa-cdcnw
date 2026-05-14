@@ -57,7 +57,7 @@ object-fit: cover;
 
 .tiktok-embed {margin: 0px auto !important;}
 
-.paragraph-article {font-size: 16px; line-height: 24px !important; text-align: justify; margin: 10px 0px !important;}
+.paragraph-article {font-size: 16px; line-height: 26px; text-align: justify; margin: 10px 0px !important;}
 
 .soc-icon {padding: 0px 7px; max-width: 47px; width: 100%;}
 
@@ -419,29 +419,39 @@ object-fit: cover;
   border-radius: 20px;
 }
 
-
+/** LIGHTBOX MARKUP **/
 
 .lightbox {
+  /* Default to hidden */
   display: none;
+
+  /* Overlay entire screen */
   position: fixed;
   z-index: 999;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
+  
+  /* A bit of padding around image */
   padding: 1em;
+
+  /* Translucent background */
   background: rgba(0, 0, 0, 0.8);
 }
 
-
+/* Unhide the lightbox when it's the target */
 .lightbox:target {
   display: block;
 }
 
 .lightbox span {
+  /* Full width and height */
   display: block;
   width: 100%;
   height: 100%;
+
+  /* Size and position background image */
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -562,7 +572,7 @@ object-fit: cover;
 
 
 <div style="width: 100%;">
-  <img style="width: 100%; max-width:" src="/images/Cohesion/May%202026/paying_it_forward_03.jpg">
+  <img style="width: 100%; max-width:" src="/images/Cohesion/May%202026/paying_it_forward_03b.jpg">
 </div>
 
 <div style="width: 100%; padding: 30px 0px;">
@@ -590,16 +600,18 @@ object-fit: cover;
   <div class="w-100">
     <p style="font-size: 16px; line-height: 26px; padding: 10px 5px 0px; margin: 0px 0px;">
       Give a little each month and help change lives in a lasting way. Your donation will help to support a range of programmes designed to help those in need in the North West.</p>
-    <p style="font-size: 16px; line-height: 24px; padding: 10px 5px 0px; margin: 0px 0px;"><span style="font-weight: bold;">Here's how you can donate:</span>
+    <p style="font-size: 16px; line-height: 26px; padding: 10px 5px 0px; margin: 0px 0px;"><span style="font-weight: bold;">Here's how you can donate:</span>
 
-  </p><ul style="padding: 0px 0px; margin: 0px 20px;">
-        <li style="padding-bottom: 15px; font-size: 16px; line-height: 24px; padding: 0px 0px; margin: 0px;">By credit card: <a style="font-weight: bold; color: #D5262B;" target="_new" href="https://go.gov.sg/nw-c100digital">click here</a> to donate</li>
+      </p><ul>
+        <li style="padding-bottom: 15px;">By credit card: <a style="font-weight: bold; color: #D5262B;" target="_new" href="https://go.gov.sg/nw-c100digital">click here</a> to donate</li>
 
-<li style="padding-bottom: 15px; font-size: 16px; line-height: 24px; padding: 0px 0px; margin: 0px;">By Bank Giro: Download this <a style="font-weight: bold; color: #D5262B;" target="_new" href="https://northwest.cdc.gov.sg/files/NWCDC_C100_Donation_Form.pdf">form</a> and mail the completed printed copy to: North West CDC, 
+<li style="padding-bottom: 0px;">By Bank Giro: Download this <a style="font-weight: bold; color: #D5262B;" target="_new" href="https://northwest.cdc.gov.sg/files/NWCDC_C100_Donation_Form.pdf">form</a> and mail the completed printed copy to: North West CDC, 
 900 South Woodlands Drive #06-01, Woodlands Civic Centre Singapore 730900</li>
       </ul>
       <p></p>
     <p></p>
+
+    <br>
   </div>
 
   <div class="rounded20" style="max-width: 100%; background: #FDFDFE; padding: 10px 20px;">
@@ -614,6 +626,9 @@ object-fit: cover;
     </p>
   </div>
 </div>
+
+
+
 
 
 <div style="padding: 20px 0px 0px; display: flex;" class="col-">&nbsp;</div>
@@ -657,3 +672,5 @@ object-fit: cover;
 </article>
 
 
+
+        
