@@ -5,7 +5,10 @@ description: ""
 third_nav_title: Healthy
 variant: tiptap
 ---
-<a class="isomer-image-wrapper" href="https://go.gov.sg/hlf2026"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/A1Poster_FA_Pathed_Preview__page_0006.jpg"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HLF_Poster_V2.jpg">
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
