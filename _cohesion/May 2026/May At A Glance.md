@@ -413,7 +413,7 @@ h1, h2, h3, h4, h5, h6, li {
       <em>Check Out the Heritage Walking Trail in Woodlands</em>
     </h2>
 
-    <p style="font-size: 16px; line-height: 22px; text-align: center; max-width: 90%; margin: auto;">Getting fit pays off Walking Trails @ CDC! From markets to mosques to waterfront walks, every step is a trip down memory lane with our North West Hertiage Trail.</p>
+    <p style="font-size: 16px; line-height: 22px; text-align: center; max-width: 90%; margin: auto;">Getting fit pays off with Walking Trails @ CDC! From markets to mosques to waterfront walks, every step is a trip down memory lane with our North West Heritage Trail.</p>
 
     <div style="max-width: 100%; text-align: center; padding: 10px 15px 15px;"><a style="background: #F96B8D; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; display: inline-block; text-align: center; font-weight: bold;" href="https://northwest.cdc.gov.sg/cohesion/may-2026/nw-wt"><em>Explore The Trail</em></a></div>
   </div>
@@ -574,7 +574,7 @@ Dr&nbsp;Daisy Wee and what drives her to give.</p>
         </div>
         <div style="padding: 0px 25px;">
           <ul style="padding: 0px 0px; margin: 0px 15px;">
-            <li style="font-size: 16px; line-height: 20px; padding: 0px 0px 10px; margin: 0px; font-weight: bold;">Bond with your family: join the parent-child FAM-FIT 4 telematch and enjoy the carnival&nbsp;games </li> 
+            <li style="font-size: 16px; line-height: 20px; padding: 0px 0px 10px; margin: 0px; font-weight: bold;">Bond with your family: join the parent-child NW FIT-FAM 4 Telematch and enjoy the carnival&nbsp;games </li> 
 
             <li style="font-size: 16px; line-height: 20px; padding: 0px 0px 10px; margin: 0px; font-weight: bold;">Take on functional fitness challenges: push yourself with farmer's carry, rowing, wall ball and&nbsp;more</li>
 
