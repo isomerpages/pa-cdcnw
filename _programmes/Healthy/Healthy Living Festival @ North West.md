@@ -117,8 +117,7 @@ Register <a href="https://go.gov.sg/hlfbasketball" rel="noopener nofollow" targe
 Register <a href="https://go.gov.sg/hlfbadminton" rel="noopener nofollow" target="_blank">HERE</a>
 <br>🏆 <a href="/files/Ah_Boy___Ah_Girl_Dash.pdf" rel="noopener noreferrer nofollow" target="_blank">Ah Boy &amp; Ah Girl Dash</a> -
 Register <a href="https://go.gov.sg/hlf-dash" rel="noopener nofollow" target="_blank">HERE</a>
-<br>🏆 <a href="/files/NW_Fit_Fam_4.pdf" rel="noopener noreferrer nofollow" target="_blank">NW FIT-FAM 4 Com</a>
-<a href="/files/NW_FIT_FAM_4.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/NW_Fit_Fam_4.pdf" rel="noopener noreferrer nofollow" target="_blank">petition</a> -
+<br>🏆 <a href="/files/NW_FIT_FAM_4.pdf" rel="noopener noreferrer nofollow" target="_blank">NW FIT-FAM 4 Competition</a> -
 Register <a href="https://go.gov.sg/hlf-fitfam4" rel="noopener nofollow" target="_blank">HERE</a>
 </p>
 <h4><strong>★ Win Prizes in our Social Media Giveaway ★</strong>&nbsp;</h4>
