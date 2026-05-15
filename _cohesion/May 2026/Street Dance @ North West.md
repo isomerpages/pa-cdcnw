@@ -530,7 +530,9 @@ A high-energy showdown packed with jaw-dropping moves!</p>
 </div>
 
 <div class="" style="max-width: 100%; padding: 0px 0px; background: #53031C;">
-<blockquote style="max-width: 605px;min-width: 325px;" data-video-id="7616570108760083719" cite="https://www.tiktok.com/@ournorthwest/video/7616570108760083719" class="tiktok-embed"> <section> <a href="https://www.tiktok.com/@ournorthwest?refer=embed" title="@ournorthwest" target="_blank">@ournorthwest</a> 💃 Street Dance at North West Online Challenge 🕺 Team Awesome Five 🔥 @random_kid_here.e @adoremiiya @darlinggghai @kaiwing3 @not.waddle Dancing to Gameboy by KATSEYE 🎮 ❤️ Like this video to vote! 📌 Voting ends 23 March, 10am <a href="https://www.tiktok.com/tag/healthy?refer=embed" target="_blank" title="healthy">#Healthy</a> <a href="https://www.tiktok.com/tag/ournorthwest?refer=embed" target="_blank" title="ournorthwest">#OurNorthWest</a> <a href="https://www.tiktok.com/tag/streetdanceatnorthwestonlinechallenge?refer=embed" target="_blank" title="streetdanceatnorthwestonlinechallenge">#StreetDanceAtNorthWestOnlineChallenge</a> <a href="https://www.tiktok.com/music/original-sound-ournorthwest-7616570157133220628?refer=embed" title="♬ original sound  - ournorthwest" target="_blank">♬ original sound  - ournorthwest</a> </section> </blockquote> 
+  <a target="_new" href="https://www.tiktok.com/@ournorthwest/video/7616570108760083719">
+  <img style="width: 100%;" class="" src="/images/Cohesion/May%202026/team_awesome_02.jpg">
+  </a>
 </div>
 
 <div class="" style="max-width: 100%; padding: 0px 0px 15px;">
@@ -613,5 +615,3 @@ border-bottom-left-radius: 20px;">
 
 
 </article>
-
-
