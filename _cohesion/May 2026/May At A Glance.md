@@ -663,7 +663,7 @@ Here's what you need to do:</p>
             <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px;">
 
                 <p style="font-size: 13px; font-weight: bolder; line-height: 13px; padding: 2px 0px; margin: 0px;">27 June 2026 / 9.30am to 10.30am</p>
-                <p style="font-size: 16px; font-weight: bolder; line-height: 18px; padding: 5px 0px; margin: 0px;">Plant-Based Cooking Workshop</p>
+                <p style="font-size: 16px; font-weight: bolder; line-height: 18px; padding: 5px 0px; margin: 0px;">Plant-Based Cooking Demo</p>
                 <p style="font-size: 13px; line-height: 13px; padding: 2px 0px 5px; margin: 0px;">Discover reimagined recipes using wholesome plant-based ingredients, featuring:
                 <br><br>
                 • Kerabu Mangga<br>
@@ -684,7 +684,7 @@ Here's what you need to do:</p>
             <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px;">
 
                 <p style="font-size: 13px; font-weight: bolder; line-height: 13px; padding: 2px 0px; margin: 0px;">27 June 2026 / 10.30am to 11.30am</p>
-                <p style="font-size: 16px; font-weight: bolder; line-height: 18px; padding: 5px 0px; margin: 0px;">Plant-Based Cooking Workshop</p>
+                <p style="font-size: 16px; font-weight: bolder; line-height: 18px; padding: 5px 0px; margin: 0px;">Plant-Based Cooking Demo</p>
                 <p style="font-size: 13px; line-height: 13px; padding: 2px 0px 5px; margin: 0px;">See how healthy cooking can be made accessible and delicious, featuring:
                 <br><br>
                 • Mushroom Salad<br>
@@ -708,7 +708,7 @@ Here's what you need to do:</p>
                 <p style="font-size: 13px; font-weight: bolder; line-height: 13px; padding: 2px 0px; margin: 0px;">28 June 2026 / 9:30am to 11am</p>
                 <p style="font-size: 16px; font-weight: bolder; line-height: 18px; padding: 5px 0px; margin: 0px;">Grow Lah! Workshop</p>
                 <p style="font-size: 13px; line-height: 13px; padding: 2px 0px 5px; margin: 0px;">Learn how to grow nutrition-packed greens in your home.<br><br>
-                by GreenUp
+                by Green Up Singapore
                 </p>
             </td>
 
@@ -724,8 +724,9 @@ Here's what you need to do:</p>
             <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px;">
 
                 <p style="font-size: 13px; font-weight: bolder; line-height: 13px; padding: 2px 0px; margin: 0px;">28 June 2026 / 11:30am to 12:30pm</p>
-                <p style="font-size: 16px; font-weight: bolder; line-height: 18px; padding: 5px 0px; margin: 0px;">Cooking Demonstration by Chef Benson Tong</p>
-                <p style="font-size: 13px; line-height: 13px; padding: 2px 0px 5px; margin: 0px;">Discover the art of simple healthy meal prep.
+                <p style="font-size: 16px; font-weight: bolder; line-height: 18px; padding: 5px 0px; margin: 0px;">Cooking Demo by Chef Benson Tong</p>
+                <p style="font-size: 13px; line-height: 13px; padding: 2px 0px 5px; margin: 0px;">Discover the art of simple healthy meal prep.<br><br>
+                  by Yu Taie
                 </p>
             </td>
 
@@ -741,7 +742,9 @@ Here's what you need to do:</p>
 
                 <p style="font-size: 13px; font-weight: bolder; line-height: 13px; padding: 2px 0px; margin: 0px;">28 June 2026 / 1pm to 2pm</p>
                 <p style="font-size: 16px; font-weight: bolder; line-height: 18px; padding: 5px 0px; margin: 0px;">Fresh for Longer Workshop</p>
-                <p style="font-size: 13px; line-height: 13px; padding: 2px 0px 5px; margin: 0px;">Discover the art of simple healthy meal prep.
+                <p style="font-size: 13px; line-height: 13px; padding: 2px 0px 5px; margin: 0px;">Explore simple and practical tips to extend the shelf life of fruits and vegetables.
+                  <br><br>
+                  by Yu Taie
                 </p>
             </td>
 
@@ -763,10 +766,6 @@ Here's what you need to do:</p>
       </div>
 
       </div>
-</div>
-
-
-
 
 <div style="background: #FFFFFF; padding: 20px 0px; margin-bottom: 10px; display: inline-block;" class="w-100 rounded20">
 
@@ -822,7 +821,6 @@ Here's what you need to do:</p>
             <td style="border-right: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; padding: 10px 10px; text-align: center;">21 May 2026 (Thu)</td>
 
             <td style="border-bottom: 1px solid #d6d6d6; padding: 10px 5px; text-align: center;">11am - 4pm</td>
-            
           </tr>
 
           <tr style="color: #000000; background: #FFFFFF; border-bottom: 1px solid #d6d6d6;">
@@ -857,6 +855,9 @@ Ulu Pandan CC, 170 Ghim Moh Rd</td>
       </div>
 
       </div>
+</div>
+
+
 </div>
     
 
