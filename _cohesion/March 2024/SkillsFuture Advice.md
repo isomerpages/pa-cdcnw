@@ -5,13 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: March 2024
 ---
-
-
-
-
-
-
-
 <style>
 
 p {
@@ -550,7 +543,7 @@ Singapore and e21</p>
       </p> 
 
       <p style="font-size: 16px; text-align: left; line-height: 24px; color: #000; margin: 10px 0px 0px;">Are you planning to upgrade your skills, polish your resume or check out job opportunities?
-Check out the April Career Fairs <a style="font-weight: bold; color: #1F4D7F;" target="_new" href="https://www.e2i.com.sg/events/month/2024-04/">here</a>.
+
       </p> 
   </div>
 </div>
@@ -600,5 +593,3 @@ Check out the April Career Fairs <a style="font-weight: bold; color: #1F4D7F;" t
 
 
 </article>
-
-
