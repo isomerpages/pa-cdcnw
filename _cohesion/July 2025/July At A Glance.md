@@ -607,10 +607,10 @@ Venue: Northpoint City, South Atrium</i></span>
 
           <p style="font-size: 16px; line-height: 20px; padding: 12px 0px; margin: 0px;">For over 65 years, People's Association has walked alongside fellow Singaporeans to build a multi-racial and multi-cultural community and remains committed to this cause. Explore racial harmony-related programmes organised by grassroots organisations this July <a style="color: #FE5D1F; text-decoration: underline;" href="https://www.pa.gov.sg/our-programmes/racial-harmony/racial-harmony-day/"><i>here</i></a>.</p>
 
-          <p style="font-size: 14px; line-height: 20px; padding: 12px 0px; margin: 0px; font-style: italic;">Image Source: <a style="color: #FE5D1F; text-decoration: underline;" href="https://www.sg60.gov.sg/chingay-2025/">https://www.sg60.gov.sg/chingay-2025/</a></p>
+          <p style="font-size: 14px; line-height: 20px; padding: 12px 0px; margin: 0px; font-style: italic;">Image Source: Chingay 2025
 
 
-        </div>
+        </p></div>
       </div>
       </div>
       </div>
