@@ -3,6 +3,7 @@ title: "SkillsFuture Advice: Ace Your Job Search"
 permalink: /cohesion/may-2023/sfa-jobseekers/
 description: ""
 third_nav_title: May 2023
+variant: markdown
 ---
 <style>
 
@@ -431,8 +432,8 @@ border-bottom-left-radius: 25px;" class="" src="https://northwest.cdc.gov.sg/ima
         <p style="font-size: 20px; font-weight: bold; text-align: left; color: #283F94; margin: 0px 0px;"><strong>About SkillsFuture Advice @ North West</strong></p> 
         <p style="font-size: 16px; text-align: left; line-height: 24px; color: #000; margin: 10px 0px;">Part of a SkillsFuture initiative, SkillsFuture Advice @ North West works with SkillsFuture Singapore (SSG) and the Employment and Employability Institute (e2i) to help residents with their career planning and to encourage lifelong learning. <a style="font-weight: bold; color: #283F94;" target="_new" href="https://northwest.cdc.gov.sg/programmes/uplifting-the-community/sfa-northwest/">Find out more here</a>.</p>
         <p style="font-size: 20px; font-weight: bold; text-align: left; color: #283F94; margin: 15px 0px 0px;"><strong>Save the date!</strong></p> 
-        <p style="font-size: 16px; text-align: left; line-height: 24px; color: #000; margin: 10px 0px;">The next e2i Career Fair @ Kampung Admiralty Community Plaza will take place on 26 May 2023. Explore the many vacancies for both PMETs and non-PMETs.  <a style="font-weight: bold; color: #283F94;" target="_new" href="https://www.e2i.com.sg/events/2023-05/">Register now</a>.</p>
-        <p style="font-size: 20px; font-weight: bold; text-align: left; color: #283F94; margin: 15px 0px 0px;"><strong>Unlock your career potential</strong></p> 
+        <p style="font-size: 16px; text-align: left; line-height: 24px; color: #000; margin: 10px 0px;">The next e2i Career Fair @ Kampung Admiralty Community Plaza will take place on 26 May 2023. Explore the many vacancies for both PMETs and non-PMETs.
+        </p><p style="font-size: 20px; font-weight: bold; text-align: left; color: #283F94; margin: 15px 0px 0px;"><strong>Unlock your career potential</strong></p> 
         <p style="font-size: 16px; text-align: left; line-height: 24px; color: #000; margin: 10px 0px;">Take the self-assessment <a style="font-weight: bold; color: #283F94;" target="_new" href="https://www.myskillsfuture.gov.sg/content/portal/en/assessment/landing.html">RIASEC Profiling Tool</a> to better understand your personality, strengths and work values so you can identify suitable career options for yourself.  </p>
   </div>
 </div>
