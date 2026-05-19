@@ -588,10 +588,8 @@ Your photo could be featured on our Photo Wall at the Healthy Living Festival! <
           <p style="font-size: 16px; line-height: 20px; padding: 12px 0px; margin: 0px;">Kopi and teh lovers, get your daily fix for less! Over 140 coffeeshop outlets islandwide will offer discounted drinks and meals as part of a special SG60 deal. Kopi at just 60 cents? That's too good to miss! Pop by your nearest kopitiam to savour those savings!</p>
 
 
-          <div style="max-width: 100%; text-align: left; padding: 10px 0px 0px;">
-            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic; font-weight: bold; margin-right: 8px; margin-bottom: 10px; display: inline-block; text-align: center;" target="_new" href="https://www.sg60.gov.sg/coffeeshop-discounts/">
-              <em>Check Out The Promos</em>
-            </a>
+          
+            
           </div>
 
         </div>
@@ -644,7 +642,7 @@ Learn new skills, get new jobs. Just walk in!</p>
     </div>
 
   </div>
-</div>
+
 
 
 <div class="col-12" style="max-width: 100%; padding: 30px 0px 40px; display: block;">
@@ -707,7 +705,3 @@ Learn new skills, get new jobs. Just walk in!</p>
 </div>
 
 </div>
-
-
-
-
