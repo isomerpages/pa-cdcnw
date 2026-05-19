@@ -30,8 +30,7 @@ career guidance resources, AI resume building assistance, as well as to
 schedule one-on-one sessions with experienced career coaches for personalised
 guidance, and Skills Ambassadors to receive recommendations for skills
 upgrading courses to enhance employability. Start your job search at
-<a href="https://event.e2i.com.sg/view-event/jobsanywhere" rel="noopener nofollow" target="_blank"><u>go.gov.sg/jobsanywhere</u>
-</a>!</p>
+<a href="https://go.gov.sg/jobsnearby-northwest" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jobsnearby-northwest</a>!</p>
 <p>For other enquiries, kindly contact:</p>
 <ul data-tight="true" class="tight">
 <li>
