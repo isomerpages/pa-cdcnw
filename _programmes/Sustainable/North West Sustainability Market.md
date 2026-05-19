@@ -69,6 +69,11 @@ will be given out to the community!&nbsp;</p>
 <p>There are activities for everyone, so bring your family along! Admission
 to the North West Sustainability Market is free.&nbsp;</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/27_June_2026___Saturday__Day_1___297_x_210_mm_.jpg">
+</div>
+<p></p>
 <p><strong>Workshops and Cooking Demonstrations</strong> &nbsp;</p>
 <p>We have various workshops and cooking demonstrations happening across
 the two-day market for you, your friends, and families to take part in! &nbsp;</p>
