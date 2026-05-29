@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Caring/Ready Meals @ North West.md
       - Caring/.keep
       - Caring/CDC Vouchers Scheme.md
       - Caring/Club 100 @ North West.md
@@ -17,6 +16,7 @@ collections:
       - Caring/North West Utilities Assistance Scheme.md
       - Caring/North West WeCare Fund.md
       - Caring/Project Sama Sama @ North West.md
+      - Caring/Ready Meals @ North West.md
       - Caring/WeCare Arts @ North West.md
       - Caring/WeCare Arts Experience @ North West.md
       - Healthy/.keep
