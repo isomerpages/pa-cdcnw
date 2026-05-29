@@ -6,8 +6,14 @@ third_nav_title: Healthy
 variant: tiptap
 ---
 <p></p>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HLF_2026___Main_Poster_V3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updated_HLF_Poster_v5.png">
 </div>
 <table style="minWidth: 75px">
 <colgroup>
