@@ -501,7 +501,8 @@ A high-energy showdown packed with jaw-dropping moves!</p>
 <a id="ks" class="lightbox" href="#">
   <span>
     <div style="display: flex; text-align: center;" class="rounded20">
-      <iframe style="margin: auto;" width="320" height="569" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/KLprQp99IlE" class="rounded20"></iframe>
+      <iframe style="margin: auto;" width="320" height="569" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JvoiWedjuJc" class="rounded20"></iframe>
+      
     </div>
   </span>
 </a>
@@ -516,7 +517,7 @@ A high-energy showdown packed with jaw-dropping moves!</p>
 <a id="kwak" class="lightbox" href="#">
   <span>
     <div style="display: flex; text-align: center;" class="rounded20">
-      <iframe style="margin: auto;" width="320" height="569" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JvoiWedjuJc" class="rounded20"></iframe>
+      <iframe style="margin: auto;" width="320" height="569" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/KLprQp99IlE" class="rounded20"></iframe>
     </div>
   </span>
 </a>
@@ -615,3 +616,5 @@ border-bottom-left-radius: 20px;">
 
 
 </article>
+
+
