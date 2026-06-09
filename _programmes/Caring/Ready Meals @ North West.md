@@ -93,7 +93,7 @@ a Caring and Healthy North West.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>162 Yishun Street 11, Singapore 76016</p>
+<p>Blk 162 Yishun Street 11, Singapore 760162</p>
 </td>
 </tr>
 <tr>
@@ -141,7 +141,7 @@ a Caring and Healthy North West.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>269B, Yishun Street 22, Singapore 761269</p>
+<p>Blk 269B, Yishun Street 22, Singapore 761269</p>
 </td>
 </tr>
 <tr>
@@ -153,7 +153,7 @@ a Caring and Healthy North West.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>440, Yishun Ave 11, Singapore 760440</p>
+<p>Blk 440, Yishun Ave 11, Singapore 760440</p>
 </td>
 </tr>
 <tr>
@@ -165,7 +165,7 @@ a Caring and Healthy North West.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>512A, Yishun Street 51, Singapore 761512</p>
+<p>Blk 512A, Yishun Street 51, Singapore 761512</p>
 </td>
 </tr>
 <tr>
