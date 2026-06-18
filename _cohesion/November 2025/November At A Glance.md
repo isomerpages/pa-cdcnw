@@ -705,19 +705,6 @@ Venue: Amphitheatre beside Chong Pang hawker centre
 </i></span>
 
           <p style="font-size: 16px; line-height: 22px; padding: 12px 0px; margin: 0px;">Ancient rhythms meet contemporary beats in this dynamic musical performance which tells the story of Singapore's shared heritage through the power of drums from Chinese, Indian, Malay, Middle Eastern and Latin Folk traditions. Don't forget to check out the fringe activities where you can try playing different percussion instruments at the Rhythm Booths and join the Ethnic Drum Circle to create music together.</p>
-
-                    <div style="max-width: 100%; text-align: left; padding: 15px 0px 0px;">
-            <a target="_new" href="style=">
-              Register Your Interest
-            </a>
-          </div>
-          
-        </div>
-      </div>
-      </div>
-
-      <div style="max-width: 100%;text-align: left;padding: 10px 14px 0px;height: 10px;display: inline;">
-        <div style="border-bottom: thin solid #D3D3D3;height: 1px;margin: 0px 15px;padding: 0px 30px;"></div>
       </div>
 
       <div style="padding: 0px 15px 5px;" class="col-12 w-100">
@@ -844,7 +831,7 @@ Hint: Find the answers in past issues of our Cohesion e-newsletters! </p>
 </div>
 
 
-</article>
+</div></div></article>
 
 <div style="display: inline-block; width: 100%;">
 
