@@ -726,7 +726,7 @@ Venue: Hardcourt beside Sun Plaza  </i></span>
           <p style="font-size: 16px; line-height: 22px; padding: 12px 0px; margin: 0px;">Don't miss this uniquely Singaporean showcase where traditional instruments from different cultures blend in harmony while dancers from different ethnic communities unite to bring the music to life with graceful movements. Plus, get up close and personal with various instruments like the Dizi, Bansuri, Mridangam, Accordion and Chinese Drums during the fringe activities.</p>
 
                     <div style="max-width: 100%; text-align: left; padding: 15px 0px 0px;">
-            <a target="_new" style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: 15px; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 120px; font-style: italic; font-weight: bold; margin-right: 8px; margin-bottom: 10px; display: inline-block; text-align: center; font-style: italic;" href="https://form.gov.sg/66cd5073725169f909275a33">
+            <a target="_new" style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: 15px; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 120px; font-style: italic; font-weight: bold; margin-right: 8px; margin-bottom: 10px; display: inline-block; text-align: center; font-style: italic;" href="">
               Register Your Interest
             </a>
           </div>
