@@ -21,9 +21,8 @@ career guidance between jobseekers and potential employers. <strong>Each Communi
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJC_June_2026.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJC_Calendar_July_2026.jpg">
 </div>
-<p></p>
 <p>Another resource available is a one-stop portal that helps residents find
 flexible work arrangements and jobs closer to home. The portal provides
 career guidance resources, AI resume building assistance, as well as to
