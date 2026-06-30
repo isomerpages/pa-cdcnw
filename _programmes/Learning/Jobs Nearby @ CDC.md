@@ -19,10 +19,10 @@ Job Ambassadors to discover available roles near you, and personalised
 career guidance between jobseekers and potential employers. <strong>Each Community Job Clinics session happens between 11am to 4pm, register your interest at <a href="http://go.gov.sg/nw-jobclinics" rel="noopener nofollow" target="_blank">go.gov.sg/nw-jobclinics</a>.</strong>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJC_Calendar_July_2026_Updated.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJC_Calendar_July_2026_V3.jpg">
+</div>
 <p>Another resource available is a one-stop portal that helps residents find
 flexible work arrangements and jobs closer to home. The portal provides
 career guidance resources, AI resume building assistance, as well as to
@@ -40,6 +40,5 @@ upgrading courses to enhance employability. Start your job search at
 </p>
 </li>
 </ul>
-<p></p>
 <p></p>
 <p></p>
