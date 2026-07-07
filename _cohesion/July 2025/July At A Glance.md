@@ -605,9 +605,9 @@ Venue: Northpoint City, South Atrium</i></span>
           <h2 style="color: #FE5D1F; font-weight: bolder; font-size: 20px;line-height: initial;font-style: italic; margin: 0px;"><i>Let’s Celebrate Singapore’s Cultural Diversity</i></h2>
 
 
-          <p style="font-size: 16px; line-height: 20px; padding: 12px 0px; margin: 0px;">For over 65 years, People's Association has walked alongside fellow Singaporeans to build a multi-racial and multi-cultural community and remains committed to this cause. Explore racial harmony-related programmes organised by grassroots organisations this July <a style="color: #FE5D1F; text-decoration: underline;" href="https://www.pa.gov.sg/our-programmes/racial-harmony/racial-harmony-day/"><i>here</i></a>.</p>
+          <p style="font-size: 16px; line-height: 20px; padding: 12px 0px; margin: 0px;">For over 65 years, People's Association has walked alongside fellow Singaporeans to build a multi-racial and multi-cultural community and remains committed to this cause. Explore racial harmony-related programmes organised by grassroots organisations this July. 
 
-          <p style="font-size: 14px; line-height: 20px; padding: 12px 0px; margin: 0px; font-style: italic;">Image Source: Chingay 2025
+          </p><p style="font-size: 14px; line-height: 20px; padding: 12px 0px; margin: 0px; font-style: italic;">Image Source: Chingay 2025
 
 
         </p></div>
