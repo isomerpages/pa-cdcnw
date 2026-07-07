@@ -449,7 +449,6 @@ border-bottom-left-radius: 20px;">
 Trainer: Fei Yu Community Services <br>
 Duration: 15 hours
 <br><br>
-<a style="color: #000000;" href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2021008261">Learn more</a>
 </p>
 </div>
 
@@ -460,7 +459,7 @@ Duration: 15 hours
 Trainer: Fei Yu Community Services <br>
 Duration: 4 hours
 <br><br>
-<a style="color: #000000;" href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2021008182">Learn more</a>
+
 </p>
 </div>
 
@@ -472,7 +471,7 @@ Duration: 4 hours
 Trainer: Tsao Foundation <br>
 Duration: 8 hours
 <br><br>
-<a style="color: #000000;" href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2018507665">Learn more</a>
+
 </p>
 </div>
 
@@ -496,7 +495,7 @@ border-bottom-left-radius: 20px;">
 Trainer: Singapore Polytechnic  <br>
 Duration: 16 hours
 <br><br>
-<a style="color: #000000;" href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023021531">Learn more</a>
+
 </p>
 </div>
 
@@ -507,7 +506,7 @@ Duration: 16 hours
 Trainer: Institute of Technical Education <br>
 Duration: 21 hours
 <br><br>
-<a style="color: #000000;" href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2022014716">Learn more</a>
+
 </p>
 </div>
 
@@ -519,7 +518,7 @@ Duration: 21 hours
 Trainer: Ngee Ann Polytechnic <br>
 Duration: 7 hours
 <br><br>
-<a style="color: #000000;" href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2018508084">Learn more</a>
+
 </p>
 </div>
 
@@ -543,7 +542,7 @@ border-bottom-left-radius: 20px;">
 Trainer: Singapore Training &amp; Development Association <br>
 Duration: 8 hours
 <br><br>
-<a style="color: #000000;" href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023020140">Learn more</a>
+
 </p>
 </div>
 
@@ -555,7 +554,7 @@ Duration: 8 hours
 Trainer: Tsao Foundation  <br>
 Duration: 8 hours
 <br><br>
-<a style="color: #000000;" href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2020508245">Learn more</a>
+
 </p>
 </div>
 
@@ -567,7 +566,7 @@ Duration: 8 hours
 Trainer: Fei Yue Community Services  <br>
 Duration: 18 hours
 <br><br>
-<a style="color: #000000;" href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2020508384">Learn more</a>
+
 </p>
 </div>
 
@@ -591,7 +590,7 @@ border-bottom-left-radius: 20px;">
 Trainer: LearnCollab Pte Ltd <br>
 Duration: 16 hours
 <br><br>
-<a style="color: #000000;" href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2022013854">Learn more</a>
+
 </p>
 </div>
 
@@ -603,7 +602,7 @@ Duration: 16 hours
 Trainer: NTUC LearningHub Pte Ltd<br>
 Duration: 7 hours
 <br><br>
-<a style="color: #000000;" href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023018462">Learn more</a>
+
 </p>
 </div>
 
@@ -615,7 +614,7 @@ Duration: 7 hours
 Trainer: SeraphCorp Institute Pte Ltd <br>
 Duration: 14 hours
 <br><br>
-<a style="color: #000000;" href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023019273">Learn more</a>
+
 </p>
 </div>
 
@@ -640,7 +639,7 @@ border-bottom-left-radius: 20px;">
 Trainer: Simple IT <br>
 Duration: 3 hours
 <br><br>
-<a style="color: #000000;" href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023020242">Learn more</a>
+
 </p>
 </div>
 
@@ -652,7 +651,7 @@ Duration: 3 hours
 Trainer: Republic Polytechnic <br>
 Duration: 8 hours
 <br><br>
-<a style="color: #000000;" href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2019508683">Learn more</a>
+
 </p>
 </div>
 
@@ -664,7 +663,7 @@ Duration: 8 hours
 Trainer: Capelle Consulting Pte Ltd <br>
 Duration: 7 hours
 <br><br>
-<a style="color: #000000;" href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023018870">Learn more</a>
+
 </p>
 </div>
 
